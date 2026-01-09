@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-09T18:15:09.725Z",
+  "timestamp": "2026-01-09T19:11:33.262Z",
   "count": 65,
   "knownCount": 51,
   "discoveredCount": 14,
@@ -12,7 +12,7 @@
       "symbol": "TTII",
       "issuer": "Tidal",
       "etfName": "Tidal Trust II",
-      "filingType": "8-A12B",
+      "filingType": "N-CSR",
       "filingDate": "2026-01-09",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -21,7 +21,7 @@
       "source": "SEC EDGAR",
       "cik": "0001924868",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126000570/tidalii-8a12b_010926.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126000582/xfunds_ncsr-103125.htm"
     },
     {
       "id": "0001722388",
@@ -39,6 +39,23 @@
       "cik": "0001722388",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001722388&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126000557/wild-ncsr_103125.htm"
+    },
+    {
+      "id": "0001771146",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "ETFO",
+      "issuer": "ETF",
+      "etfName": "ETF Opportunities Trust",
+      "filingType": "497",
+      "filingDate": "2026-01-09",
+      "decisionDeadline": "待通过",
+      "status": "denied",
+      "approvalOdds": 50,
+      "notes": "包含: 多种加密货币组合",
+      "source": "SEC EDGAR",
+      "cik": "0001771146",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000032/etfopps-txrex2xsmretfrever.htm"
     },
     {
       "id": "0001683471",
@@ -107,23 +124,6 @@
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026002498/ea0272269-01_485bxt.htm"
-    },
-    {
-      "id": "0001771146",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "ETFO",
-      "issuer": "ETF",
-      "etfName": "ETF Opportunities Trust",
-      "filingType": "N-CSR",
-      "filingDate": "2026-01-08",
-      "decisionDeadline": "待通过",
-      "status": "denied",
-      "approvalOdds": 50,
-      "notes": "包含: 多种加密货币组合",
-      "source": "SEC EDGAR",
-      "cik": "0001771146",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000199937126000506/hedgeye-ncsr_103125.htm"
     },
     {
       "id": "0001329377",
@@ -449,23 +449,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000176132526000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "0001732409",
-      "cryptocurrency": "Bitcoin Cash",
-      "symbol": "BCHG",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Bitcoin Cash Trust (BCH)",
-      "filingType": "D/A",
-      "filingDate": "2026-01-05",
-      "decisionDeadline": "已通过 (交易中)",
-      "status": "approved",
-      "approvalOdds": 100,
-      "notes": "已获SEC批准并开始交易",
-      "source": "SEC EDGAR",
-      "cik": "0001732409",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001732409&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1732409/000173240926000001/xslFormDX01/primary_doc.xml"
-    },
-    {
       "id": "0001705181",
       "cryptocurrency": "Ethereum Classic",
       "symbol": "ETCG",
@@ -498,6 +481,23 @@
       "cik": "0001748945",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001748945&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1748945/000174894526000001/xslFormDX01/primary_doc.xml"
+    },
+    {
+      "id": "0001732409",
+      "cryptocurrency": "Bitcoin Cash",
+      "symbol": "BCHG",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Bitcoin Cash Trust (BCH)",
+      "filingType": "D/A",
+      "filingDate": "2026-01-05",
+      "decisionDeadline": "已通过 (交易中)",
+      "status": "approved",
+      "approvalOdds": 100,
+      "notes": "已获SEC批准并开始交易",
+      "source": "SEC EDGAR",
+      "cik": "0001732409",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001732409&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1732409/000173240926000001/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "0002029297",
