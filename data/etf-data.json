@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-09T19:11:33.262Z",
+  "timestamp": "2026-01-09T20:11:40.491Z",
   "count": 65,
   "knownCount": 51,
   "discoveredCount": 14,
@@ -24,23 +24,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126000582/xfunds_ncsr-103125.htm"
     },
     {
-      "id": "0001722388",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "TTIII",
-      "issuer": "Tidal",
-      "etfName": "Tidal Trust III",
-      "filingType": "N-CSR",
-      "filingDate": "2026-01-09",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 50,
-      "notes": "包含: 多种加密货币组合",
-      "source": "SEC EDGAR",
-      "cik": "0001722388",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001722388&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126000557/wild-ncsr_103125.htm"
-    },
-    {
       "id": "0001771146",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "ETFO",
@@ -58,6 +41,23 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000032/etfopps-txrex2xsmretfrever.htm"
     },
     {
+      "id": "0001722388",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "TTIII",
+      "issuer": "Tidal",
+      "etfName": "Tidal Trust III",
+      "filingType": "8-A12B",
+      "filingDate": "2026-01-09",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 50,
+      "notes": "包含: 多种加密货币组合",
+      "source": "SEC EDGAR",
+      "cik": "0001722388",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001722388&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126000595/vistashares-8a12b_010826.htm"
+    },
+    {
       "id": "0001683471",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "LFT",
@@ -72,7 +72,7 @@
       "source": "SEC EDGAR",
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000199/liftsai497etrustcco_inflbc.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000214/liftsai497etrustcco_txxdtx.htm"
     },
     {
       "id": "0001579982",
@@ -228,6 +228,23 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1859392/000010290926000021/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
+      "id": "0001588489",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "GBTC",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Bitcoin Trust ETF",
+      "filingType": "FWP",
+      "filingDate": "2026-01-06",
+      "decisionDeadline": "已通过 (交易中)",
+      "status": "approved",
+      "approvalOdds": 100,
+      "notes": "已获SEC批准并开始交易",
+      "source": "SEC EDGAR",
+      "cik": "0001588489",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001588489&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000119312526003975/product_suite_1.6.26.htm"
+    },
+    {
       "id": "0002015034",
       "cryptocurrency": "Bitcoin",
       "symbol": "BTC",
@@ -245,11 +262,11 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000119312526003985/product_suite_1.6.26.htm"
     },
     {
-      "id": "0001588489",
-      "cryptocurrency": "Bitcoin",
-      "symbol": "GBTC",
+      "id": "0002020455",
+      "cryptocurrency": "Ethereum",
+      "symbol": "ETH",
       "issuer": "Grayscale",
-      "etfName": "Grayscale Bitcoin Trust ETF",
+      "etfName": "Grayscale Ethereum Staking Mini ETF",
       "filingType": "FWP",
       "filingDate": "2026-01-06",
       "decisionDeadline": "已通过 (交易中)",
@@ -257,9 +274,9 @@
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
       "source": "SEC EDGAR",
-      "cik": "0001588489",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001588489&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000119312526003975/product_suite_1.6.26.htm"
+      "cik": "0002020455",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020455&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526004010/product_suite_1.6.26.htm"
     },
     {
       "id": "0001884021",
@@ -294,23 +311,6 @@
       "cik": "0001725210",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001725210&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1725210/000119312526004029/product_suite_1.6.26.htm"
-    },
-    {
-      "id": "0002020455",
-      "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Ethereum Staking Mini ETF",
-      "filingType": "FWP",
-      "filingDate": "2026-01-06",
-      "decisionDeadline": "已通过 (交易中)",
-      "status": "approved",
-      "approvalOdds": 100,
-      "notes": "已获SEC批准并开始交易",
-      "source": "SEC EDGAR",
-      "cik": "0002020455",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020455&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526004010/product_suite_1.6.26.htm"
     },
     {
       "id": "0002103612",
@@ -432,23 +432,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000203505326000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "0001761325",
-      "cryptocurrency": "Stellar",
-      "symbol": "GXLM",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Stellar Lumens Trust (XLM)",
-      "filingType": "D/A",
-      "filingDate": "2026-01-05",
-      "decisionDeadline": "已通过 (交易中)",
-      "status": "approved",
-      "approvalOdds": 100,
-      "notes": "已获SEC批准并开始交易",
-      "source": "SEC EDGAR",
-      "cik": "0001761325",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761325&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000176132526000001/xslFormDX01/primary_doc.xml"
-    },
-    {
       "id": "0001705181",
       "cryptocurrency": "Ethereum Classic",
       "symbol": "ETCG",
@@ -464,6 +447,23 @@
       "cik": "0001705181",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001705181&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1705181/000170518126000001/xslFormDX01/primary_doc.xml"
+    },
+    {
+      "id": "0001761325",
+      "cryptocurrency": "Stellar",
+      "symbol": "GXLM",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Stellar Lumens Trust (XLM)",
+      "filingType": "D/A",
+      "filingDate": "2026-01-05",
+      "decisionDeadline": "已通过 (交易中)",
+      "status": "approved",
+      "approvalOdds": 100,
+      "notes": "已获SEC批准并开始交易",
+      "source": "SEC EDGAR",
+      "cik": "0001761325",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761325&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000176132526000001/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "0001748945",
