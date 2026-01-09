@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEC 加密货币 ETF 申请追踪器 | Crypto ETF Tracker</title>
+    <meta name="description" content="实时追踪SEC加密货币ETF申请进度与时间表">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <div class="logo-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2L2 7l10 5 10-5-10-5z" />
+                            <path d="M2 17l10 5 10-5" />
+                            <path d="M2 12l10 5 10-5" />
+                        </svg>
+                    </div>
+                    <div class="logo-text">
+                        <h1 id="mainTitle">SEC 加密货币 ETF 追踪器</h1>
+                        <p class="subtitle" id="mainSubtitle">实时监控 SEC 加密货币 ETF 申请进度</p>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <div class="lang-switch-container">
+                        <button id="langToggle" class="lang-btn">EN / 中</button>
+                    </div>
+                    <div class="header-info">
+                        <div class="live-indicator" id="liveStatusContainer">
+                            <span class="pulse"></span>
+                            <span id="liveStatusText">实时更新</span>
+                        </div>
+                        <div class="last-updated">
+                            <span id="lastUpdateLabel">最后更新:</span>
+                            <span id="updateTime">--</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Stats Dashboard -->
+        <section class="stats-section">
+            <div class="stats-grid">
+                <div class="stat-card total">
+                    <div class="stat-icon">📊</div>
+                    <div class="stat-content">
+                        <span class="stat-value" id="totalCount">0</span>
+                        <span class="stat-label" id="labelTotal">总申请数</span>
+                    </div>
+                </div>
+                <div class="stat-card approved">
+                    <div class="stat-icon">✅</div>
+                    <div class="stat-content">
+                        <span class="stat-value" id="approvedCount">0</span>
+                        <span class="stat-label" id="labelApproved">已批准</span>
+                    </div>
+                </div>
+                <div class="stat-card pending">
+                    <div class="stat-icon">⏳</div>
+                    <div class="stat-content">
+                        <span class="stat-value" id="pendingCount">0</span>
+                        <span class="stat-label" id="labelPending">审核中</span>
+                    </div>
+                </div>
+                <div class="stat-card delayed">
+                    <div class="stat-icon">⚠️</div>
+                    <div class="stat-content">
+                        <span class="stat-value" id="delayedCount">0</span>
+                        <span class="stat-label" id="labelDelayed">已延期</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Filters -->
+        <section class="filters-section">
+            <div class="filters-container">
+                <div class="search-box">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8" />
+                        <path d="m21 21-4.35-4.35" />
+                    </svg>
+                    <input type="text" id="searchInput" placeholder="搜索加密货币或发行商...">
+                </div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all" id="btnAll">全部</button>
+                    <button class="filter-btn" data-filter="approved" id="btnApproved">已批准</button>
+                    <button class="filter-btn" data-filter="pending" id="btnPending">审核中</button>
+                    <button class="filter-btn" data-filter="delayed" id="btnDelayed">已延期</button>
+                </div>
+                <div class="crypto-filter">
+                    <select id="cryptoFilter">
+                        <option value="all" id="optAllCrypto">所有加密货币</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Timeline Section -->
+        <section class="timeline-section">
+            <h2 class="section-title">
+                <span class="title-icon">📅</span>
+                <span id="titleTimeline">即将到来的决策时间表</span>
+            </h2>
+            <div class="timeline-container" id="timeline">
+                <!-- Timeline items will be inserted here -->
+            </div>
+        </section>
+
+        <!-- Applications Grid -->
+        <section class="applications-section">
+            <h2 class="section-title">
+                <span class="title-icon">📋</span>
+                <span id="titleApplications">所有 ETF 申请</span>
+            </h2>
+            <div class="applications-grid" id="applicationsGrid">
+                <!-- Application cards will be inserted here -->
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p id="footerSource">数据来源: SEC EDGAR、彭博社、路透社 | 仅供参考，不构成投资建议</p>
+                <p class="copyright" id="footerCopyright">© Rex Liu</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
