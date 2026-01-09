@@ -738,9 +738,9 @@ let API_BASE_URL = window.location.origin;
 if (window.location.protocol === 'file:' ||
     (window.location.hostname === 'localhost' && window.location.port !== '3000') ||
     (window.location.hostname === '127.0.0.1' && window.location.port !== '3000')) {
-    API_BASE_URL = 'http://localhost:3000';
+    API_BASE_URL = window.location.href.substring(0, window.location.href.lastIndexOf('/') + 1);
 }
-const SEC_API_ENDPOINT = `${API_BASE_URL}/api/all-etf-applications`;
+const SEC_API_ENDPOINT = `${API_BASE_URL}data/etf-data.json`;
 
 // Initialize App
 async function init() {
