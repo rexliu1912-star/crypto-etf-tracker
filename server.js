@@ -50,6 +50,9 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0001896677', name: 'Grayscale Solana Trust', symbol: 'GSOL', crypto: 'Solana' },
     { cik: '0002028541', name: 'VanEck Solana ETF', symbol: 'VSOL', crypto: 'Solana' },
     { cik: '0002057388', name: 'Franklin Solana Trust', symbol: 'FSOL', crypto: 'Solana' },
+    // ==================== MORGAN STANLEY CRYPTO ETFs (Filed 2026-01-06) ====================
+    // Note: Only Bitcoin Trust CIK (0002103612) is confirmed. ETH/SOL CIKs pending SEC sync.
+    { cik: '0002103612', name: 'Morgan Stanley Bitcoin Trust', symbol: 'MSBTC', crypto: 'Bitcoin' },
 
     // ==================== XRP ETFs ====================
     { cik: '0002059438', name: 'Franklin XRP Trust', symbol: 'FXRP', crypto: 'XRP' },
@@ -60,6 +63,7 @@ const CRYPTO_ETF_ISSUERS = [
 
     // ==================== DOGECOIN ETFs ====================
     { cik: '0002055510', name: 'Grayscale Dogecoin Trust', symbol: 'GDOG', crypto: 'Dogecoin' },
+    { cik: '0002064314', name: '21Shares Dogecoin ETF', symbol: 'TDOG', crypto: 'Dogecoin' },
 
     // ==================== AVALANCHE ETFs ====================
     { cik: '0002060717', name: 'VanEck Avalanche ETF', symbol: 'VAVAX', crypto: 'Avalanche' },
@@ -101,6 +105,21 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0000880631', name: 'WisdomTree Inc', symbol: 'WT', crypto: 'Multi-Crypto' },
 ];
 
+const MULTI_CRYPTO_CONSTITUENTS = {
+    'Grayscale Digital Large Cap Fund': '包含: BTC, ETH, SOL, XRP, ADA, AVAX',
+    'Hashdex Nasdaq Crypto Index': '包含: BTC, ETH, LTC, BCH, SOL, ADA, LINK, DOT',
+    'Bitwise 10 Crypto Index': '包含: BTC, ETH, SOL, ADA, DOT, AVAX, LINK, LTC, UNI, XLM',
+    'Bitwise Funds Trust': '包含: BTC, ETH, SOL, ADA, DOT, AVAX, LINK, LTC',
+    'Franklin Crypto Trust': '包含: BTC, ETH',
+    'Grayscale Smart Contract Platform': '包含: SOL, ADA, AVAX, DOT, MATIC, ALGO, XLM',
+    'Grayscale Funds Trust': '包含: 多币种组合 (BTC, ETH 等)',
+    'Global X Funds': '包含: 比特币与以太坊策略组合',
+    'Hashdex': '包含: Nasdaq Crypto Index 指数成分币',
+    'Tidal Commodities Trust I': '包含: BTC, ETH 策略组合',
+    '21Shares': '包含: 多币种加密资产组合',
+    'WisdomTree': '包含: 多币种分散配置',
+    'Multi-Crypto': '包含: 多种加密货币组合'
+};
 
 // Helper for rate limited fetching
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
@@ -285,7 +304,7 @@ function processETFData(companyData, issuerInfo) {
         decisionDeadline: calculateDeadline(latestFilingDate, status),
         status: status,
         approvalOdds: approvalOdds,
-        notes: generateNotes(status, latestForm, companyData.name),
+        notes: generateNotes(status, latestForm, companyData.name || issuerInfo.name, issuerInfo.crypto),
         source: 'SEC EDGAR',
         cik: issuerInfo.cik,
         secLink: `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${issuerInfo.cik}&type=&dateb=&owner=include&count=40`,
@@ -329,47 +348,36 @@ function extractIssuerName(fullName) {
  * Calculate estimated decision deadline and status description
  */
 function calculateDeadline(filingDate, status) {
-    if (status === 'approved') return '已批准 (交易中)';
-    if (filingDate === 'N/A') return 'N/A';
-
-    try {
-        const date = new Date(filingDate);
-        const today = new Date();
-        const diffTime = Math.abs(today - date);
-        const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-
-        // SEC decision timeline milestones
-        if (diffDays < 45) return '初期审核 (第1阶段)';
-        if (diffDays < 90) return '延期审核 (第2阶段)';
-        if (diffDays < 240) return '最终审核 (最后阶段)';
-
-        return '已过截止日 (等待裁决)';
-    } catch {
-        return 'N/A';
-    }
+    if (status === 'approved') return '已通过 (交易中)';
+    return '待通过';
 }
 
 /**
  * Generate notes based on filing status
  */
-function generateNotes(status, latestForm, name) {
+function generateNotes(status, latestForm, name, cryptoType) {
+    // For Multi-Crypto, only return constituents
+    if (cryptoType === 'Multi-Crypto') {
+        for (const [key, value] of Object.entries(MULTI_CRYPTO_CONSTITUENTS)) {
+            if (name.includes(key)) {
+                return value;
+            }
+        }
+        return MULTI_CRYPTO_CONSTITUENTS['Multi-Crypto'] || '多币种组合';
+    }
+
+    // For single-crypto ETFs, return status-based note
     if (status === 'approved') {
         return '已获SEC批准并开始交易';
-    }
-
-    if (latestForm === 'S-1/A') {
-        return 'S-1修订文件已提交，等待SEC审核';
-    }
-
-    if (latestForm === 'S-1') {
-        return '注册声明已提交，等待SEC反馈';
-    }
-
-    if (latestForm === 'DRS' || latestForm === 'DRS/A') {
+    } else if (latestForm === 'S-1/A') {
+        return 'S-1修订文件已提交';
+    } else if (latestForm === 'S-1') {
+        return '注册声明已提交';
+    } else if (latestForm === 'DRS' || latestForm === 'DRS/A') {
         return '保密注册声明已提交';
     }
 
-    return '审核进行中';
+    return '审批进行中';
 }
 
 /**
@@ -528,11 +536,24 @@ async function startBackgroundSync() {
 
                             // Estimate crypto type from name
                             let cryptoType = 'Multi-Crypto';
-                            if (name.toLowerCase().includes('bitcoin')) cryptoType = 'Bitcoin';
-                            else if (name.toLowerCase().includes('ethereum')) cryptoType = 'Ethereum';
-                            else if (name.toLowerCase().includes('solana')) cryptoType = 'Solana';
-                            else if (name.toLowerCase().includes('xrp')) cryptoType = 'XRP';
-                            else if (name.toLowerCase().includes('avalanche')) cryptoType = 'Avalanche';
+                            const lowerName = name.toLowerCase();
+                            if (lowerName.includes('bitcoin')) cryptoType = 'Bitcoin';
+                            else if (lowerName.includes('ethereum')) cryptoType = 'Ethereum';
+                            else if (lowerName.includes('solana')) cryptoType = 'Solana';
+                            else if (lowerName.includes('xrp')) cryptoType = 'XRP';
+                            else if (lowerName.includes('avalanche')) cryptoType = 'Avalanche';
+                            else if (lowerName.includes('cardano')) cryptoType = 'Cardano';
+                            else if (lowerName.includes('litecoin')) cryptoType = 'Litecoin';
+                            else if (lowerName.includes('dogecoin')) cryptoType = 'Dogecoin';
+                            else if (lowerName.includes('polkadot')) cryptoType = 'Polkadot';
+                            else if (lowerName.includes('chainlink')) cryptoType = 'Chainlink';
+                            else if (lowerName.includes('stellar')) cryptoType = 'Stellar';
+                            else if (lowerName.includes('bitcoin cash')) cryptoType = 'Bitcoin Cash';
+                            else if (lowerName.includes('hedera')) cryptoType = 'Hedera';
+                            else if (lowerName.includes('near')) cryptoType = 'Near Protocol';
+                            else if (lowerName.includes('uniswap')) cryptoType = 'Uniswap';
+                            else if (lowerName.includes('tron')) cryptoType = 'Tron';
+                            else if (lowerName.includes('aave')) cryptoType = 'Aave';
 
                             discoveredIssuersMap.set(cik, {
                                 cik,
@@ -604,8 +625,9 @@ app.get('/api/all-etf-applications', async (req, res) => {
     const allResults = [...globalETFData.known, ...globalETFData.discovered]
         .filter(r => r && r.status !== 'unknown')
         .sort((a, b) => {
-            const statusOrder = { pending: 0, delayed: 1, approved: 2 };
-            return (statusOrder[a.status] || 2) - (statusOrder[b.status] || 2);
+            const dateA = new Date(a.filingDate || '1970-01-01');
+            const dateB = new Date(b.filingDate || '1970-01-01');
+            return dateB - dateA;
         });
 
     res.json({

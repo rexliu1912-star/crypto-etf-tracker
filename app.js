@@ -5,22 +5,22 @@
 // --- Multi-language Support ---
 const translations = {
     zh: {
-        mainTitle: "SEC 加密货币 ETF 追踪器",
-        mainSubtitle: "实时监控 SEC 加密货币 ETF 申请进度",
+        mainTitle: "加密货币 ETF 追踪",
+        mainSubtitle: "实时监控 SEC 加密货币 ETF 进度",
         liveStatus: "实时更新",
-        secLive: "SEC EDGAR 实时数据",
+        secLive: "SEC EDGAR 实时",
         localCache: "本地缓存数据",
-        lastUpdate: "最后更新:",
+        lastUpdate: "更新时间:",
         labelTotal: "总申请数",
-        labelApproved: "已批准",
-        labelPending: "审核中",
+        labelApproved: "已通过",
+        labelPending: "待通过",
         labelDelayed: "已延期",
         btnAll: "全部",
-        btnApproved: "已批准",
-        btnPending: "审核中",
+        btnApproved: "已通过",
+        btnPending: "待通过",
         btnDelayed: "已延期",
         optAllCrypto: "所有加密货币",
-        titleTimeline: "即将到来的决策时间表",
+        titleTimeline: "最新待通过申请",
         titleApplications: "所有 ETF 申请",
         footerSource: "数据来源: SEC EDGAR、彭博社、路透社 | 仅供参考，不构成投资建议",
         footerCopyright: "© 2026 SEC 加密货币 ETF 追踪器",
@@ -29,32 +29,33 @@ const translations = {
         cardFilingType: "申请类型",
         cardFilingDate: "最新公告",
         cardStatus: "当前状态",
+        statusApprovedDate: "上线时间",
         cardNotes: "备注",
-        cardOdds: "批准概率",
-        cardHistory: "🔗 查阅历史",
-        statusApproved: "已批准",
-        statusPending: "审核中",
+        cardOdds: "概率预估",
+        cardHistory: "🔗 官方公告",
+        cardTicker: "交易代码",
+        cardExpenseRatio: "费率",
+        cardExchange: "交易所",
+        statusApproved: "已通过",
+        statusPending: "待通过",
         statusDelayed: "已延期",
         statusDenied: "已拒绝",
         statusUnknown: "未知状态",
-        stage1: "初期审核 (第1阶段)",
-        stage2: "延期审核 (第2阶段)",
-        stageFinal: "最终审核 (最后阶段)",
-        stageDecision: "等待裁决 (已过法定审核期)",
         daysLeft: "天后",
         today: "今天",
         none: "无",
         syncLoading: "正在连接 SEC 数据库...",
-        syncProcessing: "正在处理新增申请..."
+        syncProcessing: "正在处理新增申请...",
+        syncComplete: "数据同步完成"
     },
     en: {
         mainTitle: "SEC Crypto ETF Tracker",
-        mainSubtitle: "Live Tracking of SEC Crypto ETF Applications",
+        mainSubtitle: "Live Tracking of Crypto ETF Applications",
         liveStatus: "LIVE",
-        secLive: "SEC EDGAR REAL-TIME",
+        secLive: "SEC EDGAR",
         localCache: "LOCAL CACHE DATA",
         lastUpdate: "Last Updated:",
-        labelTotal: "Total Apps",
+        labelTotal: "Total ETFs",
         labelApproved: "Approved",
         labelPending: "Pending",
         labelDelayed: "Delayed",
@@ -63,7 +64,7 @@ const translations = {
         btnPending: "Pending",
         btnDelayed: "Delayed",
         optAllCrypto: "All Cryptos",
-        titleTimeline: "Upcoming Decision Timeline",
+        titleTimeline: "Recent Pending Applications",
         titleApplications: "All ETF Applications",
         footerSource: "Source: SEC EDGAR, Bloomberg, Reuters | For reference only",
         footerCopyright: "© 2026 SEC Crypto ETF Tracker",
@@ -72,29 +73,106 @@ const translations = {
         cardFilingType: "Type",
         cardFilingDate: "Latest Filing",
         cardStatus: "Status",
+        statusApprovedDate: "Launch Time",
         cardNotes: "Notes",
         cardOdds: "Approval Odds",
-        cardHistory: "🔗 History",
+        cardHistory: "🔗 Official Files",
+        cardTicker: "Ticker",
+        cardExpenseRatio: "Expense Ratio",
+        cardExchange: "Exchange",
         statusApproved: "Approved",
         statusPending: "Pending",
         statusDelayed: "Delayed",
-        statusDenied: "Denied",
         statusUnknown: "Unknown",
-        stage1: "Initial Review (Stage 1)",
-        stage2: "Extended Review (Stage 2)",
-        stageFinal: "Final Review (Final Stage)",
-        stageDecision: "Decision Pending (Past Deadline)",
         daysLeft: "days left",
         today: "Today",
         none: "N/A",
         syncLoading: "Connecting to SEC database...",
-        syncProcessing: "Processing new applications..."
+        syncProcessing: "Processing new applications...",
+        syncComplete: "Sync Complete",
+        // Dynamic content translations
+        "已获SEC批准并开始交易": "Approved by SEC and trading started",
+        "S-1修订文件已提交，等待SEC审批": "S-1 amendment filed, awaiting SEC approval",
+        "注册声明已提交，等待SEC反馈": "Registration statement filed, awaiting SEC feedback",
+        "保密注册声明已提交": "Confidential registration statement filed",
+        "审批进行中": "Approval in progress",
+        "待通过": "Pending Approval",
+        "S-1修订文件已提交": "S-1 Amendment Filed",
+        "注册声明已提交": "Registration Statement Filed",
+        "首批获批的现货比特币ETF之一": "One of the first approved spot Bitcoin ETFs",
+        "信托转换为ETF，已获批": "Trust converted to ETF, approved",
+        "信托转换为ETF,已获批": "Trust converted to ETF, approved",
+        "已获批并开始交易": "Approved and trading started",
+        "首批现货以太坊ETF": "One of the first spot Ethereum ETFs",
+        "已通过 (交易中)": "Approved (Trading)",
+        "无": "None",
+        "已获SEC批准": "Approved by SEC",
+        "Cathie Wood旗下基金获批": "Cathie Wood's fund approved",
+        "2024年7月获批,首批以太坊现货ETF": "Approved July 2024, first spot Ethereum ETF",
+        "已转换为现货ETF": "Converted to spot ETF",
+        "2025年10月获批,11月开始交易": "Approved Oct 2025, trading started Nov",
+        "首批获批的Solana ETF之一": "One of the first approved Solana ETFs",
+        "已获批准": "Approved",
+        "2026年1月最新提交": "Newly filed in Jan 2026",
+        "预计2025年5月决定": "Decision expected in May 2025",
+        "信托转换ETF申请中": "Trust-to-ETF conversion pending",
+        "等待SEC最终决定": "Awaiting SEC final decision",
+        "最终期限延至10月": "Final deadline extended to Oct",
+        "待通过": "Under review",
+        "期货ETF已获批并开始交易": "Futures ETF approved and trading started",
+        "SEC已延期决定,分析师预计90%批准率": "SEC delayed, analysts predict 90% approval",
+        "彭博分析师高度看好": "Highly optimistic Bloomberg analysts",
+        "已进入公众意见征询期": "Public comment period entered",
+        "期货 ETF": "Futures ETF",
+        "分析师预计99%批准率": "Analysts predict 99% approval",
+        "最终决定日期11月12日": "Final decision date Nov 12",
+        "S-1注册文件已提交": "S-1 registration filed",
+        "预计2025年10月至2026年1月决定": "Decision expected Oct 2025 to Jan 2026",
+        "SEC已延期决定至10月26日": "SEC delayed decision to Oct 26",
+        "杠杆 ETF": "Leveraged ETF",
+        "杠杆产品,新生效日期10月10日": "Leveraged product, new effective date Oct 10",
+        "SEC延期至6月11日": "SEC delayed to June 11",
+        "Coinbase担任托管方": "Coinbase as custodian"
     }
+};
+
+// Map cryptocurrency names to their standard coin symbols for better logo matching
+const cryptoLogoMap = {
+    "Bitcoin": "btc",
+    "Ethereum": "eth",
+    "Solana": "sol",
+    "XRP": "xrp",
+    "Cardano": "ada",
+    "Avalanche": "avax",
+    "Dogecoin": "doge",
+    "Litecoin": "ltc",
+    "Polkadot": "dot",
+    "Stellar": "xlm",
+    "Chainlink": "link",
+    "Bitcoin Cash": "bch",
+    "Ethereum Classic": "etc",
+    "Horizen": "zen",
+    "Bittensor": "tao",
+    "Hedera": "hbar",
+    "Near Protocol": "near",
+    "Aave": "aave",
+    "Sui": "sui",
+    "Aptos": "apt",
+    "Kaspa": "kas",
+    "Stacks": "stx",
+    "Immutable": "imx",
+    "Uniswap": "uni",
+    "Tron": "trx",
+    "Multi-Crypto": "generic"
 };
 
 let currentLang = 'zh';
 
 function t(key) {
+    if (!key) return key;
+    if (currentLang === 'en' && translations['en'][key]) {
+        return translations['en'][key];
+    }
     return translations[currentLang][key] || key;
 }
 
@@ -342,7 +420,7 @@ const etfApplications = [
         decisionDeadline: "2025-05-25",
         status: "pending",
         approvalOdds: 72,
-        notes: "审核进行中"
+        notes: "审批进行中"
     },
     {
         id: "xrp-canary",
@@ -381,7 +459,7 @@ const etfApplications = [
         decisionDeadline: "2025-10-20",
         status: "pending",
         approvalOdds: 70,
-        notes: "审核中"
+        notes: "待通过"
     },
     {
         id: "xrp-proshares",
@@ -555,7 +633,7 @@ const etfApplications = [
         decisionDeadline: "2026-01-20",
         status: "pending",
         approvalOdds: 55,
-        notes: "审核进行中"
+        notes: "审批进行中"
     },
     {
         id: "hbar-grayscale",
@@ -568,7 +646,7 @@ const etfApplications = [
         decisionDeadline: "2026-02-01",
         status: "pending",
         approvalOdds: 45,
-        notes: "新申请,等待初步审核"
+        notes: "新申请,等待初步审批"
     },
     {
         id: "sui-bitwise",
@@ -675,33 +753,27 @@ async function init() {
     renderTimeline();
     renderApplications();
     updateTime();
-    updateDataSourceIndicator();
-
-    // Inject Sync Progress Bar HTML after header is ready
+    // Inject Sync Progress HTML inside info block for better grouping
     setTimeout(() => {
-        const header = document.querySelector('.header');
-        if (header && !document.getElementById('syncProgress')) {
+        const infoBlock = document.querySelector('.header-info-block');
+        if (infoBlock && !document.getElementById('syncProgress')) {
             const progressHTML = `
-                <div class="sync-progress-container" id="syncProgress">
-                    <div class="logo-icon" style="width: 36px; height: 36px; min-width: 36px;">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-refresh-cw spin"><polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path></svg>
+                <div class="sync-progress-container" id="syncProgress" style="display: none;">
+                    <div class="sync-icon-small">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="spin"><polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path></svg>
                     </div>
-                    <div class="sync-bar-wrapper">
-                        <div class="sync-info">
-                            <span class="sync-status-text" id="syncStatusText">${t('syncLoading')}</span>
-                            <span class="sync-count" id="syncCount">0/0</span>
-                        </div>
-                        <div class="sync-track">
-                            <div class="sync-fill" id="syncFill" style="width: 0%"></div>
-                        </div>
+                    <span class="sync-status-text" id="syncStatusText">${t('syncLoading')}</span>
+                    <div class="sync-track">
+                        <div class="sync-fill" id="syncFill" style="width: 0%"></div>
                     </div>
+                    <span class="sync-count" id="syncCount">0%</span>
                 </div>
             `;
-            header.insertAdjacentHTML('afterend', progressHTML);
-
-            // Start progress polling after injection
-            startProgressPolling();
+            infoBlock.insertAdjacentHTML('beforeend', progressHTML);
         }
+
+        // Start progress polling after injection
+        startProgressPolling();
     }, 100);
 
     // Try to fetch real SEC EDGAR data
@@ -755,6 +827,44 @@ function setupEventListeners() {
     if (langToggleBtn) {
         langToggleBtn.addEventListener('click', toggleLanguage);
     }
+
+    // Back to Top
+    const backToTopBtn = document.getElementById('backToTop');
+    if (backToTopBtn) {
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backToTopBtn.classList.add('show');
+            } else {
+                backToTopBtn.classList.remove('show');
+            }
+        });
+
+        backToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    }
+}
+
+/**
+ * Reset all filters (Helper)
+ */
+function resetFilters() {
+    searchQuery = '';
+    currentFilter = 'all';
+    currentCryptoFilter = 'all';
+
+    if (searchInputEl) searchInputEl.value = '';
+    if (cryptoFilterEl) cryptoFilterEl.value = 'all';
+
+    filterBtns.forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.dataset.filter === 'all') btn.classList.add('active');
+    });
+
+    renderApplications();
 }
 
 /**
@@ -788,10 +898,18 @@ async function fetchSECData(showLoading = false) {
             const secData = result.data;
 
             secData.forEach(secApp => {
-                const existingIndex = etfApplications.findIndex(
-                    app => app.etfName.toLowerCase().includes(secApp.symbol.toLowerCase()) ||
-                        app.issuer.toLowerCase() === secApp.issuer.toLowerCase()
-                );
+                const existingIndex = etfApplications.findIndex(app => {
+                    // Match by CIK if both have it
+                    if (secApp.cik && app.cik && secApp.cik === app.cik) return true;
+
+                    // Otherwise match by specific symbol OR a combination of issuer and name
+                    const nameMatch = app.etfName.toLowerCase().includes(secApp.etfName.toLowerCase()) ||
+                        secApp.etfName.toLowerCase().includes(app.etfName.toLowerCase());
+                    const symbolMatch = secApp.symbol && app.id.toLowerCase().includes(secApp.symbol.toLowerCase());
+                    const issuerMatch = app.issuer.toLowerCase() === secApp.issuer.toLowerCase();
+
+                    return (issuerMatch && nameMatch) || (issuerMatch && symbolMatch);
+                });
 
                 if (existingIndex === -1) {
                     // Add new application from SEC
@@ -825,6 +943,7 @@ async function fetchSECData(showLoading = false) {
 
             // Update UI after successful fetch
             updateStats();
+            populateCryptoFilter(); // Update dropdown with all crypto types from API
             renderApplications();
             renderTimeline();
             updateDataSourceIndicator();
@@ -884,7 +1003,20 @@ function updateStats() {
     if (totalCountEl) animateValue(totalCountEl, parseInt(totalCountEl.textContent) || 0, total, 500);
     if (approvedCountEl) animateValue(approvedCountEl, parseInt(approvedCountEl.textContent) || 0, approved, 500);
     if (pendingCountEl) animateValue(pendingCountEl, parseInt(pendingCountEl.textContent) || 0, pending, 500);
+
+    // Explicitly update delayed count element (previously denied)
     if (delayedCountEl) animateValue(delayedCountEl, parseInt(delayedCountEl.textContent) || 0, delayed, 500);
+
+    // Update filter counts
+    const btnAll = document.getElementById('btnAll');
+    const btnApproved = document.getElementById('btnApproved');
+    const btnPending = document.getElementById('btnPending');
+    const btnDelayed = document.getElementById('btnDelayed');
+
+    if (btnAll) btnAll.textContent = `${t('btnAll')} (${total})`;
+    if (btnApproved) btnApproved.textContent = `${t('btnApproved')} (${approved})`;
+    if (btnPending) btnPending.textContent = `${t('btnPending')} (${pending})`;
+    if (btnDelayed) btnDelayed.textContent = `${t('btnDelayed')} (${delayed})`;
 }
 
 // Animate number values
@@ -928,34 +1060,27 @@ function populateCryptoFilter() {
 function renderTimeline() {
     if (!timelineEl) return;
 
+    // Show most recent pending ETF filings
     const upcoming = etfApplications
-        .filter(app => app.status === 'pending' || app.status === 'delayed')
-        .map(app => {
-            const date = new Date(app.decisionDeadline);
-            const today = new Date();
-            const diffTime = date - today;
-            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-            return { ...app, diffDays };
-        })
-        .filter(app => app.diffDays >= 0) // Only future dates
-        .sort((a, b) => a.diffDays - b.diffDays)
+        .filter(app => app.status === 'pending' && app.filingDate && app.filingDate !== 'N/A')
+        .sort((a, b) => new Date(b.filingDate) - new Date(a.filingDate))
         .slice(0, 5);
 
     if (upcoming.length === 0) {
-        timelineEl.innerHTML = `<div class="timeline-empty">${t('none')}</div>`;
+        timelineEl.innerHTML = `<div class="timeline-empty">${currentLang === 'zh' ? '暂无待通过申请' : 'No pending applications'}</div>`;
         return;
     }
 
     timelineEl.innerHTML = upcoming.map(app => `
         <div class="timeline-item">
-            <div class="timeline-date">${formatDate(app.decisionDeadline)}</div>
+            <div class="timeline-date">${formatDate(app.filingDate)}</div>
             <div class="timeline-crypto">
                 <span class="symbol">${app.symbol}</span>
                 <span class="name">${app.cryptocurrency}</span>
             </div>
             <div class="timeline-issuer">${app.issuer}</div>
             <div class="timeline-countdown">
-                ⏰ ${app.diffDays === 0 ? t('today') : `${app.diffDays} ${t('daysLeft')}`}
+                📋 ${currentLang === 'zh' ? '待通过' : 'Pending'}
             </div>
         </div>
     `).join('');
@@ -967,32 +1092,69 @@ function renderApplications() {
 
     let filteredApps = etfApplications;
 
+    // Enforce sorting by filing date (newest first)
+    filteredApps.sort((a, b) => {
+        const dateA = new Date(a.filingDate || '1970-01-01');
+        const dateB = new Date(b.filingDate || '1970-01-01');
+        return dateB - dateA;
+    });
+
     // Apply status filter
     if (currentFilter !== 'all') {
         filteredApps = filteredApps.filter(app => app.status === currentFilter);
     }
 
-    // Apply crypto filter
+    // Apply crypto filter (also check notes for Multi-Crypto constituents)
     if (currentCryptoFilter !== 'all') {
-        filteredApps = filteredApps.filter(app => app.cryptocurrency === currentCryptoFilter);
+        filteredApps = filteredApps.filter(app => {
+            // Direct match
+            if (app.cryptocurrency === currentCryptoFilter) return true;
+            // Check if Multi-Crypto contains this token in notes
+            if (app.cryptocurrency === 'Multi-Crypto' && app.notes) {
+                const filterLower = currentCryptoFilter.toLowerCase();
+                const notesLower = app.notes.toLowerCase();
+                // Match by full name or common abbreviations
+                const tokenMap = {
+                    'bitcoin': ['btc', 'bitcoin'],
+                    'ethereum': ['eth', 'ethereum'],
+                    'solana': ['sol', 'solana'],
+                    'cardano': ['ada', 'cardano'],
+                    'polkadot': ['dot', 'polkadot'],
+                    'chainlink': ['link', 'chainlink'],
+                    'litecoin': ['ltc', 'litecoin'],
+                    'avalanche': ['avax', 'avalanche'],
+                    'xrp': ['xrp'],
+                    'dogecoin': ['doge', 'dogecoin'],
+                    'stellar': ['xlm', 'stellar'],
+                    'uniswap': ['uni', 'uniswap']
+                };
+                const tokens = tokenMap[filterLower] || [filterLower];
+                return tokens.some(token => notesLower.includes(token));
+            }
+            return false;
+        });
     }
 
-    // Apply search filter
+    // Apply search filter (also check notes for Multi-Crypto constituents)
     if (searchQuery) {
         const query = searchQuery.toLowerCase();
         filteredApps = filteredApps.filter(app =>
             app.cryptocurrency.toLowerCase().includes(query) ||
             app.symbol.toLowerCase().includes(query) ||
             app.issuer.toLowerCase().includes(query) ||
-            app.etfName.toLowerCase().includes(query)
+            app.etfName.toLowerCase().includes(query) ||
+            (app.notes && app.notes.toLowerCase().includes(query))
         );
     }
 
     if (filteredApps.length === 0) {
         applicationsGridEl.innerHTML = `
-            <div class="empty-state">
-                <div class="empty-state-icon">🔍</div>
-                <p>未找到匹配的ETF申请</p>
+            <div class="no-results">
+                <div style="font-size: 2rem; margin-bottom: 10px;">🔍</div>
+                <p>${currentLang === 'zh' ? '未找到匹配的 ETF 申请' : 'No matching ETF applications found'}</p>
+                <button onclick="resetFilters()" style="margin-top: 15px; padding: 8px 16px; background: var(--text-primary); color: var(--accent-emerald); border: none; cursor: pointer; font-family: var(--font-mono); font-weight: bold;">
+                    ${currentLang === 'zh' ? '重置筛选' : 'Reset Filters'}
+                </button>
             </div>
         `;
         return;
@@ -1026,37 +1188,28 @@ function createApplicationCard(app) {
         unknown: t('statusUnknown')
     };
 
-    const oddsColor = (app.approvalOdds || 0) >= 80 ? 'var(--accent-green)' :
+    const oddsColor = (app.approvalOdds || 0) >= 80 ? 'var(--accent-emerald)' :
         (app.approvalOdds || 0) >= 50 ? 'var(--accent-orange)' :
             'var(--accent-red)';
 
     // Check if decision deadline is a descriptive string or date
     let deadlineDisplay = decisionDeadline;
-    const isDescriptiveDeadline = decisionDeadline.includes('审核') ||
+    const isDescriptiveDeadline = decisionDeadline.includes('审批') ||
         decisionDeadline.includes('已过') ||
         decisionDeadline.includes('批准') ||
         decisionDeadline.includes('Review') ||
         decisionDeadline.includes('Decision');
 
-    // 🧠 Smart Status Logic: Calculate status based on filing date if pending
-    if ((status === 'pending' || status === 'delayed') && !isDescriptiveDeadline && app.filingDate) {
-        const filingDate = new Date(app.filingDate);
-        if (!isNaN(filingDate.getTime())) {
-            const diffTime = Math.abs(new Date() - filingDate);
-            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-
-            if (diffDays < 45) {
-                deadlineDisplay = t('stage1');
-            } else if (diffDays < 90) {
-                deadlineDisplay = t('stage2');
-            } else if (diffDays < 240) {
-                deadlineDisplay = t('stageFinal');
-            } else {
-                deadlineDisplay = t('stageDecision');
-            }
-        }
+    // 🧠 Simplified Status Logic
+    const statusTextValue = statusText[status] || status;
+    if (status === 'approved') {
+        deadlineDisplay = formatDate(decisionDeadline);
+    } else if (status === 'pending' || status === 'delayed') {
+        deadlineDisplay = isDescriptiveDeadline ? t(decisionDeadline) : `${statusTextValue} (${formatDate(decisionDeadline)})`;
     } else if (!isDescriptiveDeadline) {
         deadlineDisplay = formatDate(decisionDeadline);
+    } else {
+        deadlineDisplay = t(decisionDeadline);
     }
 
     // Generate History Link (Fallback to search if specific link is missing)
@@ -1065,43 +1218,56 @@ function createApplicationCard(app) {
         const searchTerm = encodeURIComponent(app.issuer ? app.issuer.split('/')[0].trim() : (app.etfName || 'crypto etf'));
         historyLink = `https://www.sec.gov/cgi-bin/browse-edgar?company=${searchTerm}&owner=exclude&action=getcompany`;
     }
+    // Check if approved today
+    const today = new Date().toISOString().slice(0, 10); // '2026-01-09'
+    const isApprovedToday = status === 'approved' && app.filingDate === today;
+    const cardClasses = `application-card fade-in${isApprovedToday ? ' today-approved' : ''}`;
+    const todayBadgeHtml = isApprovedToday
+        ? `<div class="today-badge">🎉 ${currentLang === 'zh' ? '今日通过' : 'Passed Today'}</div>`
+        : '';
 
     return `
-        <div class="application-card">
+        <div class="${cardClasses}">
             <div class="card-header">
                 <div class="crypto-info">
                     <div class="crypto-icon">
-                        <img src="https://assets.coincap.io/assets/icons/${symbol.toLowerCase()}@2x.png" 
+                        <img src="https://assets.coincap.io/assets/icons/${(cryptoLogoMap[cryptocurrency] || symbol).toLowerCase()}@2x.png" 
                              alt="${symbol}" 
-                             onerror="this.style.display='none'; this.parentElement.textContent='${symbol.charAt(0)}'">
+                             onerror="this.style.display='none'; this.parentElement.textContent='${(cryptoLogoMap[cryptocurrency] || symbol).charAt(0).toUpperCase()}'">
                     </div>
                     <div class="crypto-details">
                         <h3>${cryptocurrency}</h3>
                         <span class="crypto-symbol">${symbol}</span>
                     </div>
                 </div>
-                <span class="status-badge ${status}">${statusText[status] || status}</span>
+                ${isApprovedToday
+            ? `<span class="status-badge today-passed">🎉 ${currentLang === 'zh' ? '今日通过' : 'Passed Today'}</span>`
+            : `<span class="status-badge ${status}">${statusText[status] || status}</span>`}
             </div>
             <div class="card-body">
                 <div class="etf-name">${app.etfName || 'Unknown ETF'}</div>
                 <div class="issuer-name">${t('cardIssuer')}: ${app.issuer || 'Unknown'}</div>
             </div>
+            <div class="card-trading-info">
+                <span class="trading-tag"><strong>${t('cardExchange')}:</strong> ${app.exchange || 'NYSE/NASDAQ'}</span>
+                <span class="trading-tag"><strong>${t('cardExpenseRatio')}:</strong> ${app.expenseRatio || (status === 'approved' ? '0.25%' : 'TBD')}</span>
+            </div>
             <div class="card-meta">
                 <div class="meta-item">
                     <span class="meta-label">${t('cardFilingType')}</span>
-                    <span class="meta-value">${app.filingType || 'N/A'}</span>
+                    <span class="meta-value">${t(app.filingType || 'N/A')}</span>
                 </div>
                 <div class="meta-item">
                     <span class="meta-label">${t('cardFilingDate')}</span>
                     <span class="meta-value">${app.filingDate ? formatDate(app.filingDate) : 'N/A'}</span>
                 </div>
                 <div class="meta-item">
-                    <span class="meta-label">${t('cardStatus')}</span>
+                    <span class="meta-label">${status === 'approved' ? t('statusApprovedDate') : t('cardStatus')}</span>
                     <span class="meta-value" style="${deadlineDisplay.includes('Stage') || deadlineDisplay.includes('期') || deadlineDisplay.includes('Review') ? 'color: var(--accent-orange)' : ''}">${deadlineDisplay}</span>
                 </div>
                 <div class="meta-item">
                     <span class="meta-label">${t('cardNotes')}</span>
-                    <span class="meta-value">${app.notes === '无' ? t('none') : (app.notes || t('none'))}</span>
+                    <span class="meta-value">${t(app.notes || '无')}</span>
                 </div>
             </div>
             
@@ -1167,7 +1333,7 @@ function startProgressPolling() {
 
                 if (fill) fill.style.width = `${percent}%`;
                 if (statusText) statusText.textContent = status.currentAction;
-                if (countText) countText.textContent = `${status.processedCount}/${status.totalToProcess}`;
+                if (countText) countText.textContent = `${percent}%`;
 
                 // Silent update periodically
                 if (status.processedCount % 5 === 0 && status.processedCount > 0) {
@@ -1178,17 +1344,19 @@ function startProgressPolling() {
                 // Sync finished
                 if (container.classList.contains('active')) {
                     if (fill) fill.style.width = '100%';
-                    if (statusText) statusText.textContent = '所有数据同步完成';
+                    if (statusText) statusText.textContent = t('syncComplete');
                     if (countText) countText.textContent = '100%';
 
                     // Final fetch
                     fetchSECData(false);
 
-                    // Hide after delay
+                    // Hide after a shorter delay to feel snappier
                     setTimeout(() => {
                         container.classList.remove('active');
-                        setTimeout(() => container.style.display = 'none', 500);
-                    }, 3000);
+                        setTimeout(() => {
+                            container.style.display = 'none';
+                        }, 300);
+                    }, 1500);
                 }
             }
         } catch (e) {
