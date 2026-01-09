@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-09T15:03:15.323Z",
+  "timestamp": "2026-01-09T15:25:08.466Z",
   "count": 65,
   "knownCount": 51,
   "discoveredCount": 14,
@@ -41,23 +41,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026002575/ea0272308-s1a7_21shares.htm"
     },
     {
-      "id": "0001771146",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "ETFO",
-      "issuer": "ETF",
-      "etfName": "ETF Opportunities Trust",
-      "filingType": "N-CSR",
-      "filingDate": "2026-01-08",
-      "decisionDeadline": "待通过",
-      "status": "denied",
-      "approvalOdds": 50,
-      "notes": "包含: 多种加密货币组合",
-      "source": "SEC EDGAR",
-      "cik": "0001771146",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000199937126000506/hedgeye-ncsr_103125.htm"
-    },
-    {
       "id": "0001928561",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "BFTR",
@@ -73,6 +56,23 @@
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026002498/ea0272269-01_485bxt.htm"
+    },
+    {
+      "id": "0001771146",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "ETFO",
+      "issuer": "ETF",
+      "etfName": "ETF Opportunities Trust",
+      "filingType": "N-CSR",
+      "filingDate": "2026-01-08",
+      "decisionDeadline": "待通过",
+      "status": "denied",
+      "approvalOdds": 50,
+      "notes": "包含: 多种加密货币组合",
+      "source": "SEC EDGAR",
+      "cik": "0001771146",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000199937126000506/hedgeye-ncsr_103125.htm"
     },
     {
       "id": "0001722388",
@@ -211,23 +211,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1859392/000010290926000021/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
-      "id": "0001588489",
-      "cryptocurrency": "Bitcoin",
-      "symbol": "GBTC",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Bitcoin Trust ETF",
-      "filingType": "FWP",
-      "filingDate": "2026-01-06",
-      "decisionDeadline": "已通过 (交易中)",
-      "status": "approved",
-      "approvalOdds": 100,
-      "notes": "已获SEC批准并开始交易",
-      "source": "SEC EDGAR",
-      "cik": "0001588489",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001588489&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000119312526003975/product_suite_1.6.26.htm"
-    },
-    {
       "id": "0002015034",
       "cryptocurrency": "Bitcoin",
       "symbol": "BTC",
@@ -243,6 +226,23 @@
       "cik": "0002015034",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002015034&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000119312526003985/product_suite_1.6.26.htm"
+    },
+    {
+      "id": "0001588489",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "GBTC",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Bitcoin Trust ETF",
+      "filingType": "FWP",
+      "filingDate": "2026-01-06",
+      "decisionDeadline": "已通过 (交易中)",
+      "status": "approved",
+      "approvalOdds": 100,
+      "notes": "已获SEC批准并开始交易",
+      "source": "SEC EDGAR",
+      "cik": "0001588489",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001588489&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000119312526003975/product_suite_1.6.26.htm"
     },
     {
       "id": "0001884021",
@@ -449,23 +449,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1732409/000173240926000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "0001705181",
-      "cryptocurrency": "Ethereum Classic",
-      "symbol": "ETCG",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Ethereum Classic Trust (ETC)",
-      "filingType": "D/A",
-      "filingDate": "2026-01-05",
-      "decisionDeadline": "已通过 (交易中)",
-      "status": "approved",
-      "approvalOdds": 100,
-      "notes": "已获SEC批准并开始交易",
-      "source": "SEC EDGAR",
-      "cik": "0001705181",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001705181&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1705181/000170518126000001/xslFormDX01/primary_doc.xml"
-    },
-    {
       "id": "0001748945",
       "cryptocurrency": "Horizen",
       "symbol": "HZEN",
@@ -481,6 +464,23 @@
       "cik": "0001748945",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001748945&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1748945/000174894526000001/xslFormDX01/primary_doc.xml"
+    },
+    {
+      "id": "0001705181",
+      "cryptocurrency": "Ethereum Classic",
+      "symbol": "ETCG",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Ethereum Classic Trust (ETC)",
+      "filingType": "D/A",
+      "filingDate": "2026-01-05",
+      "decisionDeadline": "已通过 (交易中)",
+      "status": "approved",
+      "approvalOdds": 100,
+      "notes": "已获SEC批准并开始交易",
+      "source": "SEC EDGAR",
+      "cik": "0001705181",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001705181&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1705181/000170518126000001/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "0002029297",
@@ -670,23 +670,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025057913/vaneckavalancheetfs-1a3.htm"
     },
     {
-      "id": "0002057388",
-      "cryptocurrency": "Solana",
-      "symbol": "FSOL",
-      "issuer": "Franklin",
-      "etfName": "Franklin Solana Trust",
-      "filingType": "FWP",
-      "filingDate": "2025-12-17",
-      "decisionDeadline": "已通过 (交易中)",
-      "status": "approved",
-      "approvalOdds": 100,
-      "notes": "已获SEC批准并开始交易",
-      "source": "SEC EDGAR",
-      "cik": "0002057388",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057388&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057388/000205738825000013/fwp-202533.htm"
-    },
-    {
       "id": "0002059438",
       "cryptocurrency": "XRP",
       "symbol": "FXRP",
@@ -702,6 +685,23 @@
       "cik": "0002059438",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002059438&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2059438/000205943825000016/fwp-202533.htm"
+    },
+    {
+      "id": "0002057388",
+      "cryptocurrency": "Solana",
+      "symbol": "FSOL",
+      "issuer": "Franklin",
+      "etfName": "Franklin Solana Trust",
+      "filingType": "FWP",
+      "filingDate": "2025-12-17",
+      "decisionDeadline": "已通过 (交易中)",
+      "status": "approved",
+      "approvalOdds": 100,
+      "notes": "已获SEC批准并开始交易",
+      "source": "SEC EDGAR",
+      "cik": "0002057388",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057388&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057388/000205738825000013/fwp-202533.htm"
     },
     {
       "id": "0002033807",
@@ -721,23 +721,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2033807/000203380725000081/fwp-202533.htm"
     },
     {
-      "id": "0002011535",
-      "cryptocurrency": "Ethereum",
-      "symbol": "FRAN",
-      "issuer": "Franklin",
-      "etfName": "Franklin Ethereum Trust",
-      "filingType": "FWP",
-      "filingDate": "2025-12-17",
-      "decisionDeadline": "已通过 (交易中)",
-      "status": "approved",
-      "approvalOdds": 100,
-      "notes": "已获SEC批准并开始交易",
-      "source": "SEC EDGAR",
-      "cik": "0002011535",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002011535&type=&dateb=&owner=include&count=40",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2011535/000201153525000012/fwp-202533.htm"
-    },
-    {
       "id": "0001992870",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "FRAN",
@@ -753,6 +736,23 @@
       "cik": "0001992870",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992870&type=&dateb=&owner=include&count=40",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992870/000199287025000019/fwp-202533.htm"
+    },
+    {
+      "id": "0002011535",
+      "cryptocurrency": "Ethereum",
+      "symbol": "FRAN",
+      "issuer": "Franklin",
+      "etfName": "Franklin Ethereum Trust",
+      "filingType": "FWP",
+      "filingDate": "2025-12-17",
+      "decisionDeadline": "已通过 (交易中)",
+      "status": "approved",
+      "approvalOdds": 100,
+      "notes": "已获SEC批准并开始交易",
+      "source": "SEC EDGAR",
+      "cik": "0002011535",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002011535&type=&dateb=&owner=include&count=40",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2011535/000201153525000012/fwp-202533.htm"
     },
     {
       "id": "0001855781",
