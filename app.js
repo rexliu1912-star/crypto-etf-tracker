@@ -1600,7 +1600,7 @@ function createApplicationCard(app) {
     if (status === 'approved') {
         deadlineDisplay = formatDate(decisionDeadline);
     } else if (status === 'pending' || status === 'delayed') {
-        deadlineDisplay = isDescriptiveDeadline ? t(decisionDeadline) : `${statusTextValue} (${formatDate(decisionDeadline)})`;
+        deadlineDisplay = statusTextValue;
     } else if (!isDescriptiveDeadline) {
         deadlineDisplay = formatDate(decisionDeadline);
     } else {
