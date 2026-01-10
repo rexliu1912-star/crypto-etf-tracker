@@ -1199,6 +1199,202 @@ function updateStats() {
     if (btnApproved) btnApproved.textContent = `${t('btnApproved')} (${approved})`;
     if (btnPending) btnPending.textContent = `${t('btnPending')} (${pending})`;
     if (btnDelayed) btnDelayed.textContent = `${t('btnDelayed')} (${delayed})`;
+
+    // Render charts
+    renderCharts();
+}
+
+// Chart instances for updates
+let issuerChartInstance = null;
+let cryptoChartInstance = null;
+
+/**
+ * Render Charts using Chart.js
+ */
+function renderCharts() {
+    if (typeof Chart === 'undefined') {
+        console.warn('Chart.js not loaded');
+        return;
+    }
+
+    renderIssuerChart();
+    renderCryptoChart();
+}
+
+/**
+ * Render Issuer Distribution Bar Chart (Horizontal)
+ */
+function renderIssuerChart() {
+    const canvas = document.getElementById('issuerChart');
+    if (!canvas) return;
+
+    // Calculate issuer counts
+    const issuerCounts = {};
+    etfApplications.forEach(app => {
+        const issuer = app.issuer || 'Unknown';
+        issuerCounts[issuer] = (issuerCounts[issuer] || 0) + 1;
+    });
+
+    // Sort and get top 10
+    const sortedIssuers = Object.entries(issuerCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10);
+
+    const labels = sortedIssuers.map(([issuer]) => issuer);
+    const data = sortedIssuers.map(([, count]) => count);
+
+    // Color palette matching brutalist design
+    const colors = [
+        '#10B981', '#3B82F6', '#F59E0B', '#EF4444', '#8B5CF6',
+        '#EC4899', '#06B6D4', '#84CC16', '#F97316', '#6366F1'
+    ];
+
+    // Destroy existing chart if exists
+    if (issuerChartInstance) {
+        issuerChartInstance.destroy();
+    }
+
+    issuerChartInstance = new Chart(canvas.getContext('2d'), {
+        type: 'bar',
+        data: {
+            labels: labels,
+            datasets: [{
+                label: currentLang === 'zh' ? '产品数量' : 'Products',
+                data: data,
+                backgroundColor: colors,
+                borderColor: '#1C1917',
+                borderWidth: 2
+            }]
+        },
+        options: {
+            indexAxis: 'y',
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    backgroundColor: '#1C1917',
+                    titleFont: { family: "'JetBrains Mono', monospace", weight: 'bold' },
+                    bodyFont: { family: "'JetBrains Mono', monospace" },
+                    borderColor: '#1C1917',
+                    borderWidth: 2
+                }
+            },
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    grid: {
+                        color: '#E7E5E4'
+                    },
+                    ticks: {
+                        font: { family: "'JetBrains Mono', monospace", weight: 'bold' },
+                        color: '#1C1917'
+                    }
+                },
+                y: {
+                    grid: {
+                        display: false
+                    },
+                    ticks: {
+                        font: { family: "'JetBrains Mono', monospace", weight: 'bold', size: 11 },
+                        color: '#1C1917'
+                    }
+                }
+            }
+        }
+    });
+}
+
+/**
+ * Render Cryptocurrency Distribution Doughnut Chart
+ */
+function renderCryptoChart() {
+    const canvas = document.getElementById('cryptoChart');
+    if (!canvas) return;
+
+    // Calculate crypto counts
+    const cryptoCounts = {};
+    etfApplications.forEach(app => {
+        const crypto = app.cryptocurrency || 'Unknown';
+        cryptoCounts[crypto] = (cryptoCounts[crypto] || 0) + 1;
+    });
+
+    // Sort by count
+    const sortedCrypto = Object.entries(cryptoCounts)
+        .sort((a, b) => b[1] - a[1]);
+
+    const labels = sortedCrypto.map(([crypto]) => crypto);
+    const data = sortedCrypto.map(([, count]) => count);
+
+    // Color palette for cryptocurrencies
+    const cryptoColors = {
+        'Bitcoin': '#F7931A',
+        'Ethereum': '#627EEA',
+        'Solana': '#00FFA3',
+        'XRP': '#23292F',
+        'Litecoin': '#BFBBBB',
+        'Dogecoin': '#C2A633',
+        'Avalanche': '#E84142',
+        'Cardano': '#0033AD',
+        'Polkadot': '#E6007A',
+        'Chainlink': '#375BD2',
+        'Multi-Crypto': '#3B82F6',
+        'Stellar': '#7D00FF',
+        'Hedera': '#8259EF'
+    };
+
+    const colors = labels.map(label => cryptoColors[label] || '#78716C');
+
+    // Destroy existing chart if exists
+    if (cryptoChartInstance) {
+        cryptoChartInstance.destroy();
+    }
+
+    cryptoChartInstance = new Chart(canvas.getContext('2d'), {
+        type: 'doughnut',
+        data: {
+            labels: labels,
+            datasets: [{
+                data: data,
+                backgroundColor: colors,
+                borderColor: '#1C1917',
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            cutout: '50%',
+            plugins: {
+                legend: {
+                    position: 'right',
+                    labels: {
+                        font: { family: "'JetBrains Mono', monospace", size: 10, weight: 'bold' },
+                        color: '#1C1917',
+                        padding: 8,
+                        boxWidth: 12,
+                        boxHeight: 12
+                    }
+                },
+                tooltip: {
+                    backgroundColor: '#1C1917',
+                    titleFont: { family: "'JetBrains Mono', monospace", weight: 'bold' },
+                    bodyFont: { family: "'JetBrains Mono', monospace" },
+                    borderColor: '#1C1917',
+                    borderWidth: 2,
+                    callbacks: {
+                        label: function (context) {
+                            const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                            const percentage = ((context.raw / total) * 100).toFixed(1);
+                            return `${context.label}: ${context.raw} (${percentage}%)`;
+                        }
+                    }
+                }
+            }
+        }
+    });
 }
 
 // Animate number values
