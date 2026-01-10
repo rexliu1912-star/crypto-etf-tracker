@@ -1,6 +1,15 @@
-# 🚀 SEC Crypto ETF Tracker (English)
+# 🚀 SEC Crypto ETF Tracker
 
-[中文版本请见下方 (Chinese Version Below)](#-sec-crypto-etf-tracker-)
+<p align="center">
+  <img src="assets/logo.png" alt="Crypto ETF Tracker Logo" width="120">
+</p>
+
+<p align="center">
+  <strong>Real-time SEC Crypto ETF Application Tracker</strong><br>
+  <a href="https://x.com/rexliu">Created by Rex Liu</a>
+</p>
+
+[中文版本请见下方 (Chinese Version Below)](#-sec-crypto-etf-tracker-实时追踪器)
 
 A modern, high-performance cryptocurrency ETF application tracking system integrated directly with the **SEC EDGAR database**, providing authoritative, real-time status updates on filings.
 
