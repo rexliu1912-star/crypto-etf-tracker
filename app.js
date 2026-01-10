@@ -923,9 +923,11 @@ let currentDataSource = 'static'; // 'sec-api' or 'static'
 
 // API Configuration - Use relative path for static hosting
 const SEC_API_ENDPOINT = './data/etf-data.json';
+const APP_VERSION = '1.1.0'; // Increment to force refresh
 
 // Initialize App
 async function init() {
+    console.log(`Initializing App v${APP_VERSION}`);
     // Set initial language
     updateUILanguage();
 
@@ -1068,7 +1070,7 @@ async function fetchSECData(showLoading = false) {
     try {
         console.log('Fetching SEC EDGAR data with cache bust...');
         // Add timestamp to prevent browser caching of the JSON data
-        const cacheBuster = `?t=${Date.now()}`;
+        const cacheBuster = `?v=${APP_VERSION}&t=${Date.now()}`;
         const response = await fetch(SEC_API_ENDPOINT + cacheBuster);
 
         if (!response.ok) {
@@ -1654,7 +1656,7 @@ function createApplicationCard(app) {
                 </a>
             </div>
 
-            ${status !== 'approved' ? `
+            ${status !== 'approved' && status !== 'denied' ? `
             <div class="approval-odds" style="margin-top: 15px;">
                 <span class="meta-label">${t('cardOdds')}</span>
                 <div class="odds-bar">

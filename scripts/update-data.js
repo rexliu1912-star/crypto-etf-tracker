@@ -117,6 +117,8 @@ const CRYPTO_ETF_ISSUERS = [
     // ==================== OTHER ISSUERS ====================
     { cik: '0001767057', name: 'Osprey Bitcoin Trust', symbol: 'OBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'OBTC' },
     { cik: '0002048583', name: 'CoinShares XRP ETF', symbol: 'CSXR', crypto: 'XRP', status: 'pending', ticker: 'CSXR' },
+    { cik: '0001852026', name: 'Grayscale Cardano Trust', symbol: 'ADA', crypto: 'Cardano', status: 'denied', ticker: 'ADA', notes: 'SEC已延期决定至10月26日' },
+    { cik: '0001884022', name: 'Tuttle Capital 2X Cardano ETF', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', type: '2x', notes: '杠杆产品,新生效日期10月10日' }
 ];
 
 // Verified product counts by issuer
