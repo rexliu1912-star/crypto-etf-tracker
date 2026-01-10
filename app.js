@@ -20,9 +20,12 @@ const translations = {
         btnPending: "待通过",
         btnDenied: "已拒绝",
         optAllCrypto: "所有加密货币",
-        titleTimeline: "最新待通过申请",
+        titleTimeline: "决策时间表",
         titleApplications: "所有 ETF 申请",
-        footerSource: "数据来源: SEC EDGAR、彭博社、路透社 | 仅供参考，不构成投资建议",
+        titleCharts: "核心数据分析",
+        chartTitleIssuers: "发行商覆盖 (Top 10)",
+        chartTitleCrypto: "加密货币分布",
+        footerSource: "数据来源: SEC EDGAR | 仅供参考，不构成投资建议",
         footerCopyright: "© 2026 SEC 加密货币 ETF 追踪器",
         searchPlaceholder: "搜索加密货币或发行商...",
         cardIssuer: "发行商",
@@ -46,7 +49,17 @@ const translations = {
         none: "无",
         syncLoading: "正在连接 SEC 数据库...",
         syncProcessing: "正在处理新增申请...",
-        syncComplete: "数据同步完成"
+        syncComplete: "数据同步完成",
+        // Filing Types
+        "Spot ETF": "现货 ETF",
+        "Futures ETF": "期货 ETF",
+        "2x Leveraged ETF": "2x 杠杆 ETF",
+        "-2x Inverse ETF": "-2x 反向杠杆 ETF",
+        "Inverse ETF": "反向 ETF",
+        "Combo ETF": "组合 ETF",
+        "Spot / Leveraged": "现货 / 杠杆",
+        "Spot ETF (Withdrawn)": "现货 ETF (已撤回)",
+        productCount: "产品数量"
     },
     en: {
         mainTitle: "SEC Crypto ETF Tracker",
@@ -64,9 +77,12 @@ const translations = {
         btnPending: "Pending",
         btnDenied: "Denied",
         optAllCrypto: "All Cryptos",
-        titleTimeline: "Recent Pending Applications",
+        titleTimeline: "Decision Timeline",
         titleApplications: "All ETF Applications",
-        footerSource: "Source: SEC EDGAR, Bloomberg, Reuters | For reference only",
+        titleCharts: "Core Data Analysis",
+        chartTitleIssuers: "Issuer Coverage (Top 10)",
+        chartTitleCrypto: "Cryptocurrency Distribution",
+        footerSource: "Source: SEC EDGAR | For reference only",
         footerCopyright: "© 2026 SEC Crypto ETF Tracker",
         searchPlaceholder: "Search crypto or issuer...",
         cardIssuer: "Issuer",
@@ -90,6 +106,7 @@ const translations = {
         syncLoading: "Connecting to SEC database...",
         syncProcessing: "Processing new applications...",
         syncComplete: "Sync Complete",
+        productCount: "Products",
         // Dynamic content translations
         "已获SEC批准并开始交易": "Approved by SEC and trading started",
         "S-1修订文件已提交，等待SEC审批": "S-1 amendment filed, awaiting SEC approval",
@@ -132,7 +149,10 @@ const translations = {
         "杠杆 ETF": "Leveraged ETF",
         "杠杆产品,新生效日期10月10日": "Leveraged product, new effective date Oct 10",
         "SEC延期至6月11日": "SEC delayed to June 11",
-        "Coinbase担任托管方": "Coinbase as custodian"
+        "Coinbase担任托管方": "Coinbase as custodian",
+        "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目": "Part of SEC EDGAR 2025/2026 crypto asset filing pipeline",
+        "历史申报记录，已撤回或被拒绝": "Historical filing, withdrawn or denied",
+        "待通过 (2026 窗口期)": "Pending (2026 Window)"
     }
 };
 
@@ -206,6 +226,9 @@ function updateUILanguage() {
     if (el('footerSource')) el('footerSource').textContent = t('footerSource');
     if (el('footerCopyright')) el('footerCopyright').textContent = t('footerCopyright');
     if (el('searchInput')) el('searchInput').placeholder = t('searchPlaceholder');
+    if (el('titleCharts')) el('titleCharts').textContent = t('titleCharts');
+    if (el('chartTitleIssuers')) el('chartTitleIssuers').textContent = t('chartTitleIssuers');
+    if (el('chartTitleCrypto')) el('chartTitleCrypto').textContent = t('chartTitleCrypto');
 }
 
 // Comprehensive SEC Crypto ETF Application Data
@@ -1233,7 +1256,7 @@ function renderIssuerChart() {
         data: {
             labels: labels,
             datasets: [{
-                label: currentLang === 'zh' ? '产品数量' : 'Products',
+                label: t('productCount'),
                 data: data,
                 backgroundColor: colors,
                 borderColor: '#1C1917',
@@ -1419,7 +1442,7 @@ function renderTimeline() {
         .slice(0, 5);
 
     if (upcoming.length === 0) {
-        timelineEl.innerHTML = `<div class="timeline-empty">${currentLang === 'zh' ? '暂无待通过申请' : 'No pending applications'}</div>`;
+        timelineEl.innerHTML = `<div class="timeline-empty">${t('none')}</div>`;
         return;
     }
 
@@ -1432,7 +1455,7 @@ function renderTimeline() {
             </div>
             <div class="timeline-issuer">${app.issuer}</div>
             <div class="timeline-countdown">
-                📋 ${currentLang === 'zh' ? '待通过' : 'Pending'}
+                📋 ${t('statusPending')}
             </div>
         </div>
     `).join('');
@@ -1631,11 +1654,11 @@ function createApplicationCard(app) {
             <div class="card-meta">
                 <div class="meta-item">
                     <span class="meta-label">${t('cardFilingType')}</span>
-                    <span class="meta-value">${t(app.filingType || 'N/A')}</span>
+                    <span class="meta-value">${t(app.filingType || 'none')}</span>
                 </div>
                 <div class="meta-item">
                     <span class="meta-label">${t('cardFilingDate')}</span>
-                    <span class="meta-value">${app.filingDate ? formatDate(app.filingDate) : 'N/A'}</span>
+                    <span class="meta-value">${app.filingDate ? formatDate(app.filingDate) : t('none')}</span>
                 </div>
                 <div class="meta-item">
                     <span class="meta-label">${status === 'approved' ? t('statusApprovedDate') : t('cardStatus')}</span>
@@ -1643,7 +1666,7 @@ function createApplicationCard(app) {
                 </div>
                 <div class="meta-item">
                     <span class="meta-label">${t('cardNotes')}</span>
-                    <span class="meta-value">${t(app.notes || '无')}</span>
+                    <span class="meta-value">${t(app.notes || 'none')}</span>
                 </div>
             </div>
             
