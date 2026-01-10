@@ -1627,10 +1627,7 @@ function createApplicationCard(app) {
                 </div>
                 ` : ''}
             </div>
-            <div class="card-trading-info">
-                <span class="trading-tag"><strong>${t('cardExchange')}:</strong> ${app.exchange || 'NYSE/NASDAQ'}</span>
-                <span class="trading-tag"><strong>${t('cardExpenseRatio')}:</strong> ${app.expenseRatio || (status === 'approved' ? '0.25%' : 'TBD')}</span>
-            </div>
+
             <div class="card-meta">
                 <div class="meta-item">
                     <span class="meta-label">${t('cardFilingType')}</span>

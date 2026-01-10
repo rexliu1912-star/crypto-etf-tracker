@@ -117,8 +117,8 @@ const CRYPTO_ETF_ISSUERS = [
     // ==================== OTHER ISSUERS ====================
     { cik: '0001767057', name: 'Osprey Bitcoin Trust', symbol: 'OBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'OBTC' },
     { cik: '0002048583', name: 'CoinShares XRP ETF', symbol: 'CSXR', crypto: 'XRP', status: 'pending', ticker: 'CSXR' },
-    { cik: '0001852026', name: 'Grayscale Cardano Trust', symbol: 'ADA', crypto: 'Cardano', status: 'denied', ticker: 'ADA', notes: 'SEC已延期决定至10月26日' },
-    { cik: '0001884022', name: 'Tuttle Capital 2X Cardano ETF', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', type: '2x', notes: '杠杆产品,新生效日期10月10日' }
+    { cik: '0001852026', name: 'Grayscale Cardano Trust', issuer: 'Grayscale', symbol: 'ADA', crypto: 'Cardano', status: 'denied', ticker: 'ADA', notes: 'SEC已延期决定至10月26日' },
+    { cik: '0001884022', name: 'Tuttle Capital 2X Cardano ETF', issuer: 'Tuttle Capital', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', type: '2x', notes: '杠杆产品,新生效日期10月10日' }
 ];
 
 // Verified product counts by issuer
@@ -204,13 +204,14 @@ function extractIssuerName(fullName) {
         /^(ARK)/i, /^(21Shares)/i, /^(Hashdex)/i, /^(Franklin)/i,
         /^(Calamos)/i, /^(Volatility Shares)/i, /^(ProShares)/i,
         /^(Bitwise)/i, /^(WisdomTree)/i, /^(CoinShares)/i, /^(Canary)/i,
-        /^(Invesco)/i, /^(Osprey)/i,
+        /^(Invesco)/i, /^(Osprey)/i, /^(Tuttle)/i, /^(Global X)/i,
     ];
     for (const pattern of patterns) {
         const match = fullName.match(pattern);
         if (match) return match[1];
     }
-    return fullName.split(' ')[0];
+    const cleanName = fullName.replace(/^\d+\s+/, '').trim();
+    return cleanName.split(' ')[0];
 }
 
 function processETFData(companyData, issuerInfo, filingIndex = 0) {
@@ -240,16 +241,16 @@ function processETFData(companyData, issuerInfo, filingIndex = 0) {
     return {
         id: `${issuerInfo.ticker}-${issuerInfo.cik}-${filingIndex}`,
         cryptocurrency: issuerInfo.crypto,
-        symbol: issuerInfo.crypto.substring(0, 3).toUpperCase(),
+        symbol: issuerInfo.symbol || issuerInfo.crypto.substring(0, 3).toUpperCase(),
         ticker: issuerInfo.ticker,
-        issuer: extractIssuerName(companyData?.name || issuerInfo.name),
+        issuer: issuerInfo.issuer || extractIssuerName(companyData?.name || issuerInfo.name),
         etfName: issuerInfo.name,
         filingType: filingType,
         filingDate: latestFilingDate,
         decisionDeadline: status === 'approved' ? '已通过 (交易中)' : '待通过',
         status: status,
         approvalOdds: status === 'approved' ? 100 : 70,
-        notes: status === 'approved' ? '已获SEC批准并开始交易' : '审批进行中',
+        notes: status === 'approved' ? (issuerInfo.notes || '已获SEC批准并开始交易') : (issuerInfo.notes || '审批进行中'),
         constituents: issuerInfo.constituents || null,
         source: 'SEC EDGAR (Verified)',
         cik: issuerInfo.cik,

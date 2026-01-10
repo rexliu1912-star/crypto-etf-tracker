@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-10T11:37:11.713Z",
+  "timestamp": "2026-01-10T11:45:40.866Z",
   "count": 220,
   "approvedCount": 57,
   "pendingCount": 126,
@@ -28,7 +28,7 @@
     {
       "id": "TETH-0001992508-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "TETH",
       "ticker": "TETH",
       "issuer": "21Shares",
       "etfName": "21Shares Ethereum ETF",
@@ -47,7 +47,7 @@
     {
       "id": "TSOL-0002057390-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "TSOL",
       "ticker": "TSOL",
       "issuer": "21Shares",
       "etfName": "21Shares Solana ETF",
@@ -66,7 +66,7 @@
     {
       "id": "BPI-0001976673-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BPI",
       "ticker": "BPI",
       "issuer": "AMF",
       "etfName": "Grayscale Bitcoin Premium Income ETF",
@@ -85,7 +85,7 @@
     {
       "id": "ARKB-0001869699-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "ARKB",
       "ticker": "ARKB",
       "issuer": "Ark",
       "etfName": "ARK 21Shares Bitcoin ETF",
@@ -104,7 +104,7 @@
     {
       "id": "BITB-0001763415-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BITB",
       "ticker": "BITB",
       "issuer": "Bitwise",
       "etfName": "Bitwise Bitcoin ETF",
@@ -123,7 +123,7 @@
     {
       "id": "ETHW-0002013744-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHW",
       "ticker": "ETHW",
       "issuer": "Bitwise",
       "etfName": "Bitwise Ethereum ETF",
@@ -142,7 +142,7 @@
     {
       "id": "BITW-0001723788-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "BITW",
       "ticker": "BITW",
       "issuer": "Bitwise",
       "etfName": "Bitwise 10 Crypto Index Fund",
@@ -191,7 +191,7 @@
     {
       "id": "XRPC-0002039505-0",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "XRPC",
       "ticker": "XRPC",
       "issuer": "Canary",
       "etfName": "Canary XRP ETF",
@@ -210,7 +210,7 @@
     {
       "id": "LTCC-0002039461-0",
       "cryptocurrency": "Litecoin",
-      "symbol": "LIT",
+      "symbol": "LTCC",
       "ticker": "LTCC",
       "issuer": "Canary",
       "etfName": "Canary Litecoin ETF",
@@ -229,7 +229,7 @@
     {
       "id": "ETHW-0002057391-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHW",
       "ticker": "ETHW",
       "issuer": "Columbia",
       "etfName": "WisdomTree Ethereum Fund",
@@ -248,7 +248,7 @@
     {
       "id": "ETHV-0001852063-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHV",
       "ticker": "ETHV",
       "issuer": "Esports",
       "etfName": "VanEck Ethereum ETF",
@@ -267,7 +267,7 @@
     {
       "id": "FBTC-0001852317-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "FBTC",
       "ticker": "FBTC",
       "issuer": "Fidelity",
       "etfName": "Fidelity Wise Origin Bitcoin Fund",
@@ -286,7 +286,7 @@
     {
       "id": "FETH-0002003125-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "FETH",
       "ticker": "FETH",
       "issuer": "Fidelity",
       "etfName": "Fidelity Ethereum Fund",
@@ -305,7 +305,7 @@
     {
       "id": "EZBC-0001992870-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "EZBC",
       "ticker": "EZBC",
       "issuer": "Franklin",
       "etfName": "Franklin Bitcoin ETF",
@@ -324,7 +324,7 @@
     {
       "id": "EZET-0002011535-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "EZET",
       "ticker": "EZET",
       "issuer": "Franklin",
       "etfName": "Franklin Ethereum ETF",
@@ -343,7 +343,7 @@
     {
       "id": "EZPZ-0002033807-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "EZPZ",
       "ticker": "EZPZ",
       "issuer": "Franklin",
       "etfName": "Franklin Crypto Index ETF",
@@ -365,7 +365,7 @@
     {
       "id": "XRPZ-0002059438-0",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "XRPZ",
       "ticker": "XRPZ",
       "issuer": "Franklin",
       "etfName": "Franklin XRP ETF",
@@ -384,7 +384,7 @@
     {
       "id": "SOEZ-0002057388-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "SOEZ",
       "ticker": "SOEZ",
       "issuer": "Franklin",
       "etfName": "Franklin Solana ETF",
@@ -403,7 +403,7 @@
     {
       "id": "GBTC-0001588489-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "GBTC",
       "ticker": "GBTC",
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Trust ETF",
@@ -422,7 +422,7 @@
     {
       "id": "BTC-0002015034-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BTC",
       "ticker": "BTC",
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Mini Trust ETF",
@@ -441,7 +441,7 @@
     {
       "id": "ETHE-0001725210-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHE",
       "ticker": "ETHE",
       "issuer": "Grayscale",
       "etfName": "Grayscale Ethereum Trust ETF",
@@ -479,7 +479,7 @@
     {
       "id": "GSOL-0001896677-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "GSOL",
       "ticker": "GSOL",
       "issuer": "Grayscale",
       "etfName": "Grayscale Solana Trust",
@@ -498,7 +498,7 @@
     {
       "id": "GLNK-0001852025-0",
       "cryptocurrency": "Chainlink",
-      "symbol": "CHA",
+      "symbol": "GLNK",
       "ticker": "GLNK",
       "issuer": "Grayscale",
       "etfName": "Grayscale Chainlink Trust",
@@ -517,7 +517,7 @@
     {
       "id": "GDLC-0001729997-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "GDLC",
       "ticker": "GDLC",
       "issuer": "Grayscale",
       "etfName": "Grayscale CoinDesk Crypto 5 ETF",
@@ -542,7 +542,7 @@
     {
       "id": "BTCC-0001976672-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BTCC",
       "ticker": "BTCC",
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
@@ -561,7 +561,7 @@
     {
       "id": "LTCN-0001732406-0",
       "cryptocurrency": "Litecoin",
-      "symbol": "LIT",
+      "symbol": "LTCN",
       "ticker": "LTCN",
       "issuer": "Grayscale",
       "etfName": "Grayscale Litecoin Trust",
@@ -580,7 +580,7 @@
     {
       "id": "AVAX-0002035053-0",
       "cryptocurrency": "Avalanche",
-      "symbol": "AVA",
+      "symbol": "AVAX",
       "ticker": "AVAX",
       "issuer": "Grayscale",
       "etfName": "Grayscale Avalanche Trust",
@@ -599,7 +599,7 @@
     {
       "id": "GXLM-0001761325-0",
       "cryptocurrency": "Stellar",
-      "symbol": "STE",
+      "symbol": "GXLM",
       "ticker": "GXLM",
       "issuer": "Grayscale",
       "etfName": "Grayscale Stellar Lumens Trust",
@@ -618,7 +618,7 @@
     {
       "id": "NCIQ-0002031069-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "NCIQ",
       "ticker": "NCIQ",
       "issuer": "Hashdex",
       "etfName": "Hashdex Nasdaq Crypto Index US ETF",
@@ -646,7 +646,7 @@
     {
       "id": "BTCO-0001855781-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BTCO",
       "ticker": "BTCO",
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Bitcoin ETF",
@@ -665,7 +665,7 @@
     {
       "id": "QETH-0001995569-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "QETH",
       "ticker": "QETH",
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Ethereum ETF",
@@ -684,7 +684,7 @@
     {
       "id": "IBIT-0001980994-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "IBIT",
       "ticker": "IBIT",
       "issuer": "iShares",
       "etfName": "iShares Bitcoin Trust ETF",
@@ -703,7 +703,7 @@
     {
       "id": "ETHA-0002000638-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHA",
       "ticker": "ETHA",
       "issuer": "iShares",
       "etfName": "iShares Ethereum Trust ETF",
@@ -722,7 +722,7 @@
     {
       "id": "IBLC-0001903833-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "IBLC",
       "ticker": "IBLC",
       "issuer": "iShares",
       "etfName": "iShares Blockchain and Tech ETF",
@@ -745,7 +745,7 @@
     {
       "id": "FDIG-0001903550-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "FDIG",
       "ticker": "FDIG",
       "issuer": "Lombard",
       "etfName": "Fidelity Crypto Industry and Digital Payments ETF",
@@ -768,7 +768,7 @@
     {
       "id": "BITQ-0001905963-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "BITQ",
       "ticker": "BITQ",
       "issuer": "Marklew",
       "etfName": "Bitwise Crypto Industry Innovators ETF",
@@ -791,7 +791,7 @@
     {
       "id": "BSOL-0002057389-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "BSOL",
       "ticker": "BSOL",
       "issuer": "McGrane",
       "etfName": "Bitwise Solana Staking ETF",
@@ -810,7 +810,7 @@
     {
       "id": "OBTC-0001767057-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "OBTC",
       "ticker": "OBTC",
       "issuer": "Osprey",
       "etfName": "Osprey Bitcoin Trust",
@@ -829,7 +829,7 @@
     {
       "id": "FSOL-0002057500-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "FSOL",
       "ticker": "FSOL",
       "issuer": "PineBridge",
       "etfName": "Fidelity Solana Fund",
@@ -848,7 +848,7 @@
     {
       "id": "BITO-0001174610-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BITO",
       "ticker": "BITO",
       "issuer": "PROSHARES",
       "etfName": "ProShares Bitcoin Strategy ETF",
@@ -867,7 +867,7 @@
     {
       "id": "BITU-0001174610-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BITU",
       "ticker": "BITU",
       "issuer": "PROSHARES",
       "etfName": "ProShares Ultra Bitcoin ETF",
@@ -886,7 +886,7 @@
     {
       "id": "BITI-0001174610-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BITI",
       "ticker": "BITI",
       "issuer": "PROSHARES",
       "etfName": "ProShares Short Bitcoin ETF",
@@ -905,7 +905,7 @@
     {
       "id": "SBIT-0001174610-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "SBIT",
       "ticker": "SBIT",
       "issuer": "PROSHARES",
       "etfName": "ProShares UltraShort Bitcoin ETF",
@@ -924,7 +924,7 @@
     {
       "id": "EETH-0001174610-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "EETH",
       "ticker": "EETH",
       "issuer": "PROSHARES",
       "etfName": "ProShares Ether Strategy ETF",
@@ -943,7 +943,7 @@
     {
       "id": "ETHT-0001174610-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHT",
       "ticker": "ETHT",
       "issuer": "PROSHARES",
       "etfName": "ProShares Ultra Ether ETF",
@@ -962,7 +962,7 @@
     {
       "id": "SETH-0001174610-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "SETH",
       "ticker": "SETH",
       "issuer": "PROSHARES",
       "etfName": "ProShares Short Ether ETF",
@@ -981,7 +981,7 @@
     {
       "id": "ETHD-0001174610-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHD",
       "ticker": "ETHD",
       "issuer": "PROSHARES",
       "etfName": "ProShares UltraShort Ether ETF",
@@ -1000,7 +1000,7 @@
     {
       "id": "BETH-0001174610-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "BETH",
       "ticker": "BETH",
       "issuer": "PROSHARES",
       "etfName": "ProShares Bitcoin & Ether Market Cap Weight ETF",
@@ -1022,7 +1022,7 @@
     {
       "id": "BETE-0001174610-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "BETE",
       "ticker": "BETE",
       "issuer": "PROSHARES",
       "etfName": "ProShares Bitcoin & Ether Equal Weight ETF",
@@ -1044,7 +1044,7 @@
     {
       "id": "GXRP-0001833502-0",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "GXRP",
       "ticker": "GXRP",
       "issuer": "TheWMarketplace",
       "etfName": "Grayscale XRP Trust",
@@ -1063,7 +1063,7 @@
     {
       "id": "HODL-0001838028-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "HODL",
       "ticker": "HODL",
       "issuer": "VanEck",
       "etfName": "VanEck Bitcoin Trust",
@@ -1082,7 +1082,7 @@
     {
       "id": "VSOL-0002028541-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "VSOL",
       "ticker": "VSOL",
       "issuer": "VanEck",
       "etfName": "VanEck Solana ETF",
@@ -1101,7 +1101,7 @@
     {
       "id": "BITX-0001884021-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BITX",
       "ticker": "BITX",
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
@@ -1120,7 +1120,7 @@
     {
       "id": "ETHU-0001884021-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "ETHU",
       "ticker": "ETHU",
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
@@ -1139,7 +1139,7 @@
     {
       "id": "BTCW-0001850391-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "BTCW",
       "ticker": "BTCW",
       "issuer": "WisdomTree",
       "etfName": "WisdomTree Bitcoin Fund",
@@ -1158,7 +1158,7 @@
     {
       "id": "DOGE-0002064314-0",
       "cryptocurrency": "Dogecoin",
-      "symbol": "DOG",
+      "symbol": "DOGE",
       "ticker": "DOGE",
       "issuer": "21Shares",
       "etfName": "21Shares Dogecoin ETF",
@@ -1177,7 +1177,7 @@
     {
       "id": "undefined-0002028834-5",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Solana ETF",
       "filingType": "Spot ETF",
@@ -1195,7 +1195,7 @@
     {
       "id": "undefined-0002028834-7",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Solana ETF",
       "filingType": "Spot ETF",
@@ -1213,7 +1213,7 @@
     {
       "id": "undefined-0002028834-8",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Solana ETF",
       "filingType": "Spot ETF",
@@ -1231,7 +1231,7 @@
     {
       "id": "undefined-0002028834-9",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Solana ETF",
       "filingType": "Spot ETF",
@@ -1249,7 +1249,7 @@
     {
       "id": "undefined-0002028834-10",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Solana ETF",
       "filingType": "Spot ETF",
@@ -1267,7 +1267,7 @@
     {
       "id": "undefined-0002028834-11",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Solana ETF",
       "filingType": "Spot ETF",
@@ -1285,7 +1285,7 @@
     {
       "id": "undefined-0002028835-3",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
@@ -1303,7 +1303,7 @@
     {
       "id": "undefined-0002028835-4",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
@@ -1321,7 +1321,7 @@
     {
       "id": "undefined-0002028835-6",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
@@ -1339,7 +1339,7 @@
     {
       "id": "undefined-0002028835-7",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
@@ -1357,7 +1357,7 @@
     {
       "id": "undefined-0002028835-8",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
@@ -1375,7 +1375,7 @@
     {
       "id": "undefined-0002028835-9",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
@@ -1393,7 +1393,7 @@
     {
       "id": "undefined-0002061626-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Sui ETF",
       "filingType": "Spot ETF",
@@ -1411,7 +1411,7 @@
     {
       "id": "undefined-0002061626-1",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Sui ETF",
       "filingType": "Spot ETF",
@@ -1429,7 +1429,7 @@
     {
       "id": "undefined-0002061626-2",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "21Shares",
       "etfName": "21Shares Sui ETF",
       "filingType": "Spot ETF",
@@ -1443,25 +1443,6 @@
       "cik": "0002061626",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002061626",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061626/000121390025037812/ea0240078-s1_21shares.htm"
-    },
-    {
-      "id": "ADA-0001884022-0",
-      "cryptocurrency": "Cardano",
-      "symbol": "CAR",
-      "ticker": "ADA",
-      "issuer": "9205",
-      "etfName": "Tuttle Capital 2X Cardano ETF",
-      "filingType": "2x Leveraged ETF",
-      "filingDate": "2021-09-21",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001884022",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884022",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "SEC-PIPE-2025085",
@@ -1478,7 +1459,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001098313",
+      "cik": "0001031713",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -1497,7 +1478,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001061542",
+      "cik": "0001086746",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -1516,14 +1497,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001034866",
+      "cik": "0001035308",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "undefined-0001095146-12",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "PEND",
       "issuer": "Athena",
       "etfName": "Athena Bitcoin Global",
       "filingType": "Spot ETF",
@@ -1541,7 +1522,7 @@
     {
       "id": "undefined-0001095146-16",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "PEND",
       "issuer": "Athena",
       "etfName": "Athena Bitcoin Global",
       "filingType": "Spot ETF",
@@ -1559,7 +1540,7 @@
     {
       "id": "undefined-0001095146-23",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "PEND",
       "issuer": "Athena",
       "etfName": "Athena Bitcoin Global",
       "filingType": "Spot ETF",
@@ -1577,7 +1558,7 @@
     {
       "id": "undefined-0001095146-25",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "PEND",
       "issuer": "Athena",
       "etfName": "Athena Bitcoin Global",
       "filingType": "Spot ETF",
@@ -1595,7 +1576,7 @@
     {
       "id": "undefined-0001095146-28",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "PEND",
       "issuer": "Athena",
       "etfName": "Athena Bitcoin Global",
       "filingType": "Spot ETF",
@@ -1613,7 +1594,7 @@
     {
       "id": "MSSOL-0002103614-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "MSSOL",
       "ticker": "MSSOL",
       "issuer": "Atlantic",
       "etfName": "Morgan Stanley Solana Trust",
@@ -1632,7 +1613,7 @@
     {
       "id": "TTOP-0002075000-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "TTOP",
       "ticker": "TTOP",
       "issuer": "BIOSPRING",
       "etfName": "21Shares FTSE Crypto 10 Index ETF",
@@ -1662,7 +1643,7 @@
     {
       "id": "undefined-0002045872-5",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana ETF",
       "filingType": "Spot ETF",
@@ -1680,7 +1661,7 @@
     {
       "id": "undefined-0002045872-7",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana ETF",
       "filingType": "Spot ETF",
@@ -1698,7 +1679,7 @@
     {
       "id": "undefined-0002045872-8",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana ETF",
       "filingType": "Spot ETF",
@@ -1716,7 +1697,7 @@
     {
       "id": "undefined-0002045872-9",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana ETF",
       "filingType": "Spot ETF",
@@ -1734,7 +1715,7 @@
     {
       "id": "undefined-0002045872-10",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana ETF",
       "filingType": "Spot ETF",
@@ -1752,7 +1733,7 @@
     {
       "id": "undefined-0002045872-11",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana ETF",
       "filingType": "Spot ETF",
@@ -1770,7 +1751,7 @@
     {
       "id": "undefined-0002082889-3",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Chainlink ETF",
       "filingType": "Spot ETF",
@@ -1788,7 +1769,7 @@
     {
       "id": "undefined-0002082889-4",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Chainlink ETF",
       "filingType": "Spot ETF",
@@ -1806,7 +1787,7 @@
     {
       "id": "undefined-0002082889-5",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Chainlink ETF",
       "filingType": "Spot ETF",
@@ -1824,7 +1805,7 @@
     {
       "id": "undefined-0002053791-3",
       "cryptocurrency": "Dogecoin",
-      "symbol": "DOG",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Dogecoin ETF",
       "filingType": "Spot ETF",
@@ -1842,7 +1823,7 @@
     {
       "id": "undefined-0002053791-4",
       "cryptocurrency": "Dogecoin",
-      "symbol": "DOG",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Dogecoin ETF",
       "filingType": "Spot ETF",
@@ -1860,7 +1841,7 @@
     {
       "id": "undefined-0002053791-5",
       "cryptocurrency": "Dogecoin",
-      "symbol": "DOG",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Dogecoin ETF",
       "filingType": "Spot ETF",
@@ -1878,7 +1859,7 @@
     {
       "id": "undefined-0002053791-6",
       "cryptocurrency": "Dogecoin",
-      "symbol": "DOG",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Dogecoin ETF",
       "filingType": "Spot ETF",
@@ -1896,7 +1877,7 @@
     {
       "id": "undefined-0002053791-7",
       "cryptocurrency": "Dogecoin",
-      "symbol": "DOG",
+      "symbol": "PEND",
       "issuer": "Bitwise",
       "etfName": "Bitwise Dogecoin ETF",
       "filingType": "Spot ETF",
@@ -1926,7 +1907,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001097299",
+      "cik": "0001042632",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -1945,14 +1926,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001010786",
+      "cik": "0001047133",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "HBAR-0002039459-0",
       "cryptocurrency": "Hedera",
-      "symbol": "HED",
+      "symbol": "HBAR",
       "ticker": "HBAR",
       "issuer": "Canary",
       "etfName": "Canary HBAR Trust",
@@ -1971,7 +1952,7 @@
     {
       "id": "SOLS-0002041869-0",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "SOLS",
       "ticker": "SOLS",
       "issuer": "Canary",
       "etfName": "Canary Solana ETF",
@@ -1990,7 +1971,7 @@
     {
       "id": "MRCA-0002083119-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "MRCA",
       "ticker": "MRCA",
       "issuer": "Canary",
       "etfName": "Canary American-Made Crypto ETF",
@@ -2009,7 +1990,7 @@
     {
       "id": "undefined-0002039458-13",
       "cryptocurrency": "Hedera",
-      "symbol": "HED",
+      "symbol": "PEND",
       "issuer": "Canary",
       "etfName": "Canary HBAR ETF",
       "filingType": "Spot ETF",
@@ -2027,7 +2008,7 @@
     {
       "id": "undefined-0002039458-14",
       "cryptocurrency": "Hedera",
-      "symbol": "HED",
+      "symbol": "PEND",
       "issuer": "Canary",
       "etfName": "Canary HBAR ETF",
       "filingType": "Spot ETF",
@@ -2045,7 +2026,7 @@
     {
       "id": "undefined-0002039458-15",
       "cryptocurrency": "Hedera",
-      "symbol": "HED",
+      "symbol": "PEND",
       "issuer": "Canary",
       "etfName": "Canary HBAR ETF",
       "filingType": "Spot ETF",
@@ -2063,7 +2044,7 @@
     {
       "id": "undefined-0002039458-16",
       "cryptocurrency": "Hedera",
-      "symbol": "HED",
+      "symbol": "PEND",
       "issuer": "Canary",
       "etfName": "Canary HBAR ETF",
       "filingType": "Spot ETF",
@@ -2093,7 +2074,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001077790",
+      "cik": "0001079421",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2112,7 +2093,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001019676",
+      "cik": "0001004328",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2131,7 +2112,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001097243",
+      "cik": "0001001222",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2150,7 +2131,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001077902",
+      "cik": "0001039428",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2169,14 +2150,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001097242",
+      "cik": "0001031488",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "CSXR-0002048583-0",
       "cryptocurrency": "XRP",
-      "symbol": "XRP",
+      "symbol": "CSXR",
       "ticker": "CSXR",
       "issuer": "CoinShares",
       "etfName": "CoinShares XRP ETF",
@@ -2195,7 +2176,7 @@
     {
       "id": "undefined-0001958928-9",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "COTWO",
       "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
       "filingType": "Spot ETF",
@@ -2213,7 +2194,7 @@
     {
       "id": "undefined-0001958928-12",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "COTWO",
       "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
       "filingType": "Spot ETF",
@@ -2231,7 +2212,7 @@
     {
       "id": "undefined-0001958928-16",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "COTWO",
       "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
       "filingType": "Spot ETF",
@@ -2249,7 +2230,7 @@
     {
       "id": "undefined-0001958928-19",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "COTWO",
       "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
       "filingType": "Spot ETF",
@@ -2267,7 +2248,7 @@
     {
       "id": "undefined-0001958928-22",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "COTWO",
       "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
       "filingType": "Spot ETF",
@@ -2297,7 +2278,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001045627",
+      "cik": "0001088139",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2316,14 +2297,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001082059",
+      "cik": "0001091562",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "undefined-0002063380-5",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Fidelity",
       "etfName": "Fidelity Solana Fund",
       "filingType": "Spot ETF",
@@ -2341,7 +2322,7 @@
     {
       "id": "undefined-0002063380-6",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Fidelity",
       "etfName": "Fidelity Solana Fund",
       "filingType": "Spot ETF",
@@ -2359,7 +2340,7 @@
     {
       "id": "undefined-0002063380-7",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Fidelity",
       "etfName": "Fidelity Solana Fund",
       "filingType": "Spot ETF",
@@ -2377,7 +2358,7 @@
     {
       "id": "undefined-0002063380-8",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Fidelity",
       "etfName": "Fidelity Solana Fund",
       "filingType": "Spot ETF",
@@ -2395,7 +2376,7 @@
     {
       "id": "undefined-0002063380-9",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Fidelity",
       "etfName": "Fidelity Solana Fund",
       "filingType": "Spot ETF",
@@ -2425,7 +2406,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001010429",
+      "cik": "0001027300",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2444,7 +2425,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001087356",
+      "cik": "0001015152",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2463,7 +2444,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001067275",
+      "cik": "0001046060",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2482,7 +2463,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001071402",
+      "cik": "0001000988",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2501,7 +2482,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001000964",
+      "cik": "0001072047",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2520,7 +2501,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001040778",
+      "cik": "0001063909",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2539,7 +2520,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001098004",
+      "cik": "0001079274",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2558,14 +2539,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001078444",
+      "cik": "0001029939",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "GDOG-0002055510-0",
       "cryptocurrency": "Dogecoin",
-      "symbol": "DOG",
+      "symbol": "GDOG",
       "ticker": "GDOG",
       "issuer": "Grayscale",
       "etfName": "Grayscale Dogecoin Trust",
@@ -2584,7 +2565,7 @@
     {
       "id": "GTAO-0002029297-0",
       "cryptocurrency": "Bittensor",
-      "symbol": "BIT",
+      "symbol": "GTAO",
       "ticker": "GTAO",
       "issuer": "Grayscale",
       "etfName": "Grayscale Bittensor Trust",
@@ -2603,7 +2584,7 @@
     {
       "id": "undefined-0002084948-0",
       "cryptocurrency": "Hedera",
-      "symbol": "HED",
+      "symbol": "PEND",
       "issuer": "Grayscale",
       "etfName": "Grayscale Hedera Trust ETF",
       "filingType": "Spot ETF",
@@ -2633,7 +2614,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001031254",
+      "cik": "0001021054",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2652,7 +2633,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001087295",
+      "cik": "0001023707",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2671,14 +2652,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001084352",
+      "cik": "0001006769",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "undefined-0002074409-4",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Solana ETF",
       "filingType": "Spot ETF",
@@ -2696,7 +2677,7 @@
     {
       "id": "undefined-0002074409-5",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Solana ETF",
       "filingType": "Spot ETF",
@@ -2714,7 +2695,7 @@
     {
       "id": "undefined-0002074409-6",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Solana ETF",
       "filingType": "Spot ETF",
@@ -2732,7 +2713,7 @@
     {
       "id": "undefined-0002074409-7",
       "cryptocurrency": "Solana",
-      "symbol": "SOL",
+      "symbol": "PEND",
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Solana ETF",
       "filingType": "Spot ETF",
@@ -2762,7 +2743,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001057241",
+      "cik": "0001089236",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2781,14 +2762,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001066398",
+      "cik": "0001047038",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "undefined-0002073505-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Kraneshares",
       "etfName": "Kraneshares Crypto Trust",
       "filingType": "Spot ETF",
@@ -2806,7 +2787,7 @@
     {
       "id": "undefined-0002073505-1",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Kraneshares",
       "etfName": "Kraneshares Crypto Trust",
       "filingType": "Spot ETF",
@@ -2824,7 +2805,7 @@
     {
       "id": "undefined-0002073505-2",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Kraneshares",
       "etfName": "Kraneshares Crypto Trust",
       "filingType": "Spot ETF",
@@ -2842,7 +2823,7 @@
     {
       "id": "MSBTC-0002103612-0",
       "cryptocurrency": "Bitcoin",
-      "symbol": "BIT",
+      "symbol": "MSBTC",
       "ticker": "MSBTC",
       "issuer": "Morgan",
       "etfName": "Morgan Stanley Bitcoin Trust",
@@ -2861,7 +2842,7 @@
     {
       "id": "MSETH-0002103613-0",
       "cryptocurrency": "Ethereum",
-      "symbol": "ETH",
+      "symbol": "MSETH",
       "ticker": "MSETH",
       "issuer": "Morgan",
       "etfName": "Morgan Stanley Ethereum Trust",
@@ -2892,7 +2873,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001031798",
+      "cik": "0001002792",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2911,7 +2892,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001015051",
+      "cik": "0001004261",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2930,7 +2911,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001069434",
+      "cik": "0001005638",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2949,7 +2930,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001092108",
+      "cik": "0001040232",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2968,7 +2949,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001053689",
+      "cik": "0001001645",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2987,7 +2968,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001087170",
+      "cik": "0001059474",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3006,7 +2987,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001026117",
+      "cik": "0001007763",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3025,7 +3006,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001077544",
+      "cik": "0001042930",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3044,7 +3025,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001007555",
+      "cik": "0001081652",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3063,7 +3044,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001018668",
+      "cik": "0001013946",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3082,7 +3063,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001023757",
+      "cik": "0001089391",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3101,7 +3082,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001041931",
+      "cik": "0001043684",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3120,7 +3101,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001026579",
+      "cik": "0001090112",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3139,14 +3120,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001012466",
+      "cik": "0001023110",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "undefined-0002089855-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "T.",
       "etfName": "T. Rowe Price Active Crypto ETF",
       "filingType": "Spot ETF",
@@ -3176,7 +3157,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001023545",
+      "cik": "0001008545",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3195,14 +3176,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001095582",
+      "cik": "0001022622",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "undefined-0001985840-18",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Tidal",
       "etfName": "Tidal Commodities Trust I",
       "filingType": "Spot ETF",
@@ -3220,7 +3201,7 @@
     {
       "id": "undefined-0001985840-22",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Tidal",
       "etfName": "Tidal Commodities Trust I",
       "filingType": "Spot ETF",
@@ -3238,7 +3219,7 @@
     {
       "id": "undefined-0001985840-23",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Tidal",
       "etfName": "Tidal Commodities Trust I",
       "filingType": "Spot ETF",
@@ -3256,7 +3237,7 @@
     {
       "id": "undefined-0001985840-25",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Tidal",
       "etfName": "Tidal Commodities Trust I",
       "filingType": "Spot ETF",
@@ -3274,7 +3255,7 @@
     {
       "id": "undefined-0001985840-28",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "Tidal",
       "etfName": "Tidal Commodities Trust I",
       "filingType": "Spot ETF",
@@ -3288,6 +3269,25 @@
       "cik": "0001985840",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001985840",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000201910124000001/xslF345X02/primary_doc.xml"
+    },
+    {
+      "id": "ADA-0001884022-0",
+      "cryptocurrency": "Cardano",
+      "symbol": "ADA",
+      "ticker": "ADA",
+      "issuer": "Tuttle Capital",
+      "etfName": "Tuttle Capital 2X Cardano ETF",
+      "filingType": "2x Leveraged ETF",
+      "filingDate": "2021-09-21",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "杠杆产品,新生效日期10月10日",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001884022",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884022",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "SEC-PIPE-2025089",
@@ -3304,7 +3304,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001089448",
+      "cik": "0001092231",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3323,14 +3323,14 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001010920",
+      "cik": "0001022455",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
     {
       "id": "undefined-0002060717-0",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "VanEck",
       "etfName": "VanEck Avalanche ETF",
       "filingType": "Spot ETF",
@@ -3348,7 +3348,7 @@
     {
       "id": "undefined-0002060717-1",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "VanEck",
       "etfName": "VanEck Avalanche ETF",
       "filingType": "Spot ETF",
@@ -3366,7 +3366,7 @@
     {
       "id": "undefined-0002060717-2",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "VanEck",
       "etfName": "VanEck Avalanche ETF",
       "filingType": "Spot ETF",
@@ -3384,7 +3384,7 @@
     {
       "id": "undefined-0002060717-3",
       "cryptocurrency": "Multi-Crypto",
-      "symbol": "MUL",
+      "symbol": "PEND",
       "issuer": "VanEck",
       "etfName": "VanEck Avalanche ETF",
       "filingType": "Spot ETF",
@@ -3414,7 +3414,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001078339",
+      "cik": "0001037870",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3433,7 +3433,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001001115",
+      "cik": "0001091060",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3452,7 +3452,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001011310",
+      "cik": "0001032369",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3471,7 +3471,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001038751",
+      "cik": "0001040605",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3490,7 +3490,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001065680",
+      "cik": "0001089871",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3509,7 +3509,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001075467",
+      "cik": "0001088705",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3528,7 +3528,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001063395",
+      "cik": "0001087585",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3547,7 +3547,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001040942",
+      "cik": "0001001214",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3566,7 +3566,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001011144",
+      "cik": "0001052548",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3585,7 +3585,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001025453",
+      "cik": "0001043938",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3604,7 +3604,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001098058",
+      "cik": "0001043167",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3623,9 +3623,28 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001033616",
+      "cik": "0001073300",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
+    },
+    {
+      "id": "ADA-0001852026-0",
+      "cryptocurrency": "Cardano",
+      "symbol": "ADA",
+      "ticker": "ADA",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Cardano Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2021-04-05",
+      "decisionDeadline": "待通过",
+      "status": "denied",
+      "approvalOdds": 70,
+      "notes": "SEC已延期决定至10月26日",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001852026",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001852026",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852026/000185202621000001/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "SEC-LEGACY-2020000",
@@ -3642,7 +3661,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001050462",
+      "cik": "0001076187",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3661,7 +3680,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001090412",
+      "cik": "0001063642",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3680,7 +3699,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001063742",
+      "cik": "0001076970",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3699,7 +3718,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001096748",
+      "cik": "0001024982",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3718,7 +3737,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001015800",
+      "cik": "0001029523",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3737,7 +3756,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001010262",
+      "cik": "0001044963",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3756,7 +3775,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001070017",
+      "cik": "0001083961",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3775,7 +3794,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001092333",
+      "cik": "0001029821",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3794,7 +3813,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001093654",
+      "cik": "0001008724",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3813,7 +3832,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001010635",
+      "cik": "0001021628",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3832,7 +3851,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001029661",
+      "cik": "0001085860",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3851,7 +3870,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001028882",
+      "cik": "0001011505",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3870,7 +3889,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001095802",
+      "cik": "0001093121",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3889,7 +3908,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001067898",
+      "cik": "0001083904",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3908,28 +3927,9 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001090550",
+      "cik": "0001045133",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
-    },
-    {
-      "id": "ADA-0001852026-0",
-      "cryptocurrency": "Cardano",
-      "symbol": "CAR",
-      "ticker": "ADA",
-      "issuer": "ONE",
-      "etfName": "Grayscale Cardano Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2021-04-05",
-      "decisionDeadline": "待通过",
-      "status": "denied",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001852026",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001852026",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852026/000185202621000001/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "SEC-LEGACY-2020001",
@@ -3946,7 +3946,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001029944",
+      "cik": "0001089519",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3965,7 +3965,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001064519",
+      "cik": "0001057691",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3984,7 +3984,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001078597",
+      "cik": "0001052066",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4003,7 +4003,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001010133",
+      "cik": "0001015300",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4022,7 +4022,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001039965",
+      "cik": "0001029526",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4041,7 +4041,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001094093",
+      "cik": "0001074846",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4060,7 +4060,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001028278",
+      "cik": "0001007591",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4079,7 +4079,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001081559",
+      "cik": "0001078627",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4098,7 +4098,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001037908",
+      "cik": "0001070393",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4117,7 +4117,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001017851",
+      "cik": "0001097600",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4136,7 +4136,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001007853",
+      "cik": "0001068737",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4155,7 +4155,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001071884",
+      "cik": "0001049002",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4174,7 +4174,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001060113",
+      "cik": "0001078830",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4193,7 +4193,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001068144",
+      "cik": "0001095565",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     }
