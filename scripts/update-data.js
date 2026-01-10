@@ -333,11 +333,22 @@ async function main() {
         5, 200 // Conservative rate limit
     );
 
-    // 2. Discover New Issuers (Simplified for script run - optional but good to have)
-    console.log('Scanning for new filings...');
+    // 2. Discover New Issuers (Expanded search - matches original server.js)
+    console.log('Scanning for new filings (expanded search)...');
     const searchTerms = [
         'cryptocurrency ETF spot 19b-4',
-        'bitcoin ethereum solana xrp spot ETF S-1'
+        'bitcoin ethereum solana xrp spot ETF S-1',
+        'Digital Asset Trust S-1',
+        'Bitcoin Strategy ETF 485',
+        'Crypto Index ETF N-1A',
+        'Ethereum Trust S-1',
+        'Solana Trust S-1',
+        'XRP Trust S-1',
+        'Litecoin Trust',
+        'Dogecoin ETF',
+        'Avalanche ETF',
+        'Cardano Trust',
+        'Polkadot Trust'
     ];
 
     const discoveredIssuersMap = new Map();
@@ -355,20 +366,33 @@ async function main() {
                         const nameMatch = bucket.key.match(/^(.+?)\s*\(.*CIK/);
                         const name = nameMatch ? nameMatch[1].trim() : bucket.key.split('(')[0].trim();
 
-                        // Simple crypto type guesser
+                        // Enhanced crypto type detection (matches original server.js)
                         let cryptoType = 'Multi-Crypto';
                         const lowerName = name.toLowerCase();
                         if (lowerName.includes('bitcoin')) cryptoType = 'Bitcoin';
                         else if (lowerName.includes('ethereum')) cryptoType = 'Ethereum';
                         else if (lowerName.includes('solana')) cryptoType = 'Solana';
                         else if (lowerName.includes('xrp')) cryptoType = 'XRP';
+                        else if (lowerName.includes('avalanche')) cryptoType = 'Avalanche';
+                        else if (lowerName.includes('cardano')) cryptoType = 'Cardano';
+                        else if (lowerName.includes('litecoin')) cryptoType = 'Litecoin';
+                        else if (lowerName.includes('dogecoin')) cryptoType = 'Dogecoin';
+                        else if (lowerName.includes('polkadot')) cryptoType = 'Polkadot';
+                        else if (lowerName.includes('chainlink')) cryptoType = 'Chainlink';
+                        else if (lowerName.includes('stellar')) cryptoType = 'Stellar';
+                        else if (lowerName.includes('bitcoin cash')) cryptoType = 'Bitcoin Cash';
+                        else if (lowerName.includes('hedera')) cryptoType = 'Hedera';
+                        else if (lowerName.includes('near')) cryptoType = 'Near Protocol';
+                        else if (lowerName.includes('uniswap')) cryptoType = 'Uniswap';
+                        else if (lowerName.includes('tron')) cryptoType = 'Tron';
+                        else if (lowerName.includes('aave')) cryptoType = 'Aave';
 
                         discoveredIssuersMap.set(cik, { cik, name, symbol: name.substring(0, 4).toUpperCase(), crypto: cryptoType });
                     }
                 }
             }
         }
-        await delay(1000); // Be nice to SEC
+        await delay(500); // Be nice to SEC but faster
     }
 
     const additionalIssuers = Array.from(discoveredIssuersMap.values());
