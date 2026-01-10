@@ -76,7 +76,7 @@ const translations = {
         btnApproved: "Approved",
         btnPending: "Pending",
         btnDenied: "Denied",
-        optAllCrypto: "All Cryptos",
+        optAllCrypto: "All Crypto",
         titleTimeline: "Decision Timeline",
         titleApplications: "All ETF Applications",
         titleCharts: "Core Data Analysis",
