@@ -26,7 +26,7 @@ const translations = {
         chartTitleIssuers: "发行商覆盖 (Top 10)",
         chartTitleCrypto: "加密货币分布",
         footerSource: "数据来源: SEC EDGAR | 仅供参考，不构成投资建议",
-        footerCopyright: "© 2026 SEC 加密货币 ETF 追踪器",
+        footerCopyright: '<a href="https://x.com/rexliu" target="_blank" style="color: inherit; text-decoration: none;">© Rex Liu</a>',
         searchPlaceholder: "搜索加密货币或发行商...",
         cardIssuer: "发行商",
         cardFilingType: "申请类型",
@@ -83,7 +83,7 @@ const translations = {
         chartTitleIssuers: "Issuer Coverage (Top 10)",
         chartTitleCrypto: "Cryptocurrency Distribution",
         footerSource: "Source: SEC EDGAR | For reference only",
-        footerCopyright: "© 2026 SEC Crypto ETF Tracker",
+        footerCopyright: '<a href="https://x.com/rexliu" target="_blank" style="color: inherit; text-decoration: none;">© Rex Liu</a>',
         searchPlaceholder: "Search crypto or issuer...",
         cardIssuer: "Issuer",
         cardFilingType: "Type",
@@ -92,7 +92,7 @@ const translations = {
         statusApprovedDate: "Approved Date",
         cardNotes: "Notes",
         cardOdds: "Approval Odds",
-        cardHistory: "🔗 Official Files",
+        cardHistory: "🔗 SEC Filing",
         cardTicker: "Ticker",
         cardExpenseRatio: "Expense Ratio",
         cardExchange: "Exchange",
@@ -224,7 +224,7 @@ function updateUILanguage() {
     if (el('titleTimeline')) el('titleTimeline').textContent = t('titleTimeline');
     if (el('titleApplications')) el('titleApplications').textContent = t('titleApplications');
     if (el('footerSource')) el('footerSource').textContent = t('footerSource');
-    if (el('footerCopyright')) el('footerCopyright').textContent = t('footerCopyright');
+    if (el('footerCopyright')) el('footerCopyright').innerHTML = t('footerCopyright');
     if (el('searchInput')) el('searchInput').placeholder = t('searchPlaceholder');
     if (el('titleCharts')) el('titleCharts').textContent = t('titleCharts');
     if (el('chartTitleIssuers')) el('chartTitleIssuers').textContent = t('chartTitleIssuers');
