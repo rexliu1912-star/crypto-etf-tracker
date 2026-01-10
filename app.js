@@ -1643,10 +1643,10 @@ function createApplicationCard(app) {
                 <div class="etf-name">${app.etfName || 'Unknown ETF'}</div>
                 <div class="issuer-name">${t('cardIssuer')}: ${app.issuer || 'Unknown'}</div>
                 ${app.constituents && app.constituents.length > 0 ? `
-                <div class="constituents-row" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 4px;">
-                    <span style="font-size: 0.7rem; color: var(--text-muted); margin-right: 4px;">${currentLang === 'zh' ? '包含:' : 'Contains:'}</span>
-                    ${app.constituents.slice(0, 5).map(c => `<span class="constituent-tag" style="font-size: 0.65rem; padding: 2px 6px; background: var(--bg-secondary); border-radius: 3px; color: var(--text-primary); border: 1px solid var(--bg-tertiary);">${c}</span>`).join('')}
-                    ${app.constituents.length > 5 ? `<span style="font-size: 0.65rem; color: var(--text-muted);">+${app.constituents.length - 5}</span>` : ''}
+                <div class="constituents-row" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 4px; align-items: center;">
+                    <span style="font-size: 0.7rem; color: var(--text-muted); margin-right: 4px; line-height: 1;">${currentLang === 'zh' ? '包含:' : 'Contains:'}</span>
+                    ${app.constituents.slice(0, 5).map(c => `<span class="constituent-tag" style="font-size: 0.65rem; padding: 2px 6px; background: var(--bg-secondary); border-radius: 3px; color: var(--text-primary); border: 1px solid var(--bg-tertiary); line-height: 1;">${c}</span>`).join('')}
+                    ${app.constituents.length > 5 ? `<span style="font-size: 0.65rem; color: var(--text-muted); line-height: 1;">+${app.constituents.length - 5}</span>` : ''}
                 </div>
                 ` : ''}
             </div>
