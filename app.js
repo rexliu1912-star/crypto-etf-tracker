@@ -1474,7 +1474,8 @@ function renderTimeline() {
                 <span class="symbol">${app.symbol}</span>
                 <span class="name">${app.cryptocurrency}</span>
             </div>
-            <div class="timeline-issuer">${app.issuer} - ${app.etfName}</div>
+            <div class="timeline-issuer">${app.issuer}</div>
+            <div class="timeline-etf-name">${app.etfName}</div>
             <div class="timeline-countdown">
                 ⏳ ${app.diffDays === 0 ? t('today') : `${app.diffDays} ${t('daysLeft')}`}
             </div>
