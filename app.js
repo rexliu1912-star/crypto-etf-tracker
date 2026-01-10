@@ -1437,23 +1437,28 @@ function renderTimeline() {
 
     const today = new Date();
     today.setHours(0, 0, 0, 0);
+    const SEC_REVIEW_DAYS = 240; // SEC standard review period
 
-    // Filter for pending ETFs with valid date deadlines
+    // Filter for pending ETFs with valid filing dates and calculate expected approval
     const upcoming = etfApplications
-        .filter(app => {
-            if (app.status !== 'pending') return false;
-            const deadline = app.decisionDeadline;
-            if (!deadline || deadline === 'N/A') return false;
-            // Check if it's a valid date format (YYYY-MM-DD)
-            return /^\d{4}-\d{2}-\d{2}$/.test(deadline);
-        })
+        .filter(app => app.status === 'pending' && app.filingDate && app.filingDate !== 'N/A')
         .map(app => {
-            const deadlineDate = new Date(app.decisionDeadline);
-            const diffTime = deadlineDate - today;
+            const filingDate = new Date(app.filingDate);
+            // Calculate expected approval date: filing date + 240 days
+            const expectedDate = new Date(filingDate);
+            expectedDate.setDate(expectedDate.getDate() + SEC_REVIEW_DAYS);
+
+            const diffTime = expectedDate - today;
             const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-            return { ...app, deadlineDate, diffDays };
+
+            return {
+                ...app,
+                expectedDate,
+                expectedDateStr: expectedDate.toISOString().split('T')[0],
+                diffDays
+            };
         })
-        .filter(app => app.diffDays >= 0) // Only future deadlines
+        .filter(app => app.diffDays >= 0) // Only future expected dates
         .sort((a, b) => a.diffDays - b.diffDays) // Nearest first
         .slice(0, 5);
 
@@ -1464,12 +1469,12 @@ function renderTimeline() {
 
     timelineEl.innerHTML = upcoming.map(app => `
         <div class="timeline-item">
-            <div class="timeline-date">${formatDate(app.decisionDeadline)}</div>
+            <div class="timeline-date">${formatDate(app.expectedDateStr)}</div>
             <div class="timeline-crypto">
                 <span class="symbol">${app.symbol}</span>
                 <span class="name">${app.cryptocurrency}</span>
             </div>
-            <div class="timeline-issuer">${app.issuer}</div>
+            <div class="timeline-issuer">${app.issuer} - ${app.etfName}</div>
             <div class="timeline-countdown">
                 ⏳ ${app.diffDays === 0 ? t('today') : `${app.diffDays} ${t('daysLeft')}`}
             </div>
