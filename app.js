@@ -1066,8 +1066,10 @@ async function fetchSECData(showLoading = false) {
     }
 
     try {
-        console.log('Fetching SEC EDGAR data...');
-        const response = await fetch(SEC_API_ENDPOINT);
+        console.log('Fetching SEC EDGAR data with cache bust...');
+        // Add timestamp to prevent browser caching of the JSON data
+        const cacheBuster = `?t=${Date.now()}`;
+        const response = await fetch(SEC_API_ENDPOINT + cacheBuster);
 
         if (!response.ok) {
             throw new Error(`API error: ${response.status}`);
@@ -1076,56 +1078,23 @@ async function fetchSECData(showLoading = false) {
         const result = await response.json();
 
         if (result.success && result.data && result.data.length > 0) {
-            // Merge SEC data with static data
-            const secData = result.data;
-
-            secData.forEach(secApp => {
-                const existingIndex = etfApplications.findIndex(app => {
-                    // Match by CIK if both have it
-                    if (secApp.cik && app.cik && secApp.cik === app.cik) return true;
-
-                    // Otherwise match by specific symbol OR a combination of issuer and name
-                    const nameMatch = app.etfName.toLowerCase().includes(secApp.etfName.toLowerCase()) ||
-                        secApp.etfName.toLowerCase().includes(app.etfName.toLowerCase());
-                    const symbolMatch = secApp.symbol && app.id.toLowerCase().includes(secApp.symbol.toLowerCase());
-                    const issuerMatch = app.issuer.toLowerCase() === secApp.issuer.toLowerCase();
-
-                    return (issuerMatch && nameMatch) || (issuerMatch && symbolMatch);
+            // Replace the entire application list with the verified data from the API
+            // This ensures we reflect the exact counts (220 total, 126 pending) from etf-data.json
+            etfApplications.length = 0; // Clear hardcoded data
+            result.data.forEach(secApp => {
+                etfApplications.push({
+                    ...secApp,
+                    id: secApp.id || secApp.cik || `sec-${secApp.symbol}-${Date.now() + Math.random()}`,
+                    source: secApp.source || 'SEC EDGAR (Verified)'
                 });
-
-                if (existingIndex === -1) {
-                    // Add new application from SEC
-                    etfApplications.push({
-                        ...secApp,
-                        id: secApp.cik || `sec-${secApp.symbol}-${Date.now()}`,
-                        source: 'SEC EDGAR'
-                    });
-                } else {
-                    // Update filing date from SEC
-                    if (secApp.filingDate && secApp.filingDate !== 'N/A') {
-                        etfApplications[existingIndex].filingDate = secApp.filingDate;
-                        etfApplications[existingIndex].source = 'SEC EDGAR';
-                    }
-                    if (secApp.status === 'approved') {
-                        etfApplications[existingIndex].status = 'approved';
-                        etfApplications[existingIndex].approvalOdds = 100;
-                    }
-                    // Add SEC links if available
-                    if (secApp.secLink) {
-                        etfApplications[existingIndex].secLink = secApp.secLink;
-                    }
-                    if (secApp.latestFilingLink) {
-                        etfApplications[existingIndex].latestFilingLink = secApp.latestFilingLink;
-                    }
-                }
             });
 
             currentDataSource = 'sec-api';
-            console.log(`✅ SEC EDGAR data loaded: ${result.count} applications`);
+            console.log(`✅ SEC EDGAR data loaded: ${etfApplications.length} applications`);
 
             // Update UI after successful fetch
             updateStats();
-            populateCryptoFilter(); // Update dropdown with all crypto types from API
+            populateCryptoFilter();
             renderApplications();
             renderTimeline();
             updateDataSourceIndicator();
@@ -1136,6 +1105,9 @@ async function fetchSECData(showLoading = false) {
         console.warn('⚠️ Using static data:', error.message);
         currentDataSource = 'static';
         updateDataSourceIndicator();
+        // Fallback: render static data if API fails but we already have static data
+        updateStats();
+        renderApplications();
     }
 }
 
