@@ -197,4 +197,4 @@ npx http-server .
 *   **延迟说明**: 由于 SEC API 的频率限制，数据可能会有偶尔的延迟。
 
 ---
-Developed by **Rex Liu** for Vibe Coding.
+Developed by **Rex Liu**.
