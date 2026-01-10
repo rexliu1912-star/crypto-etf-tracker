@@ -85,6 +85,11 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0001579982', name: 'ARK ETF Trust', symbol: 'ARKT', crypto: 'Multi-Crypto' },
     { cik: '0001859392', name: 'Galaxy Digital Inc', symbol: 'GLXY', crypto: 'Multi-Crypto' },
     { cik: '0000880631', name: 'WisdomTree Inc', symbol: 'WT', crypto: 'Multi-Crypto' },
+
+    // ==================== PROSHARES CRYPTO ETFs (12 products in single trust) ====================
+    // Note: All ProShares crypto ETFs are under the same CIK (umbrella trust)
+    // Individual products: BITO, BITI, BITU, SBIT, EETH, SETH, ETHT, ETHD, BETE, BETH, SLON, UXRP
+    { cik: '0001174610', name: 'ProShares Trust', symbol: 'BITO', crypto: 'Multi-Crypto' },
 ];
 
 const MULTI_CRYPTO_CONSTITUENTS = {
