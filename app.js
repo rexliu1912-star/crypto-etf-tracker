@@ -1435,10 +1435,26 @@ function populateCryptoFilter() {
 function renderTimeline() {
     if (!timelineEl) return;
 
-    // Show most recent pending ETF filings
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    // Filter for pending ETFs with valid date deadlines
     const upcoming = etfApplications
-        .filter(app => app.status === 'pending' && app.filingDate && app.filingDate !== 'N/A')
-        .sort((a, b) => new Date(b.filingDate) - new Date(a.filingDate))
+        .filter(app => {
+            if (app.status !== 'pending') return false;
+            const deadline = app.decisionDeadline;
+            if (!deadline || deadline === 'N/A') return false;
+            // Check if it's a valid date format (YYYY-MM-DD)
+            return /^\d{4}-\d{2}-\d{2}$/.test(deadline);
+        })
+        .map(app => {
+            const deadlineDate = new Date(app.decisionDeadline);
+            const diffTime = deadlineDate - today;
+            const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+            return { ...app, deadlineDate, diffDays };
+        })
+        .filter(app => app.diffDays >= 0) // Only future deadlines
+        .sort((a, b) => a.diffDays - b.diffDays) // Nearest first
         .slice(0, 5);
 
     if (upcoming.length === 0) {
@@ -1448,14 +1464,14 @@ function renderTimeline() {
 
     timelineEl.innerHTML = upcoming.map(app => `
         <div class="timeline-item">
-            <div class="timeline-date">${formatDate(app.filingDate)}</div>
+            <div class="timeline-date">${formatDate(app.decisionDeadline)}</div>
             <div class="timeline-crypto">
                 <span class="symbol">${app.symbol}</span>
                 <span class="name">${app.cryptocurrency}</span>
             </div>
             <div class="timeline-issuer">${app.issuer}</div>
             <div class="timeline-countdown">
-                📋 ${t('statusPending')}
+                ⏳ ${app.diffDays === 0 ? t('today') : `${app.diffDays} ${t('daysLeft')}`}
             </div>
         </div>
     `).join('');
