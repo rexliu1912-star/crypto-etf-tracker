@@ -23,7 +23,7 @@ const CRYPTO_ETF_ISSUERS = [
     // ==================== BLACKROCK / iSHARES (3 products) ====================
     { cik: '0001980994', name: 'iShares Bitcoin Trust ETF', symbol: 'IBIT', crypto: 'Bitcoin', status: 'approved', ticker: 'IBIT' },
     { cik: '0002000638', name: 'iShares Ethereum Trust ETF', symbol: 'ETHA', crypto: 'Ethereum', status: 'approved', ticker: 'ETHA' },
-    { cik: '0001903833', name: 'iShares Blockchain and Tech ETF', symbol: 'IBLC', crypto: 'Multi-Crypto', status: 'approved', ticker: 'IBLC' },
+    { cik: '0001903833', name: 'iShares Blockchain and Tech ETF', symbol: 'IBLC', crypto: 'Multi-Crypto', status: 'approved', ticker: 'IBLC', constituents: ['Bitcoin', 'Ethereum', 'Blockchain'] },
 
     // ==================== GRAYSCALE (15+ products) ====================
     { cik: '0001588489', name: 'Grayscale Bitcoin Trust ETF', symbol: 'GBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'GBTC' },
@@ -34,7 +34,7 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0001833502', name: 'Grayscale XRP Trust', symbol: 'GXRP', crypto: 'XRP', status: 'approved', ticker: 'GXRP' },
     { cik: '0002055510', name: 'Grayscale Dogecoin Trust', symbol: 'GDOG', crypto: 'Dogecoin', status: 'pending', ticker: 'GDOG' },
     { cik: '0001852025', name: 'Grayscale Chainlink Trust', symbol: 'GLNK', crypto: 'Chainlink', status: 'approved', ticker: 'GLNK' },
-    { cik: '0001729997', name: 'Grayscale CoinDesk Crypto 5 ETF', symbol: 'GDLC', crypto: 'Multi-Crypto', status: 'approved', ticker: 'GDLC' },
+    { cik: '0001729997', name: 'Grayscale CoinDesk Crypto 5 ETF', symbol: 'GDLC', crypto: 'Multi-Crypto', status: 'approved', ticker: 'GDLC', constituents: ['Bitcoin', 'Ethereum', 'Solana', 'XRP', 'Cardano'] },
     { cik: '0001976672', name: 'Grayscale Bitcoin Covered Call ETF', symbol: 'BTCC', crypto: 'Bitcoin', status: 'approved', ticker: 'BTCC' },
     { cik: '0001976673', name: 'Grayscale Bitcoin Premium Income ETF', symbol: 'BPI', crypto: 'Bitcoin', status: 'approved', ticker: 'BPI' },
     { cik: '0001732406', name: 'Grayscale Litecoin Trust', symbol: 'LTCN', crypto: 'Litecoin', status: 'approved', ticker: 'LTCN' },
@@ -46,7 +46,7 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0001852317', name: 'Fidelity Wise Origin Bitcoin Fund', symbol: 'FBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'FBTC' },
     { cik: '0002003125', name: 'Fidelity Ethereum Fund', symbol: 'FETH', crypto: 'Ethereum', status: 'approved', ticker: 'FETH' },
     { cik: '0002057500', name: 'Fidelity Solana Fund', symbol: 'FSOL', crypto: 'Solana', status: 'approved', ticker: 'FSOL' },
-    { cik: '0001903550', name: 'Fidelity Crypto Industry and Digital Payments ETF', symbol: 'FDIG', crypto: 'Multi-Crypto', status: 'approved', ticker: 'FDIG' },
+    { cik: '0001903550', name: 'Fidelity Crypto Industry and Digital Payments ETF', symbol: 'FDIG', crypto: 'Multi-Crypto', status: 'approved', ticker: 'FDIG', constituents: ['Bitcoin', 'Ethereum', 'Blockchain'] },
 
     // ==================== VANECK (3 products) ====================
     { cik: '0001838028', name: 'VanEck Bitcoin Trust', symbol: 'HODL', crypto: 'Bitcoin', status: 'approved', ticker: 'HODL' },
@@ -56,17 +56,17 @@ const CRYPTO_ETF_ISSUERS = [
     // ==================== BITWISE (10+ products) ====================
     { cik: '0001763415', name: 'Bitwise Bitcoin ETF', symbol: 'BITB', crypto: 'Bitcoin', status: 'approved', ticker: 'BITB' },
     { cik: '0002013744', name: 'Bitwise Ethereum ETF', symbol: 'ETHW', crypto: 'Ethereum', status: 'approved', ticker: 'ETHW' },
-    { cik: '0001723788', name: 'Bitwise 10 Crypto Index Fund', symbol: 'BITW', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BITW' },
+    { cik: '0001723788', name: 'Bitwise 10 Crypto Index Fund', symbol: 'BITW', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BITW', constituents: ['Bitcoin', 'Ethereum', 'Solana', 'XRP', 'Cardano', 'Avalanche', 'Dogecoin', 'Polkadot', 'Chainlink', 'Litecoin'] },
     { cik: '0001928561', name: 'Bitwise XRP ETF', symbol: 'XRP', crypto: 'XRP', status: 'approved', ticker: 'XRP' },
     { cik: '0002057389', name: 'Bitwise Solana Staking ETF', symbol: 'BSOL', crypto: 'Solana', status: 'approved', ticker: 'BSOL' },
-    { cik: '0001905963', name: 'Bitwise Crypto Industry Innovators ETF', symbol: 'BITQ', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BITQ' },
+    { cik: '0001905963', name: 'Bitwise Crypto Industry Innovators ETF', symbol: 'BITQ', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BITQ', constituents: ['Bitcoin', 'Ethereum', 'Blockchain'] },
 
     // ==================== ARK / 21SHARES (7+ products) ====================
     { cik: '0001869699', name: 'ARK 21Shares Bitcoin ETF', symbol: 'ARKB', crypto: 'Bitcoin', status: 'approved', ticker: 'ARKB' },
     { cik: '0001992508', name: '21Shares Ethereum ETF', symbol: 'TETH', crypto: 'Ethereum', status: 'approved', ticker: 'TETH' },
     { cik: '0002057390', name: '21Shares Solana ETF', symbol: 'TSOL', crypto: 'Solana', status: 'approved', ticker: 'TSOL' },
     { cik: '0002064314', name: '21Shares Dogecoin ETF', symbol: 'DOGE', crypto: 'Dogecoin', status: 'pending', ticker: 'DOGE' },
-    { cik: '0002075000', name: '21Shares FTSE Crypto 10 Index ETF', symbol: 'TTOP', crypto: 'Multi-Crypto', status: 'pending', ticker: 'TTOP' },
+    { cik: '0002075000', name: '21Shares FTSE Crypto 10 Index ETF', symbol: 'TTOP', crypto: 'Multi-Crypto', status: 'pending', ticker: 'TTOP', constituents: ['Bitcoin', 'Ethereum', 'Solana', 'XRP', 'Cardano', 'Avalanche', 'Dogecoin', 'Polkadot', 'Chainlink', 'Litecoin'] },
 
     // ==================== PROSHARES (10 products - Futures) ====================
     { cik: '0001174610', name: 'ProShares Bitcoin Strategy ETF', symbol: 'BITO', crypto: 'Bitcoin', status: 'approved', ticker: 'BITO', type: 'futures' },
@@ -77,13 +77,13 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0001174610', name: 'ProShares Ultra Ether ETF', symbol: 'ETHT', crypto: 'Ethereum', status: 'approved', ticker: 'ETHT', type: '2x' },
     { cik: '0001174610', name: 'ProShares Short Ether ETF', symbol: 'SETH', crypto: 'Ethereum', status: 'approved', ticker: 'SETH', type: 'inverse' },
     { cik: '0001174610', name: 'ProShares UltraShort Ether ETF', symbol: 'ETHD', crypto: 'Ethereum', status: 'approved', ticker: 'ETHD', type: '-2x' },
-    { cik: '0001174610', name: 'ProShares Bitcoin & Ether Market Cap Weight ETF', symbol: 'BETH', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BETH', type: 'combo' },
-    { cik: '0001174610', name: 'ProShares Bitcoin & Ether Equal Weight ETF', symbol: 'BETE', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BETE', type: 'combo' },
+    { cik: '0001174610', name: 'ProShares Bitcoin & Ether Market Cap Weight ETF', symbol: 'BETH', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BETH', type: 'combo', constituents: ['Bitcoin', 'Ethereum'] },
+    { cik: '0001174610', name: 'ProShares Bitcoin & Ether Equal Weight ETF', symbol: 'BETE', crypto: 'Multi-Crypto', status: 'approved', ticker: 'BETE', type: 'combo', constituents: ['Bitcoin', 'Ethereum'] },
 
     // ==================== FRANKLIN TEMPLETON (5 products) ====================
     { cik: '0001992870', name: 'Franklin Bitcoin ETF', symbol: 'EZBC', crypto: 'Bitcoin', status: 'approved', ticker: 'EZBC' },
     { cik: '0002011535', name: 'Franklin Ethereum ETF', symbol: 'EZET', crypto: 'Ethereum', status: 'approved', ticker: 'EZET' },
-    { cik: '0002033807', name: 'Franklin Crypto Index ETF', symbol: 'EZPZ', crypto: 'Multi-Crypto', status: 'approved', ticker: 'EZPZ' },
+    { cik: '0002033807', name: 'Franklin Crypto Index ETF', symbol: 'EZPZ', crypto: 'Multi-Crypto', status: 'approved', ticker: 'EZPZ', constituents: ['Bitcoin', 'Ethereum'] },
     { cik: '0002059438', name: 'Franklin XRP ETF', symbol: 'XRPZ', crypto: 'XRP', status: 'approved', ticker: 'XRPZ' },
     { cik: '0002057388', name: 'Franklin Solana ETF', symbol: 'SOEZ', crypto: 'Solana', status: 'approved', ticker: 'SOEZ' },
 
@@ -96,7 +96,7 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0002057391', name: 'WisdomTree Ethereum Fund', symbol: 'ETHW', crypto: 'Ethereum', status: 'approved', ticker: 'ETHW' },
 
     // ==================== HASHDEX (1 product) ====================
-    { cik: '0002031069', name: 'Hashdex Nasdaq Crypto Index US ETF', symbol: 'NCIQ', crypto: 'Multi-Crypto', status: 'approved', ticker: 'NCIQ' },
+    { cik: '0002031069', name: 'Hashdex Nasdaq Crypto Index US ETF', symbol: 'NCIQ', crypto: 'Multi-Crypto', status: 'approved', ticker: 'NCIQ', constituents: ['Bitcoin', 'Ethereum', 'Solana', 'XRP', 'Cardano', 'Avalanche', 'Litecoin', 'Chainlink'] },
 
     // ==================== CANARY CAPITAL (5 products) ====================
     { cik: '0002039505', name: 'Canary XRP ETF', symbol: 'XRPC', crypto: 'XRP', status: 'approved', ticker: 'XRPC' },
@@ -245,6 +245,7 @@ function processETFData(companyData, issuerInfo) {
         status: status,
         approvalOdds: status === 'approved' ? 100 : 70,
         notes: status === 'approved' ? '已获SEC批准并开始交易' : '审批进行中',
+        constituents: issuerInfo.constituents || null,
         source: 'SEC EDGAR (Verified)',
         cik: issuerInfo.cik,
         secLink: `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${issuerInfo.cik}`,

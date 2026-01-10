@@ -1482,16 +1482,19 @@ function renderApplications() {
         filteredApps = filteredApps.filter(app => app.status === currentFilter);
     }
 
-    // Apply crypto filter (also check notes for Multi-Crypto constituents)
+    // Apply crypto filter (also check constituents for Multi-Crypto ETFs)
     if (currentCryptoFilter !== 'all') {
         filteredApps = filteredApps.filter(app => {
             // Direct match
             if (app.cryptocurrency === currentCryptoFilter) return true;
-            // Check if Multi-Crypto contains this token in notes
+            // Check if Multi-Crypto contains this token in constituents array
+            if (app.cryptocurrency === 'Multi-Crypto' && app.constituents && Array.isArray(app.constituents)) {
+                return app.constituents.some(c => c.toLowerCase() === currentCryptoFilter.toLowerCase());
+            }
+            // Fallback: check notes for legacy data
             if (app.cryptocurrency === 'Multi-Crypto' && app.notes) {
                 const filterLower = currentCryptoFilter.toLowerCase();
                 const notesLower = app.notes.toLowerCase();
-                // Match by full name or common abbreviations
                 const tokenMap = {
                     'bitcoin': ['btc', 'bitcoin'],
                     'ethereum': ['eth', 'ethereum'],
@@ -1513,7 +1516,7 @@ function renderApplications() {
         });
     }
 
-    // Apply search filter (also check notes for Multi-Crypto constituents)
+    // Apply search filter (also check constituents for Multi-Crypto ETFs)
     if (searchQuery) {
         const query = searchQuery.toLowerCase();
         filteredApps = filteredApps.filter(app =>
@@ -1521,7 +1524,8 @@ function renderApplications() {
             app.symbol.toLowerCase().includes(query) ||
             app.issuer.toLowerCase().includes(query) ||
             app.etfName.toLowerCase().includes(query) ||
-            (app.notes && app.notes.toLowerCase().includes(query))
+            (app.notes && app.notes.toLowerCase().includes(query)) ||
+            (app.constituents && app.constituents.some(c => c.toLowerCase().includes(query)))
         );
     }
 
@@ -1624,6 +1628,13 @@ function createApplicationCard(app) {
             <div class="card-body">
                 <div class="etf-name">${app.etfName || 'Unknown ETF'}</div>
                 <div class="issuer-name">${t('cardIssuer')}: ${app.issuer || 'Unknown'}</div>
+                ${app.constituents && app.constituents.length > 0 ? `
+                <div class="constituents-row" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 4px;">
+                    <span style="font-size: 0.7rem; color: var(--text-muted); margin-right: 4px;">${currentLang === 'zh' ? '包含:' : 'Contains:'}</span>
+                    ${app.constituents.slice(0, 5).map(c => `<span class="constituent-tag" style="font-size: 0.65rem; padding: 2px 6px; background: var(--bg-secondary); border-radius: 3px; color: var(--text-primary); border: 1px solid var(--bg-tertiary);">${c}</span>`).join('')}
+                    ${app.constituents.length > 5 ? `<span style="font-size: 0.65rem; color: var(--text-muted);">+${app.constituents.length - 5}</span>` : ''}
+                </div>
+                ` : ''}
             </div>
             <div class="card-trading-info">
                 <span class="trading-tag"><strong>${t('cardExchange')}:</strong> ${app.exchange || 'NYSE/NASDAQ'}</span>
