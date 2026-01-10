@@ -117,24 +117,6 @@ const CRYPTO_ETF_ISSUERS = [
     // ==================== OTHER ISSUERS ====================
     { cik: '0001767057', name: 'Osprey Bitcoin Trust', symbol: 'OBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'OBTC' },
     { cik: '0002048583', name: 'CoinShares XRP ETF', symbol: 'CSXR', crypto: 'XRP', status: 'pending', ticker: 'CSXR' },
-
-    // ==================== MAJOR ETF TRUSTS (for discovery) ====================
-    { cik: '0001579881', name: 'Calamos ETF Trust', symbol: 'CBTC', crypto: 'Multi-Crypto' },
-    { cik: '0001985840', name: 'Tidal Commodities Trust I', symbol: 'DEFI', crypto: 'Multi-Crypto' },
-    { cik: '0001924868', name: 'Tidal Trust II', symbol: 'TTII', crypto: 'Multi-Crypto' },
-    { cik: '0001771146', name: 'ETF Opportunities Trust', symbol: 'ETFO', crypto: 'Multi-Crypto' },
-    { cik: '0001722388', name: 'Tidal Trust III', symbol: 'TTIII', crypto: 'Multi-Crypto' },
-    { cik: '0001432353', name: 'Global X Funds', symbol: 'GXF', crypto: 'Multi-Crypto' },
-    { cik: '0001683471', name: 'Listed Funds Trust', symbol: 'LFT', crypto: 'Multi-Crypto' },
-    { cik: '0001329377', name: 'First Trust Exchange-Traded Fund', symbol: 'FTEF', crypto: 'Multi-Crypto' },
-    { cik: '0001355064', name: 'Mutual Fund Series Trust', symbol: 'MFST', crypto: 'Multi-Crypto' },
-    { cik: '0001424958', name: 'Direxion Shares ETF Trust', symbol: 'DSET', crypto: 'Multi-Crypto' },
-    { cik: '0001592900', name: 'EA Series Trust', symbol: 'EAST', crypto: 'Multi-Crypto' },
-    { cik: '0001959372', name: 'Aristotle Funds Series Trust', symbol: 'AFST', crypto: 'Multi-Crypto' },
-    { cik: '0001579982', name: 'ARK ETF Trust', symbol: 'ARKT', crypto: 'Multi-Crypto' },
-    { cik: '0001859392', name: 'Galaxy Digital Inc', symbol: 'GLXY', crypto: 'Multi-Crypto' },
-    { cik: '0000880631', name: 'WisdomTree Inc', symbol: 'WT', crypto: 'Multi-Crypto' },
-    { cik: '0001350487', name: 'WisdomTree Trust', symbol: 'WTT', crypto: 'Multi-Crypto' },
 ];
 
 // Verified product counts by issuer
@@ -347,18 +329,53 @@ async function main() {
                     if (!knownCIKSet.has(cik) && !discoveredIssuersMap.has(cik)) {
                         const nameMatch = bucket.key.match(/^(.+?)\s*\(.*CIK/);
                         const name = nameMatch ? nameMatch[1].trim() : bucket.key.split('(')[0].trim();
+                        const lowerName = name.toLowerCase();
+
+                        // STRICT CRYPTO KEYWORD FILTER
+                        // Only include if name contains crypto-related keywords
+                        const cryptoKeywords = [
+                            'bitcoin', 'ethereum', 'ether', 'crypto', 'blockchain',
+                            'solana', 'xrp', 'ripple', 'litecoin', 'dogecoin', 'doge',
+                            'avalanche', 'cardano', 'polkadot', 'chainlink', 'stellar',
+                            'digital asset', 'btc', 'eth', 'sol', 'defi', 'web3',
+                            'grayscale', 'bitwise', 'coinshares', 'canary',
+                            '21shares', 'proshares', 'vaneck bitcoin', 'fidelity bitcoin',
+                            'hedera', 'hbar', 'sui', 'bittensor', 'near', 'aptos'
+                        ];
+
+                        // Exclude non-ETF companies (stocks, mining, etc.)
+                        const excludePatterns = [
+                            'inc.', 'inc', 'corp.', 'corp', 'llc', 'ltd', 'holdings',
+                            'global,', 'technologies', 'coinbase', 'btcs', 'galaxy digital',
+                            'bitdeer', 'bitfufu', 'bitmine', 'bakkt', 'exodus',
+                            'circle internet', 'gemini space', 'athena bitcoin global',
+                            'jones robyn', 'dcg international'
+                        ];
+
+                        // Must be ETF/Trust/Fund related
+                        const etfKeywords = ['etf', 'trust', 'fund', 'shares', 'index'];
+                        const isETFRelated = etfKeywords.some(kw => lowerName.includes(kw));
+
+                        const isCryptoRelated = cryptoKeywords.some(kw => lowerName.includes(kw));
+                        const isExcluded = excludePatterns.some(p => lowerName.includes(p));
+
+                        if (!isCryptoRelated || isExcluded || !isETFRelated) {
+                            continue; // Skip non-crypto/non-ETF entities
+                        }
 
                         let cryptoType = 'Multi-Crypto';
-                        const lowerName = name.toLowerCase();
-                        if (lowerName.includes('bitcoin')) cryptoType = 'Bitcoin';
-                        else if (lowerName.includes('ethereum') || lowerName.includes('ether')) cryptoType = 'Ethereum';
-                        else if (lowerName.includes('solana')) cryptoType = 'Solana';
+                        if (lowerName.includes('bitcoin') || lowerName.includes('btc')) cryptoType = 'Bitcoin';
+                        else if (lowerName.includes('ethereum') || lowerName.includes('ether') || lowerName.includes('eth')) cryptoType = 'Ethereum';
+                        else if (lowerName.includes('solana') || lowerName.includes('sol')) cryptoType = 'Solana';
                         else if (lowerName.includes('xrp') || lowerName.includes('ripple')) cryptoType = 'XRP';
-                        else if (lowerName.includes('litecoin')) cryptoType = 'Litecoin';
+                        else if (lowerName.includes('litecoin') || lowerName.includes('ltc')) cryptoType = 'Litecoin';
                         else if (lowerName.includes('dogecoin') || lowerName.includes('doge')) cryptoType = 'Dogecoin';
-                        else if (lowerName.includes('avalanche')) cryptoType = 'Avalanche';
-                        else if (lowerName.includes('cardano')) cryptoType = 'Cardano';
-                        else if (lowerName.includes('polkadot')) cryptoType = 'Polkadot';
+                        else if (lowerName.includes('avalanche') || lowerName.includes('avax')) cryptoType = 'Avalanche';
+                        else if (lowerName.includes('cardano') || lowerName.includes('ada')) cryptoType = 'Cardano';
+                        else if (lowerName.includes('polkadot') || lowerName.includes('dot')) cryptoType = 'Polkadot';
+                        else if (lowerName.includes('chainlink') || lowerName.includes('link')) cryptoType = 'Chainlink';
+                        else if (lowerName.includes('stellar') || lowerName.includes('xlm')) cryptoType = 'Stellar';
+                        else if (lowerName.includes('hedera') || lowerName.includes('hbar')) cryptoType = 'Hedera';
 
                         discoveredIssuersMap.set(cik, {
                             cik,
