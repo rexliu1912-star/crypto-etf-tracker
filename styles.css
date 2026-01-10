@@ -300,9 +300,10 @@ body {
 }
 
 .search-box {
-    flex: 2;
+    flex: 1;
     min-width: 300px;
     position: relative;
+    margin-left: auto;
 }
 
 .search-box input {
@@ -866,6 +867,22 @@ body {
     .sync-progress-container {
         justify-content: center;
         width: 100%;
+    }
+
+    .filters-container {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .filter-buttons {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .search-box {
+        margin-left: 0;
+        width: 100%;
+        min-width: 0;
     }
 }
 
