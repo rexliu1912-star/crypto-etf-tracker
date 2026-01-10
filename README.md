@@ -34,35 +34,48 @@ Supports tracking for **Bitcoin, Ethereum, Solana, XRP, Dogecoin, Litecoin, Card
 
 ## 🛠 Tech Stack
 
-*   **Backend**: Node.js, Express
-*   **Data Source**: SEC EDGAR API (`data.sec.gov`, `efts.sec.gov`)
-*   **Frontend**: Vanilla JS (ES6+), Vanilla CSS3 (Custom Tokens)
-*   **Performance**: In-memory caching, Rate-limiting (Compliant with SEC rate limits)
+*   **Core**: Static HTML5, CSS3, JavaScript (ES6+)
+*   **Data Source**: SEC EDGAR API (Fetched via GitHub Actions)
+*   **Automation**: GitHub Actions (Scheduled Hourly)
+*   **Deployment**: Vercel / GitHub Pages (Static Hosting)
 
-## 🚀 Quick Start
+## 🚀 Quick Start (Local Development)
 
 ### 1. Install Dependencies
 
 ```bash
-cd crypto-etf
 npm install
 ```
 
-### 2. Start Server
+### 2. Fetch Data (Generate JSON)
 
-The server will automatically start the background data sync task upon launch.
+This script fetches the latest data from SEC and saves it to `data/etf-data.json`.
 
 ```bash
-node server.js
+npm run update-data
 ```
 
-### 3. Access Application
+### 3. Run Locally
 
-Open your browser and visit:
+You can use any static file server, or simply:
 
-http://localhost:3000
+```bash
+npx http-server .
+```
 
-*On first launch, please watch the sync progress bar at the top of the page. It takes about 2-3 minutes to crawl data for 120+ issuers.*
+Then visit `http://localhost:8080`.
+
+## 🌐 Deployment (Vercel)
+
+This project is optimized for **Vercel**.
+
+1.  **Push to GitHub**: Ensure your code is in a GitHub repository.
+2.  **Import to Vercel**: Connect your GitHub account and import the repo.
+3.  **Deploy**:
+    *   **Framework Preset**: Other
+    *   **Build Command**: (Leave Empty)
+    *   **Output Directory**: `.` (Root)
+4.  **Updates**: The system will automatically fetch new data every hour via GitHub Actions and commit it to the repo, triggering a Vercel redeploy.
 
 ## 📚 API Documentation
 
@@ -121,30 +134,43 @@ http://localhost:3000
 *   **Frontend**: Vanilla JS (ES6+), Vanilla CSS3 (Custom Tokens)
 *   **Performance**: In-memory caching, Rate-limiting (符合 SEC 频率限制)
 
-## 🚀 快速开始
+## 🚀 快速开始 (本地开发)
 
 ### 1. 安装依赖
 
 ```bash
-cd crypto-etf
 npm install
 ```
 
-### 2. 启动服务器
+### 2. 获取数据 (生成 JSON)
 
-服务器启动后会自动开启后台数据同步任务。
+运行此脚本从 SEC 获取最新数据并将结果保存到 `data/etf-data.json`。
 
 ```bash
-node server.js
+npm run update-data
 ```
 
-### 3. 访问应用
+### 3. 本地运行
 
-打开浏览器访问：
+使用任意静态服务器，或运行：
 
-http://localhost:3000
+```bash
+npx http-server .
+```
 
-*首次启动时，请留意页面顶部的同步进度条，系统大约需要 2-3 分钟来完成 120+ 个发行商的数据爬取。*
+访问 `http://localhost:8080`。
+
+## 🌐 部署 (Vercel)
+
+本项目已针对 **Vercel** 优化。
+
+1.  **推送到 GitHub**: 确保代码已上传至 GitHub。
+2.  **导入 Vercel**: 在 Vercel 后台导入该仓库。
+3.  **配置**:
+    *   **框架预设 (Framework Preset)**: Other
+    *   **构建命令 (Build Command)**: (留空)
+    *   **输出目录 (Output Directory)**: `.` (根目录)
+4.  **自动更新**: 系统已配置 GitHub Actions 每小时自动抓取新数据并提交，这会触发 Vercel 自动重新部署。
 
 ## 📚 API 文档
 
