@@ -14,11 +14,11 @@ const translations = {
         labelTotal: "总申请数",
         labelApproved: "已通过",
         labelPending: "待通过",
-        labelDelayed: "已延期",
+        labelDenied: "已拒绝",
         btnAll: "全部",
         btnApproved: "已通过",
         btnPending: "待通过",
-        btnDelayed: "已延期",
+        btnDenied: "已拒绝",
         optAllCrypto: "所有加密货币",
         titleTimeline: "最新待通过申请",
         titleApplications: "所有 ETF 申请",
@@ -38,7 +38,7 @@ const translations = {
         cardExchange: "交易所",
         statusApproved: "已通过",
         statusPending: "待通过",
-        statusDelayed: "已延期",
+        statusDenied: "已拒绝",
         statusDenied: "已拒绝",
         statusUnknown: "未知状态",
         daysLeft: "天后",
@@ -58,11 +58,11 @@ const translations = {
         labelTotal: "Total ETFs",
         labelApproved: "Approved",
         labelPending: "Pending",
-        labelDelayed: "Delayed",
+        labelDenied: "Denied",
         btnAll: "All",
         btnApproved: "Approved",
         btnPending: "Pending",
-        btnDelayed: "Delayed",
+        btnDenied: "Denied",
         optAllCrypto: "All Cryptos",
         titleTimeline: "Recent Pending Applications",
         titleApplications: "All ETF Applications",
@@ -82,7 +82,7 @@ const translations = {
         cardExchange: "Exchange",
         statusApproved: "Approved",
         statusPending: "Pending",
-        statusDelayed: "Delayed",
+        statusDenied: "Denied",
         statusUnknown: "Unknown",
         daysLeft: "days left",
         today: "Today",
@@ -195,11 +195,11 @@ function updateUILanguage() {
     if (el('labelTotal')) el('labelTotal').textContent = t('labelTotal');
     if (el('labelApproved')) el('labelApproved').textContent = t('labelApproved');
     if (el('labelPending')) el('labelPending').textContent = t('labelPending');
-    if (el('labelDelayed')) el('labelDelayed').textContent = t('labelDelayed');
+    if (el('labelDenied')) el('labelDenied').textContent = t('labelDenied');
     if (el('btnAll')) el('btnAll').textContent = t('btnAll');
     if (el('btnApproved')) el('btnApproved').textContent = t('btnApproved');
     if (el('btnPending')) el('btnPending').textContent = t('btnPending');
-    if (el('btnDelayed')) el('btnDelayed').textContent = t('btnDelayed');
+    if (el('btnDenied')) el('btnDenied').textContent = t('btnDenied');
     if (el('optAllCrypto')) el('optAllCrypto').textContent = t('optAllCrypto');
     if (el('titleTimeline')) el('titleTimeline').textContent = t('titleTimeline');
     if (el('titleApplications')) el('titleApplications').textContent = t('titleApplications');
@@ -484,7 +484,7 @@ const etfApplications = [
         filingType: "Spot ETF",
         filingDate: "2024-06-15",
         decisionDeadline: "2025-10-01",
-        status: "delayed",
+        status: "denied",
         approvalOdds: 90,
         notes: "SEC已延期决定,分析师预计90%批准率"
     },
@@ -577,7 +577,7 @@ const etfApplications = [
         filingType: "Spot ETF",
         filingDate: "2025-02-15",
         decisionDeadline: "2025-10-26",
-        status: "delayed",
+        status: "denied",
         approvalOdds: 65,
         notes: "SEC已延期决定至10月26日"
     },
@@ -604,7 +604,7 @@ const etfApplications = [
         filingType: "Spot ETF",
         filingDate: "2025-02-01",
         decisionDeadline: "2025-06-11",
-        status: "delayed",
+        status: "denied",
         approvalOdds: 60,
         notes: "SEC延期至6月11日"
     },
@@ -617,7 +617,7 @@ const etfApplications = [
         filingType: "Spot ETF",
         filingDate: "2025-02-20",
         decisionDeadline: "2025-06-11",
-        status: "delayed",
+        status: "denied",
         approvalOdds: 58,
         notes: "Coinbase担任托管方"
     },
@@ -908,7 +908,7 @@ const updateTimeEl = document.getElementById('updateTime');
 const totalCountEl = document.getElementById('totalCount');
 const approvedCountEl = document.getElementById('approvedCount');
 const pendingCountEl = document.getElementById('pendingCount');
-const delayedCountEl = document.getElementById('delayedCount');
+const deniedCountEl = document.getElementById('deniedCount');
 const searchInputEl = document.getElementById('searchInput');
 const cryptoFilterEl = document.getElementById('cryptoFilter');
 const applicationsGridEl = document.getElementById('applicationsGrid');
@@ -1180,25 +1180,25 @@ function updateStats() {
     const total = etfApplications.length;
     const approved = etfApplications.filter(app => app.status === 'approved').length;
     const pending = etfApplications.filter(app => app.status === 'pending').length;
-    const delayed = etfApplications.filter(app => app.status === 'delayed').length;
+    const denied = etfApplications.filter(app => app.status === 'denied').length;
 
     if (totalCountEl) animateValue(totalCountEl, parseInt(totalCountEl.textContent) || 0, total, 500);
     if (approvedCountEl) animateValue(approvedCountEl, parseInt(approvedCountEl.textContent) || 0, approved, 500);
     if (pendingCountEl) animateValue(pendingCountEl, parseInt(pendingCountEl.textContent) || 0, pending, 500);
 
-    // Explicitly update delayed count element (previously denied)
-    if (delayedCountEl) animateValue(delayedCountEl, parseInt(delayedCountEl.textContent) || 0, delayed, 500);
+    // Explicitly update denied count element
+    if (deniedCountEl) animateValue(deniedCountEl, parseInt(deniedCountEl.textContent) || 0, denied, 500);
 
     // Update filter counts
     const btnAll = document.getElementById('btnAll');
     const btnApproved = document.getElementById('btnApproved');
     const btnPending = document.getElementById('btnPending');
-    const btnDelayed = document.getElementById('btnDelayed');
+    const btnDenied = document.getElementById('btnDenied');
 
     if (btnAll) btnAll.textContent = `${t('btnAll')} (${total})`;
     if (btnApproved) btnApproved.textContent = `${t('btnApproved')} (${approved})`;
     if (btnPending) btnPending.textContent = `${t('btnPending')} (${pending})`;
-    if (btnDelayed) btnDelayed.textContent = `${t('btnDelayed')} (${delayed})`;
+    if (btnDenied) btnDenied.textContent = `${t('btnDenied')} (${denied})`;
 
     // Render charts
     renderCharts();
@@ -1561,7 +1561,6 @@ function createApplicationCard(app) {
     const statusText = {
         approved: t('statusApproved'),
         pending: t('statusPending'),
-        delayed: t('statusDelayed'),
         denied: t('statusDenied'),
         unknown: t('statusUnknown')
     };

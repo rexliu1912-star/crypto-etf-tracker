@@ -274,7 +274,7 @@ body {
 }
 
 .stat-card.denied .stat-value {
-    color: #ef4444;
+    color: var(--accent-red);
 }
 
 .stat-label {
@@ -365,8 +365,8 @@ body {
     color: white;
 }
 
-.filter-btn.active[data-filter="delayed"] {
-    background: var(--accent-orange);
+.filter-btn.active[data-filter="denied"] {
+    background: var(--accent-red);
     color: white;
 }
 
@@ -579,8 +579,8 @@ body {
     color: white;
 }
 
-.status-badge.delayed {
-    background: var(--accent-orange);
+.status-badge.denied {
+    background: var(--accent-red);
     color: white;
 }
 
