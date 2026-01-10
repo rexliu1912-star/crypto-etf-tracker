@@ -32,4 +32,11 @@ jobs:
           git config --global user.email 'action@github.com'
           git add data/etf-data.json
           # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ETF data [skip ci]" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update ETF data [skip ci]"
+            # Pull latest changes before pushing to avoid conflicts
+            git pull --rebase origin main || true
+            git push
+          fi
