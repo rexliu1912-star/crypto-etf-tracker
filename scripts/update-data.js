@@ -109,9 +109,32 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0001884021', name: 'Volatility Shares 2x Bitcoin Strategy ETF', symbol: 'BITX', crypto: 'Bitcoin', status: 'approved', ticker: 'BITX', type: '2x' },
     { cik: '0001884021', name: 'Volatility Shares 2x Ether Strategy ETF', symbol: 'ETHU', crypto: 'Ethereum', status: 'approved', ticker: 'ETHU', type: '2x' },
 
+    // ==================== MORGAN STANLEY (3 products - January 2026) ====================
+    { cik: '0002103612', name: 'Morgan Stanley Bitcoin Trust', symbol: 'MSBTC', crypto: 'Bitcoin', status: 'pending', ticker: 'MSBTC' },
+    { cik: '0002103613', name: 'Morgan Stanley Ethereum Trust', symbol: 'MSETH', crypto: 'Ethereum', status: 'pending', ticker: 'MSETH' },
+    { cik: '0002103614', name: 'Morgan Stanley Solana Trust', symbol: 'MSSOL', crypto: 'Solana', status: 'pending', ticker: 'MSSOL' },
+
     // ==================== OTHER ISSUERS ====================
     { cik: '0001767057', name: 'Osprey Bitcoin Trust', symbol: 'OBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'OBTC' },
     { cik: '0002048583', name: 'CoinShares XRP ETF', symbol: 'CSXR', crypto: 'XRP', status: 'pending', ticker: 'CSXR' },
+
+    // ==================== MAJOR ETF TRUSTS (for discovery) ====================
+    { cik: '0001579881', name: 'Calamos ETF Trust', symbol: 'CBTC', crypto: 'Multi-Crypto' },
+    { cik: '0001985840', name: 'Tidal Commodities Trust I', symbol: 'DEFI', crypto: 'Multi-Crypto' },
+    { cik: '0001924868', name: 'Tidal Trust II', symbol: 'TTII', crypto: 'Multi-Crypto' },
+    { cik: '0001771146', name: 'ETF Opportunities Trust', symbol: 'ETFO', crypto: 'Multi-Crypto' },
+    { cik: '0001722388', name: 'Tidal Trust III', symbol: 'TTIII', crypto: 'Multi-Crypto' },
+    { cik: '0001432353', name: 'Global X Funds', symbol: 'GXF', crypto: 'Multi-Crypto' },
+    { cik: '0001683471', name: 'Listed Funds Trust', symbol: 'LFT', crypto: 'Multi-Crypto' },
+    { cik: '0001329377', name: 'First Trust Exchange-Traded Fund', symbol: 'FTEF', crypto: 'Multi-Crypto' },
+    { cik: '0001355064', name: 'Mutual Fund Series Trust', symbol: 'MFST', crypto: 'Multi-Crypto' },
+    { cik: '0001424958', name: 'Direxion Shares ETF Trust', symbol: 'DSET', crypto: 'Multi-Crypto' },
+    { cik: '0001592900', name: 'EA Series Trust', symbol: 'EAST', crypto: 'Multi-Crypto' },
+    { cik: '0001959372', name: 'Aristotle Funds Series Trust', symbol: 'AFST', crypto: 'Multi-Crypto' },
+    { cik: '0001579982', name: 'ARK ETF Trust', symbol: 'ARKT', crypto: 'Multi-Crypto' },
+    { cik: '0001859392', name: 'Galaxy Digital Inc', symbol: 'GLXY', crypto: 'Multi-Crypto' },
+    { cik: '0000880631', name: 'WisdomTree Inc', symbol: 'WT', crypto: 'Multi-Crypto' },
+    { cik: '0001350487', name: 'WisdomTree Trust', symbol: 'WTT', crypto: 'Multi-Crypto' },
 ];
 
 // Verified product counts by issuer
@@ -247,15 +270,34 @@ function processETFData(companyData, issuerInfo) {
     };
 }
 
+// --- SEC EDGAR Search for Discovery ---
+async function searchSECFilings(query, dateFrom = '2023-01-01') {
+    const encodedQuery = encodeURIComponent(query);
+    const url = `https://efts.sec.gov/LATEST/search-index?q=${encodedQuery}&dateRange=custom&startdt=${dateFrom}&enddt=${new Date().toISOString().split('T')[0]}`;
+    console.log(`Searching SEC: ${query}...`);
+
+    try {
+        const response = await fetch(url, {
+            headers: { 'User-Agent': SEC_USER_AGENT, 'Accept': 'application/json' }
+        });
+        if (!response.ok) return null;
+        return await response.json();
+    } catch (error) {
+        return null;
+    }
+}
+
 // --- Main Execution ---
 async function main() {
-    console.log('=== Starting Comprehensive Verified ETF Data Update ===');
-    console.log(`Processing ${CRYPTO_ETF_ISSUERS.length} verified issuers...`);
+    console.log('=== Starting Extended ETF Data Discovery ===');
+    console.log(`Processing ${CRYPTO_ETF_ISSUERS.length} known issuers...`);
 
     // Track unique CIKs to avoid duplicate fetches
     const processedCIKs = new Map();
     const results = [];
+    const knownCIKSet = new Set(CRYPTO_ETF_ISSUERS.map(i => i.cik));
 
+    // Phase 1: Process known issuers
     for (const issuer of CRYPTO_ETF_ISSUERS) {
         let companyData = processedCIKs.get(issuer.cik);
 
@@ -271,9 +313,84 @@ async function main() {
         results.push(result);
     }
 
+    console.log(`\nKnown issuers processed: ${results.length}`);
+
+    // Phase 2: Discover additional issuers via SEC search
+    console.log('\n=== Phase 2: Discovering Additional Filings ===');
+    const searchTerms = [
+        'cryptocurrency ETF spot 19b-4',
+        'bitcoin ethereum solana xrp spot ETF S-1',
+        'Digital Asset Trust S-1',
+        'Bitcoin Strategy ETF',
+        'Crypto Index ETF N-1A',
+        'Ethereum Trust S-1',
+        'Solana Trust',
+        'XRP Trust',
+        'Litecoin ETF',
+        'Dogecoin ETF',
+        'Polkadot Trust',
+        'Cardano ETF',
+        'Avalanche Trust',
+        'Chainlink Trust',
+        'cryptocurrency spot exchange-traded'
+    ];
+
+    const discoveredIssuersMap = new Map();
+
+    for (const term of searchTerms) {
+        const results = await searchSECFilings(term, '2023-01-01');
+        if (results?.aggregations?.entity_filter?.buckets) {
+            for (const bucket of results.aggregations.entity_filter.buckets) {
+                const match = bucket.key.match(/CIK\s*(\d+)/i);
+                if (match) {
+                    const cik = match[1].padStart(10, '0');
+                    if (!knownCIKSet.has(cik) && !discoveredIssuersMap.has(cik)) {
+                        const nameMatch = bucket.key.match(/^(.+?)\s*\(.*CIK/);
+                        const name = nameMatch ? nameMatch[1].trim() : bucket.key.split('(')[0].trim();
+
+                        let cryptoType = 'Multi-Crypto';
+                        const lowerName = name.toLowerCase();
+                        if (lowerName.includes('bitcoin')) cryptoType = 'Bitcoin';
+                        else if (lowerName.includes('ethereum') || lowerName.includes('ether')) cryptoType = 'Ethereum';
+                        else if (lowerName.includes('solana')) cryptoType = 'Solana';
+                        else if (lowerName.includes('xrp') || lowerName.includes('ripple')) cryptoType = 'XRP';
+                        else if (lowerName.includes('litecoin')) cryptoType = 'Litecoin';
+                        else if (lowerName.includes('dogecoin') || lowerName.includes('doge')) cryptoType = 'Dogecoin';
+                        else if (lowerName.includes('avalanche')) cryptoType = 'Avalanche';
+                        else if (lowerName.includes('cardano')) cryptoType = 'Cardano';
+                        else if (lowerName.includes('polkadot')) cryptoType = 'Polkadot';
+
+                        discoveredIssuersMap.set(cik, {
+                            cik,
+                            name,
+                            symbol: name.substring(0, 4).toUpperCase(),
+                            crypto: cryptoType
+                        });
+                    }
+                }
+            }
+        }
+        await delay(500);
+    }
+
+    const additionalIssuers = Array.from(discoveredIssuersMap.values());
+    console.log(`Discovered ${additionalIssuers.length} additional issuers.`);
+
+    // Phase 3: Fetch discovered issuers
+    console.log('\n=== Phase 3: Fetching Discovered Issuers ===');
+    for (const issuer of additionalIssuers) {
+        const companyData = await fetchCompanyFilings(issuer.cik);
+        if (companyData) {
+            const result = processETFData(companyData, issuer);
+            results.push(result);
+        }
+        await delay(250);
+    }
+
     // Calculate statistics
     const approved = results.filter(r => r.status === 'approved').length;
     const pending = results.filter(r => r.status === 'pending').length;
+    const denied = results.filter(r => r.status === 'denied').length;
 
     const outputData = {
         success: true,
@@ -281,11 +398,19 @@ async function main() {
         count: results.length,
         approvedCount: approved,
         pendingCount: pending,
+        deniedCount: denied,
+        knownIssuersCount: CRYPTO_ETF_ISSUERS.length,
+        discoveredCount: additionalIssuers.length,
         issuerProductCounts: ISSUER_PRODUCT_COUNTS,
-        source: 'SEC EDGAR + Official Issuer Websites (Verified January 2026)',
+        source: 'SEC EDGAR (Extended Discovery + Verified Issuers)',
         data: results.sort((a, b) => {
             // Sort by status (approved first), then by issuer
-            if (a.status !== b.status) return a.status === 'approved' ? -1 : 1;
+            if (a.status !== b.status) {
+                if (a.status === 'approved') return -1;
+                if (b.status === 'approved') return 1;
+                if (a.status === 'pending') return -1;
+                if (b.status === 'pending') return 1;
+            }
             return a.issuer.localeCompare(b.issuer);
         })
     };
@@ -295,9 +420,12 @@ async function main() {
 
     console.log(`\n=== Data Update Complete ===`);
     console.log(`Total Products: ${results.length}`);
+    console.log(`  - Known Issuers: ${CRYPTO_ETF_ISSUERS.length}`);
+    console.log(`  - Discovered: ${additionalIssuers.length}`);
     console.log(`Approved: ${approved}`);
     console.log(`Pending: ${pending}`);
-    console.log(`Unique CIKs fetched: ${processedCIKs.size}`);
+    console.log(`Denied: ${denied}`);
 }
 
 main().catch(err => { console.error('Fatal:', err); process.exit(1); });
+
