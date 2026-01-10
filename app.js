@@ -1490,15 +1490,32 @@ function renderApplications() {
 
     // Apply search filter (also check constituents for Multi-Crypto ETFs)
     if (searchQuery) {
-        const query = searchQuery.toLowerCase();
-        filteredApps = filteredApps.filter(app =>
-            app.cryptocurrency.toLowerCase().includes(query) ||
-            app.symbol.toLowerCase().includes(query) ||
-            app.issuer.toLowerCase().includes(query) ||
-            app.etfName.toLowerCase().includes(query) ||
-            (app.notes && app.notes.toLowerCase().includes(query)) ||
-            (app.constituents && app.constituents.some(c => c.toLowerCase().includes(query)))
-        );
+        const query = searchQuery.toLowerCase().trim();
+        if (query) {
+            filteredApps = filteredApps.filter(app => {
+                try {
+                    // Safe string conversion and check for each field
+                    const cryptoMatch = (app.cryptocurrency || '').toLowerCase().includes(query);
+                    const symbolMatch = (app.symbol || '').toLowerCase().includes(query);
+                    const issuerMatch = (app.issuer || '').toLowerCase().includes(query);
+                    const nameMatch = (app.etfName || '').toLowerCase().includes(query);
+                    const notesMatch = (app.notes || '').toLowerCase().includes(query);
+
+                    // Specific constituent check
+                    let constituentMatch = false;
+                    if (app.constituents && Array.isArray(app.constituents)) {
+                        constituentMatch = app.constituents.some(c =>
+                            c && typeof c === 'string' && c.toLowerCase().includes(query)
+                        );
+                    }
+
+                    return cryptoMatch || symbolMatch || issuerMatch || nameMatch || notesMatch || constituentMatch;
+                } catch (err) {
+                    console.error('Error filtering app:', app, err);
+                    return false;
+                }
+            });
+        }
     }
 
     if (filteredApps.length === 0) {
