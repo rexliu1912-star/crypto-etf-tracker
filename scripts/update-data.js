@@ -247,7 +247,7 @@ function processETFData(companyData, issuerInfo, filingIndex = 0) {
         etfName: issuerInfo.name,
         filingType: filingType,
         filingDate: latestFilingDate,
-        decisionDeadline: status === 'approved' ? '已通过 (交易中)' : '待通过',
+        decisionDeadline: status === 'approved' ? latestFilingDate : (issuerInfo.decisionDeadline || '待通过'),
         status: status,
         approvalOdds: status === 'approved' ? 100 : 70,
         notes: status === 'approved' ? (issuerInfo.notes || '已获SEC批准并开始交易') : (issuerInfo.notes || '审批进行中'),
