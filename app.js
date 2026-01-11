@@ -1334,12 +1334,14 @@ function renderIssuerChart() {
     const canvas = document.getElementById('issuerChart');
     if (!canvas) return;
 
-    // Calculate issuer counts
+    // Calculate issuer counts (only approved and pending, exclude denied)
     const issuerCounts = {};
-    etfApplications.forEach(app => {
-        const issuer = app.issuer || 'Unknown';
-        issuerCounts[issuer] = (issuerCounts[issuer] || 0) + 1;
-    });
+    etfApplications
+        .filter(app => app.status === 'approved' || app.status === 'pending')
+        .forEach(app => {
+            const issuer = app.issuer || 'Unknown';
+            issuerCounts[issuer] = (issuerCounts[issuer] || 0) + 1;
+        });
 
     // Sort and get top 10
     const sortedIssuers = Object.entries(issuerCounts)
@@ -1420,12 +1422,14 @@ function renderCryptoChart() {
     const canvas = document.getElementById('cryptoChart');
     if (!canvas) return;
 
-    // Calculate crypto counts
+    // Calculate crypto counts (only approved and pending, exclude denied)
     const cryptoCounts = {};
-    etfApplications.forEach(app => {
-        const crypto = app.cryptocurrency || 'Unknown';
-        cryptoCounts[crypto] = (cryptoCounts[crypto] || 0) + 1;
-    });
+    etfApplications
+        .filter(app => app.status === 'approved' || app.status === 'pending')
+        .forEach(app => {
+            const crypto = app.cryptocurrency || 'Unknown';
+            cryptoCounts[crypto] = (cryptoCounts[crypto] || 0) + 1;
+        });
 
     // Sort by count
     const sortedCrypto = Object.entries(cryptoCounts)
