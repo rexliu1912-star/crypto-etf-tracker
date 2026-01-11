@@ -235,16 +235,16 @@ function updateChartsTheme() {
         Chart.defaults.borderColor = gridColor;
 
         // Re-render charts if they exist
-        if (window.issuerChart) {
-            window.issuerChart.options.scales.x.ticks.color = textColor;
-            window.issuerChart.options.scales.y.ticks.color = textColor;
-            window.issuerChart.options.scales.x.grid.color = gridColor;
-            window.issuerChart.options.scales.y.grid.color = gridColor;
-            window.issuerChart.update();
+        if (typeof issuerChartInstance !== 'undefined' && issuerChartInstance) {
+            issuerChartInstance.options.scales.x.ticks.color = textColor;
+            issuerChartInstance.options.scales.y.ticks.color = textColor;
+            issuerChartInstance.options.scales.x.grid.color = gridColor;
+            issuerChartInstance.options.scales.y.grid.color = gridColor;
+            issuerChartInstance.update();
         }
-        if (window.cryptoChart) {
-            window.cryptoChart.options.plugins.legend.labels.color = textColor;
-            window.cryptoChart.update();
+        if (typeof cryptoChartInstance !== 'undefined' && cryptoChartInstance) {
+            cryptoChartInstance.options.plugins.legend.labels.color = textColor;
+            cryptoChartInstance.update();
         }
     }
 }
