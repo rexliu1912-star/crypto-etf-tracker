@@ -41,6 +41,16 @@ Supports tracking for **Bitcoin, Ethereum, Solana, XRP, Dogecoin, Litecoin, Card
     *   **Minimalist Grid**: 4px brutalist hard shadows for visual tension.
     *   **Enhanced Interaction**: Includes "Back to Top" navigation and smooth scrolling.
 
+*   **🌙 Dark Mode Support**
+    *   One-click toggle between Light and Dark themes.
+    *   Automatic system preference detection (`prefers-color-scheme`).
+    *   Theme preference persisted via `localStorage`.
+
+*   **📱 Mobile Responsive**
+    *   Tablet: 2×2 stats grid layout.
+    *   Mobile: Single-column layout with scroll-snap timeline.
+    *   Touch-friendly timeline navigation arrows.
+
 ## 🛠 Tech Stack
 
 *   **Core**: Static HTML5, CSS3, JavaScript (ES6+)
@@ -135,6 +145,16 @@ This project is optimized for **Vercel**.
     *   **硬核美学**: 采用 #F5F5F4 米色背景与 #10B981 翡翠绿点缀。
     *   **极简网格**: 4px brutalist 硬阴影，极具视觉张力。
     *   **交互增强**: 包含 "返回顶部" 导航与平滑滚动体验。
+
+*   **🌙 深色模式支持**
+    *   一键切换浅色/深色主题。
+    *   自动检测系统偏好 (`prefers-color-scheme`)。
+    *   主题设置通过 `localStorage` 持久化。
+
+*   **📱 移动端响应式设计**
+    *   平板端: 统计卡片 2×2 布局。
+    *   手机端: 单列布局 + 时间线滑动导航。
+    *   触屏友好的时间线导航箭头。
 
 ## 🛠 技术栈
 
