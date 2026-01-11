@@ -8,7 +8,7 @@ const translations = {
         mainTitle: "加密货币 ETF 追踪",
         mainSubtitle: "实时监控 SEC 加密货币 ETF 进度",
         liveStatus: "实时更新",
-        secLive: "SEC EDGAR 实时",
+        secLive: "SEC EDGAR",
         localCache: "本地缓存数据",
         lastUpdate: "更新时间:",
         labelTotal: "总申请数",
@@ -59,7 +59,9 @@ const translations = {
         "Combo ETF": "组合 ETF",
         "Spot / Leveraged": "现货 / 杠杆",
         "Spot ETF (Withdrawn)": "现货 ETF (已撤回)",
-        productCount: "产品数量"
+        productCount: "产品数量",
+        oddsTooltip: "基于历史数据和分析师预测的批准概率估算，仅供参考",
+        timelineTooltip: "根据 SEC 规定，ETF 申请有 240 天审批窗口。此时间表显示预计的决策日期。"
     },
     en: {
         mainTitle: "SEC Crypto ETF Tracker",
@@ -107,6 +109,8 @@ const translations = {
         syncProcessing: "Processing new applications...",
         syncComplete: "Sync Complete",
         productCount: "Products",
+        oddsTooltip: "Estimated approval probability based on historical data and analyst predictions. For reference only.",
+        timelineTooltip: "Per SEC rules, ETF applications have a 240-day review window. This timeline shows expected decision dates.",
         // Dynamic content translations
         "已获SEC批准并开始交易": "Approved by SEC and trading started",
         "S-1修订文件已提交，等待SEC审批": "S-1 amendment filed, awaiting SEC approval",
@@ -187,6 +191,63 @@ const cryptoLogoMap = {
 };
 
 let currentLang = 'zh';
+let currentTheme = 'light';
+
+// Theme management
+function initTheme() {
+    // Check localStorage first
+    const savedTheme = localStorage.getItem('etf-tracker-theme');
+    if (savedTheme) {
+        currentTheme = savedTheme;
+    } else {
+        // Check system preference
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            currentTheme = 'dark';
+        }
+    }
+    applyTheme();
+}
+
+function toggleTheme() {
+    currentTheme = currentTheme === 'light' ? 'dark' : 'light';
+    localStorage.setItem('etf-tracker-theme', currentTheme);
+    applyTheme();
+}
+
+function applyTheme() {
+    document.documentElement.setAttribute('data-theme', currentTheme);
+    const themeBtn = document.getElementById('themeToggle');
+    if (themeBtn) {
+        themeBtn.textContent = currentTheme === 'light' ? '🌙' : '☀️';
+        themeBtn.title = currentTheme === 'light' ? 'Switch to Dark Mode' : 'Switch to Light Mode';
+    }
+    // Update charts for theme compatibility
+    updateChartsTheme();
+}
+
+function updateChartsTheme() {
+    // Chart.js global defaults for dark mode
+    const textColor = currentTheme === 'dark' ? '#FAFAF9' : '#1C1917';
+    const gridColor = currentTheme === 'dark' ? '#44403C' : '#E7E5E4';
+
+    if (typeof Chart !== 'undefined') {
+        Chart.defaults.color = textColor;
+        Chart.defaults.borderColor = gridColor;
+
+        // Re-render charts if they exist
+        if (window.issuerChart) {
+            window.issuerChart.options.scales.x.ticks.color = textColor;
+            window.issuerChart.options.scales.y.ticks.color = textColor;
+            window.issuerChart.options.scales.x.grid.color = gridColor;
+            window.issuerChart.options.scales.y.grid.color = gridColor;
+            window.issuerChart.update();
+        }
+        if (window.cryptoChart) {
+            window.cryptoChart.options.plugins.legend.labels.color = textColor;
+            window.cryptoChart.update();
+        }
+    }
+}
 
 function t(key) {
     if (!key) return key;
@@ -198,12 +259,22 @@ function t(key) {
 
 function toggleLanguage() {
     currentLang = currentLang === 'zh' ? 'en' : 'zh';
+    updateLangButton();
     updateUILanguage();
     updateStats();
     renderApplications();
     renderTimeline();
     populateCryptoFilter();
     updateDataSourceIndicator();
+}
+
+function updateLangButton() {
+    const langBtn = document.getElementById('langToggle');
+    if (langBtn) {
+        // Show the OTHER language as the button text (what you'll switch TO)
+        langBtn.textContent = currentLang === 'zh' ? 'EN' : '中';
+        langBtn.title = currentLang === 'zh' ? 'Switch to English' : '切换到中文';
+    }
 }
 
 function updateUILanguage() {
@@ -229,6 +300,7 @@ function updateUILanguage() {
     if (el('titleCharts')) el('titleCharts').textContent = t('titleCharts');
     if (el('chartTitleIssuers')) el('chartTitleIssuers').textContent = t('chartTitleIssuers');
     if (el('chartTitleCrypto')) el('chartTitleCrypto').textContent = t('chartTitleCrypto');
+    if (el('timelineTooltip')) el('timelineTooltip').title = t('timelineTooltip');
 }
 
 // Comprehensive SEC Crypto ETF Application Data
@@ -1035,6 +1107,15 @@ function setupEventListeners() {
         langToggleBtn.addEventListener('click', toggleLanguage);
     }
 
+    // Theme Toggle
+    const themeToggleBtn = document.getElementById('themeToggle');
+    if (themeToggleBtn) {
+        themeToggleBtn.addEventListener('click', toggleTheme);
+    }
+
+    // Initialize theme on page load
+    initTheme();
+
     // Back to Top
     const backToTopBtn = document.getElementById('backToTop');
     if (backToTopBtn) {
@@ -1052,6 +1133,34 @@ function setupEventListeners() {
                 behavior: 'smooth'
             });
         });
+    }
+
+    // Timeline Navigation
+    const timelineContainer = document.getElementById('timeline');
+    const prevBtn = document.getElementById('timelinePrev');
+    const nextBtn = document.getElementById('timelineNext');
+
+    if (timelineContainer && prevBtn && nextBtn) {
+        const scrollAmount = 280; // Approximately one item width
+
+        prevBtn.addEventListener('click', () => {
+            timelineContainer.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+        });
+
+        nextBtn.addEventListener('click', () => {
+            timelineContainer.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+        });
+
+        // Update button states on scroll
+        function updateNavButtons() {
+            const maxScroll = timelineContainer.scrollWidth - timelineContainer.clientWidth;
+            prevBtn.disabled = timelineContainer.scrollLeft <= 0;
+            nextBtn.disabled = timelineContainer.scrollLeft >= maxScroll - 1;
+        }
+
+        timelineContainer.addEventListener('scroll', updateNavButtons);
+        // Initial check
+        setTimeout(updateNavButtons, 100);
     }
 }
 
@@ -1700,11 +1809,13 @@ function createApplicationCard(app) {
 
             ${status !== 'approved' && status !== 'denied' ? `
             <div class="approval-odds" style="margin-top: 15px;">
-                <span class="meta-label">${t('cardOdds')}</span>
-                <div class="odds-bar">
-                    <div class="odds-fill" style="width: ${app.approvalOdds || 0}%; background: ${oddsColor}"></div>
+                <div class="odds-label">
+                    <span>${t('cardOdds')}<span class="info-tooltip" title="${t('oddsTooltip')}">ⓘ</span></span>
+                    <span class="odds-value" style="color: ${oddsColor}">${app.approvalOdds || 0}%</span>
                 </div>
-                <span class="odds-value" style="color: ${oddsColor}">${app.approvalOdds || 0}%</span>
+                <div class="odds-bar">
+                    <div class="odds-fill ${app.approvalOdds >= 70 ? 'high' : app.approvalOdds >= 40 ? 'medium' : 'low'}" style="width: ${app.approvalOdds || 0}%;"></div>
+                </div>
             </div>
             ` : ''}
         </div>

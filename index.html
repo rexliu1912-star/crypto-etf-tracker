@@ -38,7 +38,8 @@
                                 <span class="pulse"></span>
                                 <span id="liveStatusText">实时更新</span>
                             </div>
-                            <button id="langToggle" class="lang-btn">EN / 中</button>
+                            <button id="themeToggle" class="theme-btn" title="Toggle Dark Mode">🌙</button>
+                            <button id="langToggle" class="theme-btn" title="切换语言">中</button>
                         </div>
                         <div class="last-updated">
                             <span id="lastUpdateLabel">最后更新:</span>
@@ -96,9 +97,15 @@
             <h2 class="section-title">
                 <span class="title-icon">📅</span>
                 <span id="titleTimeline">预计批准时间表</span>
+                <span class="info-tooltip" id="timelineTooltip"
+                    title="根据 SEC 规定，ETF 申请有 240 天审批窗口。此时间表显示预计的决策日期。">ⓘ</span>
             </h2>
-            <div class="timeline-container" id="timeline">
-                <!-- Timeline items will be inserted here -->
+            <div class="timeline-wrapper">
+                <button class="timeline-nav prev" id="timelinePrev" aria-label="Previous">◀</button>
+                <div class="timeline-container" id="timeline">
+                    <!-- Timeline items will be inserted here -->
+                </div>
+                <button class="timeline-nav next" id="timelineNext" aria-label="Next">▶</button>
             </div>
         </section>
 
