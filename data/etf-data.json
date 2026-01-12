@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-12T10:14:40.953Z",
+  "timestamp": "2026-01-12T11:11:31.265Z",
   "count": 220,
   "approvedCount": 57,
   "pendingCount": 126,
@@ -1172,7 +1172,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002064314",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064314",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026003025/ea0272433-424b3_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/999999999526000125/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "undefined-0002028834-5",
@@ -1459,7 +1459,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001047603",
+      "cik": "0001040270",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -1478,7 +1478,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001042448",
+      "cik": "0001087717",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -1497,7 +1497,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001047810",
+      "cik": "0001028290",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -1907,7 +1907,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001022159",
+      "cik": "0001045098",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -1926,7 +1926,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001077161",
+      "cik": "0001024618",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2074,7 +2074,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001057523",
+      "cik": "0001097456",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2093,7 +2093,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001049647",
+      "cik": "0001025415",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2112,7 +2112,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001075358",
+      "cik": "0001030985",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2131,7 +2131,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001035877",
+      "cik": "0001097004",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2150,7 +2150,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001095904",
+      "cik": "0001033663",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2278,7 +2278,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001028137",
+      "cik": "0001073415",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2297,7 +2297,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001001556",
+      "cik": "0001000947",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2406,7 +2406,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001071845",
+      "cik": "0001056962",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2425,7 +2425,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001028529",
+      "cik": "0001006773",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2444,7 +2444,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001019878",
+      "cik": "0001087469",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2463,7 +2463,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001045743",
+      "cik": "0001041873",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2482,7 +2482,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001070116",
+      "cik": "0001080348",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2501,7 +2501,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001039245",
+      "cik": "0001044152",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2520,7 +2520,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001065666",
+      "cik": "0001084383",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2539,7 +2539,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001064912",
+      "cik": "0001046055",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2633,7 +2633,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001050541",
+      "cik": "0001069384",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2652,7 +2652,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001089900",
+      "cik": "0001059764",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2671,7 +2671,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001003040",
+      "cik": "0001066733",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2762,7 +2762,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001054297",
+      "cik": "0001073733",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2781,7 +2781,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001009815",
+      "cik": "0001012272",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2892,7 +2892,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001066208",
+      "cik": "0001015631",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2911,7 +2911,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001069172",
+      "cik": "0001065628",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2930,7 +2930,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001049349",
+      "cik": "0001035327",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2949,7 +2949,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001007584",
+      "cik": "0001094311",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2968,7 +2968,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001007067",
+      "cik": "0001059007",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -2987,7 +2987,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001008767",
+      "cik": "0001089194",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3006,7 +3006,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001028497",
+      "cik": "0001083314",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3025,7 +3025,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001069326",
+      "cik": "0001046030",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3044,7 +3044,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001066175",
+      "cik": "0001013293",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3063,7 +3063,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001019045",
+      "cik": "0001071029",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3082,7 +3082,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001029188",
+      "cik": "0001014778",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3101,7 +3101,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001079074",
+      "cik": "0001047439",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3120,7 +3120,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001091220",
+      "cik": "0001068788",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3139,7 +3139,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001076789",
+      "cik": "0001049875",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3176,7 +3176,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001090534",
+      "cik": "0001082399",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3195,7 +3195,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001017060",
+      "cik": "0001017061",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3323,7 +3323,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001092921",
+      "cik": "0001020665",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3342,7 +3342,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001047015",
+      "cik": "0001040868",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3433,7 +3433,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001031947",
+      "cik": "0001042914",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3452,7 +3452,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001042560",
+      "cik": "0001034250",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3471,7 +3471,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001067245",
+      "cik": "0001054820",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3490,7 +3490,7 @@
       "notes": "属于 SEC EDGAR 2025/2026 年度加密资产申报流水条目",
       "constituents": null,
       "source": "SEC EDGAR (Pending Series)",
-      "cik": "0001098923",
+      "cik": "0001052846",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3509,7 +3509,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001075075",
+      "cik": "0001013848",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3528,7 +3528,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001087930",
+      "cik": "0001008643",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3547,7 +3547,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001041402",
+      "cik": "0001006999",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3566,7 +3566,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001004402",
+      "cik": "0001098731",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3585,7 +3585,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001024164",
+      "cik": "0001098684",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3604,7 +3604,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001075457",
+      "cik": "0001013044",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3623,7 +3623,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001007263",
+      "cik": "0001039578",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3642,7 +3642,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001084339",
+      "cik": "0001007403",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3661,7 +3661,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001044939",
+      "cik": "0001069008",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3680,7 +3680,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001091907",
+      "cik": "0001082314",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3699,7 +3699,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001095032",
+      "cik": "0001099819",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3718,7 +3718,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001098342",
+      "cik": "0001004413",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3737,7 +3737,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001030115",
+      "cik": "0001038488",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3756,7 +3756,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001019074",
+      "cik": "0001023473",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3775,7 +3775,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001038321",
+      "cik": "0001073007",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3794,7 +3794,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001035121",
+      "cik": "0001091482",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3813,7 +3813,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001066274",
+      "cik": "0001097775",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3832,7 +3832,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001032729",
+      "cik": "0001019845",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3851,7 +3851,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001036853",
+      "cik": "0001087635",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3870,7 +3870,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001073545",
+      "cik": "0001015217",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3889,7 +3889,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001046727",
+      "cik": "0001008081",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3908,7 +3908,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001070484",
+      "cik": "0001025235",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3927,7 +3927,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001079855",
+      "cik": "0001061489",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3946,7 +3946,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001062660",
+      "cik": "0001011600",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3965,7 +3965,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001027198",
+      "cik": "0001040627",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -3984,7 +3984,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001058504",
+      "cik": "0001074925",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4003,7 +4003,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001099658",
+      "cik": "0001000158",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4022,7 +4022,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001036768",
+      "cik": "0001087589",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4041,7 +4041,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001029307",
+      "cik": "0001081664",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4060,7 +4060,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001079950",
+      "cik": "0001025997",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4079,7 +4079,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001022640",
+      "cik": "0001076184",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4098,7 +4098,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001053005",
+      "cik": "0001070979",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4117,7 +4117,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001001833",
+      "cik": "0001093121",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4136,7 +4136,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001013288",
+      "cik": "0001019134",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4155,7 +4155,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001058024",
+      "cik": "0001035136",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4174,7 +4174,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001046460",
+      "cik": "0001061952",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     },
@@ -4193,7 +4193,7 @@
       "notes": "历史申报记录，已撤回或被拒绝",
       "constituents": null,
       "source": "Historical Data Archive",
-      "cik": "0001050009",
+      "cik": "0001076896",
       "secLink": "https://www.sec.gov/edgar/search/",
       "latestFilingLink": "https://www.sec.gov/edgar/search/"
     }
