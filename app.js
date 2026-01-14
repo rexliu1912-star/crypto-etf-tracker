@@ -14,11 +14,11 @@ const translations = {
         labelTotal: "总申请数",
         labelApproved: "已通过",
         labelPending: "待通过",
-        labelDenied: "已拒绝",
+        labelRecent7d: "最近7天",
         btnAll: "全部",
         btnApproved: "已通过",
         btnPending: "待通过",
-        btnDenied: "已拒绝",
+        btnRecent7d: "最近7天",
         optAllCrypto: "所有加密货币",
         titleTimeline: "决策时间表",
         titleApplications: "所有 ETF 申请",
@@ -73,11 +73,11 @@ const translations = {
         labelTotal: "Total ETFs",
         labelApproved: "Approved",
         labelPending: "Pending",
-        labelDenied: "Denied",
+        labelRecent7d: "7D New",
         btnAll: "All",
         btnApproved: "Approved",
         btnPending: "Pending",
-        btnDenied: "Denied",
+        btnRecent7d: "Last 7 Days",
         optAllCrypto: "All Crypto",
         titleTimeline: "Decision Timeline",
         titleApplications: "All ETF Applications",
@@ -286,11 +286,11 @@ function updateUILanguage() {
     if (el('labelTotal')) el('labelTotal').textContent = t('labelTotal');
     if (el('labelApproved')) el('labelApproved').textContent = t('labelApproved');
     if (el('labelPending')) el('labelPending').textContent = t('labelPending');
-    if (el('labelDenied')) el('labelDenied').textContent = t('labelDenied');
+    if (el('labelRecent7d')) el('labelRecent7d').textContent = t('labelRecent7d');
     if (el('btnAll')) el('btnAll').textContent = t('btnAll');
     if (el('btnApproved')) el('btnApproved').textContent = t('btnApproved');
     if (el('btnPending')) el('btnPending').textContent = t('btnPending');
-    if (el('btnDenied')) el('btnDenied').textContent = t('btnDenied');
+    if (el('btnRecent7d')) el('btnRecent7d').textContent = t('btnRecent7d');
     if (el('optAllCrypto')) el('optAllCrypto').textContent = t('optAllCrypto');
     if (el('titleTimeline')) el('titleTimeline').textContent = t('titleTimeline');
     if (el('titleApplications')) el('titleApplications').textContent = t('titleApplications');
@@ -1003,7 +1003,7 @@ const updateTimeEl = document.getElementById('updateTime');
 const totalCountEl = document.getElementById('totalCount');
 const approvedCountEl = document.getElementById('approvedCount');
 const pendingCountEl = document.getElementById('pendingCount');
-const deniedCountEl = document.getElementById('deniedCount');
+const recent7dCountEl = document.getElementById('recent7dCount');
 const searchInputEl = document.getElementById('searchInput');
 const cryptoFilterEl = document.getElementById('cryptoFilter');
 const applicationsGridEl = document.getElementById('applicationsGrid');
@@ -1286,25 +1286,35 @@ function updateStats() {
     const total = etfApplications.length;
     const approved = etfApplications.filter(app => app.status === 'approved').length;
     const pending = etfApplications.filter(app => app.status === 'pending').length;
-    const denied = etfApplications.filter(app => app.status === 'denied').length;
+
+    // Calculate recent 7 days filings
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const sevenDaysAgo = new Date(today);
+    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+    const recent7d = etfApplications.filter(app => {
+        if (!app.filingDate || app.filingDate === 'N/A') return false;
+        const filingDate = new Date(app.filingDate);
+        return filingDate >= sevenDaysAgo && filingDate <= today;
+    }).length;
 
     if (totalCountEl) animateValue(totalCountEl, parseInt(totalCountEl.textContent) || 0, total, 500);
     if (approvedCountEl) animateValue(approvedCountEl, parseInt(approvedCountEl.textContent) || 0, approved, 500);
     if (pendingCountEl) animateValue(pendingCountEl, parseInt(pendingCountEl.textContent) || 0, pending, 500);
 
-    // Explicitly update denied count element
-    if (deniedCountEl) animateValue(deniedCountEl, parseInt(deniedCountEl.textContent) || 0, denied, 500);
+    // Update recent 7 days count element
+    if (recent7dCountEl) animateValue(recent7dCountEl, parseInt(recent7dCountEl.textContent) || 0, recent7d, 500);
 
     // Update filter counts
     const btnAll = document.getElementById('btnAll');
     const btnApproved = document.getElementById('btnApproved');
     const btnPending = document.getElementById('btnPending');
-    const btnDenied = document.getElementById('btnDenied');
+    const btnRecent7d = document.getElementById('btnRecent7d');
 
     if (btnAll) btnAll.textContent = `${t('btnAll')} (${total})`;
     if (btnApproved) btnApproved.textContent = `${t('btnApproved')} (${approved})`;
     if (btnPending) btnPending.textContent = `${t('btnPending')} (${pending})`;
-    if (btnDenied) btnDenied.textContent = `${t('btnDenied')} (${denied})`;
+    if (btnRecent7d) btnRecent7d.textContent = `${t('btnRecent7d')} (${recent7d})`;
 
     // Render charts
     renderCharts();
@@ -1609,9 +1619,21 @@ function renderApplications() {
         return dateB - dateA;
     });
 
-    // Apply status filter
+    // Apply status filter (including special 'recent7d' filter)
     if (currentFilter !== 'all') {
-        filteredApps = filteredApps.filter(app => app.status === currentFilter);
+        if (currentFilter === 'recent7d') {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const sevenDaysAgo = new Date(today);
+            sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+            filteredApps = filteredApps.filter(app => {
+                if (!app.filingDate || app.filingDate === 'N/A') return false;
+                const filingDate = new Date(app.filingDate);
+                return filingDate >= sevenDaysAgo && filingDate <= today;
+            });
+        } else {
+            filteredApps = filteredApps.filter(app => app.status === currentFilter);
+        }
     }
 
     // Apply crypto filter (also check constituents for Multi-Crypto ETFs)
@@ -1751,13 +1773,29 @@ function createApplicationCard(app) {
     // Check if approved today
     const today = new Date().toISOString().slice(0, 10); // '2026-01-09'
     const isApprovedToday = status === 'approved' && app.filingDate === today;
-    const cardClasses = `application-card fade-in${isApprovedToday ? ' today-approved' : ''}`;
+
+    // Check if filed within last 7 days (for NEW badge)
+    const todayDate = new Date();
+    todayDate.setHours(0, 0, 0, 0);
+    const sevenDaysAgo = new Date(todayDate);
+    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+    let isRecent7d = false;
+    if (app.filingDate && app.filingDate !== 'N/A') {
+        const filingDate = new Date(app.filingDate);
+        isRecent7d = filingDate >= sevenDaysAgo && filingDate <= todayDate;
+    }
+
+    const cardClasses = `application-card fade-in${isApprovedToday ? ' today-approved' : ''}${isRecent7d ? ' recent-filing' : ''}`;
     const todayBadgeHtml = isApprovedToday
         ? `<div class="today-badge">🎉 ${currentLang === 'zh' ? '今日通过' : 'Passed Today'}</div>`
+        : '';
+    const newBadgeHtml = isRecent7d && !isApprovedToday
+        ? `<div class="new-badge">🔥 NEW</div>`
         : '';
 
     return `
         <div class="${cardClasses}">
+            ${newBadgeHtml}
             <div class="card-header">
                 <div class="crypto-info">
                     <div class="crypto-icon">

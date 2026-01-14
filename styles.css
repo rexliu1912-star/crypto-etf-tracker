@@ -305,8 +305,8 @@ body {
     color: var(--accent-blue);
 }
 
-.stat-card.denied .stat-value {
-    color: var(--accent-red);
+.stat-card.recent7d .stat-value {
+    color: #8B5CF6;
 }
 
 .stat-label {
@@ -404,8 +404,8 @@ body {
     color: white;
 }
 
-.filter-btn.active[data-filter="denied"] {
-    background: var(--accent-red);
+.filter-btn.active[data-filter="recent7d"] {
+    background: #8B5CF6;
     color: white;
 }
 
@@ -1235,4 +1235,46 @@ body {
     .chart-container {
         height: 250px;
     }
+}
+/* ==========================================
+   Recent 7D New Filing Badge
+   ========================================== */
+
+.application-card {
+    position: relative;
+    overflow: hidden;
+}
+
+.new-badge {
+    position: absolute;
+    top: 12px;
+    left: -32px;
+    background: linear-gradient(135deg, #8B5CF6 0%, #A855F7 100%);
+    color: white;
+    font-size: 0.6rem;
+    font-weight: 800;
+    padding: 4px 36px;
+    transform: rotate(-45deg);
+    text-transform: uppercase;
+    box-shadow: 0 2px 8px rgba(139, 92, 246, 0.4);
+    z-index: 10;
+    letter-spacing: 0.5px;
+}
+
+.application-card.recent-filing {
+    border-color: #8B5CF6;
+    box-shadow: 4px 4px 0px 0px #8B5CF6;
+}
+
+.application-card.recent-filing:hover {
+    box-shadow: 6px 6px 0px 0px #8B5CF6;
+}
+
+/* Stats card hover glow for 7D */
+.stat-card.recent7d {
+    border-color: #8B5CF6;
+}
+
+.stat-card.recent7d:hover {
+    box-shadow: 6px 6px 0px 0px #8B5CF6;
 }
