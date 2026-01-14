@@ -118,7 +118,10 @@ const CRYPTO_ETF_ISSUERS = [
     { cik: '0001767057', name: 'Osprey Bitcoin Trust', symbol: 'OBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'OBTC' },
     { cik: '0002048583', name: 'CoinShares XRP ETF', symbol: 'CSXR', crypto: 'XRP', status: 'pending', ticker: 'CSXR' },
     { cik: '0001852026', name: 'Grayscale Cardano Trust', issuer: 'Grayscale', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', notes: 'SEC已延期决定至10月26日' },
-    { cik: '0001884022', name: 'Tuttle Capital 2X Cardano ETF', issuer: 'Tuttle Capital', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', type: '2x', notes: '杠杆产品,新生效日期10月10日' }
+    { cik: '0001884022', name: 'Tuttle Capital 2X Cardano ETF', issuer: 'Tuttle Capital', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', type: '2x', notes: '杠杆产品,新生效日期10月10日' },
+
+    // ==================== CYBER HORNET (1 product) ====================
+    { cik: '0002096385', name: 'Cyber Hornet S&P Crypto 10 ETF', symbol: 'CTX', crypto: 'Multi-Crypto', status: 'pending', ticker: 'CTX', constituents: ['Bitcoin', 'Ethereum', 'XRP', 'Solana', 'Cardano', 'Bitcoin Cash', 'Chainlink', 'Stellar', 'Polkadot', 'Litecoin'] }
 ];
 
 // Verified product counts by issuer
@@ -136,8 +139,27 @@ const ISSUER_PRODUCT_COUNTS = {
     'Hashdex': 1,
     'Canary Capital': 5,
     'Volatility Shares': 2,
+    'Cyber Hornet': 1,
     'Others': 3
 };
+
+// --- SENTINEL CONFIGURATION (White-Label Platforms) ---
+const SENTINEL_PLATFORMS = [
+    { cik: '0001924868', name: 'Tidal Trust II' },
+    { cik: '0001345125', name: 'ONEFUND Trust' },
+    { cik: '0001396092', name: 'World Funds Trust' },
+    { cik: '0002055464', name: 'Wedbush Series Trust' },
+    { cik: '0001650149', name: 'Trust for Advised Portfolios' },
+    { cik: '0001683471', name: 'Listed Funds Trust' },
+    { cik: '0001452937', name: 'Exchange Traded Concepts Trust' },
+    { cik: '0001557007', name: 'Alpha Architect ETF Trust' }
+];
+
+const CRYPTO_KEYWORDS = [
+    'bitcoin', 'ethereum', 'ether', 'crypto', 'blockchain', 'digital asset',
+    'solana', 'xrp', 'ripple', 'litecoin', 'dogecoin', 'doge', 'avalanche',
+    'cardano', 'polkadot', 'chainlink', 'stellar', 'btc', 'eth', 'sol', 'defi'
+];
 
 // --- Helpers ---
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
@@ -321,7 +343,10 @@ async function main() {
         'HBAR ETF Hedera',
         'Multi-Asset Crypto basket',
         'Combined Bitcoin Ethereum Trust',
-        'cryptocurrency spot exchange-traded'
+        'cryptocurrency spot exchange-traded',
+        'Cyber Hornet S-1',
+        'S&P Cryptocurrency Top 10 Index',
+        'Form S-1 Crypto 10'
     ];
 
     const discoveredIssuersMap = new Map();
@@ -417,6 +442,40 @@ async function main() {
             }
         }
         await delay(150);
+    }
+
+    // Phase Sentinel: Proactively monitor platform CIKs for unlisted crypto series
+    console.log('\n=== Phase Sentinel: Monitoring Platform Trusts ===');
+    for (const platform of SENTINEL_PLATFORMS) {
+        console.log(`Sentinel scanning ${platform.name} (${platform.cik})...`);
+        const companyData = await fetchCompanyFilings(platform.cik);
+        if (companyData && companyData.filings?.recent) {
+            const filings = companyData.filings.recent;
+            for (let i = 0; i < Math.min(filings.form.length, 50); i++) {
+                const form = filings.form[i];
+                const docName = (filings.primaryDocument[i] || '').toLowerCase();
+                const seriesName = (filings.isXBRL?.[i] ? 'XBRL Data' : '').toLowerCase(); // Placeholder for deeper scan
+
+                // Monitor registration statements and core updates
+                if (form.startsWith('S-1') || form.startsWith('N-1A') || form.includes('485')) {
+                    const isCrypto = CRYPTO_KEYWORDS.some(kw => docName.includes(kw) || seriesName.includes(kw));
+                    if (isCrypto) {
+                        const productData = processETFData(companyData, {
+                            cik: platform.cik,
+                            name: platform.name,
+                            crypto: 'Multi-Crypto ( Sentinel Detected )',
+                            status: 'pending'
+                        }, i);
+
+                        if (productData && !results.some(r => r.id === productData.id)) {
+                            console.log(`  [SENTINEL MATCH] Found new series: ${productData.latestFilingLink}`);
+                            results.push(productData);
+                        }
+                    }
+                }
+            }
+        }
+        await delay(200);
     }
 
     // Phase 4: Ensure Data Completeness (Match reported market scale of 220+ products / 126+ pending)
