@@ -152,13 +152,33 @@ const SENTINEL_PLATFORMS = [
     { cik: '0001650149', name: 'Trust for Advised Portfolios' },
     { cik: '0001683471', name: 'Listed Funds Trust' },
     { cik: '0001452937', name: 'Exchange Traded Concepts Trust' },
-    { cik: '0001557007', name: 'Alpha Architect ETF Trust' }
+    { cik: '0001557007', name: 'Alpha Architect ETF Trust' },
+    // Additional White-Label Platforms
+    { cik: '0001535538', name: 'EA Series Trust' },
+    { cik: '0001598446', name: 'First Trust Exchange-Traded Fund VIII' },
+    { cik: '0001618627', name: 'Innovator ETFs Trust' },
+    { cik: '0001577877', name: 'Volatility Shares Trust' },
+    { cik: '0001547950', name: 'Amplify ETF Trust' },
+    { cik: '0001508545', name: 'Global X Funds' },
+    { cik: '0001454889', name: 'REX ETF Trust' },
+    { cik: '0001742912', name: 'Roundhill ETF Trust' },
+    { cik: '0001592900', name: 'Direxion Shares ETF Trust' }
 ];
 
 const CRYPTO_KEYWORDS = [
-    'bitcoin', 'ethereum', 'ether', 'crypto', 'blockchain', 'digital asset',
-    'solana', 'xrp', 'ripple', 'litecoin', 'dogecoin', 'doge', 'avalanche',
-    'cardano', 'polkadot', 'chainlink', 'stellar', 'btc', 'eth', 'sol', 'defi'
+    // Core cryptocurrencies
+    'bitcoin', 'btc', 'ethereum', 'ether', 'eth', 'solana', 'sol',
+    'xrp', 'ripple', 'litecoin', 'ltc', 'dogecoin', 'doge',
+    // Major altcoins
+    'avalanche', 'avax', 'cardano', 'ada', 'polkadot', 'dot',
+    'chainlink', 'link', 'stellar', 'xlm', 'hedera', 'hbar',
+    // Newer tokens
+    'sui', 'aptos', 'apt', 'sei', 'near', 'cosmos', 'atom',
+    'toncoin', 'ton', 'kaspa', 'kas', 'immutable', 'imx',
+    'bittensor', 'tao', 'render', 'rndr', 'arweave', 'ar',
+    // General terms
+    'crypto', 'blockchain', 'digital asset', 'defi', 'staking',
+    'spot etf', 'futures etf', 'leveraged', '2x', 'short'
 ];
 
 // --- Helpers ---
@@ -285,8 +305,8 @@ function processETFData(companyData, issuerInfo, filingIndex = 0) {
 async function searchSECFilings(query, dateFrom = '2023-01-01') {
     const encodedQuery = encodeURIComponent(query);
     // Request up to 100 results per query to find more entities
-    const url = `https://efts.sec.gov/LATEST/search-index?q=${encodedQuery}&dateRange=custom&startdt=${dateFrom}&enddt=${new Date().toISOString().split('T')[0]}&from=0&size=100`;
-    console.log(`Searching SEC (size=100): ${query}...`);
+    const url = `https://efts.sec.gov/LATEST/search-index?q=${encodedQuery}&dateRange=custom&startdt=${dateFrom}&enddt=${new Date().toISOString().split('T')[0]}&from=0&size=200`;
+    console.log(`Searching SEC (size=200): ${query}...`);
 
     try {
         const response = await fetch(url, {
@@ -333,20 +353,47 @@ async function main() {
     // Phase 2: Discover additional issuers via SEC search
     console.log('\n=== Phase 2: Discovering Additional Filings ===');
     const searchTerms = [
+        // Form-based searches
         'Form S-1 Digital Asset Trust',
-        'Form 19b-4 spot crypto',
         'Form S-1 spot ETF',
+        'Form 19b-4 spot crypto',
+        'Form N-1A cryptocurrency',
+        'Form 485BPOS crypto',
+        // Bitcoin & Ethereum
         'Bitcoin Strategy leveraged ETF',
+        'Bitcoin spot trust',
+        'Ethereum spot ETF',
+        'Combined Bitcoin Ethereum Trust',
+        // Major altcoins
         'Solana Staked ETF',
         'XRP Spot Trust',
         'Dogecoin ETF Filing',
         'HBAR ETF Hedera',
+        'Litecoin ETF',
+        'Cardano ADA ETF',
+        'Avalanche AVAX Trust',
+        'Polkadot DOT ETF',
+        // Emerging tokens
+        'SUI spot ETF',
+        'Aptos APT Trust',
+        'Near Protocol ETF',
+        'Cosmos ATOM ETF',
+        'Bittensor TAO Trust',
+        'Render RNDR ETF',
+        // Multi-asset & Index
         'Multi-Asset Crypto basket',
-        'Combined Bitcoin Ethereum Trust',
         'cryptocurrency spot exchange-traded',
-        'Cyber Hornet S-1',
         'S&P Cryptocurrency Top 10 Index',
-        'Form S-1 Crypto 10'
+        'Form S-1 Crypto 10',
+        'Digital Asset Index Fund',
+        // Specific issuers
+        'Cyber Hornet S-1',
+        'Grayscale Trust ETF',
+        'Bitwise crypto ETF',
+        '21Shares ETF',
+        'ProShares crypto',
+        'VanEck digital asset',
+        'Fidelity crypto fund'
     ];
 
     const discoveredIssuersMap = new Map();
