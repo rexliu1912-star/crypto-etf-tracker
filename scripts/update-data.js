@@ -357,6 +357,25 @@ function processETFData(companyData, issuerInfo, filingIndex = 0) {
     const latestFilingDate = filings?.recent?.filingDate?.[filingIndex] || 'N/A';
     const latestForm = filings?.recent?.form?.[filingIndex] || 'Unknown';
 
+    // Find initialFilingDate: the oldest S-1 or N-1A filing for this entity
+    let initialFilingDate = 'N/A';
+    if (filings?.recent?.form && filings?.recent?.filingDate) {
+        const forms = filings.recent.form;
+        const dates = filings.recent.filingDate;
+        // Look for the earliest S-1 or N-1A filing (they are ordered newest first)
+        for (let i = forms.length - 1; i >= 0; i--) {
+            const form = (forms[i] || '').toUpperCase();
+            if (form === 'S-1' || form === 'S-1/A' || form === 'N-1A' || form.startsWith('S-1')) {
+                initialFilingDate = dates[i];
+                break;
+            }
+        }
+        // Fallback: if no S-1/N-1A found, use the oldest filing date
+        if (initialFilingDate === 'N/A' && dates.length > 0) {
+            initialFilingDate = dates[dates.length - 1];
+        }
+    }
+
     // Use pre-verified status from research if available
     const status = issuerInfo.status || 'pending';
 
@@ -385,6 +404,7 @@ function processETFData(companyData, issuerInfo, filingIndex = 0) {
         etfName: issuerInfo.name,
         filingType: filingType,
         filingDate: latestFilingDate,
+        initialFilingDate: initialFilingDate,  // NEW: First S-1/N-1A filing date
         decisionDeadline: status === 'approved' ? latestFilingDate : (issuerInfo.decisionDeadline || '待通过'),
         status: status,
         approvalOdds: status === 'approved' ? 100 : 70,

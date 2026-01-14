@@ -1293,8 +1293,10 @@ function updateStats() {
     const sevenDaysAgo = new Date(today);
     sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
     const recent7d = etfApplications.filter(app => {
-        if (!app.filingDate || app.filingDate === 'N/A') return false;
-        const filingDate = new Date(app.filingDate);
+        // Use initialFilingDate (first S-1/N-1A filing) for accurate '7-day new' detection
+        const dateToCheck = app.initialFilingDate || app.filingDate;
+        if (!dateToCheck || dateToCheck === 'N/A') return false;
+        const filingDate = new Date(dateToCheck);
         return filingDate >= sevenDaysAgo && filingDate <= today;
     }).length;
 
@@ -1627,8 +1629,10 @@ function renderApplications() {
             const sevenDaysAgo = new Date(today);
             sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
             filteredApps = filteredApps.filter(app => {
-                if (!app.filingDate || app.filingDate === 'N/A') return false;
-                const filingDate = new Date(app.filingDate);
+                // Use initialFilingDate (first S-1/N-1A filing) for accurate '7-day new' detection
+                const dateToCheck = app.initialFilingDate || app.filingDate;
+                if (!dateToCheck || dateToCheck === 'N/A') return false;
+                const filingDate = new Date(dateToCheck);
                 return filingDate >= sevenDaysAgo && filingDate <= today;
             });
         } else {
@@ -1780,8 +1784,10 @@ function createApplicationCard(app) {
     const sevenDaysAgo = new Date(todayDate);
     sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
     let isRecent7d = false;
-    if (app.filingDate && app.filingDate !== 'N/A') {
-        const filingDate = new Date(app.filingDate);
+    // Use initialFilingDate (first S-1/N-1A filing) for accurate '7-day new' detection
+    const dateToCheck = app.initialFilingDate || app.filingDate;
+    if (dateToCheck && dateToCheck !== 'N/A') {
+        const filingDate = new Date(dateToCheck);
         isRecent7d = filingDate >= sevenDaysAgo && filingDate <= todayDate;
     }
 
