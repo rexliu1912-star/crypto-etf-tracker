@@ -165,20 +165,116 @@ const SENTINEL_PLATFORMS = [
     { cik: '0001592900', name: 'Direxion Shares ETF Trust' }
 ];
 
+// --- COMPREHENSIVE CRYPTO KEYWORDS (Top 500 by Market Cap Coverage) ---
 const CRYPTO_KEYWORDS = [
-    // Core cryptocurrencies
-    'bitcoin', 'btc', 'ethereum', 'ether', 'eth', 'solana', 'sol',
-    'xrp', 'ripple', 'litecoin', 'ltc', 'dogecoin', 'doge',
-    // Major altcoins
-    'avalanche', 'avax', 'cardano', 'ada', 'polkadot', 'dot',
-    'chainlink', 'link', 'stellar', 'xlm', 'hedera', 'hbar',
-    // Newer tokens
-    'sui', 'aptos', 'apt', 'sei', 'near', 'cosmos', 'atom',
-    'toncoin', 'ton', 'kaspa', 'kas', 'immutable', 'imx',
-    'bittensor', 'tao', 'render', 'rndr', 'arweave', 'ar',
-    // General terms
-    'crypto', 'blockchain', 'digital asset', 'defi', 'staking',
-    'spot etf', 'futures etf', 'leveraged', '2x', 'short'
+    // === Top 1-10 (Major Caps) ===
+    'bitcoin', 'btc', 'ethereum', 'ether', 'eth', 'tether', 'usdt',
+    'xrp', 'ripple', 'bnb', 'binance', 'solana', 'sol', 'usdc',
+    'dogecoin', 'doge', 'cardano', 'ada', 'tron', 'trx',
+
+    // === Top 11-50 (Large Caps) ===
+    'avalanche', 'avax', 'chainlink', 'link', 'shiba', 'shib',
+    'toncoin', 'ton', 'polkadot', 'dot', 'bitcoin cash', 'bch',
+    'stellar', 'xlm', 'polygon', 'matic', 'uniswap', 'uni',
+    'litecoin', 'ltc', 'hedera', 'hbar', 'near', 'near protocol',
+    'internet computer', 'icp', 'dai', 'leo', 'aptos', 'apt',
+    'cronos', 'cro', 'unus sed leo', 'cosmos', 'atom',
+    'ethereum classic', 'etc', 'render', 'rndr', 'kaspa', 'kas',
+    'bittensor', 'tao', 'arbitrum', 'arb', 'immutable', 'imx',
+    'filecoin', 'fil', 'mantle', 'mnt', 'vechain', 'vet',
+    'optimism', 'op', 'injective', 'inj', 'sei', 'sui', 'pepe',
+
+    // === Top 51-100 (Mid Caps) ===
+    'celestia', 'tia', 'theta', 'stacks', 'stx', 'maker', 'mkr',
+    'the graph', 'grt', 'fantom', 'ftm', 'algorand', 'algo',
+    'flow', 'arweave', 'ar', 'aave', 'pyth', 'gala',
+    'bonk', 'floki', 'beam', 'core', 'axie', 'axs',
+    'worldcoin', 'wld', 'ondo', 'jupiter', 'jup', 'fetch', 'fet',
+    'dymension', 'dym', 'osmosis', 'osmo', 'kava', 'mina',
+    'conflux', 'cfx', 'blur', 'lido', 'ldo', 'rocket pool', 'rpl',
+    'woo', 'woo network', 'nexo', 'quant', 'qnt', 'elrond', 'egld',
+    'chiliz', 'chz', 'eos', 'neo', 'iota', 'miota',
+    'klaytn', 'klay', 'akash', 'akt', 'decentraland', 'mana',
+    'sandbox', 'sand', 'enjin', 'enj', 'loopring', 'lrc',
+    'curve', 'crv', 'compound', 'comp', 'synthetix', 'snx',
+    'yearn', 'yfi', '1inch', 'pancakeswap', 'cake', 'sushiswap', 'sushi',
+
+    // === Top 101-200 (Mid-Small Caps) ===
+    'zilliqa', 'zil', 'harmony', 'one', 'celo', 'ankr',
+    'iotex', 'iotx', 'oasis', 'rose', 'secret', 'scrt',
+    'nervos', 'ckb', 'ravencoin', 'rvn', 'waves', 'dash',
+    'zcash', 'zec', 'decred', 'dcr', 'horizen', 'zen',
+    'ontology', 'ont', 'icon', 'icx', 'wax', 'waxp',
+    'livepeer', 'lpt', 'storj', 'audius', 'audio', 'basic attention', 'bat',
+    'golem', 'glm', 'skale', 'skl', 'cartesi', 'ctsi',
+    'api3', 'band protocol', 'band', 'ocean', 'singularitynet', 'agix',
+    'mask network', 'mask', 'sxp', 'swipe', 'holo', 'hot',
+    'status', 'snt', 'request', 'req', 'origin', 'ogn',
+    'numeraire', 'nmr', 'balancer', 'bal', 'ampleforth', 'ampl',
+    'tribe', 'fei', 'keep', 'nu', 'nucypher', 'dodo',
+    'badger', 'rari', 'alpha', 'perp', 'perpetual', 'dydx',
+
+    // === Top 201-350 (Smaller Caps & Emerging) ===
+    'tellor', 'trb', 'uma', 'kyber', 'knc', 'ren', 'renbtc',
+    'melon', 'mln', 'pols', 'polkastarter', 'sfp', 'safepal',
+    'nkn', 'lto', 'pha', 'phala', 'reef', 'dodo',
+    'raydium', 'ray', 'serum', 'srm', 'step finance', 'step',
+    'marinade', 'msol', 'mango', 'mngo', 'orca', 'saber',
+    'tulip', 'port', 'sunny', 'cope', 'atlas', 'polis',
+    'wormhole', 'w', 'pyth', 'drift', 'kamino', 'jito',
+    'helium', 'hnt', 'mobile', 'iot', 'streamr', 'data',
+    'pocket', 'pokt', 'flux', 'kadena', 'kda', 'ergo', 'erg',
+    'radix', 'xrd', 'casper', 'cspr', 'multiversx', 'mx',
+
+    // === Top 351-500 (Micro Caps & Niche) ===
+    'velas', 'vlx', 'syscoin', 'sys', 'wanchain', 'wan',
+    'elastos', 'ela', 'ardor', 'ardr', 'stratis', 'strax',
+    'komodo', 'kmd', 'digibyte', 'dgb', 'vertcoin', 'vtc',
+    'groestlcoin', 'grs', 'pivx', 'firo', 'beam', 'grin',
+    'haven', 'xhv', 'conceal', 'ccx', 'dero', 'oxen',
+    'particl', 'part', 'nav', 'navcoin', 'reddcoin', 'rdd',
+    'phore', 'phr', 'smartcash', 'smart', 'crown', 'crw',
+    'bitbay', 'bay', 'viacoin', 'via', 'gulden', 'nvc',
+    'novacoin', 'ppc', 'peercoin', 'nmc', 'namecoin', 'xpm',
+    'primecoin', 'xvg', 'verge', 'siacoin', 'sc', 'burst',
+
+    // === DeFi & Layer 2 Specific ===
+    'aave', 'uniswap', 'sushiswap', 'curve', 'compound', 'makerdao',
+    'yearn finance', 'convex', 'frax', 'liquity', 'reflexer',
+    'euler', 'morpho', 'benqi', 'traderjoe', 'pangolin', 'spookyswap',
+    'quickswap', 'honeyswap', 'spiritswap', 'velodrome', 'aerodrome',
+    'gmx', 'gains', 'level finance', 'vertex', 'hyperliquid',
+    'zksync', 'starknet', 'scroll', 'linea', 'base', 'blast',
+    'mode', 'manta', 'taiko', 'zkfair', 'eclipse',
+
+    // === NFT & Gaming ===
+    'axie infinity', 'sandbox', 'decentraland', 'gala games',
+    'immutable x', 'enjin', 'flow', 'ultra', 'uos', 'beam',
+    'illuvium', 'ilv', 'yield guild', 'ygg', 'mobox', 'mbox',
+    'starlink', 'starl', 'alien worlds', 'tlm', 'splinterlands',
+    'gods unchained', 'gods', 'bigtime', 'pixels', 'prime',
+
+    // === AI & Data Coins ===
+    'fetch ai', 'singularitynet', 'ocean protocol', 'bittensor',
+    'render', 'akash', 'golem', 'olas', 'numerai', 'grass',
+    'io.net', 'nosana', 'worldcoin', 'arkham', 'arkm',
+    'vectorspace', 'vxv', 'cortex', 'ctxc', 'matrix', 'man',
+
+    // === Meme Coins ===
+    'dogecoin', 'shiba inu', 'pepe', 'bonk', 'floki',
+    'dogwifhat', 'wif', 'book of meme', 'bome', 'memecoin', 'meme',
+    'babydoge', 'wojak', 'turbo', 'milady', 'ladys', 'ben',
+    'hpos10i', 'harry potter', 'bitcoin', 'simpson', 'bart',
+
+    // === Privacy Coins ===
+    'monero', 'xmr', 'zcash', 'zec', 'dash', 'horizen',
+    'secret network', 'oasis', 'dero', 'haven', 'firo', 'beam',
+
+    // === General ETF/Trading Terms ===
+    'crypto', 'cryptocurrency', 'blockchain', 'digital asset', 'virtual currency',
+    'defi', 'decentralized finance', 'staking', 'yield',
+    'spot etf', 'futures etf', 'leveraged', '2x', '3x', 'short', 'inverse',
+    'index fund', 'basket', 'trust', 'etp', 'exchange traded'
 ];
 
 // --- Helpers ---
