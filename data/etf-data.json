@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-14T21:03:14.881Z",
+  "timestamp": "2026-01-14T22:12:06.080Z",
   "count": 233,
   "approvedCount": 57,
   "pendingCount": 176,
@@ -574,9 +574,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-13",
+      "filingDate": "2026-01-14",
       "initialFilingDate": "2023-05-09",
-      "decisionDeadline": "2026-01-13",
+      "decisionDeadline": "2026-01-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -584,7 +584,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001976672",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001976672",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000004/c485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000008/c485bxt.htm"
     },
     {
       "id": "LTCN-0001732406-0",
@@ -3647,7 +3647,7 @@
       "issuer": "Listed",
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-12",
+      "filingDate": "2026-01-14",
       "initialFilingDate": "2023-12-28",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -3657,7 +3657,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000258/teucrium485bxtxetfs2xbnbetf.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000551/leveragedxdc485a.htm"
     },
     {
       "id": "undefined-0001683471-1",
@@ -3676,16 +3676,16 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000256/a21sharesactivecrypto485bxa.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000258/teucrium485bxtxetfs2xbnbetf.htm"
     },
     {
-      "id": "undefined-0001683471-26",
+      "id": "undefined-0001683471-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-05",
+      "filingDate": "2026-01-12",
       "initialFilingDate": "2023-12-28",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -3695,7 +3695,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000079/teucrium485bxtxetfs2xbnbetf.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000256/a21sharesactivecrypto485bxa.htm"
     },
     {
       "id": "undefined-0001683471-27",
@@ -3714,16 +3714,16 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000076/venezuela485a.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000079/teucrium485bxtxetfs2xbnbetf.htm"
     },
     {
-      "id": "undefined-0001683471-40",
+      "id": "undefined-0001683471-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-23",
+      "filingDate": "2026-01-05",
       "initialFilingDate": "2023-12-28",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -3733,7 +3733,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925018049/teucrium485bxt2xshortxrp.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000076/venezuela485a.htm"
     },
     {
       "id": "undefined-0001683471-41",
@@ -3752,10 +3752,29 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925018049/teucrium485bxt2xshortxrp.htm"
+    },
+    {
+      "id": "undefined-0001683471-42",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Listed",
+      "etfName": "Listed Funds Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-23",
+      "initialFilingDate": "2023-12-28",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001683471",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925017399/ck0001683471-20251222.htm"
     },
     {
-      "id": "undefined-0001683471-43",
+      "id": "undefined-0001683471-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3772,25 +3791,6 @@
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925017231/a21sharesactivecrypto485bxa.htm"
-    },
-    {
-      "id": "undefined-0001683471-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Listed",
-      "etfName": "Listed Funds Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-04",
-      "initialFilingDate": "2023-12-28",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001683471",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925016566/a21sharesactivecrypto485bxa.htm"
     },
     {
       "id": "MSBTC-0002103612-0",
@@ -4575,7 +4575,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025011414/ea0229728-02_n1a.htm"
     },
     {
-      "id": "undefined-0001396092-37",
+      "id": "undefined-0001396092-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
