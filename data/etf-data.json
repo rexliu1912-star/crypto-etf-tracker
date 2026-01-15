@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-15T18:22:17.937Z",
+  "timestamp": "2026-01-15T19:17:50.992Z",
   "count": 233,
   "approvedCount": 57,
   "pendingCount": 176,
@@ -185,9 +185,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-08",
+      "filingDate": "2026-01-15",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-01-08",
+      "decisionDeadline": "2026-01-15",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -195,7 +195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026002498/ea0272269-01_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026004599/ea0273042-01_485bxt.htm"
     },
     {
       "id": "XRPC-0002039505-0",
