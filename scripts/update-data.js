@@ -509,7 +509,12 @@ async function main() {
         '21Shares ETF',
         'ProShares crypto',
         'VanEck digital asset',
-        'Fidelity crypto fund'
+        'Fidelity crypto fund',
+        // Registration statement searches
+        'registration statement cryptocurrency',
+        'registration statement digital asset',
+        'registration statement bitcoin',
+        'registration statement ethereum'
     ];
 
     const discoveredIssuersMap = new Map();
