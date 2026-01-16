@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-16T14:14:36.997Z",
-  "count": 235,
+  "timestamp": "2026-01-16T15:14:08.598Z",
+  "count": 234,
   "approvedCount": 57,
-  "pendingCount": 178,
+  "pendingCount": 177,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 172,
@@ -3527,7 +3527,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000095017025111044/ck0002037427-20250822.htm"
     },
     {
-      "id": "undefined-0001985840-19",
+      "id": "undefined-0001985840-20",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3546,7 +3546,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000138713125000058/bitcoin-s1a_031425.htm"
     },
     {
-      "id": "undefined-0001985840-23",
+      "id": "undefined-0001985840-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3565,7 +3565,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000183988224046559/nexo_s1a-122024.htm"
     },
     {
-      "id": "undefined-0001985840-24",
+      "id": "undefined-0001985840-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3584,7 +3584,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000160006424000007/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001985840-26",
+      "id": "undefined-0001985840-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3601,25 +3601,6 @@
       "cik": "0001985840",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001985840",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000199937124013069/tct_s1a-100424.htm"
-    },
-    {
-      "id": "undefined-0001985840-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Hashdex",
-      "etfName": "Tidal Commodities Trust I",
-      "filingType": "Spot ETF",
-      "filingDate": "2024-04-16",
-      "initialFilingDate": "2023-07-21",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001985840",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001985840",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000201910124000001/xslF345X02/primary_doc.xml"
     },
     {
       "id": "undefined-0002074409-4",
