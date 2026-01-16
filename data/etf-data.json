@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-16T15:14:08.598Z",
+  "timestamp": "2026-01-16T16:15:08.581Z",
   "count": 234,
   "approvedCount": 57,
   "pendingCount": 177,
@@ -2935,7 +2935,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290025004437/ck0001592900-20251219.htm"
     },
     {
-      "id": "undefined-0001547950-0",
+      "id": "undefined-0001547950-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -2954,7 +2954,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-14",
+      "id": "undefined-0001547950-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
