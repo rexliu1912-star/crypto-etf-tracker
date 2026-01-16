@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-16T19:13:16.977Z",
+  "timestamp": "2026-01-16T20:12:41.604Z",
   "count": 234,
   "approvedCount": 57,
   "pendingCount": 177,
@@ -574,9 +574,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-14",
+      "filingDate": "2026-01-16",
       "initialFilingDate": "2023-05-09",
-      "decisionDeadline": "2026-01-14",
+      "decisionDeadline": "2026-01-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -584,7 +584,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001976672",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001976672",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000008/c485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000010/c485bxt.htm"
     },
     {
       "id": "LTCN-0001732406-0",
@@ -2859,7 +2859,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825008727/xslF345X02/doc3.xml"
     },
     {
-      "id": "undefined-0001592900-5",
+      "id": "undefined-0001592900-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2878,7 +2878,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000097/warther485a.htm"
     },
     {
-      "id": "undefined-0001592900-6",
+      "id": "undefined-0001592900-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2897,7 +2897,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000095/ck0001592900-20260109.htm"
     },
     {
-      "id": "undefined-0001592900-10",
+      "id": "undefined-0001592900-31",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2916,7 +2916,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290025004472/sophus485a.htm"
     },
     {
-      "id": "undefined-0001592900-19",
+      "id": "undefined-0001592900-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -3527,7 +3527,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000095017025111044/ck0002037427-20250822.htm"
     },
     {
-      "id": "undefined-0001985840-20",
+      "id": "undefined-0001985840-22",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3546,7 +3546,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000138713125000058/bitcoin-s1a_031425.htm"
     },
     {
-      "id": "undefined-0001985840-24",
+      "id": "undefined-0001985840-26",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3565,7 +3565,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000183988224046559/nexo_s1a-122024.htm"
     },
     {
-      "id": "undefined-0001985840-25",
+      "id": "undefined-0001985840-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3584,7 +3584,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000160006424000007/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001985840-27",
+      "id": "undefined-0001985840-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
