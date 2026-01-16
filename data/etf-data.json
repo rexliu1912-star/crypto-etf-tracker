@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-16T10:13:09.839Z",
-  "count": 233,
+  "timestamp": "2026-01-16T11:03:17.345Z",
+  "count": 235,
   "approvedCount": 57,
-  "pendingCount": 176,
+  "pendingCount": 178,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 172,
@@ -185,9 +185,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-15",
+      "filingDate": "2026-01-16",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-01-15",
+      "decisionDeadline": "2026-01-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -195,7 +195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026004599/ea0273042-01_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026004829/ea0273136-01_485bxt.htm"
     },
     {
       "id": "XRPC-0002039505-0",
@@ -2935,7 +2935,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290025004437/ck0001592900-20251219.htm"
     },
     {
-      "id": "undefined-0001547950-13",
+      "id": "undefined-0001547950-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Exchange",
+      "etfName": "Amplify ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-16",
+      "initialFilingDate": "2019-05-07",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001547950",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
+    },
+    {
+      "id": "undefined-0001547950-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -4448,6 +4467,25 @@
       "issuer": "VanEck",
       "etfName": "VanEck Avalanche ETF",
       "filingType": "Spot ETF",
+      "filingDate": "2026-01-16",
+      "initialFilingDate": "2025-03-14",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002060717",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002060717",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828026002244/vaneckavalancheetfs-1a4.htm"
+    },
+    {
+      "id": "undefined-0002060717-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "VanEck",
+      "etfName": "VanEck Avalanche ETF",
+      "filingType": "Spot ETF",
       "filingDate": "2025-12-18",
       "initialFilingDate": "2025-03-14",
       "decisionDeadline": "待通过",
@@ -4461,7 +4499,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025057913/vaneckavalancheetfs-1a3.htm"
     },
     {
-      "id": "undefined-0002060717-1",
+      "id": "undefined-0002060717-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4480,7 +4518,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025054200/vaneckavalanchetrusts-1a2.htm"
     },
     {
-      "id": "undefined-0002060717-2",
+      "id": "undefined-0002060717-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4499,7 +4537,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025044164/vaneckavalanchetrusts-1a1o.htm"
     },
     {
-      "id": "undefined-0002060717-3",
+      "id": "undefined-0002060717-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
