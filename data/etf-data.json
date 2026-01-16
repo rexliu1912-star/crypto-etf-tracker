@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-16T22:11:10.543Z",
+  "timestamp": "2026-01-16T23:11:04.381Z",
   "count": 238,
   "approvedCount": 57,
   "pendingCount": 181,
@@ -195,7 +195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026004829/ea0273136-01_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026005250/ea0272954-02_8a12b.htm"
     },
     {
       "id": "XRPC-0002039505-0",
