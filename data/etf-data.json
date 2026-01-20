@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-20T10:16:56.386Z",
-  "count": 238,
+  "timestamp": "2026-01-20T11:16:09.089Z",
+  "count": 237,
   "approvedCount": 57,
-  "pendingCount": 181,
+  "pendingCount": 180,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 172,
@@ -3546,7 +3546,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000095017025111044/ck0002037427-20250822.htm"
     },
     {
-      "id": "undefined-0001985840-22",
+      "id": "undefined-0001985840-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3565,7 +3565,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000138713125000058/bitcoin-s1a_031425.htm"
     },
     {
-      "id": "undefined-0001985840-26",
+      "id": "undefined-0001985840-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3584,7 +3584,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000183988224046559/nexo_s1a-122024.htm"
     },
     {
-      "id": "undefined-0001985840-27",
+      "id": "undefined-0001985840-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Hashdex",
@@ -3601,25 +3601,6 @@
       "cik": "0001985840",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001985840",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000160006424000007/xslF345X05/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0001985840-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Hashdex",
-      "etfName": "Tidal Commodities Trust I",
-      "filingType": "Spot ETF",
-      "filingDate": "2024-10-07",
-      "initialFilingDate": "2023-07-21",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001985840",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001985840",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000199937124013069/tct_s1a-100424.htm"
     },
     {
       "id": "undefined-0002074409-4",
@@ -3947,7 +3928,7 @@
       "latestFilingLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103613"
     },
     {
-      "id": "undefined-0001618627-6",
+      "id": "undefined-0001618627-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
@@ -3966,7 +3947,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937125021416/rbbtrust-485apos_121025.htm"
     },
     {
-      "id": "undefined-0001618627-9",
+      "id": "undefined-0001618627-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
@@ -3985,7 +3966,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425022912/fp0096611-1_485bposixbrl.htm"
     },
     {
-      "id": "undefined-0001618627-11",
+      "id": "undefined-0001618627-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
@@ -4004,7 +3985,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937125021104/pathfinder_485bpos-122325.htm"
     },
     {
-      "id": "undefined-0001618627-12",
+      "id": "undefined-0001618627-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
@@ -4023,7 +4004,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937125021074/snowball_485apos-122325.htm"
     },
     {
-      "id": "undefined-0001618627-13",
+      "id": "undefined-0001618627-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
@@ -4042,7 +4023,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425022748/fp0096527-1_485bposixbrl.htm"
     },
     {
-      "id": "undefined-0001618627-14",
+      "id": "undefined-0001618627-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
@@ -4061,7 +4042,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425022420/fp0096494-1_485bposixbrl.htm"
     },
     {
-      "id": "undefined-0001618627-26",
+      "id": "undefined-0001618627-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
@@ -4080,7 +4061,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425020138/fp0095946-1_485bposixbrl.htm"
     },
     {
-      "id": "undefined-0001618627-45",
+      "id": "undefined-0001618627-46",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "RBB",
