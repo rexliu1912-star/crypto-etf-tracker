@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-21T16:23:34.454Z",
-  "count": 240,
+  "timestamp": "2026-01-21T17:46:13.396Z",
+  "count": 241,
   "approvedCount": 57,
-  "pendingCount": 183,
+  "pendingCount": 184,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 172,
@@ -185,9 +185,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-16",
+      "filingDate": "2026-01-21",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-01-16",
+      "decisionDeadline": "2026-01-21",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -195,7 +195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026005250/ea0272954-02_8a12b.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000114336226000017/BPRO012126.pdf"
     },
     {
       "id": "XRPC-0002039505-0",
@@ -3780,6 +3780,44 @@
       "issuer": "Listed",
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
+      "filingDate": "2026-01-21",
+      "initialFilingDate": "2023-12-28",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001683471",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000962/a21sharesactivecrypto485bxa.htm"
+    },
+    {
+      "id": "undefined-0001683471-4",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Listed",
+      "etfName": "Listed Funds Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-21",
+      "initialFilingDate": "2023-12-28",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001683471",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000955/ck0001683471-20260121.htm"
+    },
+    {
+      "id": "undefined-0001683471-5",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Listed",
+      "etfName": "Listed Funds Trust",
+      "filingType": "Spot ETF",
       "filingDate": "2026-01-20",
       "initialFilingDate": "2023-12-28",
       "decisionDeadline": "待通过",
@@ -3793,7 +3831,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000906/teucrium485bxtxetfs2xbnbetf.htm"
     },
     {
-      "id": "undefined-0001683471-1",
+      "id": "undefined-0001683471-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3812,7 +3850,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000551/leveragedxdc485a.htm"
     },
     {
-      "id": "undefined-0001683471-2",
+      "id": "undefined-0001683471-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3831,7 +3869,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000258/teucrium485bxtxetfs2xbnbetf.htm"
     },
     {
-      "id": "undefined-0001683471-3",
+      "id": "undefined-0001683471-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3850,7 +3888,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000256/a21sharesactivecrypto485bxa.htm"
     },
     {
-      "id": "undefined-0001683471-28",
+      "id": "undefined-0001683471-33",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3869,7 +3907,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000079/teucrium485bxtxetfs2xbnbetf.htm"
     },
     {
-      "id": "undefined-0001683471-29",
+      "id": "undefined-0001683471-34",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3888,7 +3926,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926000076/venezuela485a.htm"
     },
     {
-      "id": "undefined-0001683471-42",
+      "id": "undefined-0001683471-47",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3907,7 +3945,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925018049/teucrium485bxt2xshortxrp.htm"
     },
     {
-      "id": "undefined-0001683471-43",
+      "id": "undefined-0001683471-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed",
@@ -3924,25 +3962,6 @@
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925017399/ck0001683471-20251222.htm"
-    },
-    {
-      "id": "undefined-0001683471-45",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Listed",
-      "etfName": "Listed Funds Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-18",
-      "initialFilingDate": "2023-12-28",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001683471",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418925017231/a21sharesactivecrypto485bxa.htm"
     },
     {
       "id": "MSBTC-0002103612-0",
@@ -4556,7 +4575,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002060717-0",
+      "id": "undefined-0002060717-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4575,7 +4594,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828026002244/vaneckavalancheetfs-1a4.htm"
     },
     {
-      "id": "undefined-0002060717-1",
+      "id": "undefined-0002060717-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4594,7 +4613,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025057913/vaneckavalancheetfs-1a3.htm"
     },
     {
-      "id": "undefined-0002060717-2",
+      "id": "undefined-0002060717-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4613,7 +4632,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025054200/vaneckavalanchetrusts-1a2.htm"
     },
     {
-      "id": "undefined-0002060717-3",
+      "id": "undefined-0002060717-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4632,7 +4651,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025044164/vaneckavalanchetrusts-1a1o.htm"
     },
     {
-      "id": "undefined-0002060717-4",
+      "id": "undefined-0002060717-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
