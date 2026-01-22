@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-22T22:12:38.410Z",
+  "timestamp": "2026-01-22T23:11:40.227Z",
   "count": 243,
   "approvedCount": 57,
   "pendingCount": 186,
@@ -1221,7 +1221,7 @@
       "issuer": "21Shares",
       "etfName": "21Shares Dogecoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-21",
+      "filingDate": "2026-01-22",
       "initialFilingDate": "2025-04-09",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -1231,7 +1231,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002064314",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064314",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000135445726000065/TDOG_8-A_Cert_2064314.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026006755/ea0273617-fwp_21shares.htm"
     },
     {
       "id": "undefined-0002028834-5",
