@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-23T22:09:54.053Z",
+  "timestamp": "2026-01-23T23:12:02.272Z",
   "count": 243,
   "approvedCount": 57,
   "pendingCount": 186,
@@ -3546,7 +3546,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083137/000208313725000004/dot-20250829.htm"
     },
     {
-      "id": "undefined-0002025000-0",
+      "id": "undefined-0002025000-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
