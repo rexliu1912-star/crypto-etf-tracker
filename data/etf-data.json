@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-23T17:19:14.582Z",
+  "timestamp": "2026-01-23T18:17:40.921Z",
   "count": 242,
   "approvedCount": 57,
   "pendingCount": 185,
@@ -4594,7 +4594,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002060717-1",
+      "id": "undefined-0002060717-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4613,7 +4613,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828026002244/vaneckavalancheetfs-1a4.htm"
     },
     {
-      "id": "undefined-0002060717-2",
+      "id": "undefined-0002060717-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4632,7 +4632,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025057913/vaneckavalancheetfs-1a3.htm"
     },
     {
-      "id": "undefined-0002060717-3",
+      "id": "undefined-0002060717-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4651,7 +4651,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025054200/vaneckavalanchetrusts-1a2.htm"
     },
     {
-      "id": "undefined-0002060717-4",
+      "id": "undefined-0002060717-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -4670,7 +4670,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025044164/vaneckavalanchetrusts-1a1o.htm"
     },
     {
-      "id": "undefined-0002060717-5",
+      "id": "undefined-0002060717-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
