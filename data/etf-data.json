@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-23T21:11:42.233Z",
+  "timestamp": "2026-01-23T22:09:54.053Z",
   "count": 243,
   "approvedCount": 57,
   "pendingCount": 186,
@@ -428,9 +428,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-06",
+      "filingDate": "2026-01-23",
       "initialFilingDate": "2017-01-20",
-      "decisionDeadline": "2026-01-06",
+      "decisionDeadline": "2026-01-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -438,7 +438,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001588489",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001588489",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000119312526003975/product_suite_1.6.26.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000165253626000003/xsl144X01/primary_doc.xml"
     },
     {
       "id": "BTC-0002015034-0",
@@ -3030,7 +3030,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290025004472/sophus485a.htm"
     },
     {
-      "id": "undefined-0001547950-4",
+      "id": "undefined-0001547950-5",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3049,7 +3049,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-18",
+      "id": "undefined-0001547950-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3068,7 +3068,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390025124353/ea0269813-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-25",
+      "id": "undefined-0001452937-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EXCHANGE",
@@ -3399,7 +3399,7 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bittensor Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-16",
+      "filingDate": "2026-01-23",
       "initialFilingDate": "2025-12-30",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -3409,7 +3409,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002029297",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002029297",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000119312526015365/tao-20260112.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000202186726000003/xsl144X01/primary_doc.xml"
     },
     {
       "id": "ADA-0001852026-0",
@@ -3565,7 +3565,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2025000/000119312526016785/gsnr-20260120.htm"
     },
     {
-      "id": "undefined-0002034012-1",
+      "id": "undefined-0002034012-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
