@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-26T22:12:06.704Z",
-  "count": 247,
+  "timestamp": "2026-01-26T23:12:40.356Z",
+  "count": 248,
   "approvedCount": 57,
-  "pendingCount": 190,
+  "pendingCount": 191,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 172,
@@ -448,9 +448,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Mini Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-06",
+      "filingDate": "2026-01-26",
       "initialFilingDate": "2024-03-12",
-      "decisionDeadline": "2026-01-06",
+      "decisionDeadline": "2026-01-26",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -458,7 +458,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002015034",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002015034",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000119312526003985/product_suite_1.6.26.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000165253626000011/xsl144X01/primary_doc.xml"
     },
     {
       "id": "ETHE-0001725210-0",
@@ -3527,6 +3527,44 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073548/000119312525279127/ck0002073548-20251113.htm"
     },
     {
+      "id": "undefined-0002034012-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Sui Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-26",
+      "initialFilingDate": "2025-12-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002034012",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002034012",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526022813/gsui_s-1_amendment_1.htm"
+    },
+    {
+      "id": "undefined-0002034012-4",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Sui Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-05",
+      "initialFilingDate": "2025-12-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002034012",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002034012",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312525309828/sui-20251205.htm"
+    },
+    {
       "id": "undefined-0002083137-0",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
@@ -3582,25 +3620,6 @@
       "cik": "0002025000",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002025000",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2025000/000119312526016785/gsnr-20260120.htm"
-    },
-    {
-      "id": "undefined-0002034012-3",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Sui Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-05",
-      "initialFilingDate": "2025-12-05",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002034012",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002034012",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312525309828/sui-20251205.htm"
     },
     {
       "id": "undefined-0002037427-7",
@@ -4365,7 +4384,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126001617/def-485bpos_012626.htm"
     },
     {
-      "id": "undefined-0001924868-7",
+      "id": "undefined-0001924868-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4384,7 +4403,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126001576/defiance_485bpos-012616.htm"
     },
     {
-      "id": "undefined-0001924868-23",
+      "id": "undefined-0001924868-24",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4403,7 +4422,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126001106/defiance2x-485bxt_011626.htm"
     },
     {
-      "id": "undefined-0001924868-24",
+      "id": "undefined-0001924868-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4422,7 +4441,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126001099/quantify-485bpos_011626.htm"
     },
     {
-      "id": "undefined-0001924868-29",
+      "id": "undefined-0001924868-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4441,7 +4460,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126000748/defiance2x_485apos-011326.htm"
     },
     {
-      "id": "undefined-0001924868-37",
+      "id": "undefined-0001924868-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4460,7 +4479,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126000546/defiance-485bpos_010926.htm"
     },
     {
-      "id": "undefined-0001924868-42",
+      "id": "undefined-0001924868-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4479,7 +4498,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126000421/hot-485bxt_010826.htm"
     },
     {
-      "id": "undefined-0001924868-46",
+      "id": "undefined-0001924868-47",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4498,7 +4517,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126000303/lwlt-485bpos_010626.htm"
     },
     {
-      "id": "undefined-0001924868-47",
+      "id": "undefined-0001924868-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4841,7 +4860,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025011414/ea0229728-02_n1a.htm"
     },
     {
-      "id": "undefined-0001396092-47",
+      "id": "undefined-0001396092-49",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
