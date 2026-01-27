@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-27T00:52:25.475Z",
+  "timestamp": "2026-01-27T03:00:57.641Z",
   "count": 248,
   "approvedCount": 57,
   "pendingCount": 191,
@@ -3622,7 +3622,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2025000/000119312526016785/gsnr-20260120.htm"
     },
     {
-      "id": "undefined-0002037427-8",
+      "id": "undefined-0002037427-9",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3641,7 +3641,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000119312525262826/xrp_s-1_amendment_2.htm"
     },
     {
-      "id": "undefined-0002037427-9",
+      "id": "undefined-0002037427-10",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3660,7 +3660,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000119312525237096/xrp_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002037427-10",
+      "id": "undefined-0002037427-11",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
