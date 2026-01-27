@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-01-27T10:16:14.519Z",
-  "count": 248,
+  "timestamp": "2026-01-27T11:15:17.654Z",
+  "count": 245,
   "approvedCount": 57,
-  "pendingCount": 191,
+  "pendingCount": 188,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 172,
+  "discoveredCount": 171,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -1234,7 +1234,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026006755/ea0273617-fwp_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-5",
+      "id": "undefined-0002028834-7",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1253,7 +1253,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/ea0259370-s1a5_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-7",
+      "id": "undefined-0002028834-9",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1272,7 +1272,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/ea0258805-s1a4_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-8",
+      "id": "undefined-0002028834-10",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1291,7 +1291,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025082627/ea0255191-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-9",
+      "id": "undefined-0002028834-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1310,7 +1310,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/ea0250753-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-10",
+      "id": "undefined-0002028834-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1329,7 +1329,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025054351/ea0245677-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-11",
+      "id": "undefined-0002028834-13",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1910,63 +1910,6 @@
       "cik": "0002045872",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002045872",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390024101076/ea0222031-s1_bitwise.htm"
-    },
-    {
-      "id": "undefined-0002082889-4",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Bitwise",
-      "etfName": "Bitwise Chainlink ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-05",
-      "initialFilingDate": "2025-08-26",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002082889",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002082889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390026001140/ea027072801-s1a2_bitwise.htm"
-    },
-    {
-      "id": "undefined-0002082889-5",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Bitwise",
-      "etfName": "Bitwise Chainlink ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-11-18",
-      "initialFilingDate": "2025-08-26",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002082889",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002082889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025112216/ea0265926-s1a1_bitwise.htm"
-    },
-    {
-      "id": "undefined-0002082889-6",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Bitwise",
-      "etfName": "Bitwise Chainlink ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-08-26",
-      "initialFilingDate": "2025-08-26",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002082889",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002082889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025080461/ea0254517-s1_bitwise.htm"
     },
     {
       "id": "undefined-0002053791-3",
