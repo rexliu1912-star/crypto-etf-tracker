@@ -352,6 +352,15 @@ body {
     align-items: center;
 }
 
+.search-box input:focus {
+    box-shadow: var(--hard-shadow), 0 0 0 2px var(--accent-emerald);
+}
+
+.crypto-filter select:focus {
+    outline: 2px solid var(--accent-emerald);
+    outline-offset: 2px;
+}
+
 .search-box svg {
     position: absolute;
     left: 12px;
@@ -411,6 +420,11 @@ body {
 
 .filter-btn:hover:not(.active) {
     background: var(--bg-tertiary);
+}
+
+.filter-btn:focus {
+    outline: 2px solid var(--accent-emerald);
+    outline-offset: 2px;
 }
 
 .crypto-filter select {

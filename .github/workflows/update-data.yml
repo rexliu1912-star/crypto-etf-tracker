@@ -24,7 +24,28 @@ jobs:
           npm install node-fetch
 
       - name: Fetch Data
-        run: node scripts/update-data.js
+        run: |
+          node scripts/update-data.js
+          
+      - name: Validate Data
+        run: |
+          # Validate JSON structure
+          if ! node -e "JSON.parse(require('fs').readFileSync('data/etf-data.json', 'utf8'))"; then
+            echo "❌ Invalid JSON structure in etf-data.json"
+            exit 1
+          fi
+          
+          # Check if data has minimum required fields
+          if ! node -e "
+            const data = JSON.parse(require('fs').readFileSync('data/etf-data.json', 'utf8'));
+            if (!data.success || !data.data || !Array.isArray(data.data) || data.data.length === 0) {
+              throw new Error('Invalid data structure or empty data');
+            }
+            console.log('✅ Data validation passed:', data.data.length + ' applications');
+          "; then
+            echo "❌ Data validation failed"
+            exit 1
+          fi
 
       - name: Commit and Push changes
         run: |

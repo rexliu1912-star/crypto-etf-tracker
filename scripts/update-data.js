@@ -15,7 +15,7 @@ const fetch = require('node-fetch');
 // --- Configuration ---
 const DATA_DIR = path.join(__dirname, '../data');
 const DATA_FILE = path.join(DATA_DIR, 'etf-data.json');
-const SEC_USER_AGENT = 'SEC-ETF-Tracker/1.0 (Contact: admin@example.com)';
+const SEC_USER_AGENT = 'SEC-ETF-Tracker/1.0 (Contact: rex@rexliu.dev)';
 
 // --- VERIFIED CRYPTO ETF ISSUERS (January 2026) ---
 // Source: SEC EDGAR + Official Issuer Websites
@@ -310,12 +310,19 @@ async function fetchCompanyFilings(cik) {
     console.log(`Fetching CIK ${cik}...`);
 
     try {
+        // Add timeout and abort controller
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 30000); // 30s timeout
+
         const response = await fetch(url, {
             headers: {
                 'User-Agent': SEC_USER_AGENT,
                 'Accept': 'application/json'
-            }
+            },
+            signal: controller.signal
         });
+
+        clearTimeout(timeoutId);
 
         if (response.status === 403 || response.status === 429) {
             console.warn(`Rate limit for CIK ${cik}, waiting...`);
@@ -328,9 +335,21 @@ async function fetchCompanyFilings(cik) {
             return null;
         }
 
-        return await response.json();
+        const data = await response.json();
+        
+        // Validate response structure
+        if (!data || typeof data !== 'object') {
+            console.error(`Invalid response structure for CIK ${cik}`);
+            return null;
+        }
+
+        return data;
     } catch (error) {
-        console.error(`Error CIK ${cik}:`, error.message);
+        if (error.name === 'AbortError') {
+            console.error(`Request timeout for CIK ${cik}`);
+        } else {
+            console.error(`Error CIK ${cik}:`, error.message);
+        }
         return null;
     }
 }
@@ -425,12 +444,30 @@ async function searchSECFilings(query, dateFrom = '2023-01-01') {
     console.log(`Searching SEC (size=200): ${query}...`);
 
     try {
+        // Add timeout and abort controller
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 30000); // 30s timeout
+
         const response = await fetch(url, {
-            headers: { 'User-Agent': SEC_USER_AGENT, 'Accept': 'application/json' }
+            headers: { 'User-Agent': SEC_USER_AGENT, 'Accept': 'application/json' },
+            signal: controller.signal
         });
-        if (!response.ok) return null;
-        return await response.json();
+
+        clearTimeout(timeoutId);
+
+        if (!response.ok) {
+            console.warn(`Search failed for "${query}": ${response.status}`);
+            return null;
+        }
+
+        const data = await response.json();
+        return data;
     } catch (error) {
+        if (error.name === 'AbortError') {
+            console.error(`Search timeout for query: ${query}`);
+        } else {
+            console.warn(`Search error for "${query}":`, error.message);
+        }
         return null;
     }
 }

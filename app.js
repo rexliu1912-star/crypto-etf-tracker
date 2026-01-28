@@ -304,34 +304,37 @@ function updateUILanguage() {
 }
 
 // Comprehensive SEC Crypto ETF Application Data
-const etfApplications = [
-    // Bitcoin ETFs - Approved
-    {
-        id: "btc-blackrock",
-        cryptocurrency: "Bitcoin",
-        symbol: "BTC",
-        issuer: "BlackRock",
-        etfName: "iShares Bitcoin Trust (IBIT)",
-        filingType: "Spot ETF",
-        filingDate: "2023-06-15",
-        decisionDeadline: "2024-01-10",
-        status: "approved",
-        approvalOdds: 100,
-        notes: "首批获批的现货比特币ETF之一"
-    },
-    {
-        id: "btc-fidelity",
-        cryptocurrency: "Bitcoin",
-        symbol: "BTC",
-        issuer: "Fidelity",
-        etfName: "Wise Origin Bitcoin Fund (FBTC)",
-        filingType: "Spot ETF",
-        filingDate: "2023-06-29",
-        decisionDeadline: "2024-01-10",
-        status: "approved",
-        approvalOdds: 100,
-        notes: "已获SEC批准并开始交易"
-    },
+// Initialize empty applications array - will be populated from API or fallback data
+const etfApplications = [];
+
+// Fallback data loader
+async function loadFallbackData() {
+    try {
+        const response = await fetch('./data/fallback-etf-data.json');
+        if (!response.ok) {
+            throw new Error(`Failed to load fallback data: ${response.status}`);
+        }
+        const fallbackData = await response.json();
+        return fallbackData.data || [];
+    } catch (error) {
+        console.warn('Failed to load fallback data:', error);
+        // Return minimal fallback data if file loading fails
+        return [{
+            id: "btc-blackrock",
+            cryptocurrency: "Bitcoin",
+            symbol: "BTC",
+            issuer: "BlackRock",
+            etfName: "iShares Bitcoin Trust (IBIT)",
+            filingType: "Spot ETF",
+            filingDate: "2023-06-15",
+            decisionDeadline: "2024-01-10",
+            status: "approved",
+            approvalOdds: 100,
+            notes: "首批获批的现货比特币ETF之一"
+        }];
+    }
+}
+// Data loading and initialization logic
     {
         id: "btc-grayscale",
         cryptocurrency: "Bitcoin",
@@ -1026,7 +1029,17 @@ async function init() {
     // Set initial language
     updateUILanguage();
 
-    // Show initial static data first
+    // Load initial fallback data first
+    try {
+        const fallbackData = await loadFallbackData();
+        etfApplications.length = 0;
+        fallbackData.forEach(app => etfApplications.push(app));
+        console.log(`📄 Initial fallback data loaded: ${etfApplications.length} applications`);
+    } catch (error) {
+        console.warn('Failed to load initial fallback data:', error);
+    }
+    
+    // Show initial data
     updateStats();
     populateCryptoFilter();
     renderTimeline();
@@ -1213,8 +1226,8 @@ async function fetchSECData(showLoading = false) {
 
         if (result.success && result.data && result.data.length > 0) {
             // Replace the entire application list with the verified data from the API
-            // This ensures we reflect the exact counts (220 total, 126 pending) from etf-data.json
-            etfApplications.length = 0; // Clear hardcoded data
+            // This ensures we reflect the exact counts from SEC EDGAR data
+            etfApplications.length = 0; // Clear any existing data
             result.data.forEach(secApp => {
                 etfApplications.push({
                     ...secApp,
@@ -1236,12 +1249,25 @@ async function fetchSECData(showLoading = false) {
             throw new Error('No data from SEC API');
         }
     } catch (error) {
-        console.warn('⚠️ Using static data:', error.message);
-        currentDataSource = 'static';
+        console.warn('⚠️ API failed, loading fallback data:', error.message);
+        try {
+            // Load fallback data from separate file
+            const fallbackData = await loadFallbackData();
+            etfApplications.length = 0; // Clear any existing data
+            fallbackData.forEach(app => etfApplications.push(app));
+            
+            currentDataSource = 'fallback';
+            console.log(`📄 Fallback data loaded: ${etfApplications.length} applications`);
+        } catch (fallbackError) {
+            console.error('❌ Failed to load fallback data:', fallbackError.message);
+            currentDataSource = 'error';
+        }
+        
         updateDataSourceIndicator();
-        // Fallback: render static data if API fails but we already have static data
         updateStats();
         renderApplications();
+        renderTimeline();
+        populateCryptoFilter();
     }
 }
 
@@ -1253,12 +1279,26 @@ function updateDataSourceIndicator() {
     const text = document.getElementById('liveStatusText');
 
     if (container && text) {
-        if (currentDataSource === 'sec-api') {
-            container.style.background = 'var(--accent-emerald)';
-            text.textContent = t('secLive');
-        } else {
-            container.style.background = 'var(--accent-orange)';
-            text.textContent = t('localCache');
+        switch (currentDataSource) {
+            case 'sec-api':
+                container.style.background = 'var(--accent-emerald)';
+                text.textContent = t('secLive');
+                container.setAttribute('aria-label', 'Live data from SEC EDGAR');
+                break;
+            case 'fallback':
+                container.style.background = 'var(--accent-orange)';
+                text.textContent = t('localCache');
+                container.setAttribute('aria-label', 'Using cached fallback data');
+                break;
+            case 'error':
+                container.style.background = 'var(--accent-red)';
+                text.textContent = 'Error';
+                container.setAttribute('aria-label', 'Data loading failed');
+                break;
+            default:
+                container.style.background = 'var(--accent-orange)';
+                text.textContent = t('localCache');
+                container.setAttribute('aria-label', 'Loading data...');
         }
     }
 }
