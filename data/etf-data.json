@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-28T10:17:31.610Z",
-  "count": 248,
+  "timestamp": "2026-01-28T11:15:44.723Z",
+  "count": 249,
   "approvedCount": 57,
-  "pendingCount": 191,
+  "pendingCount": 192,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -4257,6 +4257,25 @@
       "issuer": "Series",
       "etfName": "Trust for Advised Portfolios",
       "filingType": "Spot ETF",
+      "filingDate": "2026-01-28",
+      "initialFilingDate": "2020-06-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001650149",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650149",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001987/ck0001650149-20260127.htm"
+    },
+    {
+      "id": "undefined-0001650149-1",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Series",
+      "etfName": "Trust for Advised Portfolios",
+      "filingType": "Spot ETF",
       "filingDate": "2026-01-27",
       "initialFilingDate": "2020-06-03",
       "decisionDeadline": "待通过",
@@ -4270,7 +4289,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001946/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-5",
+      "id": "undefined-0001650149-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4289,7 +4308,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926000623/ck0001650149-20260116.htm"
     },
     {
-      "id": "undefined-0001650149-25",
+      "id": "undefined-0001650149-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4308,7 +4327,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418925017206/ck0001650149-20251218.htm"
     },
     {
-      "id": "undefined-0001650149-26",
+      "id": "undefined-0001650149-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
