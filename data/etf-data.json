@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-28T20:17:17.240Z",
-  "count": 238,
+  "timestamp": "2026-01-28T21:19:44.704Z",
+  "count": 239,
   "approvedCount": 57,
-  "pendingCount": 181,
+  "pendingCount": 182,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -1161,9 +1161,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-01-21",
+      "filingDate": "2026-01-28",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-01-21",
+      "decisionDeadline": "2026-01-28",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1171,7 +1171,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026006196/ea0273542-15_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026008832/ea0274331-02_aw.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1181,9 +1181,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-01-21",
+      "filingDate": "2026-01-28",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-01-21",
+      "decisionDeadline": "2026-01-28",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1191,7 +1191,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026006196/ea0273542-15_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026008832/ea0274331-02_aw.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -2612,7 +2612,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/cyberhornet-s1_011226.htm"
     },
     {
-      "id": "undefined-0001345125-24",
+      "id": "undefined-0001345125-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "CYBER",
+      "etfName": "ONEFUND Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-28",
+      "initialFilingDate": "2005-11-23",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001345125",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001345125",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1345125/000199937126001876/cyberhornet_485bpos-012726.htm"
+    },
+    {
+      "id": "undefined-0001345125-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "CYBER",
@@ -2631,7 +2650,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1345125/000158064225004577/onefund_485bpos.htm"
     },
     {
-      "id": "undefined-0001345125-25",
+      "id": "undefined-0001345125-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "CYBER",
@@ -2840,7 +2859,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825008727/xslF345X02/doc3.xml"
     },
     {
-      "id": "undefined-0001592900-5",
+      "id": "undefined-0001592900-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "EA",
+      "etfName": "Direxion Shares ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-28",
+      "initialFilingDate": "2025-01-28",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001592900",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001592900",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000290/ck0001592900-20260128.htm"
+    },
+    {
+      "id": "undefined-0001592900-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2859,7 +2897,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000265/ck0001592900-20260126.htm"
     },
     {
-      "id": "undefined-0001592900-6",
+      "id": "undefined-0001592900-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2878,7 +2916,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000248/ck0001592900-20260123.htm"
     },
     {
-      "id": "undefined-0001592900-7",
+      "id": "undefined-0001592900-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2897,7 +2935,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000241/ck0001592900-20260122.htm"
     },
     {
-      "id": "undefined-0001592900-8",
+      "id": "undefined-0001592900-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2916,7 +2954,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000235/militia485a.htm"
     },
     {
-      "id": "undefined-0001592900-9",
+      "id": "undefined-0001592900-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2935,7 +2973,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000233/ck0001592900-20260121.htm"
     },
     {
-      "id": "undefined-0001592900-44",
+      "id": "undefined-0001592900-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2954,7 +2992,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000097/warther485a.htm"
     },
     {
-      "id": "undefined-0001592900-45",
+      "id": "undefined-0001592900-46",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2971,25 +3009,6 @@
       "cik": "0001592900",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001592900",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000095/ck0001592900-20260109.htm"
-    },
-    {
-      "id": "undefined-0001592900-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "EA",
-      "etfName": "Direxion Shares ETF Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-23",
-      "initialFilingDate": "2025-01-28",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001592900",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001592900",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290025004472/sophus485a.htm"
     },
     {
       "id": "undefined-0001547950-13",
