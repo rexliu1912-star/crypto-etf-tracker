@@ -145,7 +145,7 @@
                     <button class="filter-btn" data-filter="recent7d" id="btnRecent7d">最近7天 (0)</button>
                 </div>
                 <div class="crypto-filter">
-                    <select id="cryptoFilter">
+                    <select id="cryptoFilter" aria-label="Filter by cryptocurrency">
                         <option value="all" id="optAllCrypto">所有加密货币</option>
                     </select>
                 </div>
@@ -154,7 +154,8 @@
                         <circle cx="11" cy="11" r="8" />
                         <path d="m21 21-4.35-4.35" />
                     </svg>
-                    <input type="text" id="searchInput" placeholder="搜索加密货币或发行商...">
+                    <input type="text" id="searchInput" placeholder="搜索加密货币或发行商..." 
+                           aria-label="Search cryptocurrencies or issuers" role="searchbox">
                 </div>
             </div>
 

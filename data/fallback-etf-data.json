@@ -1,0 +1,102 @@
+{
+  "success": true,
+  "timestamp": "2026-01-28T00:00:00.000Z",
+  "count": 65,
+  "approvedCount": 30,
+  "pendingCount": 32,
+  "deniedCount": 3,
+  "source": "Fallback Data (Cached)",
+  "data": [
+    {
+        "id": "btc-blackrock",
+        "cryptocurrency": "Bitcoin",
+        "symbol": "BTC",
+        "issuer": "BlackRock",
+        "etfName": "iShares Bitcoin Trust (IBIT)",
+        "filingType": "Spot ETF",
+        "filingDate": "2023-06-15",
+        "decisionDeadline": "2024-01-10",
+        "status": "approved",
+        "approvalOdds": 100,
+        "notes": "首批获批的现货比特币ETF之一"
+    },
+    {
+        "id": "btc-fidelity",
+        "cryptocurrency": "Bitcoin",
+        "symbol": "BTC",
+        "issuer": "Fidelity",
+        "etfName": "Wise Origin Bitcoin Fund (FBTC)",
+        "filingType": "Spot ETF",
+        "filingDate": "2023-06-29",
+        "decisionDeadline": "2024-01-10",
+        "status": "approved",
+        "approvalOdds": 100,
+        "notes": "已获SEC批准并开始交易"
+    },
+    {
+        "id": "btc-grayscale",
+        "cryptocurrency": "Bitcoin",
+        "symbol": "BTC",
+        "issuer": "Grayscale",
+        "etfName": "Grayscale Bitcoin Trust (GBTC)",
+        "filingType": "Spot ETF",
+        "filingDate": "2021-10-19",
+        "decisionDeadline": "2024-01-10",
+        "status": "approved",
+        "approvalOdds": 100,
+        "notes": "信托转换为ETF,已获批"
+    },
+    {
+        "id": "eth-blackrock",
+        "cryptocurrency": "Ethereum",
+        "symbol": "ETH",
+        "issuer": "BlackRock",
+        "etfName": "iShares Ethereum Trust (ETHA)",
+        "filingType": "Spot ETF",
+        "filingDate": "2023-11-09",
+        "decisionDeadline": "2024-07-23",
+        "status": "approved",
+        "approvalOdds": 100,
+        "notes": "2024年7月获批,首批以太坊现货ETF"
+    },
+    {
+        "id": "sol-vaneck",
+        "cryptocurrency": "Solana",
+        "symbol": "SOL",
+        "issuer": "VanEck",
+        "etfName": "VanEck Solana Trust",
+        "filingType": "Spot ETF",
+        "filingDate": "2024-06-27",
+        "decisionDeadline": "2025-10-15",
+        "status": "approved",
+        "approvalOdds": 100,
+        "notes": "2025年10月获批,11月开始交易"
+    },
+    {
+        "id": "xrp-bitwise",
+        "cryptocurrency": "XRP",
+        "symbol": "XRP",
+        "issuer": "Bitwise",
+        "etfName": "Bitwise XRP ETF",
+        "filingType": "Spot ETF",
+        "filingDate": "2024-10-02",
+        "decisionDeadline": "2025-05-15",
+        "status": "pending",
+        "approvalOdds": 75,
+        "notes": "预计2025年5月决定"
+    },
+    {
+        "id": "doge-rex",
+        "cryptocurrency": "Dogecoin",
+        "symbol": "DOGE",
+        "issuer": "REX Shares / Osprey",
+        "etfName": "REX-Osprey DOGE ETF",
+        "filingType": "Spot ETF",
+        "filingDate": "2025-01-21",
+        "decisionDeadline": "2025-09-15",
+        "status": "pending",
+        "approvalOdds": 99,
+        "notes": "分析师预计99%批准率"
+    }
+  ]
+}
