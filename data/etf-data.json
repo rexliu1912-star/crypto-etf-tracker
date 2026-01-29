@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-01-29T22:16:32.553Z",
-  "count": 241,
+  "timestamp": "2026-01-29T23:16:38.296Z",
+  "count": 237,
   "approvedCount": 57,
-  "pendingCount": 184,
+  "pendingCount": 180,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 173,
+  "discoveredCount": 171,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -905,7 +905,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "BITU-0001174610-0",
@@ -925,7 +925,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "BITI-0001174610-0",
@@ -945,7 +945,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -965,7 +965,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "EETH-0001174610-0",
@@ -985,7 +985,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1005,7 +1005,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1025,7 +1025,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1045,7 +1045,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1068,7 +1068,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1091,7 +1091,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029647/f43923d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526029694/f43919d1.htm"
     },
     {
       "id": "GXRP-0001833502-0",
@@ -2486,101 +2486,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2048623/000121390025006536/ea0228575-s1_coinshares.htm"
     },
     {
-      "id": "undefined-0001958928-9",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "COTWO",
-      "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-04-07",
-      "initialFilingDate": "2023-05-12",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001958928",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001958928",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1958928/000121390025029102/ea0203292-05.htm"
-    },
-    {
-      "id": "undefined-0001958928-12",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "COTWO",
-      "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-01-27",
-      "initialFilingDate": "2023-05-12",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001958928",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001958928",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1958928/000121390025006645/ea0203292-03.htm"
-    },
-    {
-      "id": "undefined-0001958928-16",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "COTWO",
-      "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
-      "filingType": "Spot ETF",
-      "filingDate": "2024-04-04",
-      "initialFilingDate": "2023-05-12",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001958928",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001958928",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1958928/000121390024030499/ea0203292-01.htm"
-    },
-    {
-      "id": "undefined-0001958928-19",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "COTWO",
-      "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
-      "filingType": "Spot ETF",
-      "filingDate": "2024-01-16",
-      "initialFilingDate": "2023-05-12",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001958928",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001958928",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1958928/000121390024003814/fs12024a1_cotwoadvisors.htm"
-    },
-    {
-      "id": "undefined-0001958928-22",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "COTWO",
-      "etfName": "COTWO ADVISORS PHYSICAL EUROPEAN CARBON ALLOWANCE TRUST",
-      "filingType": "Spot ETF",
-      "filingDate": "2023-05-12",
-      "initialFilingDate": "2023-05-12",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001958928",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001958928",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1958928/000121390023039140/fs12023_cotwoadvisors.htm"
-    },
-    {
       "id": "CTX-0002096385-0",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "CTX",
@@ -3375,6 +3280,44 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852026/000185202621000001/xslFormDX01/primary_doc.xml"
     },
     {
+      "id": "undefined-0002073548-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Investments, Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-29",
+      "initialFilingDate": "2025-11-13",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002073548",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002073548",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073548/000119312526029689/project_orange_s-1_a1.htm"
+    },
+    {
+      "id": "undefined-0002073548-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Investments, Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-11-13",
+      "initialFilingDate": "2025-11-13",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002073548",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002073548",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073548/000119312525279127/ck0002073548-20251113.htm"
+    },
+    {
       "id": "undefined-0002084948-0",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
@@ -3430,25 +3373,6 @@
       "cik": "0002083106",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083106",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083106/000208310625000004/gada-20250829.htm"
-    },
-    {
-      "id": "undefined-0002073548-0",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Investments, Inc.",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-11-13",
-      "initialFilingDate": "2025-11-13",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002073548",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002073548",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073548/000119312525279127/ck0002073548-20251113.htm"
     },
     {
       "id": "undefined-0002034012-2",
