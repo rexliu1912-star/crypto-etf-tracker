@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-01-29T13:51:28.943Z",
-  "count": 242,
+  "timestamp": "2026-01-29T14:31:28.424Z",
+  "count": 241,
   "approvedCount": 57,
-  "pendingCount": 185,
+  "pendingCount": 184,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -2669,7 +2669,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1345125/000089418925005178/ck0001345125-20250725.htm"
     },
     {
-      "id": "undefined-0001805526-0",
+      "id": "undefined-0001805526-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2688,7 +2688,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026002497/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001805526-1",
+      "id": "undefined-0001805526-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2707,7 +2707,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026002189/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001805526-4",
+      "id": "undefined-0001805526-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2726,7 +2726,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825010147/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-8",
+      "id": "undefined-0001805526-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2745,7 +2745,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390025123331/ea0269978-s1_defi.htm"
     },
     {
-      "id": "undefined-0001805526-10",
+      "id": "undefined-0001805526-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2764,7 +2764,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000119312525316435/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001805526-11",
+      "id": "undefined-0001805526-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2783,7 +2783,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009626/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-13",
+      "id": "undefined-0001805526-14",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2802,7 +2802,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009463/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-26",
+      "id": "undefined-0001805526-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2821,25 +2821,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390025103170/ea0262753-s1_defi.htm"
     },
     {
-      "id": "undefined-0001805526-28",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "DeFi",
-      "etfName": "DeFi Development Corp.",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-10-23",
-      "initialFilingDate": "2022-10-14",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001805526",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825008728/xslF345X05/doc4.xml"
-    },
-    {
       "id": "undefined-0001805526-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
@@ -2856,7 +2837,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001805526",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825008727/xslF345X02/doc3.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825008728/xslF345X05/doc4.xml"
     },
     {
       "id": "undefined-0001592900-3",
