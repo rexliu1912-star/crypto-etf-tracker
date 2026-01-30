@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-30T18:26:26.647Z",
+  "timestamp": "2026-01-30T19:25:09.792Z",
   "count": 239,
   "approvedCount": 57,
   "pendingCount": 182,
@@ -4156,7 +4156,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465925123308/tm2526338d1_485bpos.htm"
     },
     {
-      "id": "undefined-0001650149-4",
+      "id": "undefined-0001650149-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4175,7 +4175,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926002702/ck0001650149-20260128.htm"
     },
     {
-      "id": "undefined-0001650149-8",
+      "id": "undefined-0001650149-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4194,7 +4194,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001987/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-9",
+      "id": "undefined-0001650149-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4213,7 +4213,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001946/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-14",
+      "id": "undefined-0001650149-16",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4232,7 +4232,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926000623/ck0001650149-20260116.htm"
     },
     {
-      "id": "undefined-0001650149-34",
+      "id": "undefined-0001650149-36",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4251,7 +4251,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418925017206/ck0001650149-20251218.htm"
     },
     {
-      "id": "undefined-0001650149-35",
+      "id": "undefined-0001650149-37",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
