@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-01-30T23:16:34.343Z",
+  "timestamp": "2026-01-31T00:54:53.926Z",
   "count": 243,
   "approvedCount": 57,
   "pendingCount": 186,
@@ -518,7 +518,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001896677",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001896677",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/000165253626000023/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/000197641526000005/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GLNK-0001852025-0",
@@ -594,9 +594,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Litecoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-26",
+      "filingDate": "2026-01-30",
       "initialFilingDate": "2018-03-06",
-      "decisionDeadline": "2026-01-26",
+      "decisionDeadline": "2026-01-30",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -604,7 +604,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001732406",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001732406",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1732406/000119312526022629/ltcn-20260120.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1732406/000197641526000007/xsl144X01/primary_doc.xml"
     },
     {
       "id": "AVAX-0002035053-0",
