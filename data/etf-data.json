@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-02T14:33:41.757Z",
+  "timestamp": "2026-02-02T15:29:18.880Z",
   "count": 243,
   "approvedCount": 57,
   "pendingCount": 186,
@@ -2764,7 +2764,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009463/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-23",
+      "id": "undefined-0001592900-34",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2783,7 +2783,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000299/ck0001592900-20260128.htm"
     },
     {
-      "id": "undefined-0001592900-26",
+      "id": "undefined-0001592900-37",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2802,7 +2802,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000290/ck0001592900-20260128.htm"
     },
     {
-      "id": "undefined-0001592900-32",
+      "id": "undefined-0001592900-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2821,7 +2821,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000265/ck0001592900-20260126.htm"
     },
     {
-      "id": "undefined-0001592900-33",
+      "id": "undefined-0001592900-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2840,7 +2840,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000248/ck0001592900-20260123.htm"
     },
     {
-      "id": "undefined-0001592900-34",
+      "id": "undefined-0001592900-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2859,7 +2859,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000241/ck0001592900-20260122.htm"
     },
     {
-      "id": "undefined-0001592900-35",
+      "id": "undefined-0001592900-46",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
@@ -2878,7 +2878,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000235/militia485a.htm"
     },
     {
-      "id": "undefined-0001592900-36",
+      "id": "undefined-0001592900-47",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA",
