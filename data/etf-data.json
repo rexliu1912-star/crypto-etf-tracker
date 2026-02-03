@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-03T21:24:01.310Z",
+  "timestamp": "2026-02-03T22:18:44.321Z",
   "count": 243,
   "approvedCount": 57,
   "pendingCount": 186,
@@ -508,9 +508,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Solana Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-04-04",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -518,7 +518,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001896677",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001896677",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/000165253626000024/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/000165253626000025/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GLNK-0001852025-0",
@@ -528,9 +528,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Chainlink Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-09-08",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -538,7 +538,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001852025",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001852025",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852025/000197745426000054/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852025/000197745426000063/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GDLC-0001729997-0",
@@ -548,9 +548,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale CoinDesk Crypto 5 ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2018-02-07",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -564,7 +564,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001729997",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729997",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000197641526000010/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000197745426000061/xsl144X01/primary_doc.xml"
     },
     {
       "id": "BTCC-0001976672-0",
@@ -634,9 +634,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Stellar Lumens Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-09-24",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -644,7 +644,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001761325",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761325",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197745426000053/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197745426000067/xsl144X01/primary_doc.xml"
     },
     {
       "id": "NCIQ-0002031069-0",
@@ -895,9 +895,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Bitcoin Strategy ETF",
       "filingType": "Futures ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -905,7 +905,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "BITU-0001174610-0",
@@ -915,9 +915,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Ultra Bitcoin ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -925,7 +925,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "BITI-0001174610-0",
@@ -935,9 +935,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Short Bitcoin ETF",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -945,7 +945,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -955,9 +955,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares UltraShort Bitcoin ETF",
       "filingType": "-2x Inverse ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -965,7 +965,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "EETH-0001174610-0",
@@ -975,9 +975,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Ether Strategy ETF",
       "filingType": "Futures ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -985,7 +985,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -995,9 +995,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Ultra Ether ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1005,7 +1005,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1015,9 +1015,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Short Ether ETF",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1025,7 +1025,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1035,9 +1035,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares UltraShort Ether ETF",
       "filingType": "-2x Inverse ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1045,7 +1045,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1055,9 +1055,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Bitcoin & Ether Market Cap Weight ETF",
       "filingType": "Combo ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1068,7 +1068,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1078,9 +1078,9 @@
       "issuer": "PROSHARES",
       "etfName": "ProShares Bitcoin & Ether Equal Weight ETF",
       "filingType": "Combo ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2025-01-27",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1091,7 +1091,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526033831/f43945d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
     },
     {
       "id": "GXRP-0001833502-0",
@@ -3489,7 +3489,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083137/000208313725000004/dot-20250829.htm"
     },
     {
-      "id": "undefined-0002025000-7",
+      "id": "undefined-0002025000-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
