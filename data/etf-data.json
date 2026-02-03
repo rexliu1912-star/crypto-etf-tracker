@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-02T23:17:42.546Z",
+  "timestamp": "2026-02-03T01:01:18.842Z",
   "count": 240,
   "approvedCount": 57,
   "pendingCount": 183,
@@ -488,9 +488,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Ethereum Mini Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-06",
+      "filingDate": "2026-02-02",
       "initialFilingDate": "2024-04-23",
-      "decisionDeadline": "2026-01-06",
+      "decisionDeadline": "2026-02-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -498,7 +498,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002020455",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020455",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526004010/product_suite_1.6.26.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000197641526000009/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GSOL-0001896677-0",
