@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-03T19:38:59.027Z",
-  "count": 242,
+  "timestamp": "2026-02-03T20:24:12.959Z",
+  "count": 243,
   "approvedCount": 57,
-  "pendingCount": 185,
+  "pendingCount": 186,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 170,
@@ -1161,9 +1161,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1171,7 +1171,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000141783526000026/xslF25X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026011358/ea0275315-03_485bxt.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1181,9 +1181,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-02",
+      "filingDate": "2026-02-03",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-02",
+      "decisionDeadline": "2026-02-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1191,7 +1191,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000141783526000026/xslF25X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026011358/ea0275315-03_485bxt.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -2434,6 +2434,25 @@
       "issuer": "Canary",
       "etfName": "Canary SUI ETF",
       "filingType": "Spot ETF",
+      "filingDate": "2026-02-03",
+      "initialFilingDate": "2025-03-17",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002060703",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002060703",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126002476/sui-s1a_020326.htm"
+    },
+    {
+      "id": "undefined-0002060703-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Canary",
+      "etfName": "Canary SUI ETF",
+      "filingType": "Spot ETF",
       "filingDate": "2026-01-16",
       "initialFilingDate": "2025-03-17",
       "decisionDeadline": "待通过",
@@ -2447,7 +2466,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126001140/sui-s1a_011626.htm"
     },
     {
-      "id": "undefined-0002060703-1",
+      "id": "undefined-0002060703-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2466,7 +2485,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937125020698/sui-s1a_121825.htm"
     },
     {
-      "id": "undefined-0002060703-2",
+      "id": "undefined-0002060703-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2485,7 +2504,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937125015628/sui-s1a_101725.htm"
     },
     {
-      "id": "undefined-0002060703-3",
+      "id": "undefined-0002060703-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
