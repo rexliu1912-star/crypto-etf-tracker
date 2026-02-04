@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-04T03:27:22.089Z",
+  "timestamp": "2026-02-04T05:04:54.129Z",
   "count": 243,
   "approvedCount": 57,
   "pendingCount": 186,
@@ -905,7 +905,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "BITU-0001174610-0",
@@ -925,7 +925,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "BITI-0001174610-0",
@@ -945,7 +945,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -965,7 +965,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "EETH-0001174610-0",
@@ -985,7 +985,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1005,7 +1005,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1025,7 +1025,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1045,7 +1045,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1068,7 +1068,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1091,7 +1091,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526035838/f43968d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000089706926000214/xslSCHEDULE_13G_X01/primary_doc.xml"
     },
     {
       "id": "GXRP-0001833502-0",
@@ -2828,7 +2828,7 @@
       "etfName": "Direxion Shares ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-01-28",
-      "initialFilingDate": "2025-02-03",
+      "initialFilingDate": "2025-02-04",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -2847,7 +2847,7 @@
       "etfName": "Direxion Shares ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-01-28",
-      "initialFilingDate": "2025-02-03",
+      "initialFilingDate": "2025-02-04",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4365,14 +4365,14 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001924868-2",
+      "id": "undefined-0001924868-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-02-03",
-      "initialFilingDate": "2025-02-03",
+      "initialFilingDate": "2025-02-04",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4391,7 +4391,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-01-30",
-      "initialFilingDate": "2025-02-03",
+      "initialFilingDate": "2025-02-04",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4410,7 +4410,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-01-27",
-      "initialFilingDate": "2025-02-03",
+      "initialFilingDate": "2025-02-04",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4429,7 +4429,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-01-26",
-      "initialFilingDate": "2025-02-03",
+      "initialFilingDate": "2025-02-04",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4448,7 +4448,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-01-26",
-      "initialFilingDate": "2025-02-03",
+      "initialFilingDate": "2025-02-04",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
