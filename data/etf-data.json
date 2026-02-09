@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-09T20:29:36.876Z",
+  "timestamp": "2026-02-09T21:29:26.784Z",
   "count": 253,
   "approvedCount": 57,
   "pendingCount": 196,
@@ -4650,7 +4650,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126001617/def-485bpos_012626.htm"
     },
     {
-      "id": "undefined-0001742912-7",
+      "id": "undefined-0001742912-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4669,7 +4669,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126002390/finq-485bpos_020226.htm"
     },
     {
-      "id": "undefined-0001742912-42",
+      "id": "undefined-0001742912-46",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4688,7 +4688,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126001797/nanckruz-485bpos_012726.htm"
     },
     {
-      "id": "undefined-0001742912-43",
+      "id": "undefined-0001742912-47",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4707,7 +4707,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126001653/asci_485bpos-012616.htm"
     },
     {
-      "id": "undefined-0001742912-44",
+      "id": "undefined-0001742912-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
