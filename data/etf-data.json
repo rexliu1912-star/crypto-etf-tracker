@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-09T19:57:01.799Z",
-  "count": 254,
+  "timestamp": "2026-02-09T20:29:36.876Z",
+  "count": 253,
   "approvedCount": 57,
-  "pendingCount": 197,
+  "pendingCount": 196,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 170,
@@ -2821,25 +2821,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009463/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-48",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "EA",
-      "etfName": "Direxion Shares ETF Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-28",
-      "initialFilingDate": "2025-02-06",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001592900",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001592900",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000299/ck0001592900-20260128.htm"
-    },
-    {
       "id": "undefined-0001969674-0",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
@@ -4327,7 +4308,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465925123308/tm2526338d1_485bpos.htm"
     },
     {
-      "id": "undefined-0001650149-9",
+      "id": "undefined-0001650149-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4346,7 +4327,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926002702/ck0001650149-20260128.htm"
     },
     {
-      "id": "undefined-0001650149-13",
+      "id": "undefined-0001650149-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4365,7 +4346,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001987/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-14",
+      "id": "undefined-0001650149-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4384,7 +4365,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001946/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-19",
+      "id": "undefined-0001650149-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4403,7 +4384,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926000623/ck0001650149-20260116.htm"
     },
     {
-      "id": "undefined-0001650149-39",
+      "id": "undefined-0001650149-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4422,7 +4403,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418925017206/ck0001650149-20251218.htm"
     },
     {
-      "id": "undefined-0001650149-40",
+      "id": "undefined-0001650149-41",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
