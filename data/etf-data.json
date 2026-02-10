@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-10T20:33:46.044Z",
+  "timestamp": "2026-02-10T21:32:55.650Z",
   "count": 254,
   "approvedCount": 57,
   "pendingCount": 197,
@@ -34,9 +34,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares Ethereum ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-18",
+      "filingDate": "2026-02-10",
       "initialFilingDate": "2023-09-06",
-      "decisionDeadline": "2025-12-18",
+      "decisionDeadline": "2026-02-10",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -44,7 +44,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001992508",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992508",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390025123294/ea0270187-8k_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390026014281/ea027630802-8k_21shares.htm"
     },
     {
       "id": "TSOL-0002057390-0",
@@ -1234,7 +1234,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026006755/ea0273617-fwp_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-7",
+      "id": "undefined-0002028834-9",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1253,7 +1253,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/ea0259370-s1a5_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-9",
+      "id": "undefined-0002028834-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1272,7 +1272,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/ea0258805-s1a4_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-10",
+      "id": "undefined-0002028834-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1291,7 +1291,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025082627/ea0255191-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-11",
+      "id": "undefined-0002028834-13",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1310,7 +1310,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/ea0250753-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-12",
+      "id": "undefined-0002028834-14",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1329,7 +1329,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025054351/ea0245677-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-13",
+      "id": "undefined-0002028834-15",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
