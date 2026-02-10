@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-02-10T21:32:55.650Z",
-  "count": 254,
+  "timestamp": "2026-02-10T22:28:28.597Z",
+  "count": 257,
   "approvedCount": 57,
-  "pendingCount": 197,
+  "pendingCount": 200,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 170,
+  "discoveredCount": 171,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -1161,9 +1161,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-04",
+      "filingDate": "2026-02-10",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-04",
+      "decisionDeadline": "2026-02-10",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1171,7 +1171,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026012335/ea0275496-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026014392/ea0276367-34_485bxt.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1181,9 +1181,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-04",
+      "filingDate": "2026-02-10",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-04",
+      "decisionDeadline": "2026-02-10",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1191,7 +1191,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026012335/ea0275496-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026014392/ea0276367-34_485bxt.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -2064,6 +2064,63 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025007545/ea0228742-s1_bitwise.htm"
     },
     {
+      "id": "undefined-0002086017-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Bitwise",
+      "etfName": "Bitwise Avalanche ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-10",
+      "initialFilingDate": "2025-09-15",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002086017",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002086017",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000121390026014334/ea0276286-s1a2_bitwise.htm"
+    },
+    {
+      "id": "undefined-0002086017-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Bitwise",
+      "etfName": "Bitwise Avalanche ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-11-26",
+      "initialFilingDate": "2025-09-15",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002086017",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002086017",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000121390025115003/ea0267008-s1a1_bitwise.htm"
+    },
+    {
+      "id": "undefined-0002086017-2",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Bitwise",
+      "etfName": "Bitwise Avalanche ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-09-15",
+      "initialFilingDate": "2025-09-15",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002086017",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002086017",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000121390025087599/ea0256697-s1_bitwise.htm"
+    },
+    {
       "id": "undefined-0002059135-0",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
@@ -2840,7 +2897,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000006/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-2",
+      "id": "undefined-0001969674-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -2859,7 +2916,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000005/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-3",
+      "id": "undefined-0001969674-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -2878,7 +2935,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000004/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-4",
+      "id": "undefined-0001969674-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -2897,7 +2954,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000003/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-6",
+      "id": "undefined-0001969674-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -2916,7 +2973,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000001/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-12",
+      "id": "undefined-0001969674-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -4841,7 +4898,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000206071725000003/vaneckavalanchetrusts-1.htm"
     },
     {
-      "id": "undefined-0002055464-22",
+      "id": "undefined-0002055464-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Wedbush",
@@ -4860,7 +4917,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025047429/ea0243336-01_n1aa.htm"
     },
     {
-      "id": "undefined-0002055464-24",
+      "id": "undefined-0002055464-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Wedbush",
@@ -4879,7 +4936,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025029480/ea0237055-01_n1aa.htm"
     },
     {
-      "id": "undefined-0002055464-25",
+      "id": "undefined-0002055464-26",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Wedbush",
@@ -4898,7 +4955,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025011414/ea0229728-02_n1a.htm"
     },
     {
-      "id": "undefined-0002055464-1",
+      "id": "undefined-0002055464-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush",
