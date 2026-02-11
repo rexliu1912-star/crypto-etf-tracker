@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-11T10:37:59.445Z",
-  "count": 257,
+  "timestamp": "2026-02-11T11:36:17.091Z",
+  "count": 259,
   "approvedCount": 57,
-  "pendingCount": 200,
+  "pendingCount": 202,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -2992,7 +2992,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000154282626000002/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0001547950-16",
+      "id": "undefined-0001547950-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Exchange",
+      "etfName": "Amplify ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-11",
+      "initialFilingDate": "2019-07-02",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001547950",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026014436/ea0276282-01_485bpos.htm"
+    },
+    {
+      "id": "undefined-0001547950-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3011,7 +3030,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-30",
+      "id": "undefined-0001547950-31",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3030,7 +3049,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390025124353/ea0269813-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-38",
+      "id": "undefined-0001452937-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "EXCHANGE",
+      "etfName": "Exchange Traded Concepts Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-11",
+      "initialFilingDate": "2020-12-23",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001452937",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001452937",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1452937/000121390026014438/ea0276129-01_485bpos.htm"
+    },
+    {
+      "id": "undefined-0001452937-39",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EXCHANGE",
