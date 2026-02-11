@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-11T18:46:17.578Z",
+  "timestamp": "2026-02-11T19:48:18.680Z",
   "count": 260,
   "approvedCount": 57,
   "pendingCount": 203,
@@ -574,9 +574,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-10",
+      "filingDate": "2026-02-11",
       "initialFilingDate": "2023-05-09",
-      "decisionDeadline": "2026-02-10",
+      "decisionDeadline": "2026-02-11",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -584,7 +584,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001976672",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001976672",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000089418926003510/grayscale_40-17g.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000016/c485bxt.htm"
     },
     {
       "id": "LTCN-0001732406-0",
@@ -3011,7 +3011,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000154282626000002/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0001547950-0",
+      "id": "undefined-0001547950-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3030,7 +3030,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026014436/ea0276282-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-17",
+      "id": "undefined-0001547950-18",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3049,7 +3049,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-31",
+      "id": "undefined-0001547950-32",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3068,7 +3068,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390025124353/ea0269813-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-0",
+      "id": "undefined-0001452937-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EXCHANGE",
@@ -3087,7 +3087,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1452937/000121390026014438/ea0276129-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-39",
+      "id": "undefined-0001452937-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EXCHANGE",
