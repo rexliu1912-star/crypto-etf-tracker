@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-12T22:21:09.755Z",
-  "count": 260,
+  "timestamp": "2026-02-12T23:18:57.151Z",
+  "count": 259,
   "approvedCount": 57,
-  "pendingCount": 203,
+  "pendingCount": 202,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 172,
@@ -2356,8 +2356,8 @@
       "issuer": "Canary",
       "etfName": "Canary HBAR Trust",
       "filingType": "Spot ETF",
-      "filingDate": "N/A",
-      "initialFilingDate": "N/A",
+      "filingDate": "2024-10-01",
+      "initialFilingDate": "2024-10-01",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -2366,7 +2366,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002039459",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039459",
-      "latestFilingLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039459"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039459/000203945924000002/xslFormDX01/primary_doc.xml"
     },
     {
       "id": "SOLS-0002041869-0",
@@ -2376,8 +2376,8 @@
       "issuer": "Canary",
       "etfName": "Canary Solana ETF",
       "filingType": "Spot ETF",
-      "filingDate": "N/A",
-      "initialFilingDate": "N/A",
+      "filingDate": "2025-12-09",
+      "initialFilingDate": "2024-10-30",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -2386,7 +2386,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002041869",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002041869",
-      "latestFilingLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002041869"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/solc-10q_093025.htm"
     },
     {
       "id": "MRCA-0002083119-0",
@@ -4783,7 +4783,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126001794/cgro-485bpos_020126.htm"
     },
     {
-      "id": "undefined-0001742912-13",
+      "id": "undefined-0001742912-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4802,7 +4802,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126002390/finq-485bpos_020226.htm"
     },
     {
-      "id": "undefined-0001742912-48",
+      "id": "undefined-0001742912-49",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4819,25 +4819,6 @@
       "cik": "0001742912",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001742912",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126001797/nanckruz-485bpos_012726.htm"
-    },
-    {
-      "id": "undefined-0001742912-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Tidal",
-      "etfName": "Roundhill ETF Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-26",
-      "initialFilingDate": "2023-10-19",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001742912",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001742912",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126001653/asci_485bpos-012616.htm"
     },
     {
       "id": "ADA-0001884022-0",
