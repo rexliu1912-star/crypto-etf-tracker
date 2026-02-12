@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-12T17:49:51.874Z",
-  "count": 260,
+  "timestamp": "2026-02-12T18:44:20.943Z",
+  "count": 261,
   "approvedCount": 57,
-  "pendingCount": 203,
+  "pendingCount": 204,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -2491,6 +2491,25 @@
       "issuer": "Canary",
       "etfName": "Canary SUI ETF",
       "filingType": "Spot ETF",
+      "filingDate": "2026-02-12",
+      "initialFilingDate": "2025-03-17",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002060703",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002060703",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126003132/sui-s1a_021226.htm"
+    },
+    {
+      "id": "undefined-0002060703-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Canary",
+      "etfName": "Canary SUI ETF",
+      "filingType": "Spot ETF",
       "filingDate": "2026-02-03",
       "initialFilingDate": "2025-03-17",
       "decisionDeadline": "待通过",
@@ -2504,7 +2523,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126002476/sui-s1a_020326.htm"
     },
     {
-      "id": "undefined-0002060703-1",
+      "id": "undefined-0002060703-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2523,7 +2542,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126001140/sui-s1a_011626.htm"
     },
     {
-      "id": "undefined-0002060703-2",
+      "id": "undefined-0002060703-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2542,7 +2561,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937125020698/sui-s1a_121825.htm"
     },
     {
-      "id": "undefined-0002060703-3",
+      "id": "undefined-0002060703-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2561,7 +2580,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937125015628/sui-s1a_101725.htm"
     },
     {
-      "id": "undefined-0002060703-4",
+      "id": "undefined-0002060703-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -4955,7 +4974,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000206071725000003/vaneckavalanchetrusts-1.htm"
     },
     {
-      "id": "undefined-0002055464-24",
+      "id": "undefined-0002055464-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Wedbush",
@@ -4974,7 +4993,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025047429/ea0243336-01_n1aa.htm"
     },
     {
-      "id": "undefined-0002055464-26",
+      "id": "undefined-0002055464-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Wedbush",
@@ -4993,7 +5012,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025029480/ea0237055-01_n1aa.htm"
     },
     {
-      "id": "undefined-0002055464-27",
+      "id": "undefined-0002055464-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Wedbush",
@@ -5012,7 +5031,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025011414/ea0229728-02_n1a.htm"
     },
     {
-      "id": "undefined-0002055464-3",
+      "id": "undefined-0002055464-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush",
