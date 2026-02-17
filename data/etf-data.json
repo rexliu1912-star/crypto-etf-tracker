@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-17T19:40:13.405Z",
+  "timestamp": "2026-02-17T20:24:35.525Z",
   "count": 262,
   "approvedCount": 57,
   "pendingCount": 205,
@@ -3527,7 +3527,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852026/000185202621000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002034012-0",
+      "id": "undefined-0002034012-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3546,7 +3546,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/gsui_s-1_amendment_3.htm"
     },
     {
-      "id": "undefined-0002034012-1",
+      "id": "undefined-0002034012-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3565,7 +3565,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526046711/gsui_s-1_amendment_2.htm"
     },
     {
-      "id": "undefined-0002034012-5",
+      "id": "undefined-0002034012-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3584,7 +3584,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526022813/gsui_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002034012-9",
+      "id": "undefined-0002034012-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
