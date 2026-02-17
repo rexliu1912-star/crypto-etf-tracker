@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-17T11:32:24.596Z",
+  "timestamp": "2026-02-17T12:32:46.056Z",
   "count": 260,
   "approvedCount": 57,
   "pendingCount": 203,
@@ -1171,7 +1171,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026016824/ea0277232-27_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026016833/ea0277232-34_485bxt.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1191,7 +1191,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026016824/ea0277232-27_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026016833/ea0277232-34_485bxt.htm"
     },
     {
       "id": "BTCW-0001850391-0",
