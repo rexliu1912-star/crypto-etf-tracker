@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-17T10:35:20.580Z",
-  "count": 258,
+  "timestamp": "2026-02-17T11:32:24.596Z",
+  "count": 260,
   "approvedCount": 57,
-  "pendingCount": 201,
+  "pendingCount": 203,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 172,
@@ -1161,9 +1161,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-10",
+      "filingDate": "2026-02-17",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-10",
+      "decisionDeadline": "2026-02-17",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1171,7 +1171,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026014392/ea0276367-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026016824/ea0277232-27_485bxt.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1181,9 +1181,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-10",
+      "filingDate": "2026-02-17",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-10",
+      "decisionDeadline": "2026-02-17",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1191,7 +1191,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026014392/ea0276367-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026016824/ea0277232-27_485bxt.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -3049,7 +3049,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000154282626000002/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0001547950-9",
+      "id": "undefined-0001547950-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Exchange",
+      "etfName": "Amplify ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-17",
+      "initialFilingDate": "2019-09-13",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001547950",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026016652/ea0276962-01_485bpos.htm"
+    },
+    {
+      "id": "undefined-0001547950-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3068,7 +3087,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026014436/ea0276282-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-26",
+      "id": "undefined-0001547950-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3087,7 +3106,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-40",
+      "id": "undefined-0001547950-41",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3856,6 +3875,25 @@
       "issuer": "Kraneshares",
       "etfName": "Kraneshares Crypto Trust",
       "filingType": "Spot ETF",
+      "filingDate": "2026-02-17",
+      "initialFilingDate": "2025-06-27",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002073505",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002073505",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912626001361/kraneshares_s1a.htm"
+    },
+    {
+      "id": "undefined-0002073505-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Kraneshares",
+      "etfName": "Kraneshares Crypto Trust",
+      "filingType": "Spot ETF",
       "filingDate": "2025-11-14",
       "initialFilingDate": "2025-06-27",
       "decisionDeadline": "待通过",
@@ -3869,7 +3907,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625009228/kraneshares_s1a.htm"
     },
     {
-      "id": "undefined-0002073505-1",
+      "id": "undefined-0002073505-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
@@ -3888,7 +3926,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004777/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0002073505-2",
+      "id": "undefined-0002073505-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
