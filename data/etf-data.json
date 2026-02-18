@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-18T21:27:05.786Z",
-  "count": 263,
+  "timestamp": "2026-02-18T22:21:47.904Z",
+  "count": 264,
   "approvedCount": 57,
-  "pendingCount": 206,
+  "pendingCount": 207,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -2914,6 +2914,25 @@
       "cik": "0001805526",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009463/xslF345X05/doc4.xml"
+    },
+    {
+      "id": "undefined-0001592900-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "EA",
+      "etfName": "Direxion Shares ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-18",
+      "initialFilingDate": "2025-02-18",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001592900",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001592900",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000428/optimaltax485a.htm"
     },
     {
       "id": "undefined-0001969674-1",
