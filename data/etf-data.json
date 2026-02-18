@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-02-18T20:27:08.896Z",
-  "count": 264,
+  "timestamp": "2026-02-18T21:27:05.786Z",
+  "count": 263,
   "approvedCount": 57,
-  "pendingCount": 207,
+  "pendingCount": 206,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 172,
+  "discoveredCount": 171,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -905,7 +905,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "BITU-0001174610-0",
@@ -925,7 +925,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "BITI-0001174610-0",
@@ -945,7 +945,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -965,7 +965,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "EETH-0001174610-0",
@@ -985,7 +985,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1005,7 +1005,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1025,7 +1025,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1045,7 +1045,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1068,7 +1068,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1091,7 +1091,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000044/IQMM021826.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000119312526057118/f44116d1.htm"
     },
     {
       "id": "GXRP-0001833502-0",
@@ -3753,25 +3753,6 @@
       "cik": "0002040120",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002040120",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2040120/000119312526051643/aave-20260213.htm"
-    },
-    {
-      "id": "undefined-0002025000-9",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Near Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-20",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002025000",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002025000",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2025000/000119312526016785/gsnr-20260120.htm"
     },
     {
       "id": "undefined-0001985840-23",
