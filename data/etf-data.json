@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-23T10:39:17.130Z",
+  "timestamp": "2026-02-23T11:32:20.932Z",
   "count": 267,
   "approvedCount": 57,
   "pendingCount": 210,
@@ -1221,7 +1221,7 @@
       "issuer": "21Shares",
       "etfName": "21Shares Dogecoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-20",
+      "filingDate": "2026-02-23",
       "initialFilingDate": "2025-04-09",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -1231,7 +1231,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002064314",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064314",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026018803/ea0276485-10q_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026018937/ea0277896-424b3_21shares.htm"
     },
     {
       "id": "undefined-0002028834-9",
@@ -1348,7 +1348,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390024057001/ea0208625-s1_21shares.htm"
     },
     {
-      "id": "undefined-0002061626-1",
+      "id": "undefined-0002061626-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1367,7 +1367,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061626/000121390026010779/ea0275006-s1a4_21shares.htm"
     },
     {
-      "id": "undefined-0002061626-2",
+      "id": "undefined-0002061626-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1386,7 +1386,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061626/000121390026010334/ea0274560-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002061626-3",
+      "id": "undefined-0002061626-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1405,7 +1405,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061626/000121390025101707/ea0262075-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002061626-4",
+      "id": "undefined-0002061626-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1424,7 +1424,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061626/000121390025075027/ea0252742-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002061626-5",
+      "id": "undefined-0002061626-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -4935,7 +4935,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126002464/ddt2xdiscord-485apos.htm"
     },
     {
-      "id": "undefined-0001742912-0",
+      "id": "undefined-0001742912-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4954,7 +4954,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126003664/smartwealth_485apos-021926.htm"
     },
     {
-      "id": "undefined-0001742912-1",
+      "id": "undefined-0001742912-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4973,7 +4973,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126003599/brandywine_485apos-021826.htm"
     },
     {
-      "id": "undefined-0001742912-16",
+      "id": "undefined-0001742912-18",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
