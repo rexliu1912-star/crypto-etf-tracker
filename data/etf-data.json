@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-23T20:32:41.362Z",
+  "timestamp": "2026-02-23T21:33:55.373Z",
   "count": 269,
   "approvedCount": 57,
   "pendingCount": 212,
@@ -185,9 +185,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-17",
+      "filingDate": "2026-02-23",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-02-17",
+      "decisionDeadline": "2026-02-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -195,7 +195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026017412/ea0277256-01_485apos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000094040026007315/xslFormNPORT-P_X01/primary_doc.xml"
     },
     {
       "id": "XRPC-0002039505-0",
@@ -325,9 +325,9 @@
       "issuer": "Franklin",
       "etfName": "Franklin Bitcoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-17",
+      "filingDate": "2026-02-23",
       "initialFilingDate": "2023-09-12",
-      "decisionDeadline": "2026-02-17",
+      "decisionDeadline": "2026-02-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -335,7 +335,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001992870",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992870",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992870/000114036126005787/ef20060840_10q.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992870/000207184426000226/ftdht424b3022026.htm"
     },
     {
       "id": "EZET-0002011535-0",
@@ -1121,9 +1121,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-03",
+      "filingDate": "2026-02-23",
       "initialFilingDate": "2020-12-30",
-      "decisionDeadline": "2025-12-03",
+      "decisionDeadline": "2026-02-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1131,7 +1131,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001838028",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001838028",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000183802825000030/hodl-20251203.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000183802826000005/vaneckbitcoinetf424b3-mark.htm"
     },
     {
       "id": "VSOL-0002028541-0",
@@ -1141,9 +1141,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Solana ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-19",
+      "filingDate": "2026-02-23",
       "initialFilingDate": "2024-06-27",
-      "decisionDeadline": "2025-12-19",
+      "decisionDeadline": "2026-02-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1151,7 +1151,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002028541",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028541",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028541/000093041325003739/c114676_10q-ixbrl.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028541/000202854126000003/vanecksolanaetf424b3-marke.htm"
     },
     {
       "id": "BITX-0001884021-0",
@@ -1161,9 +1161,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-19",
+      "filingDate": "2026-02-23",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-19",
+      "decisionDeadline": "2026-02-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1171,7 +1171,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026018455/ea0274006-02_485apos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026019308/ea0277908-34_485bxt.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1181,9 +1181,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-19",
+      "filingDate": "2026-02-23",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-19",
+      "decisionDeadline": "2026-02-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1191,7 +1191,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026018455/ea0274006-02_485apos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026019308/ea0277908-34_485bxt.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -5050,7 +5050,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002060717-4",
+      "id": "undefined-0002060717-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5069,7 +5069,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828026002244/vaneckavalancheetfs-1a4.htm"
     },
     {
-      "id": "undefined-0002060717-5",
+      "id": "undefined-0002060717-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5088,7 +5088,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025057913/vaneckavalancheetfs-1a3.htm"
     },
     {
-      "id": "undefined-0002060717-6",
+      "id": "undefined-0002060717-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5107,7 +5107,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025054200/vaneckavalanchetrusts-1a2.htm"
     },
     {
-      "id": "undefined-0002060717-7",
+      "id": "undefined-0002060717-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5126,7 +5126,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000162828025044164/vaneckavalanchetrusts-1a1o.htm"
     },
     {
-      "id": "undefined-0002060717-8",
+      "id": "undefined-0002060717-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
