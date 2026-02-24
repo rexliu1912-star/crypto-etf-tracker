@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-02-24T10:36:22.045Z",
+  "timestamp": "2026-02-24T11:32:46.229Z",
   "count": 269,
   "approvedCount": 57,
   "pendingCount": 212,
@@ -335,7 +335,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001992870",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992870",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992870/000207184426000226/ftdht424b3022026.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992870/999999999526000646/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "EZET-0002011535-0",
