@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-24T15:45:06.064Z",
-  "count": 273,
+  "timestamp": "2026-02-24T16:53:44.386Z",
+  "count": 272,
   "approvedCount": 57,
-  "pendingCount": 216,
+  "pendingCount": 215,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 170,
@@ -4534,25 +4534,6 @@
       "cik": "0001618627",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001618627",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425020138/fp0095946-1_485bposixbrl.htm"
-    },
-    {
-      "id": "undefined-0001454889-41",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "SCHWAB",
-      "etfName": "REX ETF Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-22",
-      "initialFilingDate": "2022-01-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001454889",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465925123308/tm2526338d1_485bpos.htm"
     },
     {
       "id": "undefined-0001650149-12",
