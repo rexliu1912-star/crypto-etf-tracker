@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-02-26T20:24:15.564Z",
-  "count": 265,
+  "timestamp": "2026-02-26T21:24:17.870Z",
+  "count": 266,
   "approvedCount": 57,
-  "pendingCount": 208,
+  "pendingCount": 209,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 171,
+  "discoveredCount": 170,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -4517,7 +4517,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425020138/fp0095946-1_485bposixbrl.htm"
     },
     {
-      "id": "undefined-0001650149-14",
+      "id": "undefined-0001650149-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Series",
+      "etfName": "Trust for Advised Portfolios",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-26",
+      "initialFilingDate": "2020-07-10",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001650149",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650149",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926006311/ck0001650149-20260226.htm"
+    },
+    {
+      "id": "undefined-0001650149-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4536,7 +4555,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926002702/ck0001650149-20260128.htm"
     },
     {
-      "id": "undefined-0001650149-18",
+      "id": "undefined-0001650149-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4555,7 +4574,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001987/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-19",
+      "id": "undefined-0001650149-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4574,7 +4593,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001946/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-24",
+      "id": "undefined-0001650149-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4593,7 +4612,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926000623/ck0001650149-20260116.htm"
     },
     {
-      "id": "undefined-0001650149-44",
+      "id": "undefined-0001650149-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -4612,7 +4631,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418925017206/ck0001650149-20251218.htm"
     },
     {
-      "id": "undefined-0001650149-45",
+      "id": "undefined-0001650149-46",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Series",
@@ -5126,7 +5145,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/ea0276057-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001396092-13",
+      "id": "undefined-0001396092-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -5145,7 +5164,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000049/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-14",
+      "id": "undefined-0001396092-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -5164,7 +5183,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000047/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-15",
+      "id": "undefined-0001396092-16",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -5183,7 +5202,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000044/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-16",
+      "id": "undefined-0001396092-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
