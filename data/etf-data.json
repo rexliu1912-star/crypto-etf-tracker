@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-02-26T21:24:17.870Z",
-  "count": 266,
+  "timestamp": "2026-02-26T22:24:11.098Z",
+  "count": 267,
   "approvedCount": 57,
-  "pendingCount": 209,
+  "pendingCount": 210,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 170,
+  "discoveredCount": 171,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -2770,6 +2770,25 @@
       "issuer": "DeFi",
       "etfName": "DeFi Development Corp.",
       "filingType": "Spot ETF",
+      "filingDate": "2026-02-26",
+      "initialFilingDate": "2022-10-14",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001805526",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826002700/xslF345X05/doc4.xml"
+    },
+    {
+      "id": "undefined-0001805526-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "DeFi",
+      "etfName": "DeFi Development Corp.",
+      "filingType": "Spot ETF",
       "filingDate": "2026-02-19",
       "initialFilingDate": "2022-10-14",
       "decisionDeadline": "待通过",
@@ -2781,25 +2800,6 @@
       "cik": "0001805526",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826002167/xslF345X05/doc4.xml"
-    },
-    {
-      "id": "undefined-0001805526-10",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "DeFi",
-      "etfName": "DeFi Development Corp.",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-29",
-      "initialFilingDate": "2022-10-14",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001805526",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826001060/xslF345X05/doc4.xml"
     },
     {
       "id": "undefined-0001805526-11",
@@ -2818,10 +2818,29 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001805526",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826001060/xslF345X05/doc4.xml"
+    },
+    {
+      "id": "undefined-0001805526-12",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "DeFi",
+      "etfName": "DeFi Development Corp.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-29",
+      "initialFilingDate": "2022-10-14",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001805526",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001805526",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826001059/xslF345X02/doc3.xml"
     },
     {
-      "id": "undefined-0001805526-13",
+      "id": "undefined-0001805526-14",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2840,7 +2859,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026002497/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001805526-14",
+      "id": "undefined-0001805526-15",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2859,7 +2878,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026002189/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001805526-17",
+      "id": "undefined-0001805526-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2878,7 +2897,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825010147/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-21",
+      "id": "undefined-0001805526-22",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2897,7 +2916,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390025123331/ea0269978-s1_defi.htm"
     },
     {
-      "id": "undefined-0001805526-23",
+      "id": "undefined-0001805526-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2916,7 +2935,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000119312525316435/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001805526-24",
+      "id": "undefined-0001805526-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -2935,7 +2954,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009626/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-26",
+      "id": "undefined-0001805526-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
