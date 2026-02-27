@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-02-27T22:13:49.031Z",
+  "timestamp": "2026-02-27T23:14:59.209Z",
   "count": 257,
   "approvedCount": 57,
   "pendingCount": 200,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 170,
+  "discoveredCount": 171,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -3239,7 +3239,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390025124353/ea0269813-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-7",
+      "id": "undefined-0001452937-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EXCHANGE",
@@ -3258,7 +3258,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1452937/000121390026014438/ea0276129-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-46",
+      "id": "undefined-0001452937-47",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EXCHANGE",
