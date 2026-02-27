@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-02-27T14:32:06.718Z",
-  "count": 267,
+  "timestamp": "2026-02-27T15:29:01.160Z",
+  "count": 266,
   "approvedCount": 57,
-  "pendingCount": 210,
+  "pendingCount": 209,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 170,
@@ -3030,7 +3030,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026000428/optimaltax485a.htm"
     },
     {
-      "id": "undefined-0001969674-1",
+      "id": "undefined-0001969674-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3049,7 +3049,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000177417126000002/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-13",
+      "id": "undefined-0001969674-16",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3068,7 +3068,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000008/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-15",
+      "id": "undefined-0001969674-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3087,7 +3087,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000007/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-17",
+      "id": "undefined-0001969674-20",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3106,7 +3106,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000006/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-19",
+      "id": "undefined-0001969674-22",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3125,7 +3125,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000005/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-20",
+      "id": "undefined-0001969674-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3144,7 +3144,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000004/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-21",
+      "id": "undefined-0001969674-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3163,7 +3163,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000003/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-23",
+      "id": "undefined-0001969674-26",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3180,25 +3180,6 @@
       "cik": "0001969674",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001969674",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000001/xslF345X02/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0001969674-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "ETF",
-      "etfName": "2023 ETF Series Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-30",
-      "initialFilingDate": "2023-06-09",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001969674",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001969674",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000154282626000002/xslF345X02/primary_doc.xml"
     },
     {
       "id": "undefined-0001547950-8",
