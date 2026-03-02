@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-02T10:34:13.209Z",
+  "timestamp": "2026-03-02T11:26:23.342Z",
   "count": 257,
   "approvedCount": 57,
   "pendingCount": 200,
@@ -94,9 +94,9 @@
       "issuer": "Ark",
       "etfName": "ARK 21Shares Bitcoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-18",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2021-06-28",
-      "decisionDeadline": "2025-12-18",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -104,7 +104,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001869699",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001869699",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1869699/000121390025123286/ea0270186-8k_ark21share.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1869699/000121390026021831/ea0276464-10k_ark21share.htm"
     },
     {
       "id": "BITB-0001763415-0",
@@ -683,9 +683,9 @@
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Bitcoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-16",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2021-04-12",
-      "decisionDeadline": "2025-12-16",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -693,7 +693,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001855781",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855781",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1855781/999999999525003765/xslEFFECTX01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1855781/000119312526083572/btco-20251231.htm"
     },
     {
       "id": "QETH-0001995569-0",
@@ -703,9 +703,9 @@
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Ethereum ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-11-07",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2023-09-29",
-      "decisionDeadline": "2025-11-07",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -713,7 +713,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001995569",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001995569",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1995569/000119312525270284/qeth-20250930.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1995569/000119312526083578/qeth-20251231.htm"
     },
     {
       "id": "IBIT-0001980994-0",
