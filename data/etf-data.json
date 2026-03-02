@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-02T13:51:53.693Z",
+  "timestamp": "2026-03-02T14:35:28.142Z",
   "count": 256,
   "approvedCount": 57,
   "pendingCount": 199,
@@ -614,9 +614,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Avalanche Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-19",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2025-08-25",
-      "decisionDeadline": "2026-02-19",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -624,7 +624,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002035053",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035053",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526059664/avax_s-1_amendment_4_202.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526084364/avax_s-1_amendment_5.htm"
     },
     {
       "id": "GXLM-0001761325-0",
@@ -4650,7 +4650,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001924868-25",
+      "id": "undefined-0001924868-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4669,7 +4669,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004524/nicholas-485bxt_022726.htm"
     },
     {
-      "id": "undefined-0001924868-31",
+      "id": "undefined-0001924868-33",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4688,7 +4688,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004503/blox-485bpos_022726.htm"
     },
     {
-      "id": "undefined-0001924868-41",
+      "id": "undefined-0001924868-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
