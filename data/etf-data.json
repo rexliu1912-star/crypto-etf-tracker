@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-02T19:30:23.304Z",
+  "timestamp": "2026-03-02T20:22:56.662Z",
   "count": 254,
   "approvedCount": 57,
   "pendingCount": 197,
@@ -574,9 +574,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-24",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2023-05-09",
-      "decisionDeadline": "2026-02-24",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -584,7 +584,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001976672",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001976672",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000024/c485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000089418926007407/xslFormNPORT-P_X01/primary_doc.xml"
     },
     {
       "id": "LTCN-0001732406-0",
@@ -4650,7 +4650,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001924868-45",
+      "id": "undefined-0001924868-49",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
