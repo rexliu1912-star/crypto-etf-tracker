@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-02T21:24:07.410Z",
+  "timestamp": "2026-03-02T22:18:12.249Z",
   "count": 253,
   "approvedCount": 57,
   "pendingCount": 196,
@@ -1161,9 +1161,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-27",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-27",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1171,7 +1171,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026021059/ea0278440-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026022442/ea0279378-34_485bxt.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1181,9 +1181,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-02-27",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2022-03-16",
-      "decisionDeadline": "2026-02-27",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1191,7 +1191,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026021059/ea0278440-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026022442/ea0279378-34_485bxt.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -3467,7 +3467,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1535538/000174177324004061/c485bpos.htm"
     },
     {
-      "id": "undefined-0000794685-3",
+      "id": "undefined-0000794685-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3486,7 +3486,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000001/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-6",
+      "id": "undefined-0000794685-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3505,7 +3505,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553325000017/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-13",
+      "id": "undefined-0000794685-14",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3524,7 +3524,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000019/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-18",
+      "id": "undefined-0000794685-19",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3543,7 +3543,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000011/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-24",
+      "id": "undefined-0000794685-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
