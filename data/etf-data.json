@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-02T20:22:56.662Z",
-  "count": 254,
+  "timestamp": "2026-03-02T21:24:07.410Z",
+  "count": 253,
   "approvedCount": 57,
-  "pendingCount": 197,
+  "pendingCount": 196,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -114,9 +114,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Bitcoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-11-10",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2019-01-10",
-      "decisionDeadline": "2025-11-10",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -124,7 +124,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001763415",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001763415",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1763415/000119312525274482/bitb-20250930.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1763415/000119312526085335/bitb-20251231.htm"
     },
     {
       "id": "ETHW-0002013744-0",
@@ -154,9 +154,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise 10 Crypto Index Fund",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-09",
+      "filingDate": "2026-03-02",
       "initialFilingDate": "2017-11-29",
-      "decisionDeadline": "2025-12-09",
+      "decisionDeadline": "2026-03-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -175,7 +175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001723788",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723788",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1723788/000121390025119440/ea0268832-8k_bitwise10.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1723788/000119312526085428/bitw-20251231.htm"
     },
     {
       "id": "XRP-0001928561-0",
@@ -3467,7 +3467,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1535538/000174177324004061/c485bpos.htm"
     },
     {
-      "id": "undefined-0000794685-2",
+      "id": "undefined-0000794685-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3486,7 +3486,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000001/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-5",
+      "id": "undefined-0000794685-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3505,7 +3505,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553325000017/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-12",
+      "id": "undefined-0000794685-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3524,7 +3524,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000019/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-17",
+      "id": "undefined-0000794685-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3543,7 +3543,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000011/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-23",
+      "id": "undefined-0000794685-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3560,25 +3560,6 @@
       "cik": "0000794685",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116324000070/xslF345X05/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2024-06-28",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116324000033/xslF345X05/primary_doc.xml"
     },
     {
       "id": "GDOG-0002055510-0",
