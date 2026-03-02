@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-02T16:29:28.976Z",
+  "timestamp": "2026-03-02T17:36:18.268Z",
   "count": 255,
   "approvedCount": 57,
   "pendingCount": 198,
@@ -4631,7 +4631,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001924868-29",
+      "id": "undefined-0001924868-32",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4650,7 +4650,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004524/nicholas-485bxt_022726.htm"
     },
     {
-      "id": "undefined-0001924868-35",
+      "id": "undefined-0001924868-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
@@ -4669,7 +4669,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004503/blox-485bpos_022726.htm"
     },
     {
-      "id": "undefined-0001924868-45",
+      "id": "undefined-0001924868-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal",
