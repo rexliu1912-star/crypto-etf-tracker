@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-03T13:51:25.949Z",
-  "count": 253,
+  "timestamp": "2026-03-03T14:36:22.996Z",
+  "count": 252,
   "approvedCount": 57,
-  "pendingCount": 196,
+  "pendingCount": 195,
   "deniedCount": 0,
   "knownIssuersCount": 71,
   "discoveredCount": 171,
@@ -4629,25 +4629,6 @@
       "cik": "0002089855",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002089855",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
-    },
-    {
-      "id": "undefined-0001924868-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Tidal",
-      "etfName": "Tidal Trust II",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-02-27",
-      "initialFilingDate": "2025-03-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001924868",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004524/nicholas-485bxt_022726.htm"
     },
     {
       "id": "undefined-0001742912-15",
