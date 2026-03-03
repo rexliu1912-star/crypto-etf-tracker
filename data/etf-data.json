@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-03-03T21:23:11.108Z",
-  "count": 255,
+  "timestamp": "2026-03-03T22:17:19.914Z",
+  "count": 259,
   "approvedCount": 57,
-  "pendingCount": 198,
+  "pendingCount": 202,
   "deniedCount": 0,
   "knownIssuersCount": 71,
-  "discoveredCount": 171,
+  "discoveredCount": 172,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 15,
@@ -835,9 +835,9 @@
       "issuer": "McGrane",
       "etfName": "Bitwise Solana Staking ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-09",
+      "filingDate": "2026-03-03",
       "initialFilingDate": "2025-02-24",
-      "decisionDeadline": "2026-02-09",
+      "decisionDeadline": "2026-03-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -845,7 +845,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002057389",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057389",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000006/xslF345X05/wk-form4_1770676492.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000008/xslF345X05/wk-form4_1772572191.xml"
     },
     {
       "id": "OBTC-0001767057-0",
@@ -1910,6 +1910,101 @@
       "cik": "0002075000",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002075000",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2075000/000091142025000207/xslFormDX01/primary_doc.xml"
+    },
+    {
+      "id": "undefined-0001901799-8",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "Bitcoin",
+      "etfName": "Bitcoin Depot Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-03",
+      "initialFilingDate": "2022-01-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001901799",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526036247/xslF345X05/ownership.xml"
+    },
+    {
+      "id": "undefined-0001901799-13",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "Bitcoin",
+      "etfName": "Bitcoin Depot Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-09",
+      "initialFilingDate": "2022-01-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001901799",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526009041/xslF345X05/ownership.xml"
+    },
+    {
+      "id": "undefined-0001901799-16",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "Bitcoin",
+      "etfName": "Bitcoin Depot Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-09",
+      "initialFilingDate": "2022-01-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001901799",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525313205/xslF345X02/ownership.xml"
+    },
+    {
+      "id": "undefined-0001901799-18",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "Bitcoin",
+      "etfName": "Bitcoin Depot Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-03",
+      "initialFilingDate": "2022-01-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001901799",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525307183/xslF345X05/ownership.xml"
+    },
+    {
+      "id": "undefined-0001901799-19",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "Bitcoin",
+      "etfName": "Bitcoin Depot Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-11-25",
+      "initialFilingDate": "2022-01-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001901799",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525297826/xslF345X05/ownership.xml"
     },
     {
       "id": "undefined-0002045872-5",
@@ -3220,7 +3315,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000168789826000003/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001547950-8",
+      "id": "undefined-0001547950-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3239,7 +3334,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026016652/ea0276962-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-18",
+      "id": "undefined-0001547950-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3258,7 +3353,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026014436/ea0276282-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-35",
+      "id": "undefined-0001547950-36",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange",
@@ -3275,25 +3370,6 @@
       "cik": "0001547950",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
-    },
-    {
-      "id": "undefined-0001547950-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Exchange",
-      "etfName": "Amplify ETF Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-22",
-      "initialFilingDate": "2019-11-06",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001547950",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390025124353/ea0269813-01_485bpos.htm"
     },
     {
       "id": "undefined-0001452937-8",
@@ -4898,7 +4974,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/ea0276057-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001396092-9",
+      "id": "undefined-0001396092-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -4917,7 +4993,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000158/wft-ldrvofund485afiling.htm"
     },
     {
-      "id": "undefined-0001396092-10",
+      "id": "undefined-0001396092-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -4936,7 +5012,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000156/ck0001396092-20260227.htm"
     },
     {
-      "id": "undefined-0001396092-29",
+      "id": "undefined-0001396092-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -4955,7 +5031,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000049/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-30",
+      "id": "undefined-0001396092-31",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -4974,7 +5050,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000047/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-31",
+      "id": "undefined-0001396092-32",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
@@ -4993,7 +5069,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000044/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-32",
+      "id": "undefined-0001396092-33",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World",
