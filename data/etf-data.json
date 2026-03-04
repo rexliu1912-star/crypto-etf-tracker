@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-04T10:24:36.242Z",
+  "timestamp": "2026-03-04T11:21:47.924Z",
   "count": 259,
   "approvedCount": 57,
   "pendingCount": 202,
@@ -4408,7 +4408,7 @@
       "issuer": "Morgan",
       "etfName": "Morgan Stanley Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-06",
+      "filingDate": "2026-03-04",
       "initialFilingDate": "2026-01-06",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -4418,7 +4418,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002103612",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103612",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926000959/tm2534140d2_s1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926023097/tm2534140-5_s1a.htm"
     },
     {
       "id": "MSETH-0002103613-0",
@@ -4936,7 +4936,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000206071725000003/vaneckavalanchetrusts-1.htm"
     },
     {
-      "id": "undefined-0002055464-28",
+      "id": "undefined-0002055464-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Wedbush",
@@ -4955,7 +4955,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025047429/ea0243336-01_n1aa.htm"
     },
     {
-      "id": "undefined-0002055464-7",
+      "id": "undefined-0002055464-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush",
