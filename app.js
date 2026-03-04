@@ -379,29 +379,6 @@ async function init() {
     renderTimeline();
     renderApplications();
     updateTime();
-    // Inject Sync Progress HTML inside info block for better grouping
-    setTimeout(() => {
-        const infoBlock = document.querySelector('.header-info-block');
-        if (infoBlock && !document.getElementById('syncProgress')) {
-            const progressHTML = `
-                <div class="sync-progress-container" id="syncProgress" style="display: none;">
-                    <div class="sync-icon-small">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="spin"><polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path></svg>
-                    </div>
-                    <span class="sync-status-text" id="syncStatusText">${t('syncLoading')}</span>
-                    <div class="sync-track">
-                        <div class="sync-fill" id="syncFill" style="width: 0%"></div>
-                    </div>
-                    <span class="sync-count" id="syncCount">0%</span>
-                </div>
-            `;
-            infoBlock.insertAdjacentHTML('beforeend', progressHTML);
-        }
-
-        // Start progress polling after injection
-        startProgressPolling();
-    }, 100);
-
     // Try to fetch real SEC EDGAR data
     await fetchSECData();
 
@@ -1260,63 +1237,6 @@ function formatDate(dateString) {
     } catch (e) {
         return dateString;
     }
-}
-
-// Poll sync progress
-function startProgressPolling() {
-    const container = document.getElementById('syncProgress');
-    if (!container) return;
-
-    const statusText = document.getElementById('syncStatusText');
-    const countText = document.getElementById('syncCount');
-    const fill = document.getElementById('syncFill');
-
-    // Poll every second
-    setInterval(async () => {
-        try {
-            const response = await fetch(`${API_BASE_URL}/api/sync-progress`);
-            const status = await response.json();
-
-            if (status.isSyncing) {
-                container.style.display = 'flex';
-                setTimeout(() => container.classList.add('active'), 10);
-
-                const percent = status.totalToProcess > 0
-                    ? Math.round((status.processedCount / status.totalToProcess) * 100)
-                    : 0;
-
-                if (fill) fill.style.width = `${percent}%`;
-                if (statusText) statusText.textContent = status.currentAction;
-                if (countText) countText.textContent = `${percent}%`;
-
-                // Silent update periodically
-                if (status.processedCount % 5 === 0 && status.processedCount > 0) {
-                    fetchSECData(false);
-                }
-
-            } else {
-                // Sync finished
-                if (container.classList.contains('active')) {
-                    if (fill) fill.style.width = '100%';
-                    if (statusText) statusText.textContent = t('syncComplete');
-                    if (countText) countText.textContent = '100%';
-
-                    // Final fetch
-                    fetchSECData(false);
-
-                    // Hide after a shorter delay to feel snappier
-                    setTimeout(() => {
-                        container.classList.remove('active');
-                        setTimeout(() => {
-                            container.style.display = 'none';
-                        }, 300);
-                    }, 1500);
-                }
-            }
-        } catch (e) {
-            console.error('Progress poll error:', e);
-        }
-    }, 1000);
 }
 
 // Initialize on load
