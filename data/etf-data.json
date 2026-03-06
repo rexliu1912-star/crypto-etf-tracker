@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-06T22:16:39.185Z",
+  "timestamp": "2026-03-06T23:17:57.365Z",
   "count": 251,
   "approvedCount": 74,
   "pendingCount": 176,
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-05",
+      "filingDate": "2026-03-06",
       "initialFilingDate": "2024-09-25",
-      "decisionDeadline": "2026-03-05",
+      "decisionDeadline": "2026-03-06",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526094160/d72693d485apos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526096957/d47384d485apos.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-03-05",
+      "filingDate": "2026-03-06",
       "initialFilingDate": "2024-09-25",
-      "decisionDeadline": "2026-03-05",
+      "decisionDeadline": "2026-03-06",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526094160/d72693d485apos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526096957/d47384d485apos.htm"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -956,9 +956,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Avalanche Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-02",
+      "filingDate": "2026-03-06",
       "initialFilingDate": "2025-08-25",
-      "decisionDeadline": "2026-03-02",
+      "decisionDeadline": "2026-03-06",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -966,7 +966,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002035053",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035053",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526084364/avax_s-1_amendment_5.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526096950/avax_s-1_amendment_6.htm"
     },
     {
       "id": "GXLM-0001761325-0",
@@ -4618,7 +4618,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001924868-13",
+      "id": "undefined-0001924868-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -4637,7 +4637,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005084/defiance-485apos_030526.htm"
     },
     {
-      "id": "undefined-0001924868-18",
+      "id": "undefined-0001924868-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
