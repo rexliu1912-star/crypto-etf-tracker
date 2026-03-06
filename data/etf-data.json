@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-06T19:27:57.901Z",
+  "timestamp": "2026-03-06T20:19:52.244Z",
   "count": 251,
   "approvedCount": 74,
   "pendingCount": 176,
@@ -2758,7 +2758,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2048623/000121390025006536/ea0228575-s1_coinshares.htm"
     },
     {
-      "id": "undefined-0002078265-22",
+      "id": "undefined-0002078265-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -2777,7 +2777,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000182912625010217/corgietftrusti_n-1aa.htm"
     },
     {
-      "id": "undefined-0002078265-23",
+      "id": "undefined-0002078265-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -2796,7 +2796,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000207826525000011/corgietftrustin1a.htm"
     },
     {
-      "id": "undefined-0002078265-25",
+      "id": "undefined-0002078265-26",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -2815,7 +2815,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000207826525000007/corgietftrustin1a.htm"
     },
     {
-      "id": "undefined-0002078265-26",
+      "id": "undefined-0002078265-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -2834,7 +2834,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000207826525000006/n1a_pea1.htm"
     },
     {
-      "id": "undefined-0002078265-27",
+      "id": "undefined-0002078265-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -4828,7 +4828,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/ea0276057-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001396092-10",
+      "id": "undefined-0001396092-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4847,7 +4847,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000158/wft-ldrvofund485afiling.htm"
     },
     {
-      "id": "undefined-0001396092-11",
+      "id": "undefined-0001396092-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4866,7 +4866,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000156/ck0001396092-20260227.htm"
     },
     {
-      "id": "undefined-0001396092-30",
+      "id": "undefined-0001396092-34",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4885,7 +4885,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000049/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-31",
+      "id": "undefined-0001396092-35",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4904,7 +4904,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000047/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-32",
+      "id": "undefined-0001396092-36",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4923,7 +4923,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000044/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-33",
+      "id": "undefined-0001396092-37",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
