@@ -101,8 +101,8 @@ const CRYPTO_ETF_ISSUERS = [
     // ==================== CANARY CAPITAL (5 products) ====================
     { cik: '0002039505', name: 'Canary XRP ETF', symbol: 'XRPC', crypto: 'XRP', status: 'approved', ticker: 'XRPC' },
     { cik: '0002039461', name: 'Canary Litecoin ETF', symbol: 'LTCC', crypto: 'Litecoin', status: 'approved', ticker: 'LTCC' },
-    { cik: '0002039459', name: 'Canary HBAR Trust', symbol: 'HBAR', crypto: 'Hedera', status: 'pending', ticker: 'HBAR' },
-    { cik: '0002041869', name: 'Canary Solana ETF', symbol: 'SOLS', crypto: 'Solana', status: 'pending', ticker: 'SOLS' },
+    { cik: '0002039459', name: 'Canary HBAR Trust', symbol: 'HBAR', crypto: 'Hedera', status: 'approved', ticker: 'HBAR' },
+    { cik: '0002041869', name: 'Canary Solana ETF', symbol: 'SOLS', crypto: 'Solana', status: 'approved', ticker: 'SOLS' },
     { cik: '0002083119', name: 'Canary American-Made Crypto ETF', symbol: 'MRCA', crypto: 'Multi-Crypto', status: 'pending', ticker: 'MRCA' },
 
     // ==================== VOLATILITY SHARES (2 products) ====================
@@ -116,29 +116,65 @@ const CRYPTO_ETF_ISSUERS = [
 
     // ==================== OTHER ISSUERS ====================
     { cik: '0001767057', name: 'Osprey Bitcoin Trust', symbol: 'OBTC', crypto: 'Bitcoin', status: 'approved', ticker: 'OBTC' },
-    { cik: '0002048583', name: 'CoinShares XRP ETF', symbol: 'CSXR', crypto: 'XRP', status: 'pending', ticker: 'CSXR' },
+    { cik: '0002048583', name: 'CoinShares XRP ETF', symbol: 'XRPL', crypto: 'XRP', status: 'pending', ticker: 'XRPL' },
     { cik: '0001852026', name: 'Grayscale Cardano Trust', issuer: 'Grayscale', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', notes: 'SEC已延期决定至10月26日' },
     { cik: '0001884022', name: 'Tuttle Capital 2X Cardano ETF', issuer: 'Tuttle Capital', symbol: 'ADA', crypto: 'Cardano', status: 'pending', ticker: 'ADA', type: '2x', notes: '杠杆产品,新生效日期10月10日' },
 
     // ==================== CYBER HORNET (1 product) ====================
-    { cik: '0002096385', name: 'Cyber Hornet S&P Crypto 10 ETF', symbol: 'CTX', crypto: 'Multi-Crypto', status: 'pending', ticker: 'CTX', constituents: ['Bitcoin', 'Ethereum', 'XRP', 'Solana', 'Cardano', 'Bitcoin Cash', 'Chainlink', 'Stellar', 'Polkadot', 'Litecoin'] }
+    { cik: '0002096385', name: 'Cyber Hornet S&P Crypto 10 ETF', symbol: 'CTX', crypto: 'Multi-Crypto', status: 'pending', ticker: 'CTX', constituents: ['Bitcoin', 'Ethereum', 'XRP', 'Solana', 'Cardano', 'Bitcoin Cash', 'Chainlink', 'Stellar', 'Polkadot', 'Litecoin'] },
+
+    // ==================== REX SHARES / TUTTLE CAPITAL (Leveraged - 4 products) ====================
+    { cik: '0001454889', name: 'T-REX 2X Long Bitcoin Daily Target ETF', issuer: 'REX/Tuttle', symbol: 'BTCL', crypto: 'Bitcoin', status: 'approved', ticker: 'BTCL', type: '2x' },
+    { cik: '0001454889', name: 'T-REX 2X Inverse Bitcoin Daily Target ETF', issuer: 'REX/Tuttle', symbol: 'BTCZ', crypto: 'Bitcoin', status: 'approved', ticker: 'BTCZ', type: '-2x' },
+    { cik: '0001454889', name: 'T-REX 2X Long Ether Daily Target ETF', issuer: 'REX/Tuttle', symbol: 'ETU', crypto: 'Ethereum', status: 'approved', ticker: 'ETU', type: '2x' },
+    { cik: '0001454889', name: 'T-REX 2X Inverse Ether Daily Target ETF', issuer: 'REX/Tuttle', symbol: 'ETQ', crypto: 'Ethereum', status: 'approved', ticker: 'ETQ', type: '-2x' },
+
+    // ==================== REX-OSPREY (XRP - 1 product) ====================
+    { cik: '0001771146', name: 'REX-Osprey XRP ETF', issuer: 'REX/Osprey', symbol: 'XRPR', crypto: 'XRP', status: 'approved', ticker: 'XRPR' },
+
+    // ==================== DIREXION (Leveraged Crypto - 2 products) ====================
+    { cik: '0001424958', name: 'Direxion Daily Crypto Industry Bull 2X Shares', issuer: 'Direxion', symbol: 'LMBO', crypto: 'Multi-Crypto', status: 'approved', ticker: 'LMBO', type: '2x', constituents: ['Bitcoin', 'Ethereum'] },
+    { cik: '0001424958', name: 'Direxion Daily Crypto Industry Bear 1X Shares', issuer: 'Direxion', symbol: 'REKT', crypto: 'Multi-Crypto', status: 'approved', ticker: 'REKT', type: 'inverse', constituents: ['Bitcoin', 'Ethereum'] },
+
+    // ==================== 21SHARES (Additional products) ====================
+    { cik: '0002028835', name: '21Shares XRP ETF', symbol: 'TOXR', crypto: 'XRP', status: 'approved', ticker: 'TOXR' },
+    { cik: '0002061626', name: '21Shares Sui ETF', symbol: 'TSUI', crypto: 'Sui', status: 'pending', ticker: 'TSUI' },
+    { cik: '0002054247', name: '21Shares Polkadot ETF', symbol: 'TDOT', crypto: 'Polkadot', status: 'pending', ticker: 'TDOT' },
+
+    // ==================== VANECK (Additional products) ====================
+    { cik: '0002060717', name: 'VanEck Avalanche ETF', symbol: 'VAVX', crypto: 'Avalanche', status: 'approved', ticker: 'VAVX' },
+
+    // ==================== BITWISE (Additional products) ====================
+    { cik: '0002086017', name: 'Bitwise Avalanche ETF', symbol: 'BAVX', crypto: 'Avalanche', status: 'approved', ticker: 'BAVX' },
+    { cik: '0002059135', name: 'Bitwise Aptos ETF', symbol: 'BAPT', crypto: 'Aptos', status: 'pending', ticker: 'BAPT' },
+    { cik: '0002101730', name: 'Bitwise Sui ETF', symbol: 'BSUI', crypto: 'Sui', status: 'pending', ticker: 'BSUI' },
+
+    // ==================== CANARY CAPITAL (Additional products) ====================
+    { cik: '0002064768', name: 'Canary Staked TRX ETF', symbol: 'STRX', crypto: 'TRON', status: 'pending', ticker: 'STRX' },
+
+    // ==================== GRAYSCALE (Additional products) ====================
+    { cik: '0002083137', name: 'Grayscale Polkadot Trust', issuer: 'Grayscale', symbol: 'GDOT', crypto: 'Polkadot', status: 'pending', ticker: 'GDOT' }
 ];
 
 // Verified product counts by issuer
 const ISSUER_PRODUCT_COUNTS = {
     'BlackRock/iShares': 3,
-    'Grayscale': 15,
+    'Grayscale': 17,
     'Fidelity': 4,
-    'VanEck': 3,
-    'Bitwise': 10,
-    '21Shares/ARK': 7,
+    'VanEck': 4,
+    'Bitwise': 13,
+    '21Shares/ARK': 10,
     'ProShares': 10,
     'Franklin Templeton': 5,
     'Invesco/Galaxy': 2,
     'WisdomTree': 2,
     'Hashdex': 1,
-    'Canary Capital': 5,
+    'Canary Capital': 7,
     'Volatility Shares': 2,
+    'REX/Tuttle': 5,
+    'Direxion': 2,
+    'CoinShares': 1,
+    'Morgan Stanley': 3,
     'Cyber Hornet': 1,
     'Others': 3
 };
@@ -164,6 +200,45 @@ const SENTINEL_PLATFORMS = [
     { cik: '0001742912', name: 'Roundhill ETF Trust' },
     { cik: '0001592900', name: 'Direxion Shares ETF Trust' }
 ];
+
+// --- CIK → BRAND NAME MAPPING (fixes wrong issuer names from SEC registrant data) ---
+const CIK_TO_BRAND = {};
+// Auto-populate from CRYPTO_ETF_ISSUERS at startup
+for (const issuer of CRYPTO_ETF_ISSUERS) {
+    const brand = issuer.issuer || (() => {
+        const n = issuer.name || '';
+        if (/iShares|BlackRock/i.test(n)) return 'BlackRock';
+        if (/Grayscale/i.test(n)) return 'Grayscale';
+        if (/Fidelity/i.test(n)) return 'Fidelity';
+        if (/VanEck/i.test(n)) return 'VanEck';
+        if (/Bitwise/i.test(n)) return 'Bitwise';
+        if (/ARK|21Shares/i.test(n)) return '21Shares';
+        if (/ProShares/i.test(n)) return 'ProShares';
+        if (/Franklin/i.test(n)) return 'Franklin Templeton';
+        if (/Invesco|Galaxy/i.test(n)) return 'Invesco';
+        if (/WisdomTree/i.test(n)) return 'WisdomTree';
+        if (/Hashdex/i.test(n)) return 'Hashdex';
+        if (/Canary/i.test(n)) return 'Canary Capital';
+        if (/Volatility Shares/i.test(n)) return 'Volatility Shares';
+        if (/Osprey/i.test(n)) return 'Osprey';
+        if (/CoinShares/i.test(n)) return 'CoinShares';
+        if (/Tuttle/i.test(n)) return 'REX/Tuttle';
+        if (/Cyber Hornet/i.test(n)) return 'Cyber Hornet';
+        if (/Morgan Stanley/i.test(n)) return 'Morgan Stanley';
+        if (/Direxion/i.test(n)) return 'Direxion';
+        if (/REX/i.test(n)) return 'REX Shares';
+        return n.split(' ')[0];
+    })();
+    if (!CIK_TO_BRAND[issuer.cik]) {
+        CIK_TO_BRAND[issuer.cik] = brand;
+    }
+}
+// Also map sentinel platform CIKs to their trust names
+for (const p of SENTINEL_PLATFORMS) {
+    if (!CIK_TO_BRAND[p.cik]) {
+        CIK_TO_BRAND[p.cik] = p.name;
+    }
+}
 
 // --- COMPREHENSIVE CRYPTO KEYWORDS (Top 500 by Market Cap Coverage) ---
 const CRYPTO_KEYWORDS = [
@@ -354,21 +429,87 @@ async function fetchCompanyFilings(cik) {
     }
 }
 
-function extractIssuerName(fullName) {
+function extractIssuerName(fullName, cik) {
+    // Priority 1: CIK-based mapping (most accurate)
+    if (cik && CIK_TO_BRAND[cik]) return CIK_TO_BRAND[cik];
+
     if (!fullName) return 'Unknown';
+    // Priority 2: regex patterns on the company name
     const patterns = [
         /^(iShares)/i, /^(Grayscale)/i, /^(VanEck)/i, /^(Fidelity)/i,
         /^(ARK)/i, /^(21Shares)/i, /^(Hashdex)/i, /^(Franklin)/i,
         /^(Calamos)/i, /^(Volatility Shares)/i, /^(ProShares)/i,
         /^(Bitwise)/i, /^(WisdomTree)/i, /^(CoinShares)/i, /^(Canary)/i,
         /^(Invesco)/i, /^(Osprey)/i, /^(Tuttle)/i, /^(Global X)/i,
+        /^(Direxion)/i, /^(REX)/i, /^(Morgan Stanley)/i, /^(Strive)/i,
     ];
     for (const pattern of patterns) {
         const match = fullName.match(pattern);
         if (match) return match[1];
     }
+    // Priority 3: check if name contains known brand anywhere
+    const brandChecks = [
+        [/grayscale/i, 'Grayscale'], [/vaneck/i, 'VanEck'], [/fidelity/i, 'Fidelity'],
+        [/bitwise/i, 'Bitwise'], [/blackrock|ishares/i, 'BlackRock'], [/proshares/i, 'ProShares'],
+        [/franklin/i, 'Franklin Templeton'], [/invesco/i, 'Invesco'], [/wisdomtree/i, 'WisdomTree'],
+        [/21shares/i, '21Shares'], [/canary/i, 'Canary Capital'], [/direxion/i, 'Direxion'],
+        [/coinshares/i, 'CoinShares'], [/osprey/i, 'Osprey'], [/hashdex/i, 'Hashdex'],
+    ];
+    for (const [regex, brand] of brandChecks) {
+        if (regex.test(fullName)) return brand;
+    }
     const cleanName = fullName.replace(/^\d+\s+/, '').trim();
     return cleanName.split(' ')[0];
+}
+
+// --- Automatic Status Detection from SEC Filing Types ---
+// These form types indicate an ETF is approved and actively trading
+const APPROVED_FORM_INDICATORS = [
+    'EFFECT',       // Registration declared effective
+    '497K',         // Summary prospectus (post-effective, active fund)
+    '485BPOS',      // Post-effective amendment Rule 485(b)
+    '485APOS',      // Post-effective amendment Rule 485(a)
+    'POS AM',       // Post-effective amendment to S-type
+    'POS AMI',      // Post-effective amendment immediate
+    'N-CEN',        // Annual report for registered investment companies
+    'N-CSR',        // Certified shareholder report
+    'N-CSRS',       // Semi-annual certified shareholder report
+    '24F-2NT',      // Annual notice of securities sold
+    '10-K',         // Annual report (actively trading/reporting)
+    '10-Q',         // Quarterly report (actively trading/reporting)
+    '8-K',          // Current event report (actively trading)
+    '424B3',        // Prospectus supplement (registration effective)
+];
+// These form types indicate withdrawal/denial
+const WITHDRAWN_FORM_INDICATORS = ['RW', 'AW'];
+
+function detectStatusFromFilings(companyData, fallbackStatus) {
+    if (!companyData?.filings?.recent?.form) return fallbackStatus || 'pending';
+
+    const forms = companyData.filings.recent.form;
+    let foundApproved = false;
+    let foundWithdrawn = false;
+
+    // Scan all recent filings (up to 30) to collect signals
+    // An ETF can have RW for a secondary filing (e.g., S-3) while still actively trading
+    // So approved indicators always take priority over withdrawal
+    for (let i = 0; i < Math.min(forms.length, 30); i++) {
+        const form = (forms[i] || '').toUpperCase().trim();
+
+        if (APPROVED_FORM_INDICATORS.some(indicator => form === indicator || form.startsWith(indicator))) {
+            foundApproved = true;
+        }
+        if (WITHDRAWN_FORM_INDICATORS.some(indicator => form === indicator)) {
+            foundWithdrawn = true;
+        }
+    }
+
+    // Approved takes priority — an active ETF may withdraw secondary filings
+    if (foundApproved) return 'approved';
+    if (foundWithdrawn) return 'denied';
+
+    // No conclusive indicator found — use hardcoded fallback
+    return fallbackStatus || 'pending';
 }
 
 function processETFData(companyData, issuerInfo, filingIndex = 0) {
@@ -395,8 +536,12 @@ function processETFData(companyData, issuerInfo, filingIndex = 0) {
         }
     }
 
-    // Use pre-verified status from research if available
-    const status = issuerInfo.status || 'pending';
+    // Auto-detect status from SEC filing types (only for known issuers with specific CIKs)
+    // For discovered/sentinel entries, trust the caller's status to avoid false positives
+    // from multi-product trust filings (e.g., Direxion Trust has 485BPOS for non-crypto ETFs)
+    const status = issuerInfo.autoDetect !== false
+        ? detectStatusFromFilings(companyData, issuerInfo.status)
+        : (issuerInfo.status || 'pending');
 
     let latestFilingLink = `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${issuerInfo.cik}`;
     if (filings?.recent?.accessionNumber?.[filingIndex] && filings?.recent?.primaryDocument?.[filingIndex]) {
@@ -419,7 +564,7 @@ function processETFData(companyData, issuerInfo, filingIndex = 0) {
         cryptocurrency: issuerInfo.crypto,
         symbol: issuerInfo.symbol || issuerInfo.crypto.substring(0, 3).toUpperCase(),
         ticker: issuerInfo.ticker,
-        issuer: issuerInfo.issuer || extractIssuerName(companyData?.name || issuerInfo.name),
+        issuer: issuerInfo.issuer || extractIssuerName(companyData?.name || issuerInfo.name, issuerInfo.cik),
         etfName: issuerInfo.name,
         filingType: filingType,
         filingDate: latestFilingDate,
@@ -547,6 +692,21 @@ async function main() {
         'ProShares crypto',
         'VanEck digital asset',
         'Fidelity crypto fund',
+        // Emerging tokens (new)
+        'TRON TRX ETF Trust',
+        'Sei SEI spot ETF',
+        'Hyperliquid HYPE ETF',
+        'Chainlink LINK spot ETF',
+        'Stellar XLM ETF',
+        // Leveraged & Inverse issuers
+        'REX Shares crypto ETF',
+        'T-REX leveraged bitcoin',
+        'Tuttle Capital crypto',
+        'Direxion crypto ETF',
+        'Calamos crypto ETF',
+        // Staking ETF filings
+        'staked crypto ETF',
+        'staking ETF S-1',
         // Registration statement searches
         'registration statement cryptocurrency',
         'registration statement digital asset',
@@ -635,7 +795,8 @@ async function main() {
 
                         const productData = processETFData(companyData, {
                             ...issuer,
-                            status: isLegacy ? 'denied' : 'pending' // Flag old ones as denied/withdrawn, new as pending
+                            status: isLegacy ? 'denied' : 'pending', // Flag old ones as denied/withdrawn, new as pending
+                            autoDetect: false // Don't auto-detect for discovered entities (multi-product trusts)
                         }, i);
 
                         if (productData) {
@@ -669,7 +830,8 @@ async function main() {
                             cik: platform.cik,
                             name: platform.name,
                             crypto: 'Multi-Crypto ( Sentinel Detected )',
-                            status: 'pending'
+                            status: 'pending',
+                            autoDetect: false // Don't auto-detect for sentinel matches
                         }, i);
 
                         if (productData && !results.some(r => r.id === productData.id)) {
