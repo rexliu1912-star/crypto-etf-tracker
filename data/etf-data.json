@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-03-09T17:39:49.719Z",
-  "count": 251,
+  "timestamp": "2026-03-09T18:36:27.212Z",
+  "count": 253,
   "approvedCount": 74,
-  "pendingCount": 176,
+  "pendingCount": 178,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 182,
+  "discoveredCount": 183,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -249,9 +249,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-25",
+      "filingDate": "2026-03-09",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-02-25",
+      "decisionDeadline": "2026-03-09",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -259,7 +259,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026020223/ea0278342-01_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000119312526098141/d87694dncsr.htm"
     },
     {
       "id": "BSOL-0002057389-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000199937126005358/ils-ncsr_123125.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000199937126005387/hyp-ncsr_123125.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -2851,6 +2851,44 @@
       "cik": "0002078265",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002078265",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000207826525000002/corgietftrustI-form-n1a.htm"
+    },
+    {
+      "id": "undefined-0002096087-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Corgi",
+      "etfName": "Corgi ETF Trust II",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-09",
+      "initialFilingDate": "2025-11-13",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002096087",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002096087",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2096087/000209608726000007/CorgiETFTrustiipea1.htm"
+    },
+    {
+      "id": "undefined-0002096087-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Corgi",
+      "etfName": "Corgi ETF Trust II",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-11-13",
+      "initialFilingDate": "2025-11-13",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002096087",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002096087",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2096087/000209608725000002/corgietftrustiin1a.htm"
     },
     {
       "id": "CTX-0002096385-0",
@@ -4828,7 +4866,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/ea0276057-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001396092-14",
+      "id": "undefined-0001396092-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4847,7 +4885,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000158/wft-ldrvofund485afiling.htm"
     },
     {
-      "id": "undefined-0001396092-15",
+      "id": "undefined-0001396092-16",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4866,7 +4904,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000156/ck0001396092-20260227.htm"
     },
     {
-      "id": "undefined-0001396092-34",
+      "id": "undefined-0001396092-35",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4885,7 +4923,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000049/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-35",
+      "id": "undefined-0001396092-36",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4904,7 +4942,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000047/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-36",
+      "id": "undefined-0001396092-37",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -4923,7 +4961,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000044/ck0001396092-20260128.htm"
     },
     {
-      "id": "undefined-0001396092-37",
+      "id": "undefined-0001396092-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
