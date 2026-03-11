@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-03-11T20:22:42.477Z",
+  "timestamp": "2026-03-11T21:21:42.994Z",
   "count": 253,
   "approvedCount": 74,
   "pendingCount": 178,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 182,
+  "discoveredCount": 183,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -4102,7 +4102,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
     },
     {
-      "id": "undefined-0002099103-2",
+      "id": "undefined-0002099103-3",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4121,7 +4121,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-3",
+      "id": "undefined-0002099103-4",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4140,7 +4140,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-4",
+      "id": "undefined-0002099103-5",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4159,7 +4159,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-5",
+      "id": "undefined-0002099103-6",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
