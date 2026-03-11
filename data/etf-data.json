@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-11T18:38:41.401Z",
+  "timestamp": "2026-03-11T19:35:18.423Z",
   "count": 254,
   "approvedCount": 74,
   "pendingCount": 179,
@@ -218,9 +218,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise 10 Crypto Index Fund",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-02",
+      "filingDate": "2026-03-11",
       "initialFilingDate": "2017-11-29",
-      "decisionDeadline": "2026-03-02",
+      "decisionDeadline": "2026-03-11",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -239,7 +239,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001723788",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723788",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1723788/000119312526085428/bitw-20251231.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1723788/000119312526102008/d108990d10ka.htm"
     },
     {
       "id": "XRP-0001928561-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000141783526000055/8A_Cert_SPCI.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000564/ck0001771146-20260311.htm"
     },
     {
       "id": "BTCL-0001454889-0",
