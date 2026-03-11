@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-11T15:37:38.715Z",
+  "timestamp": "2026-03-11T16:38:37.388Z",
   "count": 254,
   "approvedCount": 74,
   "pendingCount": 179,
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000557/etfot-form8xatuttlecapspac.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000141783526000055/8A_Cert_SPCI.pdf"
     },
     {
       "id": "BTCL-0001454889-0",
