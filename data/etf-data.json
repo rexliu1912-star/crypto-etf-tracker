@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-12T21:23:07.463Z",
+  "timestamp": "2026-03-12T22:14:53.430Z",
   "count": 257,
   "approvedCount": 74,
   "pendingCount": 182,
@@ -3131,7 +3131,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009463/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-5",
+      "id": "undefined-0001592900-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3150,7 +3150,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001148/ck0001592900-20260309.htm"
     },
     {
-      "id": "undefined-0001592900-13",
+      "id": "undefined-0001592900-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
