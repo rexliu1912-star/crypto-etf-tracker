@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-12T17:41:03.456Z",
+  "timestamp": "2026-03-12T18:37:26.646Z",
   "count": 253,
   "approvedCount": 74,
   "pendingCount": 178,
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000582/etfopptrust-tuttlecapitali.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000586/etfot-txrex2x7newprospectu.htm"
     },
     {
       "id": "BTCL-0001454889-0",
