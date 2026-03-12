@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-12T16:46:56.267Z",
+  "timestamp": "2026-03-12T17:41:03.456Z",
   "count": 253,
   "approvedCount": 74,
   "pendingCount": 178,
@@ -1311,9 +1311,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-11",
+      "filingDate": "2026-03-12",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-03-11",
+      "decisionDeadline": "2026-03-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000564/ck0001771146-20260311.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000582/etfopptrust-tuttlecapitali.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -4694,7 +4694,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004918/defiance-485apos_030326.htm"
     },
     {
-      "id": "undefined-0001650149-7",
+      "id": "undefined-0001650149-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -4713,7 +4713,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926007018/ck0001650149-20260227.htm"
     },
     {
-      "id": "undefined-0001650149-9",
+      "id": "undefined-0001650149-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -4732,7 +4732,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926006311/ck0001650149-20260226.htm"
     },
     {
-      "id": "undefined-0001650149-24",
+      "id": "undefined-0001650149-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -4751,7 +4751,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926002702/ck0001650149-20260128.htm"
     },
     {
-      "id": "undefined-0001650149-28",
+      "id": "undefined-0001650149-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -4770,7 +4770,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001987/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-29",
+      "id": "undefined-0001650149-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -4789,7 +4789,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926001946/ck0001650149-20260127.htm"
     },
     {
-      "id": "undefined-0001650149-34",
+      "id": "undefined-0001650149-35",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
