@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-12T18:37:26.646Z",
+  "timestamp": "2026-03-12T19:35:07.985Z",
   "count": 253,
   "approvedCount": 74,
   "pendingCount": 178,
@@ -1411,9 +1411,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-10",
+      "filingDate": "2026-03-12",
       "initialFilingDate": "2020-12-30",
-      "decisionDeadline": "2026-03-10",
+      "decisionDeadline": "2026-03-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1421,7 +1421,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001838028",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001838028",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000117266126001340/xslSCHEDULE_13G_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000093041326000746/c115591_10k-ixbrl.htm"
     },
     {
       "id": "ETHV-0001852063-0",
