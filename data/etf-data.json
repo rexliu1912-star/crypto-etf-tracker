@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-12T09:33:14.543Z",
+  "timestamp": "2026-03-12T10:28:30.792Z",
   "count": 253,
   "approvedCount": 74,
   "pendingCount": 178,
@@ -966,7 +966,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002035053",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035053",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000135445726000243/GAVA_8-A_Cert_2035053.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/999999999526000785/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "GXLM-0001761325-0",
@@ -4102,7 +4102,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
     },
     {
-      "id": "undefined-0002099103-3",
+      "id": "undefined-0002099103-4",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4121,7 +4121,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-4",
+      "id": "undefined-0002099103-5",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4140,7 +4140,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-5",
+      "id": "undefined-0002099103-6",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4159,7 +4159,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-6",
+      "id": "undefined-0002099103-7",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
