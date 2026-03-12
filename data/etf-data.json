@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-12T12:30:25.287Z",
+  "timestamp": "2026-03-12T13:55:50.349Z",
   "count": 253,
   "approvedCount": 74,
   "pendingCount": 178,
@@ -956,9 +956,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Avalanche Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-11",
+      "filingDate": "2026-03-12",
       "initialFilingDate": "2025-08-25",
-      "decisionDeadline": "2026-03-11",
+      "decisionDeadline": "2026-03-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -966,7 +966,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002035053",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035053",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/999999999526000785/xslEFFECTX01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526103181/avax_s-1_424b3.htm"
     },
     {
       "id": "GXLM-0001761325-0",
@@ -3492,7 +3492,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000046/000119312524176355/d759655ds1a.htm"
     },
     {
-      "id": "undefined-0000794685-5",
+      "id": "undefined-0000794685-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3511,7 +3511,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000001/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-8",
+      "id": "undefined-0000794685-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3530,7 +3530,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553325000017/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-15",
+      "id": "undefined-0000794685-16",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3549,7 +3549,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000019/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-20",
+      "id": "undefined-0000794685-21",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3568,7 +3568,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000011/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-26",
+      "id": "undefined-0000794685-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -4637,7 +4637,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001924868-6",
+      "id": "undefined-0001924868-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -4656,7 +4656,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005402/nicholas_485bpos-030926.htm"
     },
     {
-      "id": "undefined-0001924868-22",
+      "id": "undefined-0001924868-23",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -4675,7 +4675,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005084/defiance-485apos_030526.htm"
     },
     {
-      "id": "undefined-0001924868-27",
+      "id": "undefined-0001924868-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
