@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-13T21:23:50.125Z",
+  "timestamp": "2026-03-13T22:19:18.443Z",
   "count": 259,
   "approvedCount": 74,
   "pendingCount": 184,
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526106267/d21665d497.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526106472/d16803d497k.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526106267/d21665d497.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526106472/d16803d497k.htm"
     },
     {
       "id": "FBTC-0001852317-0",
