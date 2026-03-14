@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-13T23:18:11.870Z",
-  "count": 259,
+  "timestamp": "2026-03-14T00:58:22.399Z",
+  "count": 260,
   "approvedCount": 74,
-  "pendingCount": 184,
+  "pendingCount": 185,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 183,
@@ -2336,6 +2336,25 @@
       "cik": "0002082889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002082889",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025080461/ea0254517-s1_bitwise.htm"
+    },
+    {
+      "id": "undefined-0002070542-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "BlockchAIn",
+      "etfName": "BlockchAIn Digital Infrastructure, Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-13",
+      "initialFilingDate": "2025-07-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002070542",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070542",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026027872/xslF345X02/ownership.xml"
     },
     {
       "id": "undefined-0001436229-3",
