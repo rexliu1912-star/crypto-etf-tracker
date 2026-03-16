@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-16T11:39:17.697Z",
+  "timestamp": "2026-03-16T12:41:12.607Z",
   "count": 260,
   "approvedCount": 74,
   "pendingCount": 185,
@@ -2357,7 +2357,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026027872/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-3",
+      "id": "undefined-0001436229-4",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2376,7 +2376,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000811/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-4",
+      "id": "undefined-0001436229-5",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2395,7 +2395,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000809/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-7",
+      "id": "undefined-0001436229-8",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2414,7 +2414,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000370/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-12",
+      "id": "undefined-0001436229-13",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2433,7 +2433,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225024337/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-17",
+      "id": "undefined-0001436229-18",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2452,7 +2452,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225016693/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-19",
+      "id": "undefined-0001436229-20",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2471,7 +2471,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225016534/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-22",
+      "id": "undefined-0001436229-23",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2490,7 +2490,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225012160/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-23",
+      "id": "undefined-0001436229-24",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2509,7 +2509,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225012135/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-28",
+      "id": "undefined-0001436229-29",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
