@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-16T09:56:30.858Z",
+  "timestamp": "2026-03-16T10:43:42.100Z",
   "count": 260,
   "approvedCount": 74,
   "pendingCount": 185,
@@ -98,9 +98,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares Dogecoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-23",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2025-04-09",
-      "decisionDeadline": "2026-02-23",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -108,7 +108,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002064314",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064314",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026018937/ea0277896-424b3_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026027789/ea0277585-10k_21shares.htm"
     },
     {
       "id": "TOXR-0002028835-0",
@@ -1491,9 +1491,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-13",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2022-12-13",
-      "decisionDeadline": "2026-03-13",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1501,7 +1501,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026027661/ea0281508-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026027879/ea0281711-02_497.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-13",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2022-12-13",
-      "decisionDeadline": "2026-03-13",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026027661/ea0281508-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026027879/ea0281711-02_497.htm"
     },
     {
       "id": "BTCW-0001850391-0",
