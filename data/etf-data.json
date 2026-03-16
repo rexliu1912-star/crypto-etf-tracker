@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-16T12:41:12.607Z",
+  "timestamp": "2026-03-16T14:13:11.661Z",
   "count": 260,
   "approvedCount": 74,
   "pendingCount": 185,
@@ -1016,9 +1016,9 @@
       "issuer": "Hashdex",
       "etfName": "Hashdex Nasdaq Crypto Index US ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-11",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2024-07-24",
-      "decisionDeadline": "2026-03-11",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1035,7 +1035,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002031069",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002031069",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026025958/ea028073304-424b3_hashdex.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026028025/ea028099203-424b3_hashdex.htm"
     },
     {
       "id": "BTCO-0001855781-0",
@@ -1899,7 +1899,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825002408/athena_s1a7.htm"
     },
     {
-      "id": "undefined-0001901799-8",
+      "id": "undefined-0001901799-9",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1918,7 +1918,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526036247/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-13",
+      "id": "undefined-0001901799-14",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1937,7 +1937,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526009041/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-16",
+      "id": "undefined-0001901799-17",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1956,7 +1956,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525313205/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-18",
+      "id": "undefined-0001901799-19",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1975,7 +1975,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525307183/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-19",
+      "id": "undefined-0001901799-20",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
