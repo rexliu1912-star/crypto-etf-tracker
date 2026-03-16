@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-16T19:47:09.761Z",
+  "timestamp": "2026-03-16T20:26:42.185Z",
   "count": 263,
   "approvedCount": 74,
   "pendingCount": 188,
@@ -108,7 +108,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002064314",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064314",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026027789/ea0277585-10k_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064314/000121390026028290/ea0281708-424b3_21shares.htm"
     },
     {
       "id": "TOXR-0002028835-0",
@@ -710,9 +710,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-25",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2017-01-20",
-      "decisionDeadline": "2026-02-25",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -720,7 +720,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001588489",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001588489",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000119312526071956/gbtc-20251231.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000119312526108382/gbtc-20260316.htm"
     },
     {
       "id": "BTC-0002015034-0",
@@ -730,9 +730,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Mini Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-10",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2024-03-12",
-      "decisionDeadline": "2026-03-10",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -740,7 +740,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002015034",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002015034",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000119312526100071/btc_tale_of_the_tape_v2_.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000119312526108384/btc-20260316.htm"
     },
     {
       "id": "ETHE-0001725210-0",
@@ -750,9 +750,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Ethereum Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-25",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2017-12-29",
-      "decisionDeadline": "2026-02-25",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -760,7 +760,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001725210",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001725210",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1725210/000119312526071965/ethe-20251231.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1725210/000119312526108392/ethe-20260316.htm"
     },
     {
       "id": "ETH-0002020455-0",
@@ -770,9 +770,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Ethereum Mini Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-25",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2024-04-23",
-      "decisionDeadline": "2026-02-25",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -780,7 +780,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002020455",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020455",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526071961/eth-20251231.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526108396/eth-20260316.htm"
     },
     {
       "id": "GSOL-0001896677-0",
@@ -1311,9 +1311,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-13",
+      "filingDate": "2026-03-16",
       "initialFilingDate": "2025-03-13",
-      "decisionDeadline": "2026-03-13",
+      "decisionDeadline": "2026-03-16",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000597/tuttlecapincomeblastetfs48.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000089418926007941/xslFormN-CEN_X01/primary_doc.xml"
     },
     {
       "id": "BTCL-0001454889-0",
