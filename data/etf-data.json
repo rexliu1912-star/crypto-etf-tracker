@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-17T17:57:14.653Z",
+  "timestamp": "2026-03-17T18:45:29.994Z",
   "count": 266,
   "approvedCount": 74,
   "pendingCount": 191,
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000600/etfopps-gsrdatandcryptocor.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000603/etfot-tuttlecapitalthemati.htm"
     },
     {
       "id": "BTCL-0001454889-0",
