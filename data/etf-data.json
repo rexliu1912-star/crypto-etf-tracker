@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-17T19:48:15.231Z",
+  "timestamp": "2026-03-17T20:28:16.194Z",
   "count": 266,
   "approvedCount": 74,
   "pendingCount": 191,
@@ -269,9 +269,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana Staking ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-13",
+      "filingDate": "2026-03-17",
       "initialFilingDate": "2025-02-24",
-      "decisionDeadline": "2026-03-13",
+      "decisionDeadline": "2026-03-17",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -279,7 +279,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002057389",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057389",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000195004726002578/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000010/xslF345X05/wk-form4_1773778296.xml"
     },
     {
       "id": "BITQ-0001905963-0",
