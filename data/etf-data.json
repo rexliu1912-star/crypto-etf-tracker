@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-18T17:53:07.109Z",
+  "timestamp": "2026-03-18T18:43:06.304Z",
   "count": 268,
   "approvedCount": 74,
   "pendingCount": 193,
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-13",
+      "filingDate": "2026-03-18",
       "initialFilingDate": "2024-09-30",
-      "decisionDeadline": "2026-03-13",
+      "decisionDeadline": "2026-03-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526106472/d16803d497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526113575/d50563d8a12b.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-03-13",
+      "filingDate": "2026-03-18",
       "initialFilingDate": "2024-09-30",
-      "decisionDeadline": "2026-03-13",
+      "decisionDeadline": "2026-03-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526106472/d16803d497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526113575/d50563d8a12b.htm"
     },
     {
       "id": "FBTC-0001852317-0",
