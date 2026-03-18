@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-18T19:42:28.408Z",
-  "count": 268,
+  "timestamp": "2026-03-18T20:24:44.995Z",
+  "count": 269,
   "approvedCount": 74,
-  "pendingCount": 193,
+  "pendingCount": 194,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 183,
@@ -1311,9 +1311,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-17",
+      "filingDate": "2026-03-18",
       "initialFilingDate": "2025-03-18",
-      "decisionDeadline": "2026-03-17",
+      "decisionDeadline": "2026-03-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000603/etfot-tuttlecapitalthemati.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000605/etfot-gscryptoetf485bxt318.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1899,7 +1899,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825002408/athena_s1a7.htm"
     },
     {
-      "id": "undefined-0001901799-11",
+      "id": "undefined-0001901799-12",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1918,7 +1918,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526036247/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-16",
+      "id": "undefined-0001901799-17",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1937,7 +1937,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526009041/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-19",
+      "id": "undefined-0001901799-20",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1956,7 +1956,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525313205/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-21",
+      "id": "undefined-0001901799-22",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1975,7 +1975,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525307183/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-22",
+      "id": "undefined-0001901799-23",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2344,6 +2344,25 @@
       "issuer": "BlockchAIn",
       "etfName": "BlockchAIn Digital Infrastructure, Inc.",
       "filingType": "Spot ETF",
+      "filingDate": "2026-03-18",
+      "initialFilingDate": "2025-07-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002070542",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070542",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026030694/xslF345X06/ownership.xml"
+    },
+    {
+      "id": "undefined-0002070542-3",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "BlockchAIn",
+      "etfName": "BlockchAIn Digital Infrastructure, Inc.",
+      "filingType": "Spot ETF",
       "filingDate": "2026-03-16",
       "initialFilingDate": "2025-07-08",
       "decisionDeadline": "待通过",
@@ -2357,7 +2376,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026028385/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0002070542-5",
+      "id": "undefined-0002070542-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "BlockchAIn",
