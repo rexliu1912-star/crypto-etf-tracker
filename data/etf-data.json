@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-18T14:14:36.988Z",
+  "timestamp": "2026-03-18T16:00:03.287Z",
   "count": 268,
   "approvedCount": 74,
   "pendingCount": 193,
@@ -1411,9 +1411,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-12",
+      "filingDate": "2026-03-18",
       "initialFilingDate": "2020-12-30",
-      "decisionDeadline": "2026-03-12",
+      "decisionDeadline": "2026-03-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1421,7 +1421,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001838028",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001838028",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000093041326000746/c115591_10k-ixbrl.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000113322826003666/vbe-efp23087_424i.htm"
     },
     {
       "id": "ETHV-0001852063-0",
@@ -1451,9 +1451,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Solana ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-23",
+      "filingDate": "2026-03-18",
       "initialFilingDate": "2024-06-27",
-      "decisionDeadline": "2026-02-23",
+      "decisionDeadline": "2026-03-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1461,7 +1461,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002028541",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028541",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028541/000202854126000003/vanecksolanaetf424b3-marke.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028541/000113322826003670/vse-efp23089_424i.htm"
     },
     {
       "id": "VAVX-0002060717-0",
