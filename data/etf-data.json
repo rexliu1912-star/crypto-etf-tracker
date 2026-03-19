@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-19T20:25:55.717Z",
+  "timestamp": "2026-03-19T21:25:13.190Z",
   "count": 273,
   "approvedCount": 74,
   "pendingCount": 198,
@@ -770,9 +770,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Ethereum Mini Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-16",
+      "filingDate": "2026-03-19",
       "initialFilingDate": "2024-04-23",
-      "decisionDeadline": "2026-03-16",
+      "decisionDeadline": "2026-03-19",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -780,7 +780,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002020455",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020455",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526108396/eth-20260316.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526116139/eth_commercial_3.19.26.htm"
     },
     {
       "id": "GSOL-0001896677-0",
@@ -3207,7 +3207,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009463/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-8",
+      "id": "undefined-0001592900-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3226,7 +3226,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001179/ck0001592900-20260313.htm"
     },
     {
-      "id": "undefined-0001592900-9",
+      "id": "undefined-0001592900-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3245,7 +3245,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001174/ck0001592900-20260313.htm"
     },
     {
-      "id": "undefined-0001592900-18",
+      "id": "undefined-0001592900-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3264,7 +3264,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001148/ck0001592900-20260309.htm"
     },
     {
-      "id": "undefined-0001592900-26",
+      "id": "undefined-0001592900-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3587,7 +3587,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000046/000119312524176355/d759655ds1a.htm"
     },
     {
-      "id": "undefined-0000794685-6",
+      "id": "undefined-0000794685-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3606,7 +3606,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000001/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-9",
+      "id": "undefined-0000794685-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3625,7 +3625,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553325000017/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-16",
+      "id": "undefined-0000794685-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3644,7 +3644,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000019/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-21",
+      "id": "undefined-0000794685-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3663,7 +3663,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000127116325000011/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-27",
+      "id": "undefined-0000794685-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
