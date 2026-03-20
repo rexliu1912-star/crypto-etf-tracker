@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-20T16:30:04.114Z",
+  "timestamp": "2026-03-20T17:29:03.154Z",
   "count": 275,
   "approvedCount": 74,
   "pendingCount": 200,
@@ -1311,9 +1311,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-19",
+      "filingDate": "2026-03-20",
       "initialFilingDate": "2025-03-20",
-      "decisionDeadline": "2026-03-19",
+      "decisionDeadline": "2026-03-20",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000623/etfopptrust-tuttlecapitalp.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000625/etfopptrust-tuttlecapitalu.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -2585,7 +2585,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/canaryhbar-s1a_100725.htm"
     },
     {
-      "id": "undefined-0002039458-14",
+      "id": "undefined-0002039458-15",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2604,7 +2604,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125013724/canary-s1a_092225.htm"
     },
     {
-      "id": "undefined-0002039458-15",
+      "id": "undefined-0002039458-17",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2623,7 +2623,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000183988225010352/canary-s1a_022125.htm"
     },
     {
-      "id": "undefined-0002039458-16",
+      "id": "undefined-0002039458-18",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
