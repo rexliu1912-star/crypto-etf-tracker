@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-20T18:31:50.407Z",
+  "timestamp": "2026-03-20T19:31:05.849Z",
   "count": 275,
   "approvedCount": 74,
   "pendingCount": 200,
@@ -2034,7 +2034,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2101730/000121390025123107/ea0270144-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002045872-5",
+      "id": "undefined-0002045872-6",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2053,7 +2053,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390025097494/ea0260657-s1a5_bitwise.htm"
     },
     {
-      "id": "undefined-0002045872-7",
+      "id": "undefined-0002045872-8",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2072,7 +2072,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390025092427/ea0258733-s1a4_bitwise.htm"
     },
     {
-      "id": "undefined-0002045872-8",
+      "id": "undefined-0002045872-9",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2091,7 +2091,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390025082660/ea0254995-s1a3_bitwise.htm"
     },
     {
-      "id": "undefined-0002045872-9",
+      "id": "undefined-0002045872-10",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2110,7 +2110,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390025070066/ea0250781-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002045872-10",
+      "id": "undefined-0002045872-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2129,7 +2129,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390025054270/ea0245631-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002045872-11",
+      "id": "undefined-0002045872-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2281,7 +2281,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390025091720/ea0258158-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-4",
+      "id": "undefined-0002082889-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2300,7 +2300,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390026001140/ea027072801-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-5",
+      "id": "undefined-0002082889-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2319,7 +2319,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025112216/ea0265926-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-6",
+      "id": "undefined-0002082889-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
