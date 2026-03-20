@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-20T09:30:17.500Z",
-  "count": 273,
+  "timestamp": "2026-03-20T10:27:45.423Z",
+  "count": 274,
   "approvedCount": 74,
-  "pendingCount": 198,
+  "pendingCount": 199,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 183,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Tuttle",
       "etfName": "T-REX 2X Long Bitcoin Daily Target ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-17",
+      "filingDate": "2026-03-20",
       "initialFilingDate": "2022-04-25",
-      "decisionDeadline": "2026-03-17",
+      "decisionDeadline": "2026-03-20",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926029183/tm268743-8_497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032223/tm265040d8_8a12b.htm"
     },
     {
       "id": "BTCZ-0001454889-0",
@@ -1351,9 +1351,9 @@
       "issuer": "REX/Tuttle",
       "etfName": "T-REX 2X Inverse Bitcoin Daily Target ETF",
       "filingType": "-2x Inverse ETF",
-      "filingDate": "2026-03-17",
+      "filingDate": "2026-03-20",
       "initialFilingDate": "2022-04-25",
-      "decisionDeadline": "2026-03-17",
+      "decisionDeadline": "2026-03-20",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1361,7 +1361,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926029183/tm268743-8_497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032223/tm265040d8_8a12b.htm"
     },
     {
       "id": "ETU-0001454889-0",
@@ -1371,9 +1371,9 @@
       "issuer": "REX/Tuttle",
       "etfName": "T-REX 2X Long Ether Daily Target ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-17",
+      "filingDate": "2026-03-20",
       "initialFilingDate": "2022-04-25",
-      "decisionDeadline": "2026-03-17",
+      "decisionDeadline": "2026-03-20",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1381,7 +1381,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926029183/tm268743-8_497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032223/tm265040d8_8a12b.htm"
     },
     {
       "id": "ETQ-0001454889-0",
@@ -1391,9 +1391,9 @@
       "issuer": "REX/Tuttle",
       "etfName": "T-REX 2X Inverse Ether Daily Target ETF",
       "filingType": "-2x Inverse ETF",
-      "filingDate": "2026-03-17",
+      "filingDate": "2026-03-20",
       "initialFilingDate": "2022-04-25",
-      "decisionDeadline": "2026-03-17",
+      "decisionDeadline": "2026-03-20",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1401,7 +1401,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926029183/tm268743-8_497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032223/tm265040d8_8a12b.htm"
     },
     {
       "id": "HODL-0001838028-0",
@@ -4863,6 +4863,25 @@
       "cik": "0001345125",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001345125",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1345125/000089418925005178/ck0001345125-20250725.htm"
+    },
+    {
+      "id": "undefined-0001454889-2",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "REX/Tuttle",
+      "etfName": "REX ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-20",
+      "initialFilingDate": "2022-04-25",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001454889",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032204/tm265040d1_485bpos.htm"
     },
     {
       "id": "undefined-0001742912-21",
