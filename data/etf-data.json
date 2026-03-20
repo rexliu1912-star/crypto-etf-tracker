@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-03-20T19:31:05.849Z",
-  "count": 275,
+  "timestamp": "2026-03-20T20:19:49.606Z",
+  "count": 276,
   "approvedCount": 74,
-  "pendingCount": 200,
+  "pendingCount": 201,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 183,
+  "discoveredCount": 184,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -870,9 +870,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale CoinDesk Crypto 5 ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-20",
+      "filingDate": "2026-03-20",
       "initialFilingDate": "2018-02-07",
-      "decisionDeadline": "2026-02-20",
+      "decisionDeadline": "2026-03-20",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -886,7 +886,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001729997",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729997",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000119312526061339/gdlc-20260217.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000119312526117632/gdlc-20260317.htm"
     },
     {
       "id": "BTCC-0001976672-0",
@@ -2148,7 +2148,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390024101076/ea0222031-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-3",
+      "id": "undefined-0002053791-4",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2167,7 +2167,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025107252/ea0264263-s1a4_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-4",
+      "id": "undefined-0002053791-5",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2186,7 +2186,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025096483/ea0260277-s1a3_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-7",
+      "id": "undefined-0002053791-8",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2205,7 +2205,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025077274/ea0253164-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-11",
+      "id": "undefined-0002053791-12",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2224,7 +2224,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025058120/ea0246815-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-13",
+      "id": "undefined-0002053791-14",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -3891,6 +3891,25 @@
       "cik": "0002040120",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002040120",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2040120/000119312526051643/aave-20260213.htm"
+    },
+    {
+      "id": "undefined-0002107730-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale HYPE ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-20",
+      "initialFilingDate": "2026-03-20",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002107730",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002107730",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526117603/ck0002107730-20260320.htm"
     },
     {
       "id": "undefined-0002037427-11",
