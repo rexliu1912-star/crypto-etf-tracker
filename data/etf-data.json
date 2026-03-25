@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-25T18:42:03.817Z",
+  "timestamp": "2026-03-25T19:39:39.665Z",
   "count": 285,
   "approvedCount": 74,
   "pendingCount": 210,
@@ -1016,9 +1016,9 @@
       "issuer": "Hashdex",
       "etfName": "Hashdex Nasdaq Crypto Index US ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-16",
+      "filingDate": "2026-03-25",
       "initialFilingDate": "2024-07-24",
-      "decisionDeadline": "2026-03-16",
+      "decisionDeadline": "2026-03-25",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1035,7 +1035,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002031069",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002031069",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026028025/ea028099203-424b3_hashdex.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026034018/ea0282137-10k_hashdex.htm"
     },
     {
       "id": "BTCO-0001855781-0",
@@ -3473,7 +3473,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1452937/000121390025124349/ea0269708-01_485bpos.htm"
     },
     {
-      "id": "undefined-0002063380-6",
+      "id": "undefined-0002063380-7",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -3492,7 +3492,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525256647/d941170ds1a.htm"
     },
     {
-      "id": "undefined-0002063380-7",
+      "id": "undefined-0002063380-8",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -3511,7 +3511,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525220810/d941170ds1a.htm"
     },
     {
-      "id": "undefined-0002063380-8",
+      "id": "undefined-0002063380-9",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -3530,7 +3530,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525192853/d941170ds1a.htm"
     },
     {
-      "id": "undefined-0002063380-9",
+      "id": "undefined-0002063380-10",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -3549,7 +3549,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525170603/d941170ds1a.htm"
     },
     {
-      "id": "undefined-0002063380-10",
+      "id": "undefined-0002063380-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
