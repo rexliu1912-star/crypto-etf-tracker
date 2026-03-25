@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-25T19:39:39.665Z",
+  "timestamp": "2026-03-25T20:28:09.746Z",
   "count": 285,
   "approvedCount": 74,
   "pendingCount": 210,
@@ -3169,7 +3169,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520825009463/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-0",
+      "id": "undefined-0001592900-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3188,7 +3188,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001413/ck0001592900-20260325.htm"
     },
     {
-      "id": "undefined-0001592900-1",
+      "id": "undefined-0001592900-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3207,7 +3207,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001407/ck0001592900-20260325.htm"
     },
     {
-      "id": "undefined-0001592900-27",
+      "id": "undefined-0001592900-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3226,7 +3226,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001211/ck0001592900-20260324.htm"
     },
     {
-      "id": "undefined-0001592900-28",
+      "id": "undefined-0001592900-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3245,7 +3245,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001209/ck0001592900-20260324.htm"
     },
     {
-      "id": "undefined-0001592900-29",
+      "id": "undefined-0001592900-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3264,7 +3264,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001206/ck0001592900-20260323.htm"
     },
     {
-      "id": "undefined-0001592900-41",
+      "id": "undefined-0001592900-42",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3283,7 +3283,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001179/ck0001592900-20260313.htm"
     },
     {
-      "id": "undefined-0001592900-42",
+      "id": "undefined-0001592900-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
