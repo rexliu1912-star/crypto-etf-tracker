@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-25T16:55:56.424Z",
+  "timestamp": "2026-03-25T17:48:29.174Z",
   "count": 283,
   "approvedCount": 74,
   "pendingCount": 208,
@@ -4888,7 +4888,7 @@
       "issuer": "Morgan Stanley",
       "etfName": "Morgan Stanley Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-18",
+      "filingDate": "2026-03-25",
       "initialFilingDate": "2026-01-06",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -4898,7 +4898,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002103612",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103612",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926029738/tm2534140-7_s1a.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926034379/tm2534140d11_8a12b.htm"
     },
     {
       "id": "MSETH-0002103613-0",
