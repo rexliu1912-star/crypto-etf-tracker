@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-25T20:28:09.746Z",
-  "count": 285,
+  "timestamp": "2026-03-25T21:27:50.996Z",
+  "count": 284,
   "approvedCount": 74,
-  "pendingCount": 210,
+  "pendingCount": 209,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 185,
@@ -1311,9 +1311,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-24",
+      "filingDate": "2026-03-25",
       "initialFilingDate": "2025-03-25",
-      "decisionDeadline": "2026-03-24",
+      "decisionDeadline": "2026-03-25",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000087688226000004/ACVF032426.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000647/t-rex2xlongskhynixetf485af.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -5436,26 +5436,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002055464-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Wedbush Series Trust",
-      "etfName": "Wedbush Series Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-05-23",
-      "initialFilingDate": "2025-02-07",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002055464",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002055464",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390025047429/ea0243336-01_n1aa.htm"
-    },
-    {
-      "id": "undefined-0002055464-8",
+      "id": "undefined-0002055464-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
