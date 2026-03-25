@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-25T04:09:14.871Z",
+  "timestamp": "2026-03-25T05:54:56.496Z",
   "count": 282,
   "approvedCount": 74,
   "pendingCount": 207,
@@ -1312,7 +1312,7 @@
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
       "filingDate": "2026-03-24",
-      "initialFilingDate": "2025-03-24",
+      "initialFilingDate": "2025-03-25",
       "decisionDeadline": "2026-03-24",
       "status": "approved",
       "approvalOdds": 100,
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000644/ck0001771146-20260324.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000087688226000004/ACVF032426.pdf"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000141036826029022/xsl24F-2NT/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926033732/tm265040d6_497j.htm"
     },
     {
       "id": "BTCZ-0001454889-0",
@@ -1361,7 +1361,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000141036826029022/xsl24F-2NT/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926033732/tm265040d6_497j.htm"
     },
     {
       "id": "ETU-0001454889-0",
@@ -1381,7 +1381,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000141036826029022/xsl24F-2NT/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926033732/tm265040d6_497j.htm"
     },
     {
       "id": "ETQ-0001454889-0",
@@ -1401,7 +1401,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001454889",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001454889",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000141036826029022/xsl24F-2NT/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926033732/tm265040d6_497j.htm"
     },
     {
       "id": "HODL-0001838028-0",
@@ -1754,7 +1754,7 @@
       "etfName": "Amplify ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-02-17",
-      "initialFilingDate": "2019-12-03",
+      "initialFilingDate": "2019-12-23",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -1773,7 +1773,7 @@
       "etfName": "Amplify ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-02-11",
-      "initialFilingDate": "2019-12-03",
+      "initialFilingDate": "2019-12-23",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -1792,7 +1792,7 @@
       "etfName": "Amplify ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-01-16",
-      "initialFilingDate": "2019-12-03",
+      "initialFilingDate": "2019-12-23",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
