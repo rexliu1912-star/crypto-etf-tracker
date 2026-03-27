@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-27T11:34:26.201Z",
-  "count": 289,
+  "timestamp": "2026-03-27T12:35:21.835Z",
+  "count": 288,
   "approvedCount": 74,
-  "pendingCount": 214,
+  "pendingCount": 213,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 185,
@@ -2395,7 +2395,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026027872/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-5",
+      "id": "undefined-0001436229-6",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2414,7 +2414,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000811/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-6",
+      "id": "undefined-0001436229-7",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2433,7 +2433,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000809/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-9",
+      "id": "undefined-0001436229-10",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2452,7 +2452,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000370/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-14",
+      "id": "undefined-0001436229-15",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2471,7 +2471,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225024337/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-19",
+      "id": "undefined-0001436229-20",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2490,7 +2490,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225016693/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-21",
+      "id": "undefined-0001436229-22",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2509,7 +2509,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225016534/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-24",
+      "id": "undefined-0001436229-25",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2528,7 +2528,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225012160/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-25",
+      "id": "undefined-0001436229-26",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2777,7 +2777,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064768/000199937125004423/canary-s1_041825.htm"
     },
     {
-      "id": "undefined-0002078265-26",
+      "id": "undefined-0002078265-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -2796,7 +2796,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000182912625010217/corgietftrusti_n-1aa.htm"
     },
     {
-      "id": "undefined-0002078265-27",
+      "id": "undefined-0002078265-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -2813,25 +2813,6 @@
       "cik": "0002078265",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002078265",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000207826525000011/corgietftrustin1a.htm"
-    },
-    {
-      "id": "undefined-0002078265-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust I",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-11-12",
-      "initialFilingDate": "2025-08-25",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002078265",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002078265",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2078265/000207826525000007/corgietftrustin1a.htm"
     },
     {
       "id": "undefined-0002096087-0",
