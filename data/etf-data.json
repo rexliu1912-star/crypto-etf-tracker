@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-03-30T14:20:19.248Z",
-  "count": 290,
+  "timestamp": "2026-03-30T16:00:29.622Z",
+  "count": 289,
   "approvedCount": 74,
-  "pendingCount": 215,
+  "pendingCount": 214,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 187,
+  "discoveredCount": 186,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1785,7 +1785,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/forms-1.htm"
     },
     {
-      "id": "undefined-0001547950-0",
+      "id": "undefined-0001547950-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1804,7 +1804,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/ea0283571-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-1",
+      "id": "undefined-0001547950-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1823,7 +1823,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035567/ea0282658-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-22",
+      "id": "undefined-0001547950-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1842,7 +1842,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026016652/ea0276962-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-32",
+      "id": "undefined-0001547950-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1859,25 +1859,6 @@
       "cik": "0001547950",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026014436/ea0276282-01_485bpos.htm"
-    },
-    {
-      "id": "undefined-0001547950-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Amplify ETF Trust",
-      "etfName": "Amplify ETF Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-16",
-      "initialFilingDate": "2019-12-23",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001547950",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026004776/ea0272185-01_485bpos.htm"
     },
     {
       "id": "undefined-0001095146-13",
@@ -3435,7 +3416,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1535538/000174177324004061/c485bpos.htm"
     },
     {
-      "id": "undefined-0001969674-8",
+      "id": "undefined-0001969674-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3454,7 +3435,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000177417126000003/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-12",
+      "id": "undefined-0001969674-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3473,7 +3454,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000210529426000002/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-13",
+      "id": "undefined-0001969674-14",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3492,7 +3473,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000127632726000004/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-15",
+      "id": "undefined-0001969674-16",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
@@ -3511,7 +3492,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000127632726000003/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001969674-20",
+      "id": "undefined-0001969674-21",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "ETF",
