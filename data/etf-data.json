@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-30T19:47:57.782Z",
-  "count": 289,
+  "timestamp": "2026-03-30T20:34:11.633Z",
+  "count": 290,
   "approvedCount": 74,
-  "pendingCount": 214,
+  "pendingCount": 215,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000674/tstrivedigitalcreditetf485.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000684/etfopptrust-txrex2xlong18n.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1785,7 +1785,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/forms-1.htm"
     },
     {
-      "id": "undefined-0001547950-9",
+      "id": "undefined-0001547950-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1804,7 +1804,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/ea0283571-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-10",
+      "id": "undefined-0001547950-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1823,7 +1823,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035567/ea0282658-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-31",
+      "id": "undefined-0001547950-34",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1842,7 +1842,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026016652/ea0276962-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-41",
+      "id": "undefined-0001547950-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -3511,7 +3511,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1969674/000177417126000002/xslF345X05/primary_doc.xml"
     },
     {
-      "id": "undefined-0001452937-0",
+      "id": "undefined-0001452937-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange Traded Concepts Trust",
@@ -3530,7 +3530,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1452937/000121390026035523/ea0282657-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-11",
+      "id": "undefined-0001452937-18",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange Traded Concepts Trust",
@@ -4089,6 +4089,25 @@
       "issuer": "Innovator ETFs Trust",
       "etfName": "Innovator ETFs Trust",
       "filingType": "Spot ETF",
+      "filingDate": "2026-03-30",
+      "initialFilingDate": "2014-11-13",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001618627",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001618627",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126007188/equitypartners-485bxt_033026.htm"
+    },
+    {
+      "id": "undefined-0001618627-1",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Innovator ETFs Trust",
+      "etfName": "Innovator ETFs Trust",
+      "filingType": "Spot ETF",
       "filingDate": "2026-03-24",
       "initialFilingDate": "2014-11-13",
       "decisionDeadline": "待通过",
@@ -4102,7 +4121,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126006825/cpd_485bpos-032426.htm"
     },
     {
-      "id": "undefined-0001618627-2",
+      "id": "undefined-0001618627-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4121,7 +4140,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126006026/snowball-485bxt_031626.htm"
     },
     {
-      "id": "undefined-0001618627-3",
+      "id": "undefined-0001618627-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4140,7 +4159,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126005808/equitypartners-485bxt_031326.htm"
     },
     {
-      "id": "undefined-0001618627-5",
+      "id": "undefined-0001618627-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4159,7 +4178,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126005238/snowball-485bxt_030626.htm"
     },
     {
-      "id": "undefined-0001618627-12",
+      "id": "undefined-0001618627-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4178,7 +4197,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126002583/sass_485bpos-020426.htm"
     },
     {
-      "id": "undefined-0001618627-30",
+      "id": "undefined-0001618627-31",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4197,7 +4216,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126001237/twinoak_485apos-012026.htm"
     },
     {
-      "id": "undefined-0001618627-38",
+      "id": "undefined-0001618627-39",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4216,7 +4235,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937125021416/rbbtrust-485apos_121025.htm"
     },
     {
-      "id": "undefined-0001618627-41",
+      "id": "undefined-0001618627-42",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4235,7 +4254,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425022912/fp0096611-1_485bposixbrl.htm"
     },
     {
-      "id": "undefined-0001618627-43",
+      "id": "undefined-0001618627-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4254,7 +4273,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937125021104/pathfinder_485bpos-122325.htm"
     },
     {
-      "id": "undefined-0001618627-44",
+      "id": "undefined-0001618627-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4273,7 +4292,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937125021074/snowball_485apos-122325.htm"
     },
     {
-      "id": "undefined-0001618627-45",
+      "id": "undefined-0001618627-46",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4292,7 +4311,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000139834425022748/fp0096527-1_485bposixbrl.htm"
     },
     {
-      "id": "undefined-0001618627-46",
+      "id": "undefined-0001618627-47",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
