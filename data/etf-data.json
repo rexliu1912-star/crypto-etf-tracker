@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-31T19:46:56.940Z",
-  "count": 279,
+  "timestamp": "2026-03-31T20:32:40.813Z",
+  "count": 280,
   "approvedCount": 74,
-  "pendingCount": 204,
+  "pendingCount": 205,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000691/etfot-txrex2xeoseetfrevers.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000200032426001409/xsl24F-2NT/primary_doc.xml"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1956,7 +1956,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825002408/athena_s1a7.htm"
     },
     {
-      "id": "undefined-0001901799-13",
+      "id": "undefined-0001901799-0",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "Bitcoin",
+      "etfName": "Bitcoin Depot Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-31",
+      "initialFilingDate": "2022-01-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001901799",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526134687/d119639ds1.htm"
+    },
+    {
+      "id": "undefined-0001901799-15",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1975,7 +1994,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526036247/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-18",
+      "id": "undefined-0001901799-20",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1994,7 +2013,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526009041/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-21",
+      "id": "undefined-0001901799-23",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2013,7 +2032,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525313205/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-23",
+      "id": "undefined-0001901799-25",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2032,7 +2051,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312525307183/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-24",
+      "id": "undefined-0001901799-26",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
