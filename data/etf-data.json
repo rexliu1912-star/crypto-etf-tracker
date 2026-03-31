@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-31T11:40:06.062Z",
+  "timestamp": "2026-03-31T12:45:45.548Z",
   "count": 290,
   "approvedCount": 74,
   "pendingCount": 215,
@@ -2452,7 +2452,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026027872/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-7",
+      "id": "undefined-0001436229-8",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2471,7 +2471,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000811/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-8",
+      "id": "undefined-0001436229-9",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2490,7 +2490,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000809/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-11",
+      "id": "undefined-0001436229-12",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2509,7 +2509,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000370/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-16",
+      "id": "undefined-0001436229-17",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2528,7 +2528,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225024337/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-21",
+      "id": "undefined-0001436229-22",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2547,7 +2547,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225016693/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-23",
+      "id": "undefined-0001436229-24",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2566,7 +2566,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225016534/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-26",
+      "id": "undefined-0001436229-27",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2585,7 +2585,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225012160/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-27",
+      "id": "undefined-0001436229-28",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -5207,7 +5207,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001924868-2",
+      "id": "undefined-0001924868-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5226,7 +5226,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007085/defiance_485bpos-032726.htm"
     },
     {
-      "id": "undefined-0001924868-4",
+      "id": "undefined-0001924868-5",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5245,7 +5245,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006997/openai_485apos-032626.htm"
     },
     {
-      "id": "undefined-0001924868-5",
+      "id": "undefined-0001924868-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5264,7 +5264,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006918/portfolio-485bxt_032626.htm"
     },
     {
-      "id": "undefined-0001924868-6",
+      "id": "undefined-0001924868-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5283,7 +5283,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006882/defiance_485apos-032526.htm"
     },
     {
-      "id": "undefined-0001924868-8",
+      "id": "undefined-0001924868-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5302,7 +5302,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006841/fcus-485bpos_032726.htm"
     },
     {
-      "id": "undefined-0001924868-13",
+      "id": "undefined-0001924868-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5321,7 +5321,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006473/portfolio-485bxt_032026.htm"
     },
     {
-      "id": "undefined-0001924868-19",
+      "id": "undefined-0001924868-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5340,7 +5340,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006059/antropic_485apos-031726.htm"
     },
     {
-      "id": "undefined-0001924868-22",
+      "id": "undefined-0001924868-23",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5359,7 +5359,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005769/defiance_485apos-031326.htm"
     },
     {
-      "id": "undefined-0001924868-31",
+      "id": "undefined-0001924868-32",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5378,7 +5378,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005402/nicholas_485bpos-030926.htm"
     },
     {
-      "id": "undefined-0001924868-47",
+      "id": "undefined-0001924868-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
