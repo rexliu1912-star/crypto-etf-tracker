@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-31T21:28:06.872Z",
+  "timestamp": "2026-03-31T22:24:44.793Z",
   "count": 282,
   "approvedCount": 74,
   "pendingCount": 207,
@@ -1035,7 +1035,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002031069",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002031069",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026036690/ea0283879-fwp_hashdex.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026037671/ea0284383-fwp_hashdex.htm"
     },
     {
       "id": "BTCO-0001855781-0",
@@ -1085,9 +1085,9 @@
       "issuer": "Osprey",
       "etfName": "Osprey Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-12",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2025-08-06",
-      "decisionDeadline": "2026-01-12",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1095,7 +1095,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001767057",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001767057",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1767057/000149315226001241/form424b3.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1767057/000149315226014374/form424i.htm"
     },
     {
       "id": "BITO-0001174610-0",
