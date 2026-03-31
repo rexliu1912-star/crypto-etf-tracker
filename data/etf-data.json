@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-03-31T09:54:26.358Z",
+  "timestamp": "2026-03-31T10:43:54.311Z",
   "count": 290,
   "approvedCount": 74,
   "pendingCount": 215,
@@ -58,9 +58,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares Ethereum ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-10",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2023-09-06",
-      "decisionDeadline": "2026-02-10",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -68,7 +68,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001992508",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992508",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390026014281/ea027630802-8k_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390026036641/ea0281823-10k_21shares.htm"
     },
     {
       "id": "TSOL-0002057390-0",
@@ -118,9 +118,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-01-26",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2024-11-01",
-      "decisionDeadline": "2026-01-26",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -128,7 +128,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002028835",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028835",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028835/000121390026007760/ea0273862-424b3_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028835/000121390026036689/ea0282690-10k_21shares.htm"
     },
     {
       "id": "TSUI-0002061626-0",
@@ -333,9 +333,9 @@
       "issuer": "BlackRock",
       "etfName": "iShares Bitcoin Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-26",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2023-06-15",
-      "decisionDeadline": "2026-03-26",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -343,7 +343,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001980994",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001980994",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1980994/000143774926009837/bit20260325_fwp.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1980994/000143774926010480/bit20260328_8k.htm"
     },
     {
       "id": "ETHA-0002000638-0",
@@ -353,9 +353,9 @@
       "issuer": "BlackRock",
       "etfName": "iShares Ethereum Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-02-27",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2023-11-16",
-      "decisionDeadline": "2026-02-27",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -363,7 +363,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002000638",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000638",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/000143774926006054/etha20251231_10k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/000143774926010477/etha20260328_8k.htm"
     },
     {
       "id": "IBLC-0001903833-0",
@@ -397,9 +397,9 @@
       "issuer": "Canary Capital",
       "etfName": "Canary XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-16",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2024-10-08",
-      "decisionDeadline": "2025-12-16",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -407,7 +407,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002039505",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039505",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039505/000203950525000004/xrpcfwfsubmission_121525.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039505/000199937126007245/xrpc-424bi_123125.htm"
     },
     {
       "id": "LTCC-0002039461-0",
@@ -417,9 +417,9 @@
       "issuer": "Canary Capital",
       "etfName": "Canary Litecoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-09",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2024-10-15",
-      "decisionDeadline": "2025-12-09",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -427,7 +427,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002039461",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039461",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039461/000199937125019914/ltcc-10q_093025.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039461/000199937126007249/ltcc_424i-123125.htm"
     },
     {
       "id": "HBAR-0002039459-0",
@@ -457,9 +457,9 @@
       "issuer": "Canary Capital",
       "etfName": "Canary Solana ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2025-12-09",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2024-10-30",
-      "decisionDeadline": "2025-12-09",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -467,7 +467,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002041869",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002041869",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2041869/000199937125019915/solc-10q_093025.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2041869/000199937126007247/solc-424i_123125.htm"
     },
     {
       "id": "LMBO-0001424958-0",
@@ -1016,9 +1016,9 @@
       "issuer": "Hashdex",
       "etfName": "Hashdex Nasdaq Crypto Index US ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-27",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2024-07-24",
-      "decisionDeadline": "2026-03-27",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1035,7 +1035,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002031069",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002031069",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026035581/ea0283490-424i_hashdex.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026036690/ea0283879-fwp_hashdex.htm"
     },
     {
       "id": "BTCO-0001855781-0",
@@ -1491,9 +1491,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-27",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2024-03-29",
-      "decisionDeadline": "2026-03-27",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1501,7 +1501,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026035725/ea0283703-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026036703/ea0283663-01_485bpos.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-27",
+      "filingDate": "2026-03-31",
       "initialFilingDate": "2024-03-29",
-      "decisionDeadline": "2026-03-27",
+      "decisionDeadline": "2026-03-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026035725/ea0283703-34_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026036703/ea0283663-01_485bpos.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -2604,7 +2604,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225012135/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0002039458-13",
+      "id": "undefined-0002039458-14",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2623,7 +2623,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/canaryhbar-s1a_100725.htm"
     },
     {
-      "id": "undefined-0002039458-15",
+      "id": "undefined-0002039458-16",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2642,7 +2642,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125013724/canary-s1a_092225.htm"
     },
     {
-      "id": "undefined-0002039458-17",
+      "id": "undefined-0002039458-18",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2661,7 +2661,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000183988225010352/canary-s1a_022125.htm"
     },
     {
-      "id": "undefined-0002039458-18",
+      "id": "undefined-0002039458-19",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -4387,7 +4387,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
     },
     {
-      "id": "undefined-0002099103-5",
+      "id": "undefined-0002099103-6",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4406,7 +4406,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-6",
+      "id": "undefined-0002099103-7",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4425,7 +4425,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-7",
+      "id": "undefined-0002099103-8",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4444,7 +4444,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-8",
+      "id": "undefined-0002099103-9",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
