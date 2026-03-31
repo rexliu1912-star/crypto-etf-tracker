@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-03-31T20:32:40.813Z",
-  "count": 280,
+  "timestamp": "2026-03-31T21:28:06.872Z",
+  "count": 282,
   "approvedCount": 74,
-  "pendingCount": 205,
+  "pendingCount": 207,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -343,7 +343,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001980994",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001980994",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1980994/000143774926010480/bit20260328_8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1980994/000143774926010697/bit20260330_424h.htm"
     },
     {
       "id": "ETHA-0002000638-0",
@@ -363,7 +363,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002000638",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000638",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/000143774926010477/etha20260328_8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/000143774926010686/etha20260330_424h.htm"
     },
     {
       "id": "IBLC-0001903833-0",
@@ -407,7 +407,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002039505",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039505",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039505/000199937126007245/xrpc-424bi_123125.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039505/000199937126007350/xrpc-10k_123125.htm"
     },
     {
       "id": "LTCC-0002039461-0",
@@ -427,7 +427,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002039461",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039461",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039461/000199937126007249/ltcc_424i-123125.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039461/000199937126007351/ltcc-10k_123125.htm"
     },
     {
       "id": "HBAR-0002039459-0",
@@ -467,7 +467,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002041869",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002041869",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2041869/000199937126007247/solc-424i_123125.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2041869/000199937126007348/solc-10k_123125.htm"
     },
     {
       "id": "LMBO-0001424958-0",
@@ -2623,7 +2623,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225012135/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0002039458-14",
+      "id": "undefined-0002039458-15",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2642,7 +2642,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/canaryhbar-s1a_100725.htm"
     },
     {
-      "id": "undefined-0002039458-16",
+      "id": "undefined-0002039458-17",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2661,7 +2661,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125013724/canary-s1a_092225.htm"
     },
     {
-      "id": "undefined-0002039458-18",
+      "id": "undefined-0002039458-19",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2680,7 +2680,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000183988225010352/canary-s1a_022125.htm"
     },
     {
-      "id": "undefined-0002039458-19",
+      "id": "undefined-0002039458-20",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -5207,6 +5207,25 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1471824/000143774925029275/weat20250829_s1.htm"
     },
     {
+      "id": "undefined-0001924868-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Tidal Trust II",
+      "etfName": "Tidal Trust II",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-31",
+      "initialFilingDate": "2025-03-31",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001924868",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007341/defiance-485apos_033126.htm"
+    },
+    {
       "id": "undefined-0001650149-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
@@ -5360,7 +5379,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002055464-9",
+      "id": "undefined-0002055464-1",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Wedbush Series Trust",
+      "etfName": "Wedbush Series Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-31",
+      "initialFilingDate": "2025-02-07",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002055464",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002055464",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037653/ea0283940-01_485bpos.htm"
+    },
+    {
+      "id": "undefined-0002055464-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
