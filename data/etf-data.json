@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-01T18:43:51.719Z",
+  "timestamp": "2026-04-01T19:51:45.306Z",
   "count": 283,
   "approvedCount": 74,
   "pendingCount": 208,
@@ -38,9 +38,9 @@
       "issuer": "21Shares",
       "etfName": "ARK 21Shares Bitcoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-02",
+      "filingDate": "2026-04-01",
       "initialFilingDate": "2021-06-28",
-      "decisionDeadline": "2026-03-02",
+      "decisionDeadline": "2026-04-01",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -48,7 +48,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001869699",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001869699",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1869699/000121390026021831/ea0276464-10k_ark21share.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1869699/000121390026038420/ea0284490-424i_ark21shares.htm"
     },
     {
       "id": "TETH-0001992508-0",
@@ -58,9 +58,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares Ethereum ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-31",
+      "filingDate": "2026-04-01",
       "initialFilingDate": "2023-09-06",
-      "decisionDeadline": "2026-03-31",
+      "decisionDeadline": "2026-04-01",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -68,7 +68,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001992508",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992508",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390026036641/ea0281823-10k_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390026038417/ea0284490-424i_21shares.htm"
     },
     {
       "id": "TSOL-0002057390-0",
@@ -118,9 +118,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-31",
+      "filingDate": "2026-04-01",
       "initialFilingDate": "2024-11-01",
-      "decisionDeadline": "2026-03-31",
+      "decisionDeadline": "2026-04-01",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -128,7 +128,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002028835",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028835",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028835/000121390026037102/ea0284334-424b3_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028835/000121390026038424/ea028446702-424i_21shares.htm"
     },
     {
       "id": "TSUI-0002061626-0",
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-03-25",
+      "filingDate": "2026-04-01",
       "initialFilingDate": "2024-09-30",
-      "decisionDeadline": "2026-03-25",
+      "decisionDeadline": "2026-04-01",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526122302/d68778d497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526137760/xslFormNPORT-P_X01/primary_doc.xml"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-03-25",
+      "filingDate": "2026-04-01",
       "initialFilingDate": "2024-09-30",
-      "decisionDeadline": "2026-03-25",
+      "decisionDeadline": "2026-04-01",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526122302/d68778d497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526137760/xslFormNPORT-P_X01/primary_doc.xml"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000694/etfot-rexospreycantoncoine.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000212622226000001/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1595,7 +1595,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2075000/000091142025000207/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002028834-11",
+      "id": "undefined-0002028834-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1614,7 +1614,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/ea0259370-s1a5_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-13",
+      "id": "undefined-0002028834-14",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1633,7 +1633,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/ea0258805-s1a4_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-14",
+      "id": "undefined-0002028834-15",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1652,7 +1652,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025082627/ea0255191-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-15",
+      "id": "undefined-0002028834-16",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1671,7 +1671,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/ea0250753-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-16",
+      "id": "undefined-0002028834-17",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1690,7 +1690,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025054351/ea0245677-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-17",
+      "id": "undefined-0002028834-18",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
