@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-02T09:49:26.356Z",
+  "timestamp": "2026-04-02T10:41:49.681Z",
   "count": 282,
   "approvedCount": 74,
   "pendingCount": 207,
@@ -4869,7 +4869,7 @@
       "issuer": "Morgan Stanley",
       "etfName": "Morgan Stanley Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-01",
+      "filingDate": "2026-04-02",
       "initialFilingDate": "2026-01-06",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -4879,7 +4879,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002103612",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103612",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926038604/tm2534140-14_s1a.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926038730/tm2534140-17_s1a.htm"
     },
     {
       "id": "MSETH-0002103613-0",
@@ -5379,7 +5379,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002055464-1",
+      "id": "undefined-0002055464-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
@@ -5398,7 +5398,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037904/ea0284219-01_485bpos.htm"
     },
     {
-      "id": "undefined-0002055464-3",
+      "id": "undefined-0002055464-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
@@ -5417,7 +5417,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037653/ea0283940-01_485bpos.htm"
     },
     {
-      "id": "undefined-0002055464-13",
+      "id": "undefined-0002055464-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
