@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-02T17:41:20.376Z",
+  "timestamp": "2026-04-02T18:40:44.279Z",
   "count": 282,
   "approvedCount": 74,
   "pendingCount": 207,
@@ -1311,9 +1311,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-01",
+      "filingDate": "2026-04-02",
       "initialFilingDate": "2025-03-31",
-      "decisionDeadline": "2026-04-01",
+      "decisionDeadline": "2026-04-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000696/etfot-497suppxliquidationo.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000709/etfopptrust-tuttlecapitalc.htm"
     },
     {
       "id": "BTCL-0001454889-0",
