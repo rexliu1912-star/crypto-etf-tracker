@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-07T11:44:01.774Z",
+  "timestamp": "2026-04-07T12:51:55.362Z",
   "count": 281,
   "approvedCount": 75,
   "pendingCount": 205,
@@ -750,9 +750,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Ethereum Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-27",
+      "filingDate": "2026-04-07",
       "initialFilingDate": "2017-12-29",
-      "decisionDeadline": "2026-03-27",
+      "decisionDeadline": "2026-04-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -760,7 +760,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001725210",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001725210",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1725210/000119312526129224/d104713d424i.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1725210/000119312526144586/ethe-20260402.htm"
     },
     {
       "id": "ETH-0002020455-0",
@@ -770,9 +770,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Ethereum Mini Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-27",
+      "filingDate": "2026-04-07",
       "initialFilingDate": "2024-04-23",
-      "decisionDeadline": "2026-03-27",
+      "decisionDeadline": "2026-04-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -780,7 +780,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002020455",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002020455",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526129318/d36854d424i.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2020455/000119312526144595/eth-20260402.htm"
     },
     {
       "id": "GSOL-0001896677-0",
