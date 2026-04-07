@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-07T20:34:21.968Z",
+  "timestamp": "2026-04-07T21:35:07.210Z",
   "count": 281,
   "approvedCount": 75,
   "pendingCount": 205,
@@ -313,9 +313,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Avalanche ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-26",
+      "filingDate": "2026-04-07",
       "initialFilingDate": "2025-09-15",
-      "decisionDeadline": "2026-03-26",
+      "decisionDeadline": "2026-04-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -323,7 +323,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002086017",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002086017",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000121390026034701/ea0283436-s1a4_bitwise.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000121390026041142/ea0285469-s1a5_bitwise.htm"
     },
     {
       "id": "IBIT-0001980994-0",
