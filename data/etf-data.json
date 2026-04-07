@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-04-07T09:57:41.863Z",
-  "count": 281,
+  "timestamp": "2026-04-07T10:46:42.329Z",
+  "count": 280,
   "approvedCount": 75,
-  "pendingCount": 205,
+  "pendingCount": 204,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 185,
+  "discoveredCount": 183,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1095,7 +1095,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002103612",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103612",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/000110465926039992/tm2534140-20_424b3.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103612/999999999526001094/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "OBTC-0001767057-0",
@@ -3892,25 +3892,6 @@
       "cik": "0002083106",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083106",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083106/000208310625000004/gada-20250829.htm"
-    },
-    {
-      "id": "undefined-0002040120-0",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Aave Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-02-13",
-      "initialFilingDate": "2026-02-13",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002040120",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002040120",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2040120/000119312526051643/aave-20260213.htm"
     },
     {
       "id": "undefined-0002107730-0",
