@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-09T16:11:49.841Z",
+  "timestamp": "2026-04-09T17:53:56.365Z",
   "count": 281,
   "approvedCount": 75,
   "pendingCount": 205,
@@ -249,9 +249,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-27",
+      "filingDate": "2026-04-09",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-03-27",
+      "decisionDeadline": "2026-04-09",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -259,7 +259,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026035314/ea0283818-01_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026041865/ea0285755-01_485bxt.htm"
     },
     {
       "id": "BSOL-0002057389-0",
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-07",
+      "filingDate": "2026-04-09",
       "initialFilingDate": "2025-04-08",
-      "decisionDeadline": "2026-04-07",
+      "decisionDeadline": "2026-04-09",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000721/t-rex2xlongvivarepublicaet.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000738/etfopptrust-tuttlecapitali.htm"
     },
     {
       "id": "BTCL-0001454889-0",
