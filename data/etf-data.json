@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-10T19:37:28.331Z",
+  "timestamp": "2026-04-10T20:24:21.930Z",
   "count": 280,
   "approvedCount": 75,
   "pendingCount": 204,
@@ -5055,7 +5055,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937125015832/activecrypto-s1_102225.htm"
     },
     {
-      "id": "undefined-0001471824-10",
+      "id": "undefined-0001471824-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Teucrium",
@@ -5074,7 +5074,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1471824/000143774926006588/weat20260302_s1a.htm"
     },
     {
-      "id": "undefined-0001471824-12",
+      "id": "undefined-0001471824-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Teucrium",
@@ -5093,7 +5093,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1471824/000143774926004510/weat20260217_s1a.htm"
     },
     {
-      "id": "undefined-0001471824-13",
+      "id": "undefined-0001471824-14",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Teucrium",
@@ -5112,7 +5112,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1471824/000143774926002130/weat20260123_s1a.htm"
     },
     {
-      "id": "undefined-0001471824-26",
+      "id": "undefined-0001471824-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Teucrium",
