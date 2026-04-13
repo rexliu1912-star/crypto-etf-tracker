@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-04-13T09:25:54.630Z",
-  "count": 277,
+  "timestamp": "2026-04-13T11:09:23.613Z",
+  "count": 276,
   "approvedCount": 75,
-  "pendingCount": 201,
+  "pendingCount": 200,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 185,
@@ -313,9 +313,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Avalanche ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-07",
+      "filingDate": "2026-04-10",
       "initialFilingDate": "2025-09-15",
-      "decisionDeadline": "2026-04-07",
+      "decisionDeadline": "2026-04-10",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -323,7 +323,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002086017",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002086017",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000121390026041142/ea0285469-s1a5_bitwise.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/999999999526001140/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "IBIT-0001980994-0",
@@ -1957,7 +1957,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825002408/athena_s1a7.htm"
     },
     {
-      "id": "undefined-0001901799-0",
+      "id": "undefined-0001901799-2",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1976,7 +1976,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526150385/d119639ds1a.htm"
     },
     {
-      "id": "undefined-0001901799-2",
+      "id": "undefined-0001901799-4",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -1995,7 +1995,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526142223/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-4",
+      "id": "undefined-0001901799-6",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2014,7 +2014,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526138478/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-5",
+      "id": "undefined-0001901799-7",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2033,7 +2033,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526138473/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-6",
+      "id": "undefined-0001901799-8",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2052,7 +2052,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526135307/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001901799-9",
+      "id": "undefined-0001901799-11",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2071,7 +2071,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526134687/d119639ds1.htm"
     },
     {
-      "id": "undefined-0001901799-24",
+      "id": "undefined-0001901799-26",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Bitcoin",
@@ -2088,25 +2088,6 @@
       "cik": "0001901799",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526036247/xslF345X05/ownership.xml"
-    },
-    {
-      "id": "undefined-0001901799-29",
-      "cryptocurrency": "Bitcoin",
-      "symbol": "PEND",
-      "issuer": "Bitcoin",
-      "etfName": "Bitcoin Depot Inc.",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-09",
-      "initialFilingDate": "2022-01-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001901799",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1901799/000119312526009041/xslF345X05/ownership.xml"
     },
     {
       "id": "BAPT-0002059135-0",
