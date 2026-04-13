@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-13T20:01:33.288Z",
+  "timestamp": "2026-04-13T20:53:34.580Z",
   "count": 274,
   "approvedCount": 75,
   "pendingCount": 198,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-10",
+      "filingDate": "2026-04-13",
       "initialFilingDate": "2025-04-11",
-      "decisionDeadline": "2026-04-10",
+      "decisionDeadline": "2026-04-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000744/t-rex2xlong6newetfsx485afi.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000135445726000340/xslF25X02/primary_doc.xml"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -5246,7 +5246,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002055464-8",
+      "id": "undefined-0002055464-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
@@ -5265,7 +5265,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037904/ea0284219-01_485bpos.htm"
     },
     {
-      "id": "undefined-0002055464-10",
+      "id": "undefined-0002055464-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
@@ -5284,7 +5284,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037653/ea0283940-01_485bpos.htm"
     },
     {
-      "id": "undefined-0002055464-20",
+      "id": "undefined-0002055464-21",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
