@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-04-17T10:04:47.250Z",
-  "count": 271,
+  "timestamp": "2026-04-17T11:42:32.999Z",
+  "count": 277,
   "approvedCount": 75,
-  "pendingCount": 195,
+  "pendingCount": 201,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 183,
+  "discoveredCount": 185,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -800,7 +800,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001896677",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001896677",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/000119312526159173/424b3_gsol_pos_am_final.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/999999999526001209/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "GXRP-0001833502-0",
@@ -840,7 +840,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002055510",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002055510",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055510/000119312526159180/424b3_doge_pos_am_final.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055510/999999999526001210/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "GLNK-0001852025-0",
@@ -860,7 +860,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001852025",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001852025",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852025/000119312526159183/424b3_link_final_pos_am.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852025/999999999526001212/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "GDLC-0001729997-0",
@@ -3628,7 +3628,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083137/000119312525243718/dot_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002034012-9",
+      "id": "undefined-0002034012-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3647,7 +3647,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/gsui_s-1_amendment_3.htm"
     },
     {
-      "id": "undefined-0002034012-10",
+      "id": "undefined-0002034012-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3666,7 +3666,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526046711/gsui_s-1_amendment_2.htm"
     },
     {
-      "id": "undefined-0002034012-14",
+      "id": "undefined-0002034012-15",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3685,7 +3685,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526022813/gsui_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002034012-18",
+      "id": "undefined-0002034012-19",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3704,7 +3704,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312525309828/sui-20251205.htm"
     },
     {
-      "id": "undefined-0002037427-14",
+      "id": "undefined-0002037427-15",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3723,7 +3723,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000119312525262826/xrp_s-1_amendment_2.htm"
     },
     {
-      "id": "undefined-0002037427-15",
+      "id": "undefined-0002037427-16",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3742,7 +3742,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000119312525237096/xrp_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002037427-16",
+      "id": "undefined-0002037427-17",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3816,6 +3816,44 @@
       "cik": "0002073548",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002073548",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073548/000119312525279127/ck0002073548-20251113.htm"
+    },
+    {
+      "id": "undefined-0002083106-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Cardano Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-10-20",
+      "initialFilingDate": "2025-08-29",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002083106",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083106",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083106/000119312525243710/ada_s-1_amendment_1.htm"
+    },
+    {
+      "id": "undefined-0002083106-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Cardano Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-08-29",
+      "initialFilingDate": "2025-08-29",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002083106",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083106",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083106/000208310625000004/gada-20250829.htm"
     },
     {
       "id": "undefined-0002040120-0",
@@ -4215,6 +4253,82 @@
       "cik": "0002074409",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002074409",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
+    },
+    {
+      "id": "undefined-0002099103-10",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-06",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
+    },
+    {
+      "id": "undefined-0002099103-11",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-02",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
+    },
+    {
+      "id": "undefined-0002099103-12",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-17",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
+    },
+    {
+      "id": "undefined-0002099103-13",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-08",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774925037057/iset20251205_s1.htm"
     },
     {
       "id": "undefined-0002073505-0",
