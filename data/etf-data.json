@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-21T16:03:56.048Z",
+  "timestamp": "2026-04-21T17:49:32.650Z",
   "count": 280,
   "approvedCount": 75,
   "pendingCount": 204,
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-04-10",
+      "filingDate": "2026-04-21",
       "initialFilingDate": "2024-11-22",
-      "decisionDeadline": "2026-04-10",
+      "decisionDeadline": "2026-04-21",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000135445726000336/xslF25X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026046038/xsl24F-2NT/primary_doc.xml"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1531,9 +1531,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-04-10",
+      "filingDate": "2026-04-21",
       "initialFilingDate": "2024-11-22",
-      "decisionDeadline": "2026-04-10",
+      "decisionDeadline": "2026-04-21",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1541,7 +1541,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000135445726000336/xslF25X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026046038/xsl24F-2NT/primary_doc.xml"
     },
     {
       "id": "BTCW-0001850391-0",
