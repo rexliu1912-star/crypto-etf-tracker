@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-04-27T07:31:04.737Z",
-  "count": 273,
+  "timestamp": "2026-04-27T10:03:55.738Z",
+  "count": 274,
   "approvedCount": 75,
-  "pendingCount": 197,
+  "pendingCount": 198,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 184,
@@ -1824,7 +1824,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/forms-1.htm"
     },
     {
-      "id": "undefined-0001547950-8",
+      "id": "undefined-0001547950-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Amplify ETF Trust",
+      "etfName": "Amplify ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-04-27",
+      "initialFilingDate": "2020-03-20",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001547950",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026047633/ea0286568-01_485bpos.htm"
+    },
+    {
+      "id": "undefined-0001547950-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1843,7 +1862,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026044196/ea0286417-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-29",
+      "id": "undefined-0001547950-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1862,7 +1881,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/ea0283571-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-30",
+      "id": "undefined-0001547950-31",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
