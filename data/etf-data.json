@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-04-28T10:13:36.423Z",
-  "count": 273,
+  "timestamp": "2026-04-28T12:20:27.628Z",
+  "count": 274,
   "approvedCount": 75,
-  "pendingCount": 197,
+  "pendingCount": 198,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 183,
@@ -1735,6 +1735,25 @@
       "issuer": "21Shares",
       "etfName": "21Shares Hyperliquid ETF",
       "filingType": "Spot ETF",
+      "filingDate": "2026-04-28",
+      "initialFilingDate": "2025-10-29",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002090011",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002090011",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026048260/ea0287966-s1a3_21shares.htm"
+    },
+    {
+      "id": "undefined-0002090011-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "21Shares",
+      "etfName": "21Shares Hyperliquid ETF",
+      "filingType": "Spot ETF",
       "filingDate": "2026-04-14",
       "initialFilingDate": "2025-10-29",
       "decisionDeadline": "待通过",
@@ -1748,7 +1767,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026043631/ea0284402-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-1",
+      "id": "undefined-0002090011-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1767,7 +1786,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026016539/ea0276878-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-2",
+      "id": "undefined-0002090011-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
