@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-04-27T23:42:37.619Z",
+  "timestamp": "2026-04-28T01:28:54.954Z",
   "count": 272,
   "approvedCount": 75,
   "pendingCount": 196,
@@ -790,9 +790,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Solana Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-16",
+      "filingDate": "2026-04-27",
       "initialFilingDate": "2025-04-04",
-      "decisionDeadline": "2026-04-16",
+      "decisionDeadline": "2026-04-27",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -800,7 +800,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001896677",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001896677",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/999999999526001209/xslEFFECTX01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1896677/000197641526000016/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GXRP-0001833502-0",
