@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-04-30T11:25:01.923Z",
+  "timestamp": "2026-04-30T13:16:21.957Z",
   "count": 270,
   "approvedCount": 75,
   "pendingCount": 194,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 182,
+  "discoveredCount": 184,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -4694,7 +4694,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032204/tm265040d1_485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-24",
+      "id": "undefined-0001742912-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4713,7 +4713,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126008894/upar_485bpos-042426.htm"
     },
     {
-      "id": "undefined-0001742912-26",
+      "id": "undefined-0001742912-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
