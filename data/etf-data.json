@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-05-06T10:55:24.930Z",
+  "timestamp": "2026-05-06T12:23:41.389Z",
   "count": 279,
   "approvedCount": 75,
   "pendingCount": 203,
@@ -4713,7 +4713,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032204/tm265040d1_485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-0",
+      "id": "undefined-0001742912-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4732,7 +4732,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126009988/smart_485bpos-050526.htm"
     },
     {
-      "id": "undefined-0001742912-8",
+      "id": "undefined-0001742912-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4751,7 +4751,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126009675/brandywine-485bxt_050126.htm"
     },
     {
-      "id": "undefined-0001742912-37",
+      "id": "undefined-0001742912-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4770,7 +4770,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126008894/upar_485bpos-042426.htm"
     },
     {
-      "id": "undefined-0001742912-39",
+      "id": "undefined-0001742912-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
