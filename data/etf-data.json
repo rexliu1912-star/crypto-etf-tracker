@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-05-06T17:20:44.550Z",
-  "count": 277,
+  "timestamp": "2026-05-06T19:18:54.490Z",
+  "count": 276,
   "approvedCount": 75,
-  "pendingCount": 201,
+  "pendingCount": 200,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 188,
@@ -523,9 +523,9 @@
       "issuer": "Fidelity",
       "etfName": "Fidelity Wise Origin Bitcoin Fund",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-29",
+      "filingDate": "2026-05-06",
       "initialFilingDate": "2021-03-24",
-      "decisionDeadline": "2026-04-29",
+      "decisionDeadline": "2026-05-06",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -533,7 +533,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001852317",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001852317",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852317/000119312526191289/d76290d424b3.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852317/000119312526208428/ck0001852317-20260331.htm"
     },
     {
       "id": "FETH-0002003125-0",
@@ -3512,7 +3512,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525140821/d941170ds1.htm"
     },
     {
-      "id": "undefined-0002000046-26",
+      "id": "undefined-0002000046-27",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -5074,7 +5074,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126008757/dt2xl_485bpos-042226.htm"
     },
     {
-      "id": "undefined-0001650149-6",
+      "id": "undefined-0001650149-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5093,7 +5093,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926013080/ck0001650149-20260424.htm"
     },
     {
-      "id": "undefined-0001650149-18",
+      "id": "undefined-0001650149-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5112,7 +5112,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926009800/ck0001650149-20260330.htm"
     },
     {
-      "id": "undefined-0001650149-32",
+      "id": "undefined-0001650149-33",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5131,7 +5131,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926007018/ck0001650149-20260227.htm"
     },
     {
-      "id": "undefined-0001650149-34",
+      "id": "undefined-0001650149-35",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5148,25 +5148,6 @@
       "cik": "0001650149",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650149",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926006311/ck0001650149-20260226.htm"
-    },
-    {
-      "id": "undefined-0001650149-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Trust for Advised Portfolios",
-      "etfName": "Trust for Advised Portfolios",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-28",
-      "initialFilingDate": "2020-09-15",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001650149",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650149",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926002702/ck0001650149-20260128.htm"
     },
     {
       "id": "ADA-0001884022-0",
