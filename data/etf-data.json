@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-05-07T17:32:14.649Z",
+  "timestamp": "2026-05-07T19:23:41.283Z",
   "count": 278,
   "approvedCount": 75,
   "pendingCount": 202,
@@ -976,9 +976,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Stellar Lumens Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-06",
+      "filingDate": "2026-05-07",
       "initialFilingDate": "2025-09-24",
-      "decisionDeadline": "2026-05-06",
+      "decisionDeadline": "2026-05-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -986,7 +986,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001761325",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761325",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197745426000166/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197641526000023/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GTAO-0002029297-0",
@@ -1135,7 +1135,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "BITU-0001174610-0",
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "BITI-0001174610-0",
@@ -1175,7 +1175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -1195,7 +1195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "EETH-0001174610-0",
@@ -1215,7 +1215,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1235,7 +1235,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1255,7 +1255,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1275,7 +1275,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1298,7 +1298,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000165/f45258d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000207169126009418/xslN-MFP3_X01/primary_doc.xml"
     },
     {
       "id": "XRPR-0001771146-0",
@@ -4293,7 +4293,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774925037057/iset20251205_s1.htm"
     },
     {
-      "id": "undefined-0002073505-0",
+      "id": "undefined-0002073505-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
@@ -4312,7 +4312,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912626004635/kraneshares_s1a4.htm"
     },
     {
-      "id": "undefined-0002073505-1",
+      "id": "undefined-0002073505-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
@@ -4331,7 +4331,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912626003715/kraneshares_s1a3.htm"
     },
     {
-      "id": "undefined-0002073505-2",
+      "id": "undefined-0002073505-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
@@ -4350,7 +4350,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912626001361/kraneshares_s1a.htm"
     },
     {
-      "id": "undefined-0002073505-3",
+      "id": "undefined-0002073505-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
@@ -4369,7 +4369,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625009228/kraneshares_s1a.htm"
     },
     {
-      "id": "undefined-0002073505-4",
+      "id": "undefined-0002073505-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
@@ -4388,7 +4388,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004777/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0002073505-5",
+      "id": "undefined-0002073505-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Kraneshares",
