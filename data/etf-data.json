@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-12T16:12:26.913Z",
-  "count": 281,
+  "timestamp": "2026-05-12T18:31:03.780Z",
+  "count": 282,
   "approvedCount": 75,
-  "pendingCount": 205,
+  "pendingCount": 206,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 187,
+  "discoveredCount": 189,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-11",
+      "filingDate": "2026-05-12",
       "initialFilingDate": "2025-05-12",
-      "decisionDeadline": "2026-05-11",
+      "decisionDeadline": "2026-05-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000940/etfopptrust-tuttlecapitalm.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000089418926014674/xslFormNPORT-P_X01/primary_doc.xml"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3246,7 +3246,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826002167/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-0",
+      "id": "undefined-0001592900-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3265,7 +3265,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002014/ck0001592900-20260511.htm"
     },
     {
-      "id": "undefined-0001592900-6",
+      "id": "undefined-0001592900-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3284,7 +3284,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001997/ck0001592900-20260510.htm"
     },
     {
-      "id": "undefined-0001592900-12",
+      "id": "undefined-0001592900-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3911,6 +3911,25 @@
       "cik": "0002083106",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083106",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083106/000208310625000004/gada-20250829.htm"
+    },
+    {
+      "id": "undefined-0002040120-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Aave Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-13",
+      "initialFilingDate": "2026-02-13",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002040120",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002040120",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2040120/000119312526051643/aave-20260213.htm"
     },
     {
       "id": "undefined-0002107730-0",
