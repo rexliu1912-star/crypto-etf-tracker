@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-13T13:59:21.509Z",
+  "timestamp": "2026-05-13T16:16:56.491Z",
   "count": 284,
   "approvedCount": 75,
   "pendingCount": 208,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 189,
+  "discoveredCount": 190,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -2415,7 +2415,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025007545/ea0228742-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-1",
+      "id": "undefined-0002088139-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2434,7 +2434,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390026052317/ea0288809-s1a3_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-2",
+      "id": "undefined-0002088139-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2453,7 +2453,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390026042513/ea0285803-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-3",
+      "id": "undefined-0002088139-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2472,7 +2472,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390025121386/ea0269454-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-4",
+      "id": "undefined-0002088139-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
