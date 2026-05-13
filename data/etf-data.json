@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-05-13T08:30:21.369Z",
+  "timestamp": "2026-05-13T11:24:24.885Z",
   "count": 284,
   "approvedCount": 75,
   "pendingCount": 208,
@@ -647,9 +647,9 @@
       "issuer": "Franklin Templeton",
       "etfName": "Franklin Crypto Index ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2024-08-16",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -660,7 +660,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002033807",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002033807",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2033807/000119312526214641/d150292d8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2033807/000114036126020861/ef20070481_10q.htm"
     },
     {
       "id": "XRPZ-0002059438-0",
