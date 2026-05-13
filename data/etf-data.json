@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-13T18:53:14.220Z",
-  "count": 275,
+  "timestamp": "2026-05-13T20:27:48.165Z",
+  "count": 284,
   "approvedCount": 75,
-  "pendingCount": 199,
+  "pendingCount": 208,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 186,
+  "discoveredCount": 190,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -118,9 +118,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-04-01",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2024-11-01",
-      "decisionDeadline": "2026-04-01",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -128,7 +128,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002028835",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028835",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028835/000121390026038424/ea028446702-424i_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028835/000121390026055788/ea0288536-10q_21shares.htm"
     },
     {
       "id": "TSUI-0002061626-0",
@@ -397,9 +397,9 @@
       "issuer": "Canary Capital",
       "etfName": "Canary XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-31",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2024-10-08",
-      "decisionDeadline": "2026-03-31",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -407,7 +407,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002039505",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039505",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039505/000199937126007350/xrpc-10k_123125.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039505/000199937126010641/xrpc-10q_033126.htm"
     },
     {
       "id": "LTCC-0002039461-0",
@@ -417,9 +417,9 @@
       "issuer": "Canary Capital",
       "etfName": "Canary Litecoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-31",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2024-10-15",
-      "decisionDeadline": "2026-03-31",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -427,7 +427,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002039461",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002039461",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039461/000199937126007351/ltcc-10k_123125.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039461/000199937126010636/ltcc-10q_033126.htm"
     },
     {
       "id": "HBAR-0002039459-0",
@@ -457,9 +457,9 @@
       "issuer": "Canary Capital",
       "etfName": "Canary Solana ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-31",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2024-10-30",
-      "decisionDeadline": "2026-03-31",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -467,7 +467,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002041869",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002041869",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2041869/000199937126007348/solc-10k_123125.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2041869/000199937126010640/solc-10q_033126.htm"
     },
     {
       "id": "LMBO-0001424958-0",
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-12",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2025-05-13",
-      "decisionDeadline": "2026-05-12",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000949/etfopps-fepisupplementxdis.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000954/ck0001771146-20260513.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000113322826008134/vs-efp23432_ncsr.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026055700/ea0288731-03_8a12b.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1531,9 +1531,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1541,7 +1541,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000113322826008134/vs-efp23432_ncsr.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026055700/ea0288731-03_8a12b.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -1551,9 +1551,9 @@
       "issuer": "WisdomTree",
       "etfName": "WisdomTree Bitcoin Fund",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-05",
+      "filingDate": "2026-05-13",
       "initialFilingDate": "2021-03-11",
-      "decisionDeadline": "2026-05-05",
+      "decisionDeadline": "2026-05-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1561,7 +1561,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001850391",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850391",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1850391/000139077726000062/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1850391/000121465926006093/wtb5627010q.htm"
     },
     {
       "id": "ETHW-0002057391-0",
@@ -1843,7 +1843,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/forms-1.htm"
     },
     {
-      "id": "undefined-0001547950-11",
+      "id": "undefined-0001547950-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1862,7 +1862,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026048706/ea0287432-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-12",
+      "id": "undefined-0001547950-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1881,7 +1881,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026048632/ea0286683-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-21",
+      "id": "undefined-0001547950-22",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1900,7 +1900,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026047633/ea0286568-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-30",
+      "id": "undefined-0001547950-31",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -2738,7 +2738,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315225012160/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0002039458-16",
+      "id": "undefined-0002039458-17",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2757,7 +2757,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125014860/canaryhbar-s1a_100725.htm"
     },
     {
-      "id": "undefined-0002039458-18",
+      "id": "undefined-0002039458-19",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2776,7 +2776,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937125013724/canary-s1a_092225.htm"
     },
     {
-      "id": "undefined-0002039458-20",
+      "id": "undefined-0002039458-21",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2795,7 +2795,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000183988225010352/canary-s1a_022125.htm"
     },
     {
-      "id": "undefined-0002039458-21",
+      "id": "undefined-0002039458-22",
       "cryptocurrency": "Hedera",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2814,7 +2814,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2039458/000199937124014510/hbar_s1-111224.htm"
     },
     {
-      "id": "undefined-0002060703-4",
+      "id": "undefined-0002060703-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2833,7 +2833,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126003132/sui-s1a_021226.htm"
     },
     {
-      "id": "undefined-0002060703-5",
+      "id": "undefined-0002060703-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2852,7 +2852,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126002476/sui-s1a_020326.htm"
     },
     {
-      "id": "undefined-0002060703-6",
+      "id": "undefined-0002060703-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2871,7 +2871,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937126001140/sui-s1a_011626.htm"
     },
     {
-      "id": "undefined-0002060703-7",
+      "id": "undefined-0002060703-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2890,7 +2890,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937125020698/sui-s1a_121825.htm"
     },
     {
-      "id": "undefined-0002060703-8",
+      "id": "undefined-0002060703-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2909,7 +2909,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060703/000199937125015628/sui-s1a_101725.htm"
     },
     {
-      "id": "undefined-0002060703-9",
+      "id": "undefined-0002060703-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -3246,7 +3246,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826002167/xslF345X05/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-0",
+      "id": "undefined-0001592900-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3265,7 +3265,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002035/ck0001592900-20260512.htm"
     },
     {
-      "id": "undefined-0001592900-6",
+      "id": "undefined-0001592900-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3284,7 +3284,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002014/ck0001592900-20260511.htm"
     },
     {
-      "id": "undefined-0001592900-12",
+      "id": "undefined-0001592900-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3303,7 +3303,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001997/ck0001592900-20260510.htm"
     },
     {
-      "id": "undefined-0001592900-18",
+      "id": "undefined-0001592900-21",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -4293,6 +4293,82 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
     },
     {
+      "id": "undefined-0002099103-13",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-06",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
+    },
+    {
+      "id": "undefined-0002099103-14",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-02",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
+    },
+    {
+      "id": "undefined-0002099103-15",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-02-17",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
+    },
+    {
+      "id": "undefined-0002099103-16",
+      "cryptocurrency": "Ethereum",
+      "symbol": "PEND",
+      "issuer": "iShares",
+      "etfName": "iShares Staked Ethereum Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-08",
+      "initialFilingDate": "2025-12-08",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002099103",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774925037057/iset20251205_s1.htm"
+    },
+    {
       "id": "undefined-0002073505-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
@@ -5244,6 +5320,101 @@
       "cik": "0001884022",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884022",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
+    },
+    {
+      "id": "undefined-0002066824-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "VanEck",
+      "etfName": "VanEck BNB ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-04-28",
+      "initialFilingDate": "2025-05-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002066824",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002066824",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026027783/vaneckbnbs-1a4.htm"
+    },
+    {
+      "id": "undefined-0002066824-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "VanEck",
+      "etfName": "VanEck BNB ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-03-16",
+      "initialFilingDate": "2025-05-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002066824",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002066824",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026017834/vaneckbnbs-1a3.htm"
+    },
+    {
+      "id": "undefined-0002066824-2",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "VanEck",
+      "etfName": "VanEck BNB ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-11-21",
+      "initialFilingDate": "2025-05-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002066824",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002066824",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025053634/vaneckbnbs-1a2.htm"
+    },
+    {
+      "id": "undefined-0002066824-3",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "VanEck",
+      "etfName": "VanEck BNB ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-10-30",
+      "initialFilingDate": "2025-05-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002066824",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002066824",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025047581/vaneckbnbs-1a1.htm"
+    },
+    {
+      "id": "undefined-0002066824-4",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "VanEck",
+      "etfName": "VanEck BNB ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-05-05",
+      "initialFilingDate": "2025-05-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002066824",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002066824",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000206682425000002/vaneckbnbetfs-1.htm"
     },
     {
       "id": "undefined-0002055464-10",
