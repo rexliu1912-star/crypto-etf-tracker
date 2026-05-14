@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-05-14T13:24:34.779Z",
+  "timestamp": "2026-05-14T16:04:50.174Z",
   "count": 285,
   "approvedCount": 75,
   "pendingCount": 209,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-13",
+      "filingDate": "2026-05-14",
       "initialFilingDate": "2025-05-14",
-      "decisionDeadline": "2026-05-13",
+      "decisionDeadline": "2026-05-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000957/t-rex2xinversedrametfx485a.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000964/etfot-txrex2xsndketfstocks.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-05-13",
+      "filingDate": "2026-05-14",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-05-13",
+      "decisionDeadline": "2026-05-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026055700/ea0288731-03_8a12b.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000141783526000127/8A_Cert_AZAV_SUIL.pdf"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1531,9 +1531,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-05-13",
+      "filingDate": "2026-05-14",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-05-13",
+      "decisionDeadline": "2026-05-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1541,7 +1541,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026055700/ea0288731-03_8a12b.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000141783526000127/8A_Cert_AZAV_SUIL.pdf"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -5226,7 +5226,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009191/kfg-485bpos_042826.htm"
     },
     {
-      "id": "undefined-0001650149-2",
+      "id": "undefined-0001650149-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5245,7 +5245,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm"
     },
     {
-      "id": "undefined-0001650149-11",
+      "id": "undefined-0001650149-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5264,7 +5264,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926013080/ck0001650149-20260424.htm"
     },
     {
-      "id": "undefined-0001650149-23",
+      "id": "undefined-0001650149-24",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5283,7 +5283,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926009800/ck0001650149-20260330.htm"
     },
     {
-      "id": "undefined-0001650149-37",
+      "id": "undefined-0001650149-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5302,7 +5302,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926007018/ck0001650149-20260227.htm"
     },
     {
-      "id": "undefined-0001650149-39",
+      "id": "undefined-0001650149-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
