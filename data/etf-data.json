@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-14T18:28:51.262Z",
+  "timestamp": "2026-05-14T20:23:39.874Z",
   "count": 285,
   "approvedCount": 75,
   "pendingCount": 209,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 190,
+  "discoveredCount": 189,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1016,9 +1016,9 @@
       "issuer": "Hashdex",
       "etfName": "Hashdex Nasdaq Crypto Index US ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-13",
+      "filingDate": "2026-05-14",
       "initialFilingDate": "2024-07-24",
-      "decisionDeadline": "2026-05-13",
+      "decisionDeadline": "2026-05-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1035,7 +1035,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002031069",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002031069",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026055931/ea0209567-15.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026056554/ea0290647-fwp_hashdex.htm"
     },
     {
       "id": "BTCO-0001855781-0",
@@ -1431,9 +1431,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-27",
+      "filingDate": "2026-05-14",
       "initialFilingDate": "2020-12-30",
-      "decisionDeadline": "2026-03-27",
+      "decisionDeadline": "2026-05-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1441,7 +1441,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001838028",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001838028",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000093041326000927/c115591_10ka-ixbrl.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1838028/000093041326001608/c116314_10q-ixbrl.htm"
     },
     {
       "id": "ETHV-0001852063-0",
@@ -1471,9 +1471,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Solana ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-30",
+      "filingDate": "2026-05-14",
       "initialFilingDate": "2024-06-27",
-      "decisionDeadline": "2026-03-30",
+      "decisionDeadline": "2026-05-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1481,7 +1481,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002028541",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028541",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028541/000093041326000939/c115938_10k-ixbrl.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028541/000093041326001610/c116316_10q-ixbrl.htm"
     },
     {
       "id": "VAVX-0002060717-0",
@@ -1491,9 +1491,9 @@
       "issuer": "VanEck",
       "etfName": "VanEck Avalanche ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-03-30",
+      "filingDate": "2026-05-14",
       "initialFilingDate": "2025-03-14",
-      "decisionDeadline": "2026-03-30",
+      "decisionDeadline": "2026-05-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1501,7 +1501,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002060717",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002060717",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000093041326000941/c115939_10k-ixbrl.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2060717/000093041326001611/c116317_10q-ixbrl.htm"
     },
     {
       "id": "BITX-0001884021-0",
@@ -1919,7 +1919,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026044196/ea0286417-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001095146-13",
+      "id": "undefined-0001095146-14",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Athena",
@@ -1938,7 +1938,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004825/athbitcoin_s1a1.htm"
     },
     {
-      "id": "undefined-0001095146-17",
+      "id": "undefined-0001095146-18",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Athena",
@@ -1957,7 +1957,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004741/athbitcoin_is1.htm"
     },
     {
-      "id": "undefined-0001095146-24",
+      "id": "undefined-0001095146-25",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Athena",
@@ -1976,7 +1976,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825003402/athena_s1a9.htm"
     },
     {
-      "id": "undefined-0001095146-26",
+      "id": "undefined-0001095146-27",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Athena",
@@ -1993,25 +1993,6 @@
       "cik": "0001095146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001095146",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825003128/athena_s1a8.htm"
-    },
-    {
-      "id": "undefined-0001095146-29",
-      "cryptocurrency": "Bitcoin",
-      "symbol": "PEND",
-      "issuer": "Athena",
-      "etfName": "Athena Bitcoin Global",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-04-10",
-      "initialFilingDate": "2022-02-10",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001095146",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001095146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825002408/athena_s1a7.htm"
     },
     {
       "id": "undefined-0001901799-2",
@@ -2974,6 +2955,25 @@
       "issuer": "Corgi",
       "etfName": "Corgi ETF Trust III",
       "filingType": "Spot ETF",
+      "filingDate": "2026-05-14",
+      "initialFilingDate": "2026-01-20",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002100194",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000013/N1A.htm"
+    },
+    {
+      "id": "undefined-0002100194-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Corgi",
+      "etfName": "Corgi ETF Trust III",
+      "filingType": "Spot ETF",
       "filingDate": "2026-04-10",
       "initialFilingDate": "2026-01-20",
       "decisionDeadline": "待通过",
@@ -2987,7 +2987,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000008/CorgiETFTrustIIIN1AA.htm"
     },
     {
-      "id": "undefined-0002100194-1",
+      "id": "undefined-0002100194-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -4789,7 +4789,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000110465926032204/tm265040d1_485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-15",
+      "id": "undefined-0001742912-16",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4808,7 +4808,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126009988/smart_485bpos-050526.htm"
     },
     {
-      "id": "undefined-0001742912-23",
+      "id": "undefined-0001742912-24",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
