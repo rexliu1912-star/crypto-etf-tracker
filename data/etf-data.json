@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-15T08:35:43.146Z",
+  "timestamp": "2026-05-15T11:11:35.440Z",
   "count": 284,
   "approvedCount": 75,
   "pendingCount": 208,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 189,
+  "discoveredCount": 188,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-05-14",
+      "filingDate": "2026-05-15",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-05-14",
+      "decisionDeadline": "2026-05-15",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000119312526223855/xslFormN-CEN_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026056890/ea0288731-05_497k.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1531,9 +1531,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-05-14",
+      "filingDate": "2026-05-15",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-05-14",
+      "decisionDeadline": "2026-05-15",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1541,7 +1541,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000119312526223855/xslFormN-CEN_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026056890/ea0288731-05_497k.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -2396,7 +2396,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025007545/ea0228742-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-3",
+      "id": "undefined-0002088139-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2415,7 +2415,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390026052317/ea0288809-s1a3_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-4",
+      "id": "undefined-0002088139-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2434,7 +2434,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390026042513/ea0285803-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-5",
+      "id": "undefined-0002088139-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2453,7 +2453,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390025121386/ea0269454-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-6",
+      "id": "undefined-0002088139-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2529,7 +2529,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025080461/ea0254517-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002070542-8",
+      "id": "undefined-0002070542-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "BlockchAIn",
@@ -2548,7 +2548,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026030811/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0002070542-12",
+      "id": "undefined-0002070542-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "BlockchAIn",
@@ -2567,7 +2567,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026028385/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0002070542-17",
+      "id": "undefined-0002070542-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "BlockchAIn",
