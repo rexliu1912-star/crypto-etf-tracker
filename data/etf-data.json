@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-15T20:49:02.684Z",
-  "count": 286,
+  "timestamp": "2026-05-15T21:47:03.297Z",
+  "count": 287,
   "approvedCount": 75,
-  "pendingCount": 210,
+  "pendingCount": 211,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 188,
+  "discoveredCount": 175,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -148,7 +148,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002061626",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002061626",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061626/000121390026057692/ea0289269-10q_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061626/000121390026057960/ea0291153-424b3_21shares.htm"
     },
     {
       "id": "TDOT-0002054247-0",
@@ -1615,7 +1615,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2075000/000091142025000207/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002028834-13",
+      "id": "undefined-0002028834-14",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1634,7 +1634,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/ea0259370-s1a5_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-15",
+      "id": "undefined-0002028834-16",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1653,7 +1653,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/ea0258805-s1a4_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-16",
+      "id": "undefined-0002028834-17",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1672,7 +1672,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025082627/ea0255191-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-17",
+      "id": "undefined-0002028834-18",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1691,7 +1691,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/ea0250753-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-18",
+      "id": "undefined-0002028834-19",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1710,7 +1710,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025054351/ea0245677-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-19",
+      "id": "undefined-0002028834-20",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -5245,7 +5245,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009191/kfg-485bpos_042826.htm"
     },
     {
-      "id": "undefined-0001650149-6",
+      "id": "undefined-0001650149-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5264,7 +5264,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm"
     },
     {
-      "id": "undefined-0001650149-15",
+      "id": "undefined-0001650149-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5283,7 +5283,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926013080/ck0001650149-20260424.htm"
     },
     {
-      "id": "undefined-0001650149-27",
+      "id": "undefined-0001650149-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5302,7 +5302,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926009800/ck0001650149-20260330.htm"
     },
     {
-      "id": "undefined-0001650149-41",
+      "id": "undefined-0001650149-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5321,7 +5321,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926007018/ck0001650149-20260227.htm"
     },
     {
-      "id": "undefined-0001650149-43",
+      "id": "undefined-0001650149-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5366,6 +5366,25 @@
       "issuer": "VanEck",
       "etfName": "VanEck BNB ETF",
       "filingType": "Spot ETF",
+      "filingDate": "2026-05-15",
+      "initialFilingDate": "2025-05-05",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002066824",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002066824",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026035722/vaneckbnbs-1a5.htm"
+    },
+    {
+      "id": "undefined-0002066824-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "VanEck",
+      "etfName": "VanEck BNB ETF",
+      "filingType": "Spot ETF",
       "filingDate": "2026-04-28",
       "initialFilingDate": "2025-05-05",
       "decisionDeadline": "待通过",
@@ -5379,7 +5398,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026027783/vaneckbnbs-1a4.htm"
     },
     {
-      "id": "undefined-0002066824-1",
+      "id": "undefined-0002066824-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5398,7 +5417,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026017834/vaneckbnbs-1a3.htm"
     },
     {
-      "id": "undefined-0002066824-2",
+      "id": "undefined-0002066824-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5417,7 +5436,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025053634/vaneckbnbs-1a2.htm"
     },
     {
-      "id": "undefined-0002066824-3",
+      "id": "undefined-0002066824-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5436,7 +5455,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025047581/vaneckbnbs-1a1.htm"
     },
     {
-      "id": "undefined-0002066824-4",
+      "id": "undefined-0002066824-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
