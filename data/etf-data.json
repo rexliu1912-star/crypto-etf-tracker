@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-17T10:17:23.924Z",
+  "timestamp": "2026-05-17T11:52:38.203Z",
   "count": 287,
   "approvedCount": 75,
   "pendingCount": 211,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 181,
+  "discoveredCount": 188,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
