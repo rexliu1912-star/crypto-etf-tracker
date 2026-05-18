@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-05-18T14:23:44.159Z",
+  "timestamp": "2026-05-18T17:24:26.453Z",
   "count": 288,
   "approvedCount": 75,
   "pendingCount": 212,
@@ -896,9 +896,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-06",
+      "filingDate": "2026-05-18",
       "initialFilingDate": "2023-05-09",
-      "decisionDeadline": "2026-05-06",
+      "decisionDeadline": "2026-05-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -906,7 +906,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001976672",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001976672",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000041/c485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000043/c485bxt.htm"
     },
     {
       "id": "BPI-0001976673-0",
