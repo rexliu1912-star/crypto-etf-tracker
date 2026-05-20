@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-20T08:50:31.496Z",
-  "count": 289,
+  "timestamp": "2026-05-20T11:41:38.526Z",
+  "count": 290,
   "approvedCount": 75,
-  "pendingCount": 213,
+  "pendingCount": 214,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 188,
+  "discoveredCount": 189,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1919,7 +1919,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026044196/ea0286417-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001095146-16",
+      "id": "undefined-0001095146-18",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Athena",
@@ -1938,7 +1938,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004825/athbitcoin_s1a1.htm"
     },
     {
-      "id": "undefined-0001095146-20",
+      "id": "undefined-0001095146-22",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Athena",
@@ -1957,7 +1957,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004741/athbitcoin_is1.htm"
     },
     {
-      "id": "undefined-0001095146-27",
+      "id": "undefined-0001095146-29",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "Athena",
@@ -1974,25 +1974,6 @@
       "cik": "0001095146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001095146",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825003402/athena_s1a9.htm"
-    },
-    {
-      "id": "undefined-0001095146-29",
-      "cryptocurrency": "Bitcoin",
-      "symbol": "PEND",
-      "issuer": "Athena",
-      "etfName": "Athena Bitcoin Global",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-05-05",
-      "initialFilingDate": "2022-02-10",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001095146",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001095146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825003128/athena_s1a8.htm"
     },
     {
       "id": "undefined-0001901799-6",
@@ -4675,6 +4656,44 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103614/000210361426000002/xslFormDX01/primary_doc.xml"
     },
     {
+      "id": "undefined-0002103547-0",
+      "cryptocurrency": "Solana",
+      "symbol": "PEND",
+      "issuer": "Morgan Stanley",
+      "etfName": "Morgan Stanley Solana Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-05-20",
+      "initialFilingDate": "2026-01-06",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002103547",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103547",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926064065/tm2534148d2_s1a.htm"
+    },
+    {
+      "id": "undefined-0002103547-1",
+      "cryptocurrency": "Solana",
+      "symbol": "PEND",
+      "issuer": "Morgan Stanley",
+      "etfName": "Morgan Stanley Solana Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-06",
+      "initialFilingDate": "2026-01-06",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002103547",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103547",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926000988/tm2534148d1_s1.htm"
+    },
+    {
       "id": "undefined-0001345125-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
@@ -4808,7 +4827,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126009675/brandywine-485bxt_050126.htm"
     },
     {
-      "id": "undefined-0000064463-17",
+      "id": "undefined-0000064463-18",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4827,7 +4846,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226016626/forms-1.htm"
     },
     {
-      "id": "undefined-0000064463-21",
+      "id": "undefined-0000064463-22",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4846,7 +4865,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226015712/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-28",
+      "id": "undefined-0000064463-29",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
