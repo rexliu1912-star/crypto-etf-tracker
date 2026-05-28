@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-05-28T09:47:09.029Z",
-  "count": 293,
+  "timestamp": "2026-05-28T13:00:23.342Z",
+  "count": 297,
   "approvedCount": 75,
-  "pendingCount": 217,
+  "pendingCount": 221,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 185,
+  "discoveredCount": 184,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1803,6 +1803,44 @@
       "cik": "0002090011",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002090011",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/ea0262697-s1_21shares.htm"
+    },
+    {
+      "id": "undefined-0001460702-17",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "AIxCrypto",
+      "etfName": "AIxCrypto Holdings, Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-05",
+      "initialFilingDate": "2015-03-23",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001460702",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001460702",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000121390025118901/xslF345X02/ownership.xml"
+    },
+    {
+      "id": "undefined-0001460702-19",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "AIxCrypto",
+      "etfName": "AIxCrypto Holdings, Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-12-04",
+      "initialFilingDate": "2015-03-23",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001460702",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001460702",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/forms-1.htm"
     },
     {
       "id": "undefined-0001547950-13",
@@ -4065,6 +4103,44 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073548/000119312525279127/ck0002073548-20251113.htm"
     },
     {
+      "id": "undefined-0002083106-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Cardano Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-10-20",
+      "initialFilingDate": "2025-08-29",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002083106",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083106",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083106/000119312525243710/ada_s-1_amendment_1.htm"
+    },
+    {
+      "id": "undefined-0002083106-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Grayscale",
+      "etfName": "Grayscale Cardano Trust ETF",
+      "filingType": "Spot ETF",
+      "filingDate": "2025-08-29",
+      "initialFilingDate": "2025-08-29",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002083106",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083106",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083106/000208310625000004/gada-20250829.htm"
+    },
+    {
       "id": "undefined-0001985840-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
@@ -5474,7 +5550,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002066824-3",
+      "id": "undefined-0002066824-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5493,7 +5569,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026035722/vaneckbnbs-1a5.htm"
     },
     {
-      "id": "undefined-0002066824-4",
+      "id": "undefined-0002066824-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5512,7 +5588,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026027783/vaneckbnbs-1a4.htm"
     },
     {
-      "id": "undefined-0002066824-5",
+      "id": "undefined-0002066824-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5531,7 +5607,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026017834/vaneckbnbs-1a3.htm"
     },
     {
-      "id": "undefined-0002066824-6",
+      "id": "undefined-0002066824-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5550,7 +5626,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025053634/vaneckbnbs-1a2.htm"
     },
     {
-      "id": "undefined-0002066824-7",
+      "id": "undefined-0002066824-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5569,7 +5645,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025047581/vaneckbnbs-1a1.htm"
     },
     {
-      "id": "undefined-0002066824-8",
+      "id": "undefined-0002066824-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
