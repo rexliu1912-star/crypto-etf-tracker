@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-06-02T17:59:15.204Z",
+  "timestamp": "2026-06-02T20:37:00.923Z",
   "count": 278,
   "approvedCount": 75,
   "pendingCount": 202,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 186,
+  "discoveredCount": 187,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -269,9 +269,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana Staking ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-05",
+      "filingDate": "2026-06-02",
       "initialFilingDate": "2025-02-24",
-      "decisionDeadline": "2026-05-05",
+      "decisionDeadline": "2026-06-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -279,7 +279,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002057389",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057389",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000014/xslF345X06/wk-form4_1778012819.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000016/xslF345X06/wk-form4_1780431580.xml"
     },
     {
       "id": "BITQ-0001905963-0",
@@ -896,9 +896,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-06-01",
+      "filingDate": "2026-06-02",
       "initialFilingDate": "2023-05-09",
-      "decisionDeadline": "2026-06-01",
+      "decisionDeadline": "2026-06-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -906,7 +906,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001976672",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001976672",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000119312526251351/xslFormNPORT-P_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000197667226000047/c485bxt.htm"
     },
     {
       "id": "BPI-0001976673-0",
@@ -3647,7 +3647,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2084948/000095017025113803/hbar-20250909.htm"
     },
     {
-      "id": "undefined-0002107730-0",
+      "id": "undefined-0002107730-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3666,7 +3666,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526250471/hype_s-1_amendment_6.htm"
     },
     {
-      "id": "undefined-0002107730-1",
+      "id": "undefined-0002107730-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3685,7 +3685,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526248888/hype_s-1_amendment_5.htm"
     },
     {
-      "id": "undefined-0002107730-2",
+      "id": "undefined-0002107730-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3704,7 +3704,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526243167/hype_s-1_amendment_4.htm"
     },
     {
-      "id": "undefined-0002107730-5",
+      "id": "undefined-0002107730-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3723,7 +3723,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526237193/hype_s-1_amendment_3.htm"
     },
     {
-      "id": "undefined-0002107730-6",
+      "id": "undefined-0002107730-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3742,7 +3742,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526215888/hype_s-1_amendment_2.htm"
     },
     {
-      "id": "undefined-0002107730-7",
+      "id": "undefined-0002107730-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3761,7 +3761,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526163263/hype_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002107730-8",
+      "id": "undefined-0002107730-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
