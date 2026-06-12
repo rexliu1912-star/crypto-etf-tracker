@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-06-12T12:48:20.516Z",
-  "count": 288,
+  "timestamp": "2026-06-12T16:03:32.563Z",
+  "count": 286,
   "approvedCount": 75,
-  "pendingCount": 212,
+  "pendingCount": 210,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 186,
+  "discoveredCount": 182,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-06-10",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2024-12-30",
-      "decisionDeadline": "2026-06-10",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526265931/d101574d497.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000114336226000209/LOFF061226.pdf"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-06-10",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2024-12-30",
-      "decisionDeadline": "2026-06-10",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526265931/d101574d497.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000114336226000209/LOFF061226.pdf"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -1125,9 +1125,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Bitcoin Strategy ETF",
       "filingType": "Futures ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1135,7 +1135,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "BITU-0001174610-0",
@@ -1145,9 +1145,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Ultra Bitcoin ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "BITI-0001174610-0",
@@ -1165,9 +1165,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Short Bitcoin ETF",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1175,7 +1175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -1185,9 +1185,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares UltraShort Bitcoin ETF",
       "filingType": "-2x Inverse ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1195,7 +1195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "EETH-0001174610-0",
@@ -1205,9 +1205,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Ether Strategy ETF",
       "filingType": "Futures ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1215,7 +1215,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1225,9 +1225,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Ultra Ether ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1235,7 +1235,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1245,9 +1245,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Short Ether ETF",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1255,7 +1255,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1265,9 +1265,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares UltraShort Ether ETF",
       "filingType": "-2x Inverse ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1275,7 +1275,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1285,9 +1285,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Bitcoin & Ether Market Cap Weight ETF",
       "filingType": "Combo ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1298,7 +1298,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1308,9 +1308,9 @@
       "issuer": "ProShares",
       "etfName": "ProShares Bitcoin & Ether Equal Weight ETF",
       "filingType": "Combo ETF",
-      "filingDate": "2026-06-11",
+      "filingDate": "2026-06-12",
       "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000114336226000208/SPCF061226.pdf"
     },
     {
       "id": "XRPR-0001771146-0",
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-06-11",
-      "initialFilingDate": "2025-06-11",
-      "decisionDeadline": "2026-06-11",
+      "filingDate": "2026-06-12",
+      "initialFilingDate": "2025-06-12",
+      "decisionDeadline": "2026-06-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001242/etfopptrust-hedgeyebrights.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000114336226000210/SPAX061226.pdf"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3196,7 +3196,7 @@
       "etfName": "Direxion Shares ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-06-10",
-      "initialFilingDate": "2025-06-11",
+      "initialFilingDate": "2025-06-12",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -3215,7 +3215,7 @@
       "etfName": "Direxion Shares ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-06-03",
-      "initialFilingDate": "2025-06-11",
+      "initialFilingDate": "2025-06-12",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -3234,7 +3234,7 @@
       "etfName": "Direxion Shares ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-06-02",
-      "initialFilingDate": "2025-06-11",
+      "initialFilingDate": "2025-06-12",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -3932,7 +3932,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1985840/000138713125000058/bitcoin-s1a_031425.htm"
     },
     {
-      "id": "undefined-0001618627-1",
+      "id": "undefined-0001618627-0",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Innovator ETFs Trust",
@@ -4426,14 +4426,14 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-3",
+      "id": "undefined-0001683471-0",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-06-11",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4452,7 +4452,7 @@
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-06-05",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4471,7 +4471,7 @@
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-06-04",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4490,7 +4490,7 @@
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-05-29",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4509,7 +4509,7 @@
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-05-22",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4528,7 +4528,7 @@
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-05-22",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4547,7 +4547,7 @@
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-05-22",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4566,7 +4566,7 @@
       "etfName": "Listed Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-05-15",
-      "initialFilingDate": "2024-08-30",
+      "initialFilingDate": "2024-09-03",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -4616,44 +4616,6 @@
       "cik": "0002103614",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103614",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103614/000210361426000002/xslFormDX01/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0002103547-0",
-      "cryptocurrency": "Solana",
-      "symbol": "PEND",
-      "issuer": "Morgan Stanley",
-      "etfName": "Morgan Stanley Solana Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-05-20",
-      "initialFilingDate": "2026-01-06",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002103547",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103547",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926064065/tm2534148d2_s1a.htm"
-    },
-    {
-      "id": "undefined-0002103547-1",
-      "cryptocurrency": "Solana",
-      "symbol": "PEND",
-      "issuer": "Morgan Stanley",
-      "etfName": "Morgan Stanley Solana Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-06",
-      "initialFilingDate": "2026-01-06",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002103547",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103547",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926000988/tm2534148d1_s1.htm"
     },
     {
       "id": "undefined-0001345125-19",
@@ -4998,7 +4960,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1471824/000143774926004510/weat20260217_s1a.htm"
     },
     {
-      "id": "undefined-0001924868-0",
+      "id": "undefined-0001924868-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5017,7 +4979,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012703/defiance-485bxt_061226.htm"
     },
     {
-      "id": "undefined-0001924868-1",
+      "id": "undefined-0001924868-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5036,7 +4998,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012702/defiance-485bxt_061226.htm"
     },
     {
-      "id": "undefined-0001924868-2",
+      "id": "undefined-0001924868-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5055,7 +5017,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012700/prai-485bpos_061226.htm"
     },
     {
-      "id": "undefined-0001924868-4",
+      "id": "undefined-0001924868-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5074,7 +5036,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012694/defiance-485bxt_061226.htm"
     },
     {
-      "id": "undefined-0001924868-5",
+      "id": "undefined-0001924868-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5093,7 +5055,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012692/defiance-485bxt_061226.htm"
     },
     {
-      "id": "undefined-0001924868-6",
+      "id": "undefined-0001924868-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5112,7 +5074,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012688/defiance-485bxt_061226.htm"
     },
     {
-      "id": "undefined-0001924868-7",
+      "id": "undefined-0001924868-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5131,7 +5093,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012686/defiance-485bxt_061226.htm"
     },
     {
-      "id": "undefined-0001924868-11",
+      "id": "undefined-0001924868-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5150,7 +5112,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012526/spcl-485bpos_061026.htm"
     },
     {
-      "id": "undefined-0001924868-12",
+      "id": "undefined-0001924868-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5169,7 +5131,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012520/defiance-485bxt_061026.htm"
     },
     {
-      "id": "undefined-0001924868-26",
+      "id": "undefined-0001924868-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5188,7 +5150,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012334/defiance-485bxt_060826.htm"
     },
     {
-      "id": "undefined-0001924868-27",
+      "id": "undefined-0001924868-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5207,7 +5169,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012320/defiance-485bxt_060826.htm"
     },
     {
-      "id": "undefined-0001924868-28",
+      "id": "undefined-0001924868-31",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5226,7 +5188,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012314/yieldmax-485apos_060826.htm"
     },
     {
-      "id": "undefined-0001924868-33",
+      "id": "undefined-0001924868-36",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5245,7 +5207,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012192/defiance-485apos_060526.htm"
     },
     {
-      "id": "undefined-0001924868-36",
+      "id": "undefined-0001924868-39",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5264,7 +5226,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012125/defiance-485bxt_060526.htm"
     },
     {
-      "id": "undefined-0001924868-37",
+      "id": "undefined-0001924868-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5283,7 +5245,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012121/spacex-485bpos_060526.htm"
     },
     {
-      "id": "undefined-0001924868-38",
+      "id": "undefined-0001924868-41",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5302,7 +5264,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012118/defiance-485bxt_060526.htm"
     },
     {
-      "id": "undefined-0001924868-45",
+      "id": "undefined-0001924868-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
