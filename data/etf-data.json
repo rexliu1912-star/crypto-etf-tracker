@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-06-12T20:59:53.901Z",
-  "count": 286,
+  "timestamp": "2026-06-12T22:21:37.621Z",
+  "count": 287,
   "approvedCount": 75,
-  "pendingCount": 210,
+  "pendingCount": 211,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -1135,7 +1135,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "BITU-0001174610-0",
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "BITI-0001174610-0",
@@ -1175,7 +1175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -1195,7 +1195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "EETH-0001174610-0",
@@ -1215,7 +1215,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1235,7 +1235,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1255,7 +1255,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1275,7 +1275,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1298,7 +1298,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000332/f45537d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm"
     },
     {
       "id": "XRPR-0001771146-0",
@@ -2630,6 +2630,25 @@
       "issuer": "BTCS",
       "etfName": "BTCS Inc.",
       "filingType": "Spot ETF",
+      "filingDate": "2026-06-12",
+      "initialFilingDate": "2008-05-29",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001436229",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001436229",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226028497/xslF345X06/ownership.xml"
+    },
+    {
+      "id": "undefined-0001436229-1",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "BTCS",
+      "etfName": "BTCS Inc.",
+      "filingType": "Spot ETF",
       "filingDate": "2026-06-11",
       "initialFilingDate": "2008-05-29",
       "decisionDeadline": "待通过",
@@ -2641,25 +2660,6 @@
       "cik": "0001436229",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001436229",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226028327/xslF345X06/ownership.xml"
-    },
-    {
-      "id": "undefined-0001436229-16",
-      "cryptocurrency": "Bitcoin",
-      "symbol": "PEND",
-      "issuer": "BTCS",
-      "etfName": "BTCS Inc.",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-07",
-      "initialFilingDate": "2008-05-29",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001436229",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001436229",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000811/xslF345X05/ownership.xml"
     },
     {
       "id": "undefined-0001436229-17",
@@ -2678,10 +2678,29 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001436229",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001436229",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000811/xslF345X05/ownership.xml"
+    },
+    {
+      "id": "undefined-0001436229-18",
+      "cryptocurrency": "Bitcoin",
+      "symbol": "PEND",
+      "issuer": "BTCS",
+      "etfName": "BTCS Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-01-07",
+      "initialFilingDate": "2008-05-29",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001436229",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001436229",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000809/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-20",
+      "id": "undefined-0001436229-21",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2700,7 +2719,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000370/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-25",
+      "id": "undefined-0001436229-26",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -4426,7 +4445,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-7",
+      "id": "undefined-0001683471-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4445,7 +4464,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017783/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-13",
+      "id": "undefined-0001683471-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4464,7 +4483,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017082/overlayshares485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-15",
+      "id": "undefined-0001683471-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4483,7 +4502,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017065/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-17",
+      "id": "undefined-0001683471-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4502,7 +4521,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926016589/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-21",
+      "id": "undefined-0001683471-23",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
