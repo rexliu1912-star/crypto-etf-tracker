@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-06-13T11:08:41.610Z",
-  "count": 288,
+  "timestamp": "2026-06-13T13:19:37.788Z",
+  "count": 287,
   "approvedCount": 75,
-  "pendingCount": 212,
+  "pendingCount": 211,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 185,
@@ -1974,25 +1974,6 @@
       "cik": "0001095146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001095146",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004741/athbitcoin_is1.htm"
-    },
-    {
-      "id": "undefined-0002092446-1",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Avalanche",
-      "etfName": "Avalanche Treasury Corp",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-11",
-      "initialFilingDate": "2025-12-10",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002092446",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002092446",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926072830/xslF345X06/tm2617458-3_3seq1.xml"
     },
     {
       "id": "undefined-0001901799-6",
