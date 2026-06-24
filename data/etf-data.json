@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-06-24T20:26:56.914Z",
-  "count": 296,
+  "timestamp": "2026-06-24T22:06:43.001Z",
+  "count": 288,
   "approvedCount": 75,
-  "pendingCount": 220,
+  "pendingCount": 212,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 186,
+  "discoveredCount": 166,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000141783526000174/8A_Cert_RAM.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001311/ck0001771146-20260624.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1729,7 +1729,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390024057001/ea0208625-s1_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-4",
+      "id": "undefined-0002090011-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1748,7 +1748,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026048260/ea0287966-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-5",
+      "id": "undefined-0002090011-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1767,7 +1767,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026043631/ea0284402-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-6",
+      "id": "undefined-0002090011-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1786,7 +1786,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026016539/ea0276878-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-7",
+      "id": "undefined-0002090011-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -3006,63 +3006,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064768/000199937126013365/canary-s1a_062426.htm"
     },
     {
-      "id": "undefined-0002100194-0",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust III",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-05-14",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002100194",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000013/N1A.htm"
-    },
-    {
-      "id": "undefined-0002100194-1",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust III",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-10",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002100194",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000008/CorgiETFTrustIIIN1AA.htm"
-    },
-    {
-      "id": "undefined-0002100194-2",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust III",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-20",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002100194",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000004/corgietftrustiii_n1a.htm"
-    },
-    {
       "id": "CTX-0002096385-0",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "CTX",
@@ -3436,7 +3379,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525140821/d941170ds1.htm"
     },
     {
-      "id": "undefined-0002000046-27",
+      "id": "undefined-0002000046-28",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -3453,120 +3396,6 @@
       "cik": "0002000046",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000046",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000046/000119312524180466/d759655ds1a.htm"
-    },
-    {
-      "id": "undefined-0000794685-0",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-03",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000007/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-4",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-30",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000138782326000002/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-6",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-29",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553326000012/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-11",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-20",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000206049726000001/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-21",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-02-13",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000001/xslF345X02/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-24",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-30",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553325000017/xslF345X05/primary_doc.xml"
     },
     {
       "id": "ADA-0001852026-0",
@@ -4464,7 +4293,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-2",
+      "id": "undefined-0001683471-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Listed Funds Trust",
+      "etfName": "Listed Funds Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-06-24",
+      "initialFilingDate": "2024-09-24",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001683471",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926018185/overlayshares485bxt.htm"
+    },
+    {
+      "id": "undefined-0001683471-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4483,7 +4331,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017997/alphadroid485a.htm"
     },
     {
-      "id": "undefined-0001683471-3",
+      "id": "undefined-0001683471-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4502,7 +4350,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017947/overlayshares485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-4",
+      "id": "undefined-0001683471-5",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4521,7 +4369,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017946/teucrium485bxt2xshortxrp.htm"
     },
     {
-      "id": "undefined-0001683471-6",
+      "id": "undefined-0001683471-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4540,7 +4388,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017898/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-19",
+      "id": "undefined-0001683471-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4559,7 +4407,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017783/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-25",
+      "id": "undefined-0001683471-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4578,7 +4426,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017082/overlayshares485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-27",
+      "id": "undefined-0001683471-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4597,7 +4445,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926017065/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-29",
+      "id": "undefined-0001683471-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4616,7 +4464,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926016589/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-33",
+      "id": "undefined-0001683471-34",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4808,7 +4656,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000170/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-5",
+      "id": "undefined-0001742912-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4827,7 +4675,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013066/sfyi-485bpos_061826.htm"
     },
     {
-      "id": "undefined-0001742912-23",
+      "id": "undefined-0001742912-24",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4846,7 +4694,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011651/brandywine-485bxt_052926.htm"
     },
     {
-      "id": "undefined-0001742912-25",
+      "id": "undefined-0001742912-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4865,7 +4713,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011465/armada-485bpos_052626.htm"
     },
     {
-      "id": "undefined-0001742912-41",
+      "id": "undefined-0001742912-42",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
