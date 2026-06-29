@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-06-29T18:57:17.752Z",
+  "timestamp": "2026-06-29T20:47:22.050Z",
   "count": 290,
   "approvedCount": 75,
   "pendingCount": 214,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 182,
+  "discoveredCount": 187,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -607,9 +607,9 @@
       "issuer": "Franklin Templeton",
       "etfName": "Franklin Bitcoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-06-29",
       "initialFilingDate": "2023-09-12",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-06-29",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -617,7 +617,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001992870",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992870",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992870/000119312526214640/d132344d8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992870/000199287026000004/ezbc424i2026.htm"
     },
     {
       "id": "EZET-0002011535-0",
@@ -627,9 +627,9 @@
       "issuer": "Franklin Templeton",
       "etfName": "Franklin Ethereum ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-06-29",
       "initialFilingDate": "2024-02-12",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-06-29",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -637,7 +637,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002011535",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002011535",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2011535/000119312526214636/d112314d8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2011535/000201153526000002/ezet424i2026.htm"
     },
     {
       "id": "EZPZ-0002033807-0",
@@ -670,9 +670,9 @@
       "issuer": "Franklin Templeton",
       "etfName": "Franklin XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-06-29",
       "initialFilingDate": "2025-03-11",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-06-29",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -680,7 +680,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002059438",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002059438",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2059438/000119312526214633/d100480d8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2059438/000205943826000004/xrpz424i2026.htm"
     },
     {
       "id": "SOEZ-0002057388-0",
@@ -690,9 +690,9 @@
       "issuer": "Franklin Templeton",
       "etfName": "Franklin Solana ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-06-29",
       "initialFilingDate": "2025-02-21",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-06-29",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -700,7 +700,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002057388",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057388",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057388/000119312526214637/d587153d8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057388/000205738826000002/soez424i2026.htm"
     },
     {
       "id": "GBTC-0001588489-0",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001350/etfopps-txrex2xpaasetfliqu.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001362/etfot-txstrivedigitalcredi.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-06-26",
+      "filingDate": "2026-06-29",
       "initialFilingDate": "2025-06-20",
-      "decisionDeadline": "2026-06-26",
+      "decisionDeadline": "2026-06-29",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026072196/ea0295205-08_497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026073082/ea0295205-09_497j.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1531,9 +1531,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-06-26",
+      "filingDate": "2026-06-29",
       "initialFilingDate": "2025-06-20",
-      "decisionDeadline": "2026-06-26",
+      "decisionDeadline": "2026-06-29",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1541,7 +1541,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026072196/ea0295205-08_497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026073082/ea0295205-09_497j.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -1995,7 +1995,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004741/athbitcoin_is1.htm"
     },
     {
-      "id": "undefined-0002092446-2",
+      "id": "undefined-0002092446-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Avalanche",
@@ -5302,7 +5302,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2081107/000199937125011906/robotaxi_n1a-082225.htm"
     },
     {
-      "id": "undefined-0001924868-1",
+      "id": "undefined-0001924868-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5321,7 +5321,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013697/yieldmax-485apos_062926.htm"
     },
     {
-      "id": "undefined-0001924868-2",
+      "id": "undefined-0001924868-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5340,7 +5340,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013678/defiance-485bxt_062926.htm"
     },
     {
-      "id": "undefined-0001924868-6",
+      "id": "undefined-0001924868-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5359,7 +5359,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013556/defiance-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001924868-7",
+      "id": "undefined-0001924868-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
