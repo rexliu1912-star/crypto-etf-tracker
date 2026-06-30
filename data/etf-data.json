@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-06-30T06:04:01.535Z",
+  "timestamp": "2026-06-30T10:22:35.625Z",
   "count": 290,
   "approvedCount": 75,
   "pendingCount": 214,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 185,
+  "discoveredCount": 187,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -158,9 +158,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares Polkadot ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-06-29",
+      "filingDate": "2026-06-30",
       "initialFilingDate": "2025-01-31",
-      "decisionDeadline": "2026-06-29",
+      "decisionDeadline": "2026-06-30",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -168,7 +168,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002054247",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002054247",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2054247/000121390026073214/ea0295781-10k_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2054247/000121390026073290/ea0296393-424i_21shares.htm"
     },
     {
       "id": "BITB-0001763415-0",
