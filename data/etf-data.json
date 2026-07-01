@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-07-01T16:14:59.454Z",
-  "count": 290,
+  "timestamp": "2026-07-01T18:54:48.524Z",
+  "count": 291,
   "approvedCount": 75,
-  "pendingCount": 214,
+  "pendingCount": 215,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 182,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-06-30",
+      "filingDate": "2026-07-01",
       "initialFilingDate": "2025-07-01",
-      "decisionDeadline": "2026-06-30",
+      "decisionDeadline": "2026-07-01",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000119312526290432/xslFormNPORT-P_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001385/etfopptrust-tuttlecapitali.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1957,7 +1957,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/forms-1.htm"
     },
     {
-      "id": "undefined-0001547950-11",
+      "id": "undefined-0001547950-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1976,7 +1976,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026072157/ea0295811-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-18",
+      "id": "undefined-0001547950-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1995,7 +1995,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026070537/ea0295378-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-41",
+      "id": "undefined-0001547950-42",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -2014,7 +2014,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026048706/ea0287432-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-42",
+      "id": "undefined-0001547950-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -5280,7 +5280,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001924868",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013975/defiance-485apos_070226.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014025/defiance-485bxt_070126.htm"
     },
     {
       "id": "undefined-0001924868-1",
@@ -5299,16 +5299,16 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001924868",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013968/defiance-485bpos_070126.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013975/defiance-485apos_070226.htm"
     },
     {
-      "id": "undefined-0001924868-4",
+      "id": "undefined-0001924868-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
-      "filingDate": "2026-06-29",
+      "filingDate": "2026-07-01",
       "initialFilingDate": "2025-06-30",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -5318,7 +5318,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001924868",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013697/yieldmax-485apos_062926.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013968/defiance-485bpos_070126.htm"
     },
     {
       "id": "undefined-0001924868-5",
@@ -5337,10 +5337,29 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001924868",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013697/yieldmax-485apos_062926.htm"
+    },
+    {
+      "id": "undefined-0001924868-6",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Tidal Trust II",
+      "etfName": "Tidal Trust II",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-06-29",
+      "initialFilingDate": "2025-06-30",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001924868",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013678/defiance-485bxt_062926.htm"
     },
     {
-      "id": "undefined-0001924868-9",
+      "id": "undefined-0001924868-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5359,7 +5378,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013556/defiance-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001924868-10",
+      "id": "undefined-0001924868-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
