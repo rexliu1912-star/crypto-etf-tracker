@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-07-02T17:30:55.013Z",
-  "count": 292,
+  "timestamp": "2026-07-02T19:06:01.640Z",
+  "count": 288,
   "approvedCount": 75,
-  "pendingCount": 216,
+  "pendingCount": 212,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 185,
+  "discoveredCount": 180,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -4255,82 +4255,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
     },
     {
-      "id": "undefined-0002099103-14",
-      "cryptocurrency": "Ethereum",
-      "symbol": "PEND",
-      "issuer": "iShares",
-      "etfName": "iShares Staked Ethereum Trust ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-03-06",
-      "initialFilingDate": "2025-12-08",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002099103",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
-    },
-    {
-      "id": "undefined-0002099103-15",
-      "cryptocurrency": "Ethereum",
-      "symbol": "PEND",
-      "issuer": "iShares",
-      "etfName": "iShares Staked Ethereum Trust ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-03-02",
-      "initialFilingDate": "2025-12-08",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002099103",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
-    },
-    {
-      "id": "undefined-0002099103-16",
-      "cryptocurrency": "Ethereum",
-      "symbol": "PEND",
-      "issuer": "iShares",
-      "etfName": "iShares Staked Ethereum Trust ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-02-17",
-      "initialFilingDate": "2025-12-08",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002099103",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
-    },
-    {
-      "id": "undefined-0002099103-17",
-      "cryptocurrency": "Ethereum",
-      "symbol": "PEND",
-      "issuer": "iShares",
-      "etfName": "iShares Staked Ethereum Trust ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-08",
-      "initialFilingDate": "2025-12-08",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002099103",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002099103",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774925037057/iset20251205_s1.htm"
-    },
-    {
       "id": "undefined-0002073505-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
@@ -4827,7 +4751,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000298/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-3",
+      "id": "undefined-0001742912-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4846,7 +4770,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013594/brandywine-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001742912-16",
+      "id": "undefined-0001742912-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4865,7 +4789,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013505/sofi-485bpos_062526.htm"
     },
     {
-      "id": "undefined-0001742912-17",
+      "id": "undefined-0001742912-18",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4884,7 +4808,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013492/agiq-485bpos_062526.htm"
     },
     {
-      "id": "undefined-0001742912-24",
+      "id": "undefined-0001742912-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4903,7 +4827,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013066/sfyi-485bpos_061826.htm"
     },
     {
-      "id": "undefined-0001742912-42",
+      "id": "undefined-0001742912-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4922,7 +4846,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011651/brandywine-485bxt_052926.htm"
     },
     {
-      "id": "undefined-0001742912-44",
+      "id": "undefined-0001742912-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5207,7 +5131,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1471824/000143774926006588/weat20260302_s1a.htm"
     },
     {
-      "id": "undefined-0002081107-19",
+      "id": "undefined-0002081107-20",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Tidal",
@@ -5226,7 +5150,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126007758/cab-n1aa_040726.htm"
     },
     {
-      "id": "undefined-0002081107-20",
+      "id": "undefined-0002081107-21",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Tidal",
@@ -5245,7 +5169,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126007059/cab-n1a_032726.htm"
     },
     {
-      "id": "undefined-0002081107-22",
+      "id": "undefined-0002081107-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Tidal",
