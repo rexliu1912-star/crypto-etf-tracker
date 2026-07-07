@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-07-07T11:49:09.966Z",
-  "count": 294,
+  "timestamp": "2026-07-07T14:00:56.566Z",
+  "count": 288,
   "approvedCount": 75,
-  "pendingCount": 218,
+  "pendingCount": 212,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 173,
+  "discoveredCount": 176,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -3436,120 +3436,6 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000046/000119312524180466/d759655ds1a.htm"
     },
     {
-      "id": "undefined-0000794685-0",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-03",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000007/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-4",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-30",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000138782326000002/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-6",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-29",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553326000012/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-11",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-20",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000206049726000001/xslF345X06/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-21",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-02-13",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000001/xslF345X02/primary_doc.xml"
-    },
-    {
-      "id": "undefined-0000794685-24",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "GABELLI",
-      "etfName": "GABELLI EQUITY TRUST INC",
-      "filingType": "Spot ETF",
-      "filingDate": "2025-12-30",
-      "initialFilingDate": "1995-04-03",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000794685",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553325000017/xslF345X05/primary_doc.xml"
-    },
-    {
       "id": "ADA-0001852026-0",
       "cryptocurrency": "Cardano",
       "symbol": "ADA",
@@ -5283,7 +5169,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2081107/000199937125011906/robotaxi_n1a-082225.htm"
     },
     {
-      "id": "undefined-0001924868-1",
+      "id": "undefined-0001924868-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5302,7 +5188,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014321/defiance-485bpos_070626.htm"
     },
     {
-      "id": "undefined-0001924868-7",
+      "id": "undefined-0001924868-8",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5321,7 +5207,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014114/defiance-485apos_070226.htm"
     },
     {
-      "id": "undefined-0001924868-9",
+      "id": "undefined-0001924868-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5340,7 +5226,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014025/defiance-485bxt_070126.htm"
     },
     {
-      "id": "undefined-0001924868-10",
+      "id": "undefined-0001924868-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5359,7 +5245,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013975/defiance-485apos_070226.htm"
     },
     {
-      "id": "undefined-0001924868-11",
+      "id": "undefined-0001924868-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5378,7 +5264,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013968/defiance-485bpos_070126.htm"
     },
     {
-      "id": "undefined-0001924868-14",
+      "id": "undefined-0001924868-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5397,7 +5283,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013697/yieldmax-485apos_062926.htm"
     },
     {
-      "id": "undefined-0001924868-15",
+      "id": "undefined-0001924868-16",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5416,7 +5302,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013678/defiance-485bxt_062926.htm"
     },
     {
-      "id": "undefined-0001924868-19",
+      "id": "undefined-0001924868-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5435,7 +5321,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013556/defiance-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001924868-20",
+      "id": "undefined-0001924868-21",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
