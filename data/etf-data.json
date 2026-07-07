@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-07T16:27:04.834Z",
+  "timestamp": "2026-07-07T18:54:51.890Z",
   "count": 295,
   "approvedCount": 75,
   "pendingCount": 219,
@@ -3246,7 +3246,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026039538/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001592900-40",
+      "id": "undefined-0001592900-41",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -5721,7 +5721,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026013687/ea0276057-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001396092-41",
+      "id": "undefined-0001396092-42",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -5740,7 +5740,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000276/ck0001396092-20260430.htm"
     },
     {
-      "id": "undefined-0001396092-42",
+      "id": "undefined-0001396092-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
@@ -5759,7 +5759,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000273/ck0001396092-20260430.htm"
     },
     {
-      "id": "undefined-0001396092-43",
+      "id": "undefined-0001396092-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "World Funds Trust",
