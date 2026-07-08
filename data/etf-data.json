@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-08T10:03:45.201Z",
+  "timestamp": "2026-07-08T12:12:19.309Z",
   "count": 296,
   "approvedCount": 75,
   "pendingCount": 220,
@@ -2586,7 +2586,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390026001140/ea027072801-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-7",
+      "id": "undefined-0002082889-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2605,7 +2605,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025112216/ea0265926-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-8",
+      "id": "undefined-0002082889-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
