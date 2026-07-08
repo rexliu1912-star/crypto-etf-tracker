@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-07-08T15:06:54.677Z",
+  "timestamp": "2026-07-08T17:16:31.435Z",
   "count": 296,
   "approvedCount": 75,
   "pendingCount": 220,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 186,
+  "discoveredCount": 182,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -5492,7 +5492,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013553/defiance-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001650149-17",
+      "id": "undefined-0001650149-18",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5511,7 +5511,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm"
     },
     {
-      "id": "undefined-0001650149-26",
+      "id": "undefined-0001650149-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5530,7 +5530,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926013080/ck0001650149-20260424.htm"
     },
     {
-      "id": "undefined-0001650149-38",
+      "id": "undefined-0001650149-39",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
