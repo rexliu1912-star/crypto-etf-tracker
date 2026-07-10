@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-07-10T18:16:16.770Z",
-  "count": 309,
+  "timestamp": "2026-07-10T20:11:58.074Z",
+  "count": 311,
   "approvedCount": 75,
-  "pendingCount": 233,
+  "pendingCount": 235,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -2052,14 +2052,33 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004741/athbitcoin_is1.htm"
     },
     {
-      "id": "undefined-0002092446-4",
+      "id": "undefined-0002092446-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Avalanche",
+      "etfName": "Avalanche Treasury Corp",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-07-10",
+      "initialFilingDate": "2026-07-10",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002092446",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002092446",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926082644/tmb-20260331xs1.htm"
+    },
+    {
+      "id": "undefined-0002092446-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Avalanche",
       "etfName": "Avalanche Treasury Corp",
       "filingType": "Spot ETF",
       "filingDate": "2026-06-11",
-      "initialFilingDate": "2025-12-10",
+      "initialFilingDate": "2026-07-10",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -2993,6 +3012,25 @@
       "issuer": "Corgi",
       "etfName": "Corgi ETF Trust III",
       "filingType": "Spot ETF",
+      "filingDate": "2026-07-10",
+      "initialFilingDate": "2026-01-20",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002100194",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000016/N1AA.htm"
+    },
+    {
+      "id": "undefined-0002100194-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Corgi",
+      "etfName": "Corgi ETF Trust III",
+      "filingType": "Spot ETF",
       "filingDate": "2026-05-14",
       "initialFilingDate": "2026-01-20",
       "decisionDeadline": "待通过",
@@ -3006,7 +3044,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000013/N1A.htm"
     },
     {
-      "id": "undefined-0002100194-1",
+      "id": "undefined-0002100194-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -3025,7 +3063,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000008/CorgiETFTrustIIIN1AA.htm"
     },
     {
-      "id": "undefined-0002100194-2",
+      "id": "undefined-0002100194-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Corgi",
@@ -5739,7 +5777,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013553/defiance-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001650149-18",
+      "id": "undefined-0001650149-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5758,7 +5796,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm"
     },
     {
-      "id": "undefined-0001650149-27",
+      "id": "undefined-0001650149-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5777,7 +5815,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926013080/ck0001650149-20260424.htm"
     },
     {
-      "id": "undefined-0001650149-39",
+      "id": "undefined-0001650149-41",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
