@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-07-10T08:15:54.535Z",
-  "count": 309,
+  "timestamp": "2026-07-10T11:40:46.432Z",
+  "count": 308,
   "approvedCount": 75,
-  "pendingCount": 233,
+  "pendingCount": 232,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-09",
+      "filingDate": "2026-07-10",
       "initialFilingDate": "2025-07-10",
-      "decisionDeadline": "2026-07-09",
+      "decisionDeadline": "2026-07-10",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001423/etfot-tuttlecapitalthemati.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001426/ck0001771146-20260709.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1634,7 +1634,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025111219/ea0259370-s1a5_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-18",
+      "id": "undefined-0002028834-20",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1653,7 +1653,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/ea0258805-s1a4_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-19",
+      "id": "undefined-0002028834-23",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1672,7 +1672,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025082627/ea0255191-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-20",
+      "id": "undefined-0002028834-27",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1691,7 +1691,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025069346/ea0250753-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002028834-21",
+      "id": "undefined-0002028834-29",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1708,25 +1708,6 @@
       "cik": "0002028834",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028834",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025054351/ea0245677-s1a1_21shares.htm"
-    },
-    {
-      "id": "undefined-0002028834-22",
-      "cryptocurrency": "Solana",
-      "symbol": "PEND",
-      "issuer": "21Shares",
-      "etfName": "21Shares Solana ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2024-06-28",
-      "initialFilingDate": "2024-06-28",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002028834",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002028834",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390024057001/ea0208625-s1_21shares.htm"
     },
     {
       "id": "undefined-0002090011-6",
