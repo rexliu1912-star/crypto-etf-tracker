@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-07-14T18:57:37.609Z",
-  "count": 309,
+  "timestamp": "2026-07-14T20:03:43.979Z",
+  "count": 311,
   "approvedCount": 75,
-  "pendingCount": 233,
+  "pendingCount": 235,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -3265,7 +3265,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026039538/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001592900-46",
+      "id": "undefined-0001592900-1",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Direxion Shares ETF Trust",
+      "etfName": "Direxion Shares ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-07-14",
+      "initialFilingDate": "2025-07-14",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001592900",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001592900",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003556/ck0001592900-20260714.htm"
+    },
+    {
+      "id": "undefined-0001592900-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -4776,6 +4795,25 @@
       "issuer": "Morgan Stanley",
       "etfName": "Morgan Stanley Solana Trust",
       "filingType": "Spot ETF",
+      "filingDate": "2026-07-14",
+      "initialFilingDate": "2026-01-06",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002103547",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002103547",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926083475/tm2534148d6_s1a.htm"
+    },
+    {
+      "id": "undefined-0002103547-1",
+      "cryptocurrency": "Solana",
+      "symbol": "PEND",
+      "issuer": "Morgan Stanley",
+      "etfName": "Morgan Stanley Solana Trust",
+      "filingType": "Spot ETF",
       "filingDate": "2026-06-18",
       "initialFilingDate": "2026-01-06",
       "decisionDeadline": "待通过",
@@ -4789,7 +4827,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926075843/tm2534148d4_s1a.htm"
     },
     {
-      "id": "undefined-0002103547-1",
+      "id": "undefined-0002103547-2",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Morgan Stanley",
@@ -4808,7 +4846,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926064065/tm2534148d2_s1a.htm"
     },
     {
-      "id": "undefined-0002103547-2",
+      "id": "undefined-0002103547-3",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Morgan Stanley",
@@ -5930,7 +5968,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000206682425000002/vaneckbnbetfs-1.htm"
     },
     {
-      "id": "undefined-0002055464-19",
+      "id": "undefined-0002055464-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
@@ -5949,7 +5987,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037904/ea0284219-01_485bpos.htm"
     },
     {
-      "id": "undefined-0002055464-21",
+      "id": "undefined-0002055464-22",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
@@ -5968,7 +6006,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037653/ea0283940-01_485bpos.htm"
     },
     {
-      "id": "undefined-0002055464-31",
+      "id": "undefined-0002055464-32",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Wedbush Series Trust",
