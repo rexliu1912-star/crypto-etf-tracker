@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-07-15T15:16:05.598Z",
-  "count": 306,
+  "timestamp": "2026-07-15T17:02:19.199Z",
+  "count": 305,
   "approvedCount": 75,
-  "pendingCount": 230,
+  "pendingCount": 229,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -896,9 +896,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Covered Call ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-13",
+      "filingDate": "2026-07-15",
       "initialFilingDate": "2023-05-09",
-      "decisionDeadline": "2026-07-13",
+      "decisionDeadline": "2026-07-15",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -906,7 +906,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001976672",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001976672",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000121390026077462/ea0297705-02_497k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1976672/000121390026078237/ea0297706-01_485apos.htm"
     },
     {
       "id": "BPI-0001976673-0",
@@ -4884,7 +4884,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000298/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-10",
+      "id": "undefined-0001742912-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4903,7 +4903,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013594/brandywine-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001742912-23",
+      "id": "undefined-0001742912-24",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4922,7 +4922,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013505/sofi-485bpos_062526.htm"
     },
     {
-      "id": "undefined-0001742912-24",
+      "id": "undefined-0001742912-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4941,7 +4941,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013492/agiq-485bpos_062526.htm"
     },
     {
-      "id": "undefined-0001742912-31",
+      "id": "undefined-0001742912-32",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4958,25 +4958,6 @@
       "cik": "0001742912",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001742912",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013066/sfyi-485bpos_061826.htm"
-    },
-    {
-      "id": "undefined-0001742912-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Roundhill ETF Trust",
-      "etfName": "Roundhill ETF Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-05-29",
-      "initialFilingDate": "2024-03-28",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001742912",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001742912",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011651/brandywine-485bxt_052926.htm"
     },
     {
       "id": "undefined-0000064463-2",
