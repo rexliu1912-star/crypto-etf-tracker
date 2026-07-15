@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-15T20:57:00.101Z",
+  "timestamp": "2026-07-15T21:46:08.490Z",
   "count": 305,
   "approvedCount": 75,
   "pendingCount": 229,
@@ -1135,7 +1135,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "BITU-0001174610-0",
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "BITI-0001174610-0",
@@ -1175,7 +1175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -1195,7 +1195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "EETH-0001174610-0",
@@ -1215,7 +1215,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1235,7 +1235,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1255,7 +1255,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1275,7 +1275,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1298,7 +1298,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000418/f45755d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000420/f45769d1.htm"
     },
     {
       "id": "XRPR-0001771146-0",
@@ -5093,7 +5093,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226025035/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0002089855-19",
+      "id": "undefined-0002089855-20",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5112,7 +5112,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126012919/tknz-s1a_061626.htm"
     },
     {
-      "id": "undefined-0002089855-20",
+      "id": "undefined-0002089855-21",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5131,7 +5131,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126010860/tknz-s1a_051526.htm"
     },
     {
-      "id": "undefined-0002089855-21",
+      "id": "undefined-0002089855-22",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5150,7 +5150,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126009120/activecrypto-s1a_042726.htm"
     },
     {
-      "id": "undefined-0002089855-22",
+      "id": "undefined-0002089855-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5169,7 +5169,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126005896/active-s1a_031626.htm"
     },
     {
-      "id": "undefined-0002089855-23",
+      "id": "undefined-0002089855-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5188,7 +5188,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126003054/active-s1a_021126.htm"
     },
     {
-      "id": "undefined-0002089855-24",
+      "id": "undefined-0002089855-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
