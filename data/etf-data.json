@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-15T09:46:40.664Z",
+  "timestamp": "2026-07-15T11:19:32.524Z",
   "count": 309,
   "approvedCount": 75,
   "pendingCount": 233,
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-07-13",
+      "filingDate": "2026-07-15",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-07-13",
+      "decisionDeadline": "2026-07-15",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000114336226000249/SKHL071326.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526303428/d154193d497k.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-07-13",
+      "filingDate": "2026-07-15",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-07-13",
+      "decisionDeadline": "2026-07-15",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000114336226000249/SKHL071326.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526303428/d154193d497k.htm"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -5112,7 +5112,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226025035/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0002089855-17",
+      "id": "undefined-0002089855-19",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5131,7 +5131,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126012919/tknz-s1a_061626.htm"
     },
     {
-      "id": "undefined-0002089855-18",
+      "id": "undefined-0002089855-20",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5150,7 +5150,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126010860/tknz-s1a_051526.htm"
     },
     {
-      "id": "undefined-0002089855-19",
+      "id": "undefined-0002089855-21",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5169,7 +5169,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126009120/activecrypto-s1a_042726.htm"
     },
     {
-      "id": "undefined-0002089855-20",
+      "id": "undefined-0002089855-22",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5188,7 +5188,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126005896/active-s1a_031626.htm"
     },
     {
-      "id": "undefined-0002089855-21",
+      "id": "undefined-0002089855-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5207,7 +5207,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126003054/active-s1a_021126.htm"
     },
     {
-      "id": "undefined-0002089855-22",
+      "id": "undefined-0002089855-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
