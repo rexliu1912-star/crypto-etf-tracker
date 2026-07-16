@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-15T23:47:13.542Z",
+  "timestamp": "2026-07-16T01:16:15.564Z",
   "count": 305,
   "approvedCount": 75,
   "pendingCount": 229,
@@ -996,9 +996,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bittensor Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-02",
+      "filingDate": "2026-07-15",
       "initialFilingDate": "2025-12-30",
-      "decisionDeadline": "2026-07-02",
+      "decisionDeadline": "2026-07-15",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1006,7 +1006,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002029297",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002029297",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000202929726000003/gtao-20260626.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000202055326000004/xsl144X01/primary_doc.xml"
     },
     {
       "id": "NCIQ-0002031069-0",
