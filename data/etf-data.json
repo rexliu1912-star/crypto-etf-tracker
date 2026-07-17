@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-17T16:06:42.501Z",
+  "timestamp": "2026-07-17T17:56:05.230Z",
   "count": 303,
   "approvedCount": 75,
   "pendingCount": 227,
@@ -1938,7 +1938,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315225026046/forms-1.htm"
     },
     {
-      "id": "undefined-0001547950-5",
+      "id": "undefined-0001547950-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1957,7 +1957,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026077675/ea0297509-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-24",
+      "id": "undefined-0001547950-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1976,7 +1976,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026072157/ea0295811-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-31",
+      "id": "undefined-0001547950-32",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
