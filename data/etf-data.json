@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-17T20:41:38.502Z",
+  "timestamp": "2026-07-17T21:40:37.648Z",
   "count": 303,
   "approvedCount": 75,
   "pendingCount": 227,
@@ -3284,7 +3284,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026039538/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001592900-8",
+      "id": "undefined-0001592900-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
