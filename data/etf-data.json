@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-22T16:12:56.972Z",
+  "timestamp": "2026-07-22T18:00:19.283Z",
   "count": 298,
   "approvedCount": 75,
   "pendingCount": 222,
@@ -4789,7 +4789,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103614/000210361426000002/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002103547-0",
+      "id": "undefined-0002103547-1",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Morgan Stanley",
@@ -4808,7 +4808,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926083475/tm2534148d6_s1a.htm"
     },
     {
-      "id": "undefined-0002103547-1",
+      "id": "undefined-0002103547-2",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Morgan Stanley",
@@ -4827,7 +4827,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926075843/tm2534148d4_s1a.htm"
     },
     {
-      "id": "undefined-0002103547-2",
+      "id": "undefined-0002103547-3",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Morgan Stanley",
@@ -4846,7 +4846,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926064065/tm2534148d2_s1a.htm"
     },
     {
-      "id": "undefined-0002103547-3",
+      "id": "undefined-0002103547-4",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Morgan Stanley",
@@ -4922,7 +4922,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000298/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-12",
+      "id": "undefined-0001742912-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4941,7 +4941,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013594/brandywine-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0001742912-25",
+      "id": "undefined-0001742912-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4960,7 +4960,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013505/sofi-485bpos_062526.htm"
     },
     {
-      "id": "undefined-0001742912-26",
+      "id": "undefined-0001742912-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4979,7 +4979,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013492/agiq-485bpos_062526.htm"
     },
     {
-      "id": "undefined-0001742912-33",
+      "id": "undefined-0001742912-34",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
