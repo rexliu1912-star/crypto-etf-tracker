@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-22T01:16:16.370Z",
+  "timestamp": "2026-07-22T04:55:42.953Z",
   "count": 299,
   "approvedCount": 75,
   "pendingCount": 223,
@@ -1332,7 +1332,7 @@
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
       "filingDate": "2026-07-21",
-      "initialFilingDate": "2025-07-21",
+      "initialFilingDate": "2025-07-22",
       "decisionDeadline": "2026-07-21",
       "status": "approved",
       "approvalOdds": 100,
