@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-07-23T18:06:06.975Z",
-  "count": 296,
+  "timestamp": "2026-07-23T20:07:12.444Z",
+  "count": 295,
   "approvedCount": 75,
-  "pendingCount": 220,
+  "pendingCount": 219,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -5169,7 +5169,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226025035/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0002089855-27",
+      "id": "undefined-0002089855-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5188,7 +5188,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126012919/tknz-s1a_061626.htm"
     },
     {
-      "id": "undefined-0002089855-28",
+      "id": "undefined-0002089855-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "T.",
@@ -5205,25 +5205,6 @@
       "cik": "0002089855",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002089855",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126010860/tknz-s1a_051526.htm"
-    },
-    {
-      "id": "undefined-0002089855-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "T.",
-      "etfName": "T. Rowe Price Active Crypto ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-27",
-      "initialFilingDate": "2025-10-22",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002089855",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002089855",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2089855/000199937126009120/activecrypto-s1a_042726.htm"
     },
     {
       "id": "undefined-0001471824-28",
