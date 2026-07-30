@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-07-30T07:26:10.391Z",
+  "timestamp": "2026-07-30T10:08:36.379Z",
   "count": 298,
   "approvedCount": 75,
   "pendingCount": 222,
@@ -5530,7 +5530,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126015280/defiance-485bxt_071726.htm"
     },
     {
-      "id": "undefined-0001650149-33",
+      "id": "undefined-0001650149-35",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5549,7 +5549,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm"
     },
     {
-      "id": "undefined-0001650149-42",
+      "id": "undefined-0001650149-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
