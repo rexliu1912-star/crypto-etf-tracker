@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-07-31T19:03:02.036Z",
-  "count": 290,
+  "timestamp": "2026-07-31T20:50:55.276Z",
+  "count": 289,
   "approvedCount": 75,
-  "pendingCount": 214,
+  "pendingCount": 213,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 185,
@@ -870,9 +870,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale CoinDesk Crypto 5 ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-30",
+      "filingDate": "2026-07-31",
       "initialFilingDate": "2018-02-07",
-      "decisionDeadline": "2026-07-30",
+      "decisionDeadline": "2026-07-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -886,7 +886,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001729997",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729997",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000197745426000181/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000197745426000197/xsl144X01/primary_doc.xml"
     },
     {
       "id": "BTCC-0001976672-0",
@@ -956,9 +956,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Avalanche Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-30",
+      "filingDate": "2026-07-31",
       "initialFilingDate": "2025-08-25",
-      "decisionDeadline": "2026-07-30",
+      "decisionDeadline": "2026-07-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -966,7 +966,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002035053",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035053",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000197745426000183/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000197745426000196/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GXLM-0001761325-0",
@@ -976,9 +976,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Stellar Lumens Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-30",
+      "filingDate": "2026-07-31",
       "initialFilingDate": "2025-09-24",
-      "decisionDeadline": "2026-07-30",
+      "decisionDeadline": "2026-07-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -986,7 +986,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001761325",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761325",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197745426000186/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197745426000200/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GTAO-0002029297-0",
@@ -996,9 +996,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bittensor Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-30",
+      "filingDate": "2026-07-31",
       "initialFilingDate": "2025-12-30",
-      "decisionDeadline": "2026-07-30",
+      "decisionDeadline": "2026-07-31",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1006,7 +1006,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002029297",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002029297",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000197745426000189/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000197745426000201/xsl144X01/primary_doc.xml"
     },
     {
       "id": "NCIQ-0002031069-0",
@@ -1135,7 +1135,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "BITU-0001174610-0",
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "BITI-0001174610-0",
@@ -1175,7 +1175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -1195,7 +1195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "EETH-0001174610-0",
@@ -1215,7 +1215,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1235,7 +1235,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1255,7 +1255,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1275,7 +1275,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1298,7 +1298,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000496/f45873d1.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000507/f45884d1.htm"
     },
     {
       "id": "XRPR-0001771146-0",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001567/t-rex2xsbetrevstocksplit73.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001573/formidablefortressetfsumma.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1862,7 +1862,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026028385/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001460702-0",
+      "id": "undefined-0001460702-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
@@ -1881,7 +1881,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226034816/forms-1.htm"
     },
     {
-      "id": "undefined-0001460702-4",
+      "id": "undefined-0001460702-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
@@ -1900,7 +1900,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226028576/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001460702-23",
+      "id": "undefined-0001460702-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
@@ -1919,7 +1919,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000121390025118901/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001460702-25",
+      "id": "undefined-0001460702-26",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
@@ -3322,7 +3322,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026039538/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001592900-0",
+      "id": "undefined-0001592900-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3341,7 +3341,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003777/ck0001592900-20260802.htm"
     },
     {
-      "id": "undefined-0001592900-15",
+      "id": "undefined-0001592900-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3360,7 +3360,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003735/ck0001592900-20260729.htm"
     },
     {
-      "id": "undefined-0001592900-16",
+      "id": "undefined-0001592900-18",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3704,7 +3704,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083137/000119312525243718/dot_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002034012-26",
+      "id": "undefined-0002034012-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3723,7 +3723,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/gsui_s-1_amendment_3.htm"
     },
     {
-      "id": "undefined-0002034012-27",
+      "id": "undefined-0002034012-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -4274,7 +4274,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
     },
     {
-      "id": "undefined-0002099103-15",
+      "id": "undefined-0002099103-16",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4293,7 +4293,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-16",
+      "id": "undefined-0002099103-17",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4312,7 +4312,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-17",
+      "id": "undefined-0002099103-18",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4331,7 +4331,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-18",
+      "id": "undefined-0002099103-19",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4464,7 +4464,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-2",
+      "id": "undefined-0001683471-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4483,7 +4483,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021751/ck0001683471-20260730.htm"
     },
     {
-      "id": "undefined-0001683471-14",
+      "id": "undefined-0001683471-15",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4502,7 +4502,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021731/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-19",
+      "id": "undefined-0001683471-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4521,7 +4521,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021375/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-21",
+      "id": "undefined-0001683471-22",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4540,7 +4540,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021210/teucrium485bxt2xshortxrp.htm"
     },
     {
-      "id": "undefined-0001683471-24",
+      "id": "undefined-0001683471-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4559,7 +4559,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021191/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-32",
+      "id": "undefined-0001683471-33",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4578,7 +4578,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021097/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-36",
+      "id": "undefined-0001683471-37",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4597,7 +4597,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021082/ck0001683471-20260708.htm"
     },
     {
-      "id": "undefined-0001683471-44",
+      "id": "undefined-0001683471-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4616,7 +4616,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926020878/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-48",
+      "id": "undefined-0001683471-49",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4633,25 +4633,6 @@
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926018403/teucrium485bxtvenezuela.htm"
-    },
-    {
-      "id": "undefined-0001683471-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Listed Funds Trust",
-      "etfName": "Listed Funds Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-24",
-      "initialFilingDate": "2024-11-27",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001683471",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926018185/overlayshares485bxt.htm"
     },
     {
       "id": "MSETH-0002103613-0",
