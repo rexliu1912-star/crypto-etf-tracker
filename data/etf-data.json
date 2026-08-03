@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-03T20:51:35.444Z",
-  "count": 291,
+  "timestamp": "2026-08-03T21:56:39.648Z",
+  "count": 290,
   "approvedCount": 75,
-  "pendingCount": 215,
+  "pendingCount": 214,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -4274,7 +4274,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000089418926014318/rbb-twinoak_485bxt.htm"
     },
     {
-      "id": "undefined-0002074409-9",
+      "id": "undefined-0002074409-10",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4293,7 +4293,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000207184425000599/s1a.htm"
     },
     {
-      "id": "undefined-0002074409-10",
+      "id": "undefined-0002074409-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4312,7 +4312,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000207184425000407/igsetfs1a102025.htm"
     },
     {
-      "id": "undefined-0002074409-11",
+      "id": "undefined-0002074409-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4331,7 +4331,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000113743925001022/s1a.htm"
     },
     {
-      "id": "undefined-0002074409-12",
+      "id": "undefined-0002074409-13",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4540,7 +4540,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-3",
+      "id": "undefined-0001683471-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4559,7 +4559,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021751/ck0001683471-20260730.htm"
     },
     {
-      "id": "undefined-0001683471-15",
+      "id": "undefined-0001683471-18",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4578,7 +4578,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021731/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-20",
+      "id": "undefined-0001683471-23",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4597,7 +4597,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021375/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-22",
+      "id": "undefined-0001683471-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4616,7 +4616,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021210/teucrium485bxt2xshortxrp.htm"
     },
     {
-      "id": "undefined-0001683471-25",
+      "id": "undefined-0001683471-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4635,7 +4635,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021191/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-33",
+      "id": "undefined-0001683471-36",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4654,7 +4654,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021097/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-37",
+      "id": "undefined-0001683471-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4673,7 +4673,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021082/ck0001683471-20260708.htm"
     },
     {
-      "id": "undefined-0001683471-45",
+      "id": "undefined-0001683471-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4690,25 +4690,6 @@
       "cik": "0001683471",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926020878/teucrium485bxtvenezuela.htm"
-    },
-    {
-      "id": "undefined-0001683471-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Listed Funds Trust",
-      "etfName": "Listed Funds Trust",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-25",
-      "initialFilingDate": "2024-11-27",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001683471",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926018403/teucrium485bxtvenezuela.htm"
     },
     {
       "id": "MSETH-0002103613-0",
@@ -4827,7 +4808,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2103547/000110465926000988/tm2534148d1_s1.htm"
     },
     {
-      "id": "undefined-0001345125-12",
+      "id": "undefined-0001345125-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "ONEFUND Trust",
@@ -4846,7 +4827,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1345125/000199937126016375/cyberhornet-485bpos_072926.htm"
     },
     {
-      "id": "undefined-0001345125-36",
+      "id": "undefined-0001345125-37",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "ONEFUND Trust",
