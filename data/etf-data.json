@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-04T12:52:23.277Z",
+  "timestamp": "2026-08-04T15:19:49.503Z",
   "count": 289,
   "approvedCount": 75,
   "pendingCount": 213,
@@ -249,9 +249,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-31",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-07-31",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -259,7 +259,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026083744/ea0299936-01_485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026085006/ea0300507-01_485bxt.htm"
     },
     {
       "id": "BSOL-0002057389-0",
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-07-31",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-07-31",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526327370/d126614d8a12b.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000114336226000275/LOFD080426.pdf"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-07-31",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2025-02-28",
-      "decisionDeadline": "2026-07-31",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526327370/d126614d8a12b.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000114336226000275/LOFD080426.pdf"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-31",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2025-08-01",
-      "decisionDeadline": "2026-07-31",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001573/formidablefortressetfsumma.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000141783526000240/8A_Cert_AKAL_OCNL_PENU.pdf"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -4884,7 +4884,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000298/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-26",
+      "id": "undefined-0001742912-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -4903,7 +4903,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126015925/boat-485bpos_072726.htm"
     },
     {
-      "id": "undefined-0001742912-40",
+      "id": "undefined-0001742912-41",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
