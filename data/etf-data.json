@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-04T10:24:29.726Z",
-  "count": 290,
+  "timestamp": "2026-08-04T12:52:23.277Z",
+  "count": 289,
   "approvedCount": 75,
-  "pendingCount": 214,
+  "pendingCount": 213,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -5074,7 +5074,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1471824/000143774926006588/weat20260302_s1a.htm"
     },
     {
-      "id": "undefined-0002081107-28",
+      "id": "undefined-0002081107-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Tidal",
@@ -5091,25 +5091,6 @@
       "cik": "0002081107",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002081107",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126007758/cab-n1aa_040726.htm"
-    },
-    {
-      "id": "undefined-0002081107-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Tidal",
-      "etfName": "Tidal Trust V",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-03-27",
-      "initialFilingDate": "2025-08-22",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002081107",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002081107",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126007059/cab-n1a_032726.htm"
     },
     {
       "id": "undefined-0001924868-0",
