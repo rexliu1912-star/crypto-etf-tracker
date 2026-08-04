@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-04T19:16:04.511Z",
-  "count": 289,
+  "timestamp": "2026-08-04T21:00:28.866Z",
+  "count": 288,
   "approvedCount": 75,
-  "pendingCount": 213,
+  "pendingCount": 212,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 187,
@@ -269,9 +269,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana Staking ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-06",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2025-02-24",
-      "decisionDeadline": "2026-07-06",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -279,7 +279,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002057389",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057389",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000018/xslF345X06/wk-form4_1783368622.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000020/xslF345X06/wk-form4_1785874170.xml"
     },
     {
       "id": "BITQ-0001905963-0",
@@ -353,9 +353,9 @@
       "issuer": "BlackRock",
       "etfName": "iShares Ethereum Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-31",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2023-11-16",
-      "decisionDeadline": "2026-07-31",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -363,7 +363,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002000638",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000638",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/000143774926025251/etha20260729_posam.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/000143774926025654/etha20260803_8k.htm"
     },
     {
       "id": "IBLC-0001903833-0",
@@ -710,9 +710,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-02",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2017-01-20",
-      "decisionDeadline": "2026-07-02",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -720,7 +720,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001588489",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001588489",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000158848926000002/gbtc-20260626.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1588489/000158848926000005/gbtc-20260630.htm"
     },
     {
       "id": "BTC-0002015034-0",
@@ -730,9 +730,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bitcoin Mini Trust ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-02",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2024-03-12",
-      "decisionDeadline": "2026-07-02",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -740,7 +740,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002015034",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002015034",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000201503426000005/btc-20260626.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2015034/000201503426000008/btc-20260630.htm"
     },
     {
       "id": "ETHE-0001725210-0",
@@ -830,9 +830,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Dogecoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-02",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2025-08-15",
-      "decisionDeadline": "2026-07-02",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -840,7 +840,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002055510",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002055510",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055510/000205551026000004/ck0002055510-20260626.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2055510/000205551026000007/ck0002055510-20260630.htm"
     },
     {
       "id": "GLNK-0001852025-0",
@@ -976,9 +976,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Stellar Lumens Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-03",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2025-09-24",
-      "decisionDeadline": "2026-08-03",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -986,7 +986,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001761325",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001761325",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197745426000215/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1761325/000197745426000228/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GTAO-0002029297-0",
@@ -996,9 +996,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Bittensor Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-03",
+      "filingDate": "2026-08-04",
       "initialFilingDate": "2025-12-30",
-      "decisionDeadline": "2026-08-03",
+      "decisionDeadline": "2026-08-04",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1006,7 +1006,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002029297",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002029297",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000197745426000214/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000202929726000006/gtao-20260630.htm"
     },
     {
       "id": "NCIQ-0002031069-0",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001575/etfopps-otgetf497j842026.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001583/etfot-txrex2xlongkioxiadai.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3799,7 +3799,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083137/000119312525243718/dot_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002034012-28",
+      "id": "undefined-0002034012-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3818,26 +3818,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/gsui_s-1_amendment_3.htm"
     },
     {
-      "id": "undefined-0002034012-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Sui Staking ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-02-11",
-      "initialFilingDate": "2025-12-05",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002034012",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002034012",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526046711/gsui_s-1_amendment_2.htm"
-    },
-    {
-      "id": "undefined-0002037427-18",
+      "id": "undefined-0002037427-19",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3856,7 +3837,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000119312525262826/xrp_s-1_amendment_2.htm"
     },
     {
-      "id": "undefined-0002037427-19",
+      "id": "undefined-0002037427-20",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
@@ -3875,7 +3856,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2037427/000119312525237096/xrp_s-1_amendment_1.htm"
     },
     {
-      "id": "undefined-0002037427-20",
+      "id": "undefined-0002037427-21",
       "cryptocurrency": "XRP",
       "symbol": "PEND",
       "issuer": "Grayscale",
