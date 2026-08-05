@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-05T10:20:47.097Z",
-  "count": 289,
+  "timestamp": "2026-08-05T12:31:25.836Z",
+  "count": 288,
   "approvedCount": 75,
-  "pendingCount": 213,
+  "pendingCount": 212,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 187,
@@ -3569,7 +3569,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525220810/d941170ds1a.htm"
     },
     {
-      "id": "undefined-0002063380-14",
+      "id": "undefined-0002063380-16",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -3588,7 +3588,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525192853/d941170ds1a.htm"
     },
     {
-      "id": "undefined-0002063380-15",
+      "id": "undefined-0002063380-19",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -3607,7 +3607,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2063380/000119312525170603/d941170ds1a.htm"
     },
     {
-      "id": "undefined-0002063380-16",
+      "id": "undefined-0002063380-22",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Fidelity",
@@ -4903,7 +4903,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013594/brandywine-485bxt_062626.htm"
     },
     {
-      "id": "undefined-0000064463-0",
+      "id": "undefined-0000064463-2",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4922,7 +4922,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226036036/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-5",
+      "id": "undefined-0000064463-7",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4941,7 +4941,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226034093/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-9",
+      "id": "undefined-0000064463-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4960,7 +4960,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029596/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-10",
+      "id": "undefined-0000064463-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4979,7 +4979,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029094/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-13",
+      "id": "undefined-0000064463-15",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4998,7 +4998,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226028471/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-15",
+      "id": "undefined-0000064463-17",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5017,7 +5017,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226028138/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-17",
+      "id": "undefined-0000064463-19",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5034,25 +5034,6 @@
       "cik": "0000064463",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226027115/xslF345X06/ownership.xml"
-    },
-    {
-      "id": "undefined-0000064463-28",
-      "cryptocurrency": "Solana",
-      "symbol": "PEND",
-      "issuer": "Soluna",
-      "etfName": "Soluna Holdings, Inc",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-01",
-      "initialFilingDate": "2008-03-27",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000064463",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226026628/xslF345X06/ownership.xml"
     },
     {
       "id": "undefined-0001471824-28",
