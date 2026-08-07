@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-08-07T18:37:04.459Z",
+  "timestamp": "2026-08-07T19:43:15.552Z",
   "count": 291,
   "approvedCount": 75,
   "pendingCount": 215,
   "deniedCount": 1,
   "knownIssuersCount": 87,
-  "discoveredCount": 186,
+  "discoveredCount": 185,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -218,9 +218,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise 10 Crypto Index Fund",
       "filingType": "Spot ETF",
-      "filingDate": "2026-06-01",
+      "filingDate": "2026-08-07",
       "initialFilingDate": "2017-11-29",
-      "decisionDeadline": "2026-06-01",
+      "decisionDeadline": "2026-08-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -239,7 +239,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001723788",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001723788",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1723788/000121390026063406/ea0292890-424b3_bitwise10.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1723788/000119312526340152/bitw-20260630.htm"
     },
     {
       "id": "XRP-0001928561-0",
@@ -5397,7 +5397,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126016018/defiance-485bpos_072726.htm"
     },
     {
-      "id": "undefined-0001650149-39",
+      "id": "undefined-0001650149-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5416,7 +5416,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm"
     },
     {
-      "id": "undefined-0001650149-48",
+      "id": "undefined-0001650149-49",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
