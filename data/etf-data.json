@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-07T09:47:21.679Z",
+  "timestamp": "2026-08-07T10:40:53.647Z",
   "count": 284,
   "approvedCount": 75,
   "pendingCount": 208,
@@ -363,7 +363,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002000638",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002000638",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/000143774926026297/etha20260806_424b3.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2000638/999999999526002554/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "IBLC-0001903833-0",
@@ -1045,9 +1045,9 @@
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Bitcoin ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-03",
+      "filingDate": "2026-08-07",
       "initialFilingDate": "2021-04-12",
-      "decisionDeadline": "2026-08-03",
+      "decisionDeadline": "2026-08-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1055,7 +1055,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001855781",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001855781",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1855781/000119312526330566/d154882d8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1855781/000119312526338719/btco-20260630.htm"
     },
     {
       "id": "QETH-0001995569-0",
@@ -1065,9 +1065,9 @@
       "issuer": "Invesco",
       "etfName": "Invesco Galaxy Ethereum ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-03",
+      "filingDate": "2026-08-07",
       "initialFilingDate": "2023-09-29",
-      "decisionDeadline": "2026-08-03",
+      "decisionDeadline": "2026-08-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1075,7 +1075,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001995569",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001995569",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1995569/000119312526330562/d153140d8k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1995569/000119312526338689/qeth-20260630.htm"
     },
     {
       "id": "MSBTC-0002103612-0",
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-06",
+      "filingDate": "2026-08-07",
       "initialFilingDate": "2025-08-07",
-      "decisionDeadline": "2026-08-06",
+      "decisionDeadline": "2026-08-07",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001604/etfot-tuttlecapitalthemati.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000199937126017251/aipi-ncsr_053126.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -4217,7 +4217,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000089418926014318/rbb-twinoak_485bxt.htm"
     },
     {
-      "id": "undefined-0002074409-10",
+      "id": "undefined-0002074409-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4236,7 +4236,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000207184425000599/s1a.htm"
     },
     {
-      "id": "undefined-0002074409-11",
+      "id": "undefined-0002074409-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4255,7 +4255,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000207184425000407/igsetfs1a102025.htm"
     },
     {
-      "id": "undefined-0002074409-12",
+      "id": "undefined-0002074409-13",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4274,7 +4274,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000113743925001022/s1a.htm"
     },
     {
-      "id": "undefined-0002074409-13",
+      "id": "undefined-0002074409-14",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
