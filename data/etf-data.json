@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-06T22:37:13.764Z",
-  "count": 285,
+  "timestamp": "2026-08-07T01:41:00.192Z",
+  "count": 284,
   "approvedCount": 75,
-  "pendingCount": 209,
+  "pendingCount": 208,
   "deniedCount": 1,
   "knownIssuersCount": 87,
   "discoveredCount": 186,
@@ -850,9 +850,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Chainlink Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-02",
+      "filingDate": "2026-08-06",
       "initialFilingDate": "2025-09-08",
-      "decisionDeadline": "2026-07-02",
+      "decisionDeadline": "2026-08-06",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -860,7 +860,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001852025",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001852025",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852025/000185202526000004/glnk-20260626.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1852025/000197641526000028/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GDLC-0001729997-0",
@@ -3778,25 +3778,6 @@
       "cik": "0002083137",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002083137",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2083137/000119312525243718/dot_s-1_amendment_1.htm"
-    },
-    {
-      "id": "undefined-0002034012-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Grayscale",
-      "etfName": "Grayscale Sui Staking ETF",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-02-17",
-      "initialFilingDate": "2025-12-05",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002034012",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002034012",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2034012/000119312526053168/gsui_s-1_amendment_3.htm"
     },
     {
       "id": "undefined-0002037427-19",
