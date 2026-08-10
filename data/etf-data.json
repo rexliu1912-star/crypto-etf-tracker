@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-10T19:47:11.712Z",
+  "timestamp": "2026-08-10T20:29:22.289Z",
   "count": 291,
   "approvedCount": 75,
   "pendingCount": 214,
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-08-06",
+      "filingDate": "2026-08-10",
       "initialFilingDate": "2025-03-21",
-      "decisionDeadline": "2026-08-06",
+      "decisionDeadline": "2026-08-10",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526338458/d45192d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526342375/d146315d485bpos.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-08-06",
+      "filingDate": "2026-08-10",
       "initialFilingDate": "2025-03-21",
-      "decisionDeadline": "2026-08-06",
+      "decisionDeadline": "2026-08-10",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526338458/d45192d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526342375/d146315d485bpos.htm"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000121390026087148/ea0296367-01_ncsrs.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001651/etfot-opportunistictradere.htm"
     },
     {
       "id": "BTCL-0001454889-0",
