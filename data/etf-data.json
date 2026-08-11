@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-11T16:44:26.819Z",
+  "timestamp": "2026-08-11T17:46:48.674Z",
   "count": 290,
   "approvedCount": 75,
   "pendingCount": 213,
@@ -1105,9 +1105,9 @@
       "issuer": "Osprey",
       "etfName": "Osprey Bitcoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-06-22",
+      "filingDate": "2026-08-11",
       "initialFilingDate": "2025-08-06",
-      "decisionDeadline": "2026-06-22",
+      "decisionDeadline": "2026-08-11",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1115,7 +1115,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001767057",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001767057",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1767057/000149315226029608/form8-k.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1767057/000149315226037040/form10-q.htm"
     },
     {
       "id": "BITO-0001174610-0",
