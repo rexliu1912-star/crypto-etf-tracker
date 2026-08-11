@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-11T19:53:05.159Z",
+  "timestamp": "2026-08-11T20:32:26.321Z",
   "count": 290,
   "approvedCount": 75,
   "pendingCount": 213,
@@ -249,9 +249,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-10",
+      "filingDate": "2026-08-11",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-08-10",
+      "decisionDeadline": "2026-08-11",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -259,7 +259,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000114336226000284/xslF25X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000119312526344718/xslForm13F_X02/primary_doc.xml"
     },
     {
       "id": "BSOL-0002057389-0",
@@ -4254,7 +4254,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000206159025000093/s1.htm"
     },
     {
-      "id": "undefined-0002099103-16",
+      "id": "undefined-0002099103-17",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4273,7 +4273,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926007228/iset20260305_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-17",
+      "id": "undefined-0002099103-18",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4292,7 +4292,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926006395/iset20260228_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-18",
+      "id": "undefined-0002099103-19",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
@@ -4311,7 +4311,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2099103/000143774926004276/iset20260214_s1a.htm"
     },
     {
-      "id": "undefined-0002099103-19",
+      "id": "undefined-0002099103-20",
       "cryptocurrency": "Ethereum",
       "symbol": "PEND",
       "issuer": "iShares",
