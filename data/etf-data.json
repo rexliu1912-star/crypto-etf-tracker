@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-12T19:55:41.426Z",
+  "timestamp": "2026-08-12T20:29:45.319Z",
   "count": 291,
   "approvedCount": 75,
   "pendingCount": 214,
@@ -1551,9 +1551,9 @@
       "issuer": "WisdomTree",
       "etfName": "WisdomTree Bitcoin Fund",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-29",
+      "filingDate": "2026-08-12",
       "initialFilingDate": "2021-03-11",
-      "decisionDeadline": "2026-07-29",
+      "decisionDeadline": "2026-08-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1561,7 +1561,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001850391",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001850391",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1850391/000139077726000082/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1850391/000121465926009996/wtb8626110q.htm"
     },
     {
       "id": "ETHW-0002057391-0",
