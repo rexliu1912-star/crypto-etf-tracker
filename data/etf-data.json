@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-12T15:47:13.775Z",
+  "timestamp": "2026-08-12T16:44:16.067Z",
   "count": 291,
   "approvedCount": 75,
   "pendingCount": 214,
@@ -313,9 +313,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Avalanche ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-05-08",
+      "filingDate": "2026-08-12",
       "initialFilingDate": "2025-09-15",
-      "decisionDeadline": "2026-05-08",
+      "decisionDeadline": "2026-08-12",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -323,7 +323,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002086017",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002086017",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000119312526214157/bava-20260331.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2086017/000119312526346250/bava-20260630.htm"
     },
     {
       "id": "IBIT-0001980994-0",
@@ -2377,7 +2377,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2045872/000121390024101076/ea0222031-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-6",
+      "id": "undefined-0002053791-7",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2396,7 +2396,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025107252/ea0264263-s1a4_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-7",
+      "id": "undefined-0002053791-8",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2415,7 +2415,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025096483/ea0260277-s1a3_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-10",
+      "id": "undefined-0002053791-11",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2434,7 +2434,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025077274/ea0253164-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-14",
+      "id": "undefined-0002053791-15",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2453,7 +2453,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025058120/ea0246815-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002053791-16",
+      "id": "undefined-0002053791-17",
       "cryptocurrency": "Dogecoin",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2472,7 +2472,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2053791/000121390025007545/ea0228742-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-4",
+      "id": "undefined-0002088139-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2491,7 +2491,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390026052317/ea0288809-s1a3_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-5",
+      "id": "undefined-0002088139-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2510,7 +2510,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390026042513/ea0285803-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-6",
+      "id": "undefined-0002088139-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2529,7 +2529,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390025121386/ea0269454-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002088139-7",
+      "id": "undefined-0002088139-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2548,7 +2548,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2088139/000121390025091720/ea0258158-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-8",
+      "id": "undefined-0002082889-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2567,7 +2567,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390026001140/ea027072801-s1a2_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-11",
+      "id": "undefined-0002082889-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
@@ -2586,7 +2586,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025112216/ea0265926-s1a1_bitwise.htm"
     },
     {
-      "id": "undefined-0002082889-13",
+      "id": "undefined-0002082889-14",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Bitwise",
