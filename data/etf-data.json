@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-13T20:28:13.070Z",
+  "timestamp": "2026-08-13T21:33:24.132Z",
   "count": 290,
   "approvedCount": 75,
   "pendingCount": 213,
@@ -477,9 +477,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-08-10",
+      "filingDate": "2026-08-13",
       "initialFilingDate": "2025-03-25",
-      "decisionDeadline": "2026-08-10",
+      "decisionDeadline": "2026-08-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -490,7 +490,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526342375/d146315d485bpos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526349585/d184034d485bxt.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -500,9 +500,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-08-10",
+      "filingDate": "2026-08-13",
       "initialFilingDate": "2025-03-25",
-      "decisionDeadline": "2026-08-10",
+      "decisionDeadline": "2026-08-13",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -513,7 +513,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526342375/d146315d485bpos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526349585/d184034d485bxt.htm"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -1135,7 +1135,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "BITU-0001174610-0",
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "BITI-0001174610-0",
@@ -1175,7 +1175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -1195,7 +1195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "EETH-0001174610-0",
@@ -1215,7 +1215,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1235,7 +1235,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1255,7 +1255,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1275,7 +1275,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1298,7 +1298,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1321,7 +1321,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000135445726000784/8A_Cert_ACQQ_ACRT_ACSP.pdf"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm"
     },
     {
       "id": "XRPR-0001771146-0",
@@ -1748,7 +1748,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/ea0262697-s1_21shares.htm"
     },
     {
-      "id": "undefined-0002070542-11",
+      "id": "undefined-0002070542-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1767,7 +1767,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026064725/ea0293405-s1a1_blockchain.htm"
     },
     {
-      "id": "undefined-0002070542-12",
+      "id": "undefined-0002070542-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1786,7 +1786,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026063747/ea0292471-s1_blockchain.htm"
     },
     {
-      "id": "undefined-0002070542-14",
+      "id": "undefined-0002070542-15",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1805,7 +1805,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026063515/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0002070542-26",
+      "id": "undefined-0002070542-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
