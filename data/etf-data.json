@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-13T10:56:32.214Z",
+  "timestamp": "2026-08-13T11:37:55.999Z",
   "count": 291,
   "approvedCount": 75,
   "pendingCount": 214,
@@ -3436,7 +3436,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003729/ck0001592900-20260728.htm"
     },
     {
-      "id": "undefined-0001535538-18",
+      "id": "undefined-0001535538-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA Series Trust",
@@ -3455,7 +3455,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1535538/000165558925000043/c485bpos.htm"
     },
     {
-      "id": "undefined-0001535538-43",
+      "id": "undefined-0001535538-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA Series Trust",
