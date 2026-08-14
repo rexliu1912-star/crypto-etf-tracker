@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-14T20:19:50.090Z",
+  "timestamp": "2026-08-14T21:14:12.928Z",
   "count": 291,
   "approvedCount": 75,
   "pendingCount": 214,
@@ -168,7 +168,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002054247",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002054247",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2054247/000121390026090040/ea0301219-10q_21shares.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2054247/000121390026090254/ea0301764-424b3_21sharespol.htm"
     },
     {
       "id": "BITB-0001763415-0",
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-08-12",
+      "filingDate": "2026-08-14",
       "initialFilingDate": "2025-08-01",
-      "decisionDeadline": "2026-08-12",
+      "decisionDeadline": "2026-08-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088464/ea0301672-01_485apos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026090260/ea0302107-01_485apos.htm"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1531,9 +1531,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-08-12",
+      "filingDate": "2026-08-14",
       "initialFilingDate": "2025-08-01",
-      "decisionDeadline": "2026-08-12",
+      "decisionDeadline": "2026-08-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1541,7 +1541,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088464/ea0301672-01_485apos.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026090260/ea0302107-01_485apos.htm"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -3360,7 +3360,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000121390026039538/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001592900-0",
+      "id": "undefined-0001592900-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3379,7 +3379,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003878/ck0001592900-20260814.htm"
     },
     {
-      "id": "undefined-0001592900-3",
+      "id": "undefined-0001592900-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3398,7 +3398,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003866/ck0001592900-20260812.htm"
     },
     {
-      "id": "undefined-0001592900-35",
+      "id": "undefined-0001592900-36",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
