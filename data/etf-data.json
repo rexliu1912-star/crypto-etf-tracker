@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-08-14T09:49:09.080Z",
+  "timestamp": "2026-08-14T10:46:17.429Z",
   "count": 290,
   "approvedCount": 75,
   "pendingCount": 213,
   "deniedCount": 2,
   "knownIssuersCount": 87,
-  "discoveredCount": 179,
+  "discoveredCount": 185,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -58,9 +58,9 @@
       "issuer": "21Shares",
       "etfName": "21Shares Ethereum ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-07",
+      "filingDate": "2026-08-14",
       "initialFilingDate": "2023-09-06",
-      "decisionDeadline": "2026-07-07",
+      "decisionDeadline": "2026-08-14",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -68,7 +68,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001992508",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001992508",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390026075978/ea0296653-8k_21sharesethe.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1992508/000121390026089297/ea0299652-10q_21shares.htm"
     },
     {
       "id": "TSOL-0002057390-0",
