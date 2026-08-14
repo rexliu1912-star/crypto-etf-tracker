@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-14T15:40:11.931Z",
-  "count": 290,
+  "timestamp": "2026-08-14T16:39:05.147Z",
+  "count": 291,
   "approvedCount": 75,
-  "pendingCount": 213,
+  "pendingCount": 214,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 185,
@@ -3594,6 +3594,25 @@
       "issuer": "GABELLI",
       "etfName": "GABELLI EQUITY TRUST INC",
       "filingType": "Spot ETF",
+      "filingDate": "2026-08-14",
+      "initialFilingDate": "1995-04-03",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0000794685",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000794685",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000138304626000002/xslF345X06/primary_doc.xml"
+    },
+    {
+      "id": "undefined-0000794685-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "GABELLI",
+      "etfName": "GABELLI EQUITY TRUST INC",
+      "filingType": "Spot ETF",
       "filingDate": "2026-06-03",
       "initialFilingDate": "1995-04-03",
       "decisionDeadline": "待通过",
@@ -3607,7 +3626,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000007/xslF345X06/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-4",
+      "id": "undefined-0000794685-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3626,7 +3645,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000138782326000002/xslF345X06/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-6",
+      "id": "undefined-0000794685-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3645,7 +3664,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000118553326000012/xslF345X06/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-11",
+      "id": "undefined-0000794685-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3664,7 +3683,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000206049726000001/xslF345X06/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-21",
+      "id": "undefined-0000794685-22",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
@@ -3683,7 +3702,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/794685/000124723826000001/xslF345X02/primary_doc.xml"
     },
     {
-      "id": "undefined-0000794685-24",
+      "id": "undefined-0000794685-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "GABELLI",
