@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-18T12:19:15.616Z",
+  "timestamp": "2026-08-18T13:35:02.006Z",
   "count": 289,
   "approvedCount": 75,
   "pendingCount": 212,
@@ -1824,7 +1824,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026030811/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001460702-3",
+      "id": "undefined-0001460702-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
@@ -1843,7 +1843,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226034816/forms-1.htm"
     },
     {
-      "id": "undefined-0001460702-7",
+      "id": "undefined-0001460702-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
@@ -1862,7 +1862,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226028576/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001460702-26",
+      "id": "undefined-0001460702-27",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
@@ -1881,7 +1881,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000121390025118901/xslF345X02/ownership.xml"
     },
     {
-      "id": "undefined-0001460702-28",
+      "id": "undefined-0001460702-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIxCrypto",
