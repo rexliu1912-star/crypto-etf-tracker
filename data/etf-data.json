@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-18T14:20:53.494Z",
-  "count": 289,
+  "timestamp": "2026-08-18T15:20:52.220Z",
+  "count": 288,
   "approvedCount": 75,
-  "pendingCount": 212,
+  "pendingCount": 211,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 184,
@@ -4788,7 +4788,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000298/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-36",
+      "id": "undefined-0001742912-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5339,7 +5339,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126016252/yieldmax-485bxt_072826.htm"
     },
     {
-      "id": "undefined-0001650149-40",
+      "id": "undefined-0001650149-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Trust for Advised Portfolios",
@@ -5356,25 +5356,6 @@
       "cik": "0001650149",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650149",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm"
-    },
-    {
-      "id": "undefined-0001650149-49",
-      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
-      "symbol": "MUL",
-      "issuer": "Trust for Advised Portfolios",
-      "etfName": "Trust for Advised Portfolios",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-24",
-      "initialFilingDate": "2021-03-08",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0001650149",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001650149",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926013080/ck0001650149-20260424.htm"
     },
     {
       "id": "ADA-0001884022-0",
