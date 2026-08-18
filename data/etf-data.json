@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-18T20:10:32.781Z",
-  "count": 288,
+  "timestamp": "2026-08-18T21:13:00.840Z",
+  "count": 289,
   "approvedCount": 75,
-  "pendingCount": 211,
+  "pendingCount": 212,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 184,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-14",
+      "filingDate": "2026-08-18",
       "initialFilingDate": "2025-08-15",
-      "decisionDeadline": "2026-08-14",
+      "decisionDeadline": "2026-08-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001679/ck0001771146-20260814.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/999999999726001381/filename1.pdf"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -4807,7 +4807,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126015925/boat-485bpos_072726.htm"
     },
     {
-      "id": "undefined-0000064463-5",
+      "id": "undefined-0000064463-0",
+      "cryptocurrency": "Solana",
+      "symbol": "PEND",
+      "issuer": "Soluna",
+      "etfName": "Soluna Holdings, Inc",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-08-18",
+      "initialFilingDate": "2008-03-27",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0000064463",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039022/xslF345X06/ownership.xml"
+    },
+    {
+      "id": "undefined-0000064463-6",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4826,7 +4845,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226036036/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-10",
+      "id": "undefined-0000064463-11",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4845,7 +4864,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226034093/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-14",
+      "id": "undefined-0000064463-15",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4864,7 +4883,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029596/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-15",
+      "id": "undefined-0000064463-16",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4883,7 +4902,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029094/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-18",
+      "id": "undefined-0000064463-19",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4902,7 +4921,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226028471/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-20",
+      "id": "undefined-0000064463-21",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4921,7 +4940,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226028138/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-22",
+      "id": "undefined-0000064463-23",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
