@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-19T21:15:17.149Z",
+  "timestamp": "2026-08-19T22:13:46.433Z",
   "count": 289,
   "approvedCount": 75,
   "pendingCount": 212,
@@ -1957,7 +1957,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1095146/000168316825004741/athbitcoin_is1.htm"
     },
     {
-      "id": "undefined-0002092446-6",
+      "id": "undefined-0002092446-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Avalanche",
@@ -1976,7 +1976,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926085808/tmb-20260331xs1a.htm"
     },
     {
-      "id": "undefined-0002092446-9",
+      "id": "undefined-0002092446-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Avalanche",
@@ -1995,7 +1995,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926083512/xslF345X06/tm2620432-2_4seq1.xml"
     },
     {
-      "id": "undefined-0002092446-11",
+      "id": "undefined-0002092446-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Avalanche",
@@ -2014,7 +2014,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2092446/000110465926082644/tmb-20260331xs1.htm"
     },
     {
-      "id": "undefined-0002092446-16",
+      "id": "undefined-0002092446-17",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Avalanche",
@@ -3012,7 +3012,7 @@
       "issuer": "Canary Capital",
       "etfName": "Canary Staked TRX ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-07-24",
+      "filingDate": "2026-08-19",
       "initialFilingDate": "2025-04-18",
       "decisionDeadline": "待通过",
       "status": "pending",
@@ -3022,7 +3022,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002064768",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064768",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064768/000199937126015859/canary-s1a_072426.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064768/000199937126018236/trx-s1a_081926.htm"
     },
     {
       "id": "undefined-0002100194-0",
