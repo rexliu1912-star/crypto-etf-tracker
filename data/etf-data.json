@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-08-19T11:14:37.934Z",
-  "count": 291,
+  "timestamp": "2026-08-19T12:18:43.916Z",
+  "count": 290,
   "approvedCount": 75,
-  "pendingCount": 214,
+  "pendingCount": 213,
   "deniedCount": 2,
   "knownIssuersCount": 87,
-  "discoveredCount": 183,
+  "discoveredCount": 184,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1748,7 +1748,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/ea0262697-s1_21shares.htm"
     },
     {
-      "id": "undefined-0002070542-14",
+      "id": "undefined-0002070542-15",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1767,7 +1767,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026064725/ea0293405-s1a1_blockchain.htm"
     },
     {
-      "id": "undefined-0002070542-15",
+      "id": "undefined-0002070542-16",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1786,7 +1786,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026063747/ea0292471-s1_blockchain.htm"
     },
     {
-      "id": "undefined-0002070542-17",
+      "id": "undefined-0002070542-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1803,25 +1803,6 @@
       "cik": "0002070542",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070542",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026063515/xslF345X06/ownership.xml"
-    },
-    {
-      "id": "undefined-0002070542-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "AIB",
-      "etfName": "BlockchAIn Digital Infrastructure, Inc.",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-03-18",
-      "initialFilingDate": "2026-06-02",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002070542",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070542",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026030811/xslF345X06/ownership.xml"
     },
     {
       "id": "undefined-0001460702-0",
