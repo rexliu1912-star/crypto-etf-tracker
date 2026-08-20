@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-08-20T14:24:43.251Z",
+  "timestamp": "2026-08-20T15:23:08.858Z",
   "count": 288,
   "approvedCount": 75,
   "pendingCount": 211,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-19",
+      "filingDate": "2026-08-20",
       "initialFilingDate": "2025-08-20",
-      "decisionDeadline": "2026-08-19",
+      "decisionDeadline": "2026-08-20",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001683/etfot-curassetcapitalmgmtrd.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001695/etfot-txrex3x3fundsetfs485.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -4788,7 +4788,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000298/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-38",
+      "id": "undefined-0001742912-39",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
