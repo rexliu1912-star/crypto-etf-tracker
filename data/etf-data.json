@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-08-25T11:16:41.185Z",
-  "count": 289,
+  "timestamp": "2026-08-25T12:21:12.368Z",
+  "count": 288,
   "approvedCount": 75,
-  "pendingCount": 212,
+  "pendingCount": 211,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 185,
@@ -4902,7 +4902,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126015925/boat-485bpos_072726.htm"
     },
     {
-      "id": "undefined-0000064463-0",
+      "id": "undefined-0000064463-1",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4921,7 +4921,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039911/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-4",
+      "id": "undefined-0000064463-5",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4940,7 +4940,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039694/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-6",
+      "id": "undefined-0000064463-7",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4959,7 +4959,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039022/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-12",
+      "id": "undefined-0000064463-13",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4978,7 +4978,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226036036/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-17",
+      "id": "undefined-0000064463-18",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4997,7 +4997,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226034093/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-21",
+      "id": "undefined-0000064463-22",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5016,7 +5016,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029596/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-22",
+      "id": "undefined-0000064463-23",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5035,7 +5035,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029094/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-25",
+      "id": "undefined-0000064463-26",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5054,7 +5054,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226028471/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-27",
+      "id": "undefined-0000064463-28",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5071,25 +5071,6 @@
       "cik": "0000064463",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226028138/xslF345X06/ownership.xml"
-    },
-    {
-      "id": "undefined-0000064463-29",
-      "cryptocurrency": "Solana",
-      "symbol": "PEND",
-      "issuer": "Soluna",
-      "etfName": "Soluna Holdings, Inc",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-03",
-      "initialFilingDate": "2008-03-27",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000064463",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226027115/xslF345X06/ownership.xml"
     },
     {
       "id": "undefined-0001471824-29",
