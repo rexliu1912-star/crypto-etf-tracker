@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-09-01T18:55:48.582Z",
+  "timestamp": "2026-09-01T21:29:29.739Z",
   "count": 265,
   "approvedCount": 75,
   "pendingCount": 188,
@@ -4501,7 +4501,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-13",
+      "id": "undefined-0001683471-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4712,7 +4712,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126018712/zhdg-485bpos_082626.htm"
     },
     {
-      "id": "undefined-0000064463-1",
+      "id": "undefined-0000064463-0",
+      "cryptocurrency": "Solana",
+      "symbol": "PEND",
+      "issuer": "Soluna",
+      "etfName": "Soluna Holdings, Inc",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-09-01",
+      "initialFilingDate": "2008-03-27",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0000064463",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226041022/xslF345X06/ownership.xml"
+    },
+    {
+      "id": "undefined-0000064463-3",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4731,7 +4750,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226040836/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-2",
+      "id": "undefined-0000064463-4",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4750,7 +4769,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226040464/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-4",
+      "id": "undefined-0000064463-6",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4769,7 +4788,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226040055/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-6",
+      "id": "undefined-0000064463-8",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4788,7 +4807,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039911/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-10",
+      "id": "undefined-0000064463-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4807,7 +4826,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039694/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-12",
+      "id": "undefined-0000064463-14",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4826,7 +4845,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039022/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-18",
+      "id": "undefined-0000064463-20",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4845,7 +4864,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226036036/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-23",
+      "id": "undefined-0000064463-25",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4864,7 +4883,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226034093/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-27",
+      "id": "undefined-0000064463-29",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -4881,25 +4900,6 @@
       "cik": "0000064463",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029596/xslF345X06/ownership.xml"
-    },
-    {
-      "id": "undefined-0000064463-28",
-      "cryptocurrency": "Solana",
-      "symbol": "PEND",
-      "issuer": "Soluna",
-      "etfName": "Soluna Holdings, Inc",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-17",
-      "initialFilingDate": "2008-03-27",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0000064463",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000064463",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029094/xslF345X06/ownership.xml"
     },
     {
       "id": "undefined-0001924868-36",
