@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-09-01T05:48:45.750Z",
+  "timestamp": "2026-09-01T10:36:40.026Z",
   "count": 266,
   "approvedCount": 75,
   "pendingCount": 189,
@@ -1016,9 +1016,9 @@
       "issuer": "Hashdex",
       "etfName": "Hashdex Nasdaq Crypto Index US ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-08-12",
+      "filingDate": "2026-09-01",
       "initialFilingDate": "2024-07-24",
-      "decisionDeadline": "2026-08-12",
+      "decisionDeadline": "2026-09-01",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1035,7 +1035,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002031069",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002031069",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026088407/ea0301008-10q_hashdex.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2031069/000121390026095923/ea0304123-424b3_hashdex.htm"
     },
     {
       "id": "BTCO-0001855781-0",
@@ -1512,7 +1512,7 @@
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
       "filingDate": "2026-08-31",
-      "initialFilingDate": "2025-08-22",
+      "initialFilingDate": "2025-08-28",
       "decisionDeadline": "2026-08-31",
       "status": "approved",
       "approvalOdds": 100,
@@ -1532,7 +1532,7 @@
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
       "filingDate": "2026-08-31",
-      "initialFilingDate": "2025-08-22",
+      "initialFilingDate": "2025-08-28",
       "decisionDeadline": "2026-08-31",
       "status": "approved",
       "approvalOdds": 100,
@@ -1869,7 +1869,7 @@
       "etfName": "Amplify ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-08-27",
-      "initialFilingDate": "2021-02-10",
+      "initialFilingDate": "2021-02-19",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -1888,7 +1888,7 @@
       "etfName": "Amplify ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-08-19",
-      "initialFilingDate": "2021-02-10",
+      "initialFilingDate": "2021-02-19",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -3246,7 +3246,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/cyberhornet-s1_011226.htm"
     },
     {
-      "id": "undefined-0001805526-3",
+      "id": "undefined-0001805526-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3265,7 +3265,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000206184826000003/xslF345X06/wk-form4_1787602480.xml"
     },
     {
-      "id": "undefined-0001805526-4",
+      "id": "undefined-0001805526-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3284,7 +3284,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007275/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-5",
+      "id": "undefined-0001805526-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3303,7 +3303,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007188/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-6",
+      "id": "undefined-0001805526-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3322,7 +3322,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007140/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-9",
+      "id": "undefined-0001805526-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3341,7 +3341,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826006692/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-11",
+      "id": "undefined-0001805526-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3360,7 +3360,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826006141/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-17",
+      "id": "undefined-0001805526-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3379,7 +3379,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826005471/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-25",
+      "id": "undefined-0001805526-26",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3398,7 +3398,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826004577/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-27",
+      "id": "undefined-0001805526-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3417,7 +3417,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826004411/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-28",
+      "id": "undefined-0001805526-29",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -5176,7 +5176,7 @@
       "etfName": "World Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-08-28",
-      "initialFilingDate": "2021-12-14",
+      "initialFilingDate": "2021-12-21",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5195,7 +5195,7 @@
       "etfName": "World Funds Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-07-29",
-      "initialFilingDate": "2021-12-14",
+      "initialFilingDate": "2021-12-21",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
