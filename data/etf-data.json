@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-09-02T15:26:13.419Z",
+  "timestamp": "2026-09-02T19:01:59.443Z",
   "count": 265,
   "approvedCount": 75,
   "pendingCount": 188,
@@ -1511,9 +1511,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Bitcoin Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-08-31",
+      "filingDate": "2026-09-02",
       "initialFilingDate": "2025-08-28",
-      "decisionDeadline": "2026-08-31",
+      "decisionDeadline": "2026-09-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1521,7 +1521,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000143893426002587/xslN-PX_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000119312526379653/xslFormNPORT-P_X01/primary_doc.xml"
     },
     {
       "id": "ETHU-0001884021-0",
@@ -1531,9 +1531,9 @@
       "issuer": "Volatility Shares",
       "etfName": "Volatility Shares 2x Ether Strategy ETF",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-08-31",
+      "filingDate": "2026-09-02",
       "initialFilingDate": "2025-08-28",
-      "decisionDeadline": "2026-08-31",
+      "decisionDeadline": "2026-09-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1541,7 +1541,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001884021",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000143893426002587/xslN-PX_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884021/000119312526379653/xslFormNPORT-P_X01/primary_doc.xml"
     },
     {
       "id": "BTCW-0001850391-0",
@@ -4902,7 +4902,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226029596/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001924868-38",
+      "id": "undefined-0001924868-39",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -4921,7 +4921,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019191/defiance-485bxt_082826.htm"
     },
     {
-      "id": "undefined-0001924868-39",
+      "id": "undefined-0001924868-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
