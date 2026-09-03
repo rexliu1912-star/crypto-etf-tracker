@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-09-03T11:48:09.755Z",
+  "timestamp": "2026-09-03T15:18:58.987Z",
   "count": 266,
   "approvedCount": 75,
   "pendingCount": 189,
@@ -1331,9 +1331,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-09-02",
+      "filingDate": "2026-09-03",
       "initialFilingDate": "2025-09-03",
-      "decisionDeadline": "2026-09-02",
+      "decisionDeadline": "2026-09-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001761/ck0001771146-20260902.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001783/etfot-tuttlecapitalthemati.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3474,7 +3474,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004201/newlantern485a.htm"
     },
     {
-      "id": "undefined-0001535538-20",
+      "id": "undefined-0001535538-21",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA Series Trust",
@@ -3493,7 +3493,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1535538/000165558925000043/c485bpos.htm"
     },
     {
-      "id": "undefined-0001535538-45",
+      "id": "undefined-0001535538-46",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "EA Series Trust",
@@ -4254,7 +4254,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126010491/lteq-485bpos_051226.htm"
     },
     {
-      "id": "undefined-0002074409-11",
+      "id": "undefined-0002074409-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4273,7 +4273,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000207184425000599/s1a.htm"
     },
     {
-      "id": "undefined-0002074409-12",
+      "id": "undefined-0002074409-13",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4292,7 +4292,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000207184425000407/igsetfs1a102025.htm"
     },
     {
-      "id": "undefined-0002074409-13",
+      "id": "undefined-0002074409-16",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
@@ -4311,7 +4311,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2074409/000113743925001022/s1a.htm"
     },
     {
-      "id": "undefined-0002074409-14",
+      "id": "undefined-0002074409-19",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Invesco",
