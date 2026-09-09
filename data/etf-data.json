@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-09-09T05:27:29.540Z",
-  "count": 278,
+  "timestamp": "2026-09-09T10:12:39.185Z",
+  "count": 279,
   "approvedCount": 76,
-  "pendingCount": 200,
+  "pendingCount": 201,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 187,
@@ -487,7 +487,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002064768",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002064768",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064768/000199937126020132/canary-8a12ba_090826.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2064768/999999999526002908/xslEFFECTX01/primary_doc.xml"
     },
     {
       "id": "LMBO-0001424958-0",
@@ -1920,7 +1920,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226028576/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001547950-11",
+      "id": "undefined-0001547950-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Amplify ETF Trust",
+      "etfName": "Amplify ETF Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-09-09",
+      "initialFilingDate": "2021-02-19",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001547950",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001547950",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026098130/ea0304661-01_485bpos.htm"
+    },
+    {
+      "id": "undefined-0001547950-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1939,7 +1958,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026094410/ea0302283-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-23",
+      "id": "undefined-0001547950-24",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
