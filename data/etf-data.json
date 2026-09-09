@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-09-09T14:51:55.266Z",
+  "timestamp": "2026-09-09T18:05:17.962Z",
   "count": 280,
   "approvedCount": 76,
   "pendingCount": 202,
   "deniedCount": 2,
   "knownIssuersCount": 87,
-  "discoveredCount": 181,
+  "discoveredCount": 187,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1939,7 +1939,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226028576/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001547950-0",
+      "id": "undefined-0001547950-1",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1958,7 +1958,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026098130/ea0304661-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-12",
+      "id": "undefined-0001547950-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1977,7 +1977,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026094410/ea0302283-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-24",
+      "id": "undefined-0001547950-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
