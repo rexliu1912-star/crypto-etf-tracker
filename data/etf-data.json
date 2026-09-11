@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-09-11T15:20:14.149Z",
-  "count": 286,
+  "timestamp": "2026-09-11T18:48:49.902Z",
+  "count": 287,
   "approvedCount": 76,
-  "pendingCount": 208,
+  "pendingCount": 209,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 187,
@@ -1351,9 +1351,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-09-10",
+      "filingDate": "2026-09-11",
       "initialFilingDate": "2025-09-11",
-      "decisionDeadline": "2026-09-10",
+      "decisionDeadline": "2026-09-11",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1361,7 +1361,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000100472626008111/xslFormN-CEN_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000100472626008119/xslFormN-CEN_X01/primary_doc.xml"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3493,7 +3493,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826005471/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-8",
+      "id": "undefined-0001592900-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3512,7 +3512,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004210/havenprivatellc485a.htm"
     },
     {
-      "id": "undefined-0001592900-13",
+      "id": "undefined-0001592900-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -4558,7 +4558,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-1",
+      "id": "undefined-0001683471-0",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Listed Funds Trust",
+      "etfName": "Listed Funds Trust",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-09-11",
+      "initialFilingDate": "2025-01-28",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001683471",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001683471",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025151/teucrium485bxt2xshortxrp.htm"
+    },
+    {
+      "id": "undefined-0001683471-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4577,7 +4596,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025129/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-2",
+      "id": "undefined-0001683471-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4596,7 +4615,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025094/alphadroid485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-5",
+      "id": "undefined-0001683471-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4615,7 +4634,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025017/alphadroid485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-23",
+      "id": "undefined-0001683471-25",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
