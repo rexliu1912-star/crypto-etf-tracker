@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-09-11T18:48:49.902Z",
+  "timestamp": "2026-09-11T21:24:36.246Z",
   "count": 287,
   "approvedCount": 76,
   "pendingCount": 209,
@@ -956,9 +956,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Litecoin Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-09-03",
+      "filingDate": "2026-09-11",
       "initialFilingDate": "2018-03-06",
-      "decisionDeadline": "2026-09-03",
+      "decisionDeadline": "2026-09-11",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -966,7 +966,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001732406",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001732406",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1732406/000119312526381869/ltcn-20260630.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1732406/000119312526389256/ltc_s-3_amendment_1.htm"
     },
     {
       "id": "AVAX-0002035053-0",
@@ -1361,7 +1361,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000100472626008119/xslFormN-CEN_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001811/ck0001771146-20260911.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -1749,7 +1749,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390025103237/ea0262697-s1_21shares.htm"
     },
     {
-      "id": "undefined-0002070542-1",
+      "id": "undefined-0002070542-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1768,7 +1768,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026096688/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0002070542-24",
+      "id": "undefined-0002070542-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1787,7 +1787,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026064725/ea0293405-s1a1_blockchain.htm"
     },
     {
-      "id": "undefined-0002070542-27",
+      "id": "undefined-0002070542-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -1804,25 +1804,6 @@
       "cik": "0002070542",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070542",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026063747/ea0292471-s1_blockchain.htm"
-    },
-    {
-      "id": "undefined-0002070542-29",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "AIB",
-      "etfName": "BlockchAIn Digital Infrastructure, Inc.",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-06-01",
-      "initialFilingDate": "2026-06-02",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002070542",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070542",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026063515/xslF345X06/ownership.xml"
     },
     {
       "id": "undefined-0001460702-0",
@@ -1939,7 +1920,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226028576/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001547950-2",
+      "id": "undefined-0001547950-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1958,7 +1939,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026098130/ea0304661-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-14",
+      "id": "undefined-0001547950-16",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -1977,7 +1958,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026094410/ea0302283-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001547950-26",
+      "id": "undefined-0001547950-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Amplify ETF Trust",
@@ -3259,6 +3240,25 @@
       "issuer": "Cryptex",
       "etfName": "Cryptex Digital Market Cap ETF",
       "filingType": "Spot ETF",
+      "filingDate": "2026-09-11",
+      "initialFilingDate": "2026-03-25",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002115027",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002115027",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026099328/ea0305219-s1a4_cryptex.htm"
+    },
+    {
+      "id": "undefined-0002115027-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "Cryptex",
+      "etfName": "Cryptex Digital Market Cap ETF",
+      "filingType": "Spot ETF",
       "filingDate": "2026-08-24",
       "initialFilingDate": "2026-03-25",
       "decisionDeadline": "待通过",
@@ -3272,7 +3272,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026092828/ea0302622-s1a3_cryptex.htm"
     },
     {
-      "id": "undefined-0002115027-1",
+      "id": "undefined-0002115027-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Cryptex",
@@ -3291,7 +3291,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026081379/ea0299142-s1a2_cryptex.htm"
     },
     {
-      "id": "undefined-0002115027-2",
+      "id": "undefined-0002115027-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Cryptex",
@@ -3310,7 +3310,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026071931/ea0295582-s1a1_cryptex.htm"
     },
     {
-      "id": "undefined-0002115027-3",
+      "id": "undefined-0002115027-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Cryptex",
@@ -5378,7 +5378,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1884022/000188402221000001/xslFormDX01/primary_doc.xml"
     },
     {
-      "id": "undefined-0002066824-6",
+      "id": "undefined-0002066824-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5397,7 +5397,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026035722/vaneckbnbs-1a5.htm"
     },
     {
-      "id": "undefined-0002066824-7",
+      "id": "undefined-0002066824-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5416,7 +5416,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026027783/vaneckbnbs-1a4.htm"
     },
     {
-      "id": "undefined-0002066824-8",
+      "id": "undefined-0002066824-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5435,7 +5435,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828026017834/vaneckbnbs-1a3.htm"
     },
     {
-      "id": "undefined-0002066824-9",
+      "id": "undefined-0002066824-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5454,7 +5454,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025053634/vaneckbnbs-1a2.htm"
     },
     {
-      "id": "undefined-0002066824-10",
+      "id": "undefined-0002066824-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
@@ -5473,7 +5473,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2066824/000162828025047581/vaneckbnbs-1a1.htm"
     },
     {
-      "id": "undefined-0002066824-11",
+      "id": "undefined-0002066824-13",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "VanEck",
