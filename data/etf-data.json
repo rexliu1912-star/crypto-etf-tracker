@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-09-18T23:42:47.710Z",
+  "timestamp": "2026-09-19T01:48:44.752Z",
   "count": 300,
   "approvedCount": 76,
   "pendingCount": 222,
   "deniedCount": 2,
   "knownIssuersCount": 87,
-  "discoveredCount": 188,
+  "discoveredCount": 187,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -497,9 +497,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-09-17",
+      "filingDate": "2026-09-18",
       "initialFilingDate": "2025-04-01",
-      "decisionDeadline": "2026-09-17",
+      "decisionDeadline": "2026-09-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -510,7 +510,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526394157/d175937d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119983526000344/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "REKT-0001424958-0",
@@ -520,9 +520,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-09-17",
+      "filingDate": "2026-09-18",
       "initialFilingDate": "2025-04-01",
-      "decisionDeadline": "2026-09-17",
+      "decisionDeadline": "2026-09-18",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -533,7 +533,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526394157/d175937d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119983526000344/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "FBTC-0001852317-0",
