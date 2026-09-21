@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-09-21T07:20:12.987Z",
-  "count": 300,
+  "timestamp": "2026-09-21T14:36:44.503Z",
+  "count": 302,
   "approvedCount": 76,
-  "pendingCount": 222,
+  "pendingCount": 224,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 188,
@@ -1351,9 +1351,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-09-17",
+      "filingDate": "2026-09-21",
       "initialFilingDate": "2025-09-18",
-      "decisionDeadline": "2026-09-17",
+      "decisionDeadline": "2026-09-21",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1361,7 +1361,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001842/etfot-brookmontcatbondetff.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001844/etfot-form8xatstrivedigita.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3512,7 +3512,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/cyberhornet-s1_011226.htm"
     },
     {
-      "id": "undefined-0001805526-0",
+      "id": "undefined-0001805526-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3531,7 +3531,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007889/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-16",
+      "id": "undefined-0001805526-17",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3550,7 +3550,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000206184826000003/xslF345X06/wk-form4_1787602480.xml"
     },
     {
-      "id": "undefined-0001805526-17",
+      "id": "undefined-0001805526-18",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3569,7 +3569,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007275/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-18",
+      "id": "undefined-0001805526-19",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3588,7 +3588,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007188/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-19",
+      "id": "undefined-0001805526-20",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3607,7 +3607,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007140/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-22",
+      "id": "undefined-0001805526-23",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3626,7 +3626,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826006692/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001805526-24",
+      "id": "undefined-0001805526-25",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3740,7 +3740,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1535538/000174177324004061/c485bpos.htm"
     },
     {
-      "id": "undefined-0001452937-16",
+      "id": "undefined-0001452937-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Exchange Traded Concepts Trust",
@@ -5035,7 +5035,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000347/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-8",
+      "id": "undefined-0001742912-9",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5054,7 +5054,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019974/unlimited-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001742912-9",
+      "id": "undefined-0001742912-10",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5073,7 +5073,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019939/sofi-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001742912-10",
+      "id": "undefined-0001742912-11",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5092,7 +5092,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019915/sofi-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001742912-25",
+      "id": "undefined-0001742912-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5301,7 +5301,45 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226036036/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001924868-0",
+      "id": "undefined-0001924868-1",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Tidal Trust II",
+      "etfName": "Tidal Trust II",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-09-21",
+      "initialFilingDate": "2025-09-19",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001924868",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020920/yieldmax-485bxt_092126.htm"
+    },
+    {
+      "id": "undefined-0001924868-2",
+      "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
+      "symbol": "MUL",
+      "issuer": "Tidal Trust II",
+      "etfName": "Tidal Trust II",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-09-21",
+      "initialFilingDate": "2025-09-19",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0001924868",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020914/anthropic-485bxt_092126.htm"
+    },
+    {
+      "id": "undefined-0001924868-3",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5320,7 +5358,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020878/yieldmax-485bpos_091826.htm"
     },
     {
-      "id": "undefined-0001924868-4",
+      "id": "undefined-0001924868-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5339,7 +5377,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020526/mngy_485bpos-091526.htm"
     },
     {
-      "id": "undefined-0001924868-9",
+      "id": "undefined-0001924868-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5358,7 +5396,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020370/orby_485bpos-091126.htm"
     },
     {
-      "id": "undefined-0001924868-10",
+      "id": "undefined-0001924868-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5377,7 +5415,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020345/defiance_485bxt-091126.htm"
     },
     {
-      "id": "undefined-0001924868-16",
+      "id": "undefined-0001924868-19",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5396,7 +5434,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020033/defiance-485bpos_090826.htm"
     },
     {
-      "id": "undefined-0001924868-25",
+      "id": "undefined-0001924868-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5415,7 +5453,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019983/mangos-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001924868-26",
+      "id": "undefined-0001924868-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5434,7 +5472,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019981/xex-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001924868-27",
+      "id": "undefined-0001924868-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5453,7 +5491,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019979/defiance-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001924868-30",
+      "id": "undefined-0001924868-33",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5472,7 +5510,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019849/databricks-485bxt_090426.htm"
     },
     {
-      "id": "undefined-0001924868-32",
+      "id": "undefined-0001924868-35",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5491,7 +5529,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019844/openai-485bxt_090426.htm"
     },
     {
-      "id": "undefined-0001924868-34",
+      "id": "undefined-0001924868-37",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5510,7 +5548,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019840/anthropic-485bxt_090426.htm"
     },
     {
-      "id": "undefined-0001924868-35",
+      "id": "undefined-0001924868-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5529,7 +5567,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019838/dt2xsdiscord-485bxt_090426.htm"
     },
     {
-      "id": "undefined-0001924868-36",
+      "id": "undefined-0001924868-39",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5548,7 +5586,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019836/discord-485bxt_090426.htm"
     },
     {
-      "id": "undefined-0001924868-40",
+      "id": "undefined-0001924868-43",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5567,7 +5605,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019827/openai-485bxt_090426.htm"
     },
     {
-      "id": "undefined-0001924868-41",
+      "id": "undefined-0001924868-44",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
@@ -5586,7 +5624,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019824/databricks-485bxt_090426.htm"
     },
     {
-      "id": "undefined-0001924868-42",
+      "id": "undefined-0001924868-45",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Tidal Trust II",
