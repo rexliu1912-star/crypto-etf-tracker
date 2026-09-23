@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-09-23T20:46:36.848Z",
+  "timestamp": "2026-09-23T23:17:28.485Z",
   "count": 311,
   "approvedCount": 76,
   "pendingCount": 233,
@@ -1673,7 +1673,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2028834/000121390025092490/ea0258805-s1a4_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-8",
+      "id": "undefined-0002090011-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1692,7 +1692,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026048260/ea0287966-s1a3_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-9",
+      "id": "undefined-0002090011-10",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1711,7 +1711,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026043631/ea0284402-s1a2_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-10",
+      "id": "undefined-0002090011-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
@@ -1730,7 +1730,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2090011/000121390026016539/ea0276878-s1a1_21shares.htm"
     },
     {
-      "id": "undefined-0002090011-11",
+      "id": "undefined-0002090011-12",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "21Shares",
