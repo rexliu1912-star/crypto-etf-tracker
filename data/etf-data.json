@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-09-30T07:34:47.675Z",
+  "timestamp": "2026-09-30T14:19:04.188Z",
   "count": 305,
   "approvedCount": 76,
   "pendingCount": 227,
@@ -1352,7 +1352,7 @@
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
       "filingDate": "2026-09-29",
-      "initialFilingDate": "2025-09-29",
+      "initialFilingDate": "2025-09-30",
       "decisionDeadline": "2026-09-29",
       "status": "approved",
       "approvalOdds": 100,
@@ -4976,7 +4976,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073505/000182912625004735/kraneshares_s1.htm"
     },
     {
-      "id": "undefined-0001683471-0",
+      "id": "undefined-0001683471-2",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -4995,7 +4995,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926026510/ck0001683471-20260925.htm"
     },
     {
-      "id": "undefined-0001683471-2",
+      "id": "undefined-0001683471-4",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5014,7 +5014,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025505/alphadroid485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-4",
+      "id": "undefined-0001683471-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5033,7 +5033,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025503/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-5",
+      "id": "undefined-0001683471-7",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5052,7 +5052,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025495/ck0001683471-20260924.htm"
     },
     {
-      "id": "undefined-0001683471-10",
+      "id": "undefined-0001683471-12",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5071,7 +5071,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025266/alphadroid485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-12",
+      "id": "undefined-0001683471-14",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5090,7 +5090,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025263/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-15",
+      "id": "undefined-0001683471-17",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5109,7 +5109,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025151/teucrium485bxt2xshortxrp.htm"
     },
     {
-      "id": "undefined-0001683471-18",
+      "id": "undefined-0001683471-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5128,7 +5128,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025129/teucrium485bxtvenezuela.htm"
     },
     {
-      "id": "undefined-0001683471-19",
+      "id": "undefined-0001683471-21",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5147,7 +5147,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025094/alphadroid485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-22",
+      "id": "undefined-0001683471-24",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
@@ -5166,7 +5166,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926025017/alphadroid485bxt.htm"
     },
     {
-      "id": "undefined-0001683471-40",
+      "id": "undefined-0001683471-42",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Listed Funds Trust",
