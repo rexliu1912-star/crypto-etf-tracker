@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-10-02T14:13:37.403Z",
+  "timestamp": "2026-10-02T19:37:36.420Z",
   "count": 298,
   "approvedCount": 76,
   "pendingCount": 220,
@@ -497,9 +497,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-10-01",
+      "filingDate": "2026-10-02",
       "initialFilingDate": "2025-06-27",
-      "decisionDeadline": "2026-10-01",
+      "decisionDeadline": "2026-10-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -510,7 +510,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526410620/d124380d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526411550/d441829d8a12b.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -520,9 +520,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-10-01",
+      "filingDate": "2026-10-02",
       "initialFilingDate": "2025-06-27",
-      "decisionDeadline": "2026-10-01",
+      "decisionDeadline": "2026-10-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -533,7 +533,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526410620/d124380d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526411550/d441829d8a12b.htm"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -1351,9 +1351,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-10-01",
+      "filingDate": "2026-10-02",
       "initialFilingDate": "2025-10-02",
-      "decisionDeadline": "2026-10-01",
+      "decisionDeadline": "2026-10-02",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1361,7 +1361,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001921/etfotairobellwetheretf485a.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000199937126021985/fepi-ncsr_073126.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3607,7 +3607,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007140/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-26",
+      "id": "undefined-0001592900-30",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
