@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-10-14T10:42:59.612Z",
+  "timestamp": "2026-10-14T15:35:49.741Z",
   "count": 306,
   "approvedCount": 76,
   "pendingCount": 228,
@@ -1361,7 +1361,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001996/etfot-rex2xcombo8newetfs48.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626002002/etfot-txrex2xlonginversemu.htm"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3721,7 +3721,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1452937/000121390026094412/ea0301683-01_485bpos.htm"
     },
     {
-      "id": "undefined-0001460702-4",
+      "id": "undefined-0001460702-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "FF",
@@ -3740,7 +3740,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226041886/forms-1a.htm"
     },
     {
-      "id": "undefined-0001460702-6",
+      "id": "undefined-0001460702-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "FF",
@@ -3759,7 +3759,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226041428/forms-1a.htm"
     },
     {
-      "id": "undefined-0001460702-8",
+      "id": "undefined-0001460702-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "FF",
@@ -3778,7 +3778,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226040228/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001460702-10",
+      "id": "undefined-0001460702-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "FF",
@@ -3797,7 +3797,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226039049/forms-1a.htm"
     },
     {
-      "id": "undefined-0001460702-15",
+      "id": "undefined-0001460702-16",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "FF",
@@ -3816,7 +3816,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226034816/forms-1.htm"
     },
     {
-      "id": "undefined-0001460702-19",
+      "id": "undefined-0001460702-20",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "FF",
