@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-10-14T19:48:03.670Z",
-  "count": 306,
+  "timestamp": "2026-10-14T22:45:41.832Z",
+  "count": 307,
   "approvedCount": 76,
-  "pendingCount": 228,
+  "pendingCount": 229,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 190,
@@ -3221,6 +3221,25 @@
       "issuer": "CoinShares",
       "etfName": "CoinShares PLC",
       "filingType": "Spot ETF",
+      "filingDate": "2026-10-14",
+      "initialFilingDate": "2025-11-21",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002087587",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002087587",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2087587/000090514826004469/xslF345X06/form4.xml"
+    },
+    {
+      "id": "undefined-0002087587-1",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "CoinShares",
+      "etfName": "CoinShares PLC",
+      "filingType": "Spot ETF",
       "filingDate": "2026-10-07",
       "initialFilingDate": "2025-11-21",
       "decisionDeadline": "待通过",
@@ -3234,7 +3253,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2087587/000119312526416949/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0002087587-1",
+      "id": "undefined-0002087587-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "CoinShares",
@@ -3253,7 +3272,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2087587/000090514826004370/xslF345X06/form4.xml"
     },
     {
-      "id": "undefined-0002087587-4",
+      "id": "undefined-0002087587-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "CoinShares",
@@ -3272,7 +3291,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2087587/000090514826004222/xslF345X06/form4.xml"
     },
     {
-      "id": "undefined-0002087587-8",
+      "id": "undefined-0002087587-9",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "CoinShares",
@@ -5187,7 +5206,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000347/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-12",
+      "id": "undefined-0001742912-13",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5206,7 +5225,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021658/subversive-485bpos_093026.htm"
     },
     {
-      "id": "undefined-0001742912-19",
+      "id": "undefined-0001742912-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5225,7 +5244,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021067/dads_485bpos-092226.htm"
     },
     {
-      "id": "undefined-0001742912-20",
+      "id": "undefined-0001742912-21",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5244,7 +5263,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021032/dads_485bpos-092226.htm"
     },
     {
-      "id": "undefined-0001742912-21",
+      "id": "undefined-0001742912-22",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5263,7 +5282,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021011/fmkt_485bpos-092226.htm"
     },
     {
-      "id": "undefined-0001742912-39",
+      "id": "undefined-0001742912-40",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5282,7 +5301,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019974/unlimited-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001742912-40",
+      "id": "undefined-0001742912-41",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5301,7 +5320,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019939/sofi-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001742912-41",
+      "id": "undefined-0001742912-42",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
