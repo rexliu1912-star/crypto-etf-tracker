@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-10-21T10:42:04.024Z",
+  "timestamp": "2026-10-21T15:42:28.916Z",
   "count": 316,
   "approvedCount": 66,
   "pendingCount": 238,
   "deniedCount": 12,
   "knownIssuersCount": 87,
-  "discoveredCount": 179,
+  "discoveredCount": 191,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -249,9 +249,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-10-13",
+      "filingDate": "2026-10-21",
       "initialFilingDate": "2022-05-12",
-      "decisionDeadline": "2026-10-13",
+      "decisionDeadline": "2026-10-21",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -259,7 +259,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001928561",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001928561",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000114336226000391/xslF25X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1928561/000114336226000403/xslF25X02/primary_doc.xml"
     },
     {
       "id": "BSOL-0002057389-0",
@@ -1145,9 +1145,9 @@
       "issuer": "REX/Osprey",
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-10-20",
+      "filingDate": "2026-10-21",
       "initialFilingDate": "2025-10-21",
-      "decisionDeadline": "2026-10-20",
+      "decisionDeadline": "2026-10-21",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001771146",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000200032426005746/xslN-PX_X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1771146/000141783526000331/8A_Cert_QQDH.pdf"
     },
     {
       "id": "BTCL-0001454889-0",
@@ -3420,7 +3420,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007889/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-5",
+      "id": "undefined-0001592900-6",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -3439,7 +3439,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004744/avosglobaletfavog485a.htm"
     },
     {
-      "id": "undefined-0001592900-37",
+      "id": "undefined-0001592900-38",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
@@ -5114,7 +5114,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000347/c485bpos.htm"
     },
     {
-      "id": "undefined-0001742912-19",
+      "id": "undefined-0001742912-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5133,7 +5133,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021658/subversive-485bpos_093026.htm"
     },
     {
-      "id": "undefined-0001742912-26",
+      "id": "undefined-0001742912-27",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5152,7 +5152,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021067/dads_485bpos-092226.htm"
     },
     {
-      "id": "undefined-0001742912-27",
+      "id": "undefined-0001742912-28",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5171,7 +5171,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021032/dads_485bpos-092226.htm"
     },
     {
-      "id": "undefined-0001742912-28",
+      "id": "undefined-0001742912-29",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5190,7 +5190,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021011/fmkt_485bpos-092226.htm"
     },
     {
-      "id": "undefined-0001742912-46",
+      "id": "undefined-0001742912-47",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5209,7 +5209,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019974/unlimited-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001742912-47",
+      "id": "undefined-0001742912-48",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5228,7 +5228,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019939/sofi-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0001742912-48",
+      "id": "undefined-0001742912-49",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Roundhill ETF Trust",
@@ -5247,7 +5247,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126019915/sofi-485bpos_090426.htm"
     },
     {
-      "id": "undefined-0000064463-3",
+      "id": "undefined-0000064463-4",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5266,7 +5266,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226044152/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-4",
+      "id": "undefined-0000064463-5",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5285,7 +5285,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226043141/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-9",
+      "id": "undefined-0000064463-10",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5304,7 +5304,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226041566/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-11",
+      "id": "undefined-0000064463-12",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5323,7 +5323,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226041022/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-14",
+      "id": "undefined-0000064463-15",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5342,7 +5342,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226040836/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-15",
+      "id": "undefined-0000064463-16",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5361,7 +5361,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226040464/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-17",
+      "id": "undefined-0000064463-18",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5380,7 +5380,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226040055/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-19",
+      "id": "undefined-0000064463-20",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5399,7 +5399,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039911/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-23",
+      "id": "undefined-0000064463-24",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
@@ -5418,7 +5418,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/64463/000149315226039694/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0000064463-25",
+      "id": "undefined-0000064463-26",
       "cryptocurrency": "Solana",
       "symbol": "PEND",
       "issuer": "Soluna",
