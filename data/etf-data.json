@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-10-23T20:58:02.003Z",
+  "timestamp": "2026-10-23T23:39:03.414Z",
   "count": 314,
   "approvedCount": 66,
   "pendingCount": 236,
@@ -497,9 +497,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bull 2X Shares",
       "filingType": "2x Leveraged ETF",
-      "filingDate": "2026-10-22",
+      "filingDate": "2026-10-23",
       "initialFilingDate": "2025-06-27",
-      "decisionDeadline": "2026-10-22",
+      "decisionDeadline": "2026-10-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -510,7 +510,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526429102/d884706d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526430602/d166785d485bxt.htm"
     },
     {
       "id": "REKT-0001424958-0",
@@ -520,9 +520,9 @@
       "issuer": "Direxion",
       "etfName": "Direxion Daily Crypto Industry Bear 1X Shares",
       "filingType": "Inverse ETF",
-      "filingDate": "2026-10-22",
+      "filingDate": "2026-10-23",
       "initialFilingDate": "2025-06-27",
-      "decisionDeadline": "2026-10-22",
+      "decisionDeadline": "2026-10-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -533,7 +533,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001424958",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001424958",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526429102/d884706d485bxt.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526430602/d166785d485bxt.htm"
     },
     {
       "id": "FBTC-0001852317-0",
@@ -890,9 +890,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale CoinDesk Crypto 5 ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-10-05",
+      "filingDate": "2026-10-23",
       "initialFilingDate": "2018-02-07",
-      "decisionDeadline": "2026-10-05",
+      "decisionDeadline": "2026-10-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -906,7 +906,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001729997",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729997",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000119312526414351/gdlc_424b3_secondary_cus.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000197745426000257/xsl144X01/primary_doc.xml"
     },
     {
       "id": "BTCC-0001976672-0",
@@ -976,9 +976,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale Avalanche Trust",
       "filingType": "Spot ETF",
-      "filingDate": "2026-10-06",
+      "filingDate": "2026-10-23",
       "initialFilingDate": "2025-08-25",
-      "decisionDeadline": "2026-10-06",
+      "decisionDeadline": "2026-10-23",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -986,7 +986,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002035053",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002035053",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000119312526414518/gava_424b3_secondary_cus.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2035053/000197745426000255/xsl144X01/primary_doc.xml"
     },
     {
       "id": "GXLM-0001761325-0",
@@ -1026,7 +1026,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002029297",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002029297",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000119312526430543/gtao_s-1_amendment_2.htm"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2029297/000197745426000258/xsl144X01/primary_doc.xml"
     },
     {
       "id": "NCIQ-0002031069-0",
@@ -3496,7 +3496,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004781/ck0001592900-20261023.htm"
     },
     {
-      "id": "undefined-0001592900-19",
+      "id": "undefined-0001592900-20",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
