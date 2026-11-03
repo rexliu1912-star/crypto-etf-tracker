@@ -1,9 +1,9 @@
 {
   "success": true,
-  "timestamp": "2026-11-03T18:07:54.808Z",
-  "count": 299,
+  "timestamp": "2026-11-03T23:46:11.312Z",
+  "count": 300,
   "approvedCount": 76,
-  "pendingCount": 221,
+  "pendingCount": 222,
   "deniedCount": 2,
   "knownIssuersCount": 87,
   "discoveredCount": 191,
@@ -269,9 +269,9 @@
       "issuer": "Bitwise",
       "etfName": "Bitwise Solana Staking ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-10-05",
+      "filingDate": "2026-11-03",
       "initialFilingDate": "2025-02-24",
-      "decisionDeadline": "2026-10-05",
+      "decisionDeadline": "2026-11-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -279,7 +279,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0002057389",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002057389",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000205738926000026/xslF345X06/wk-form4_1791231495.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2057389/000195004726010625/xsl144X01/primary_doc.xml"
     },
     {
       "id": "BITQ-0001905963-0",
@@ -890,9 +890,9 @@
       "issuer": "Grayscale",
       "etfName": "Grayscale CoinDesk Crypto 5 ETF",
       "filingType": "Spot ETF",
-      "filingDate": "2026-11-02",
+      "filingDate": "2026-11-03",
       "initialFilingDate": "2018-02-07",
-      "decisionDeadline": "2026-11-02",
+      "decisionDeadline": "2026-11-03",
       "status": "approved",
       "approvalOdds": 100,
       "notes": "已获SEC批准并开始交易",
@@ -906,7 +906,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001729997",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001729997",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000197745426000295/xsl144X01/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1729997/000197745426000300/xsl144X01/primary_doc.xml"
     },
     {
       "id": "BTCC-0001976672-0",
@@ -1787,7 +1787,26 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2061622/000121390025100111/ea0261536-s1_21shares.htm"
     },
     {
-      "id": "undefined-0002070542-7",
+      "id": "undefined-0002070542-0",
+      "cryptocurrency": "Multi-Crypto",
+      "symbol": "PEND",
+      "issuer": "AIB",
+      "etfName": "BlockchAIn Digital Infrastructure, Inc.",
+      "filingType": "Spot ETF",
+      "filingDate": "2026-11-03",
+      "initialFilingDate": "2026-06-02",
+      "decisionDeadline": "待通过",
+      "status": "pending",
+      "approvalOdds": 70,
+      "notes": "审批进行中",
+      "constituents": null,
+      "source": "SEC EDGAR (Verified)",
+      "cik": "0002070542",
+      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002070542",
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2070542/000121390026115624/xslF345X06/ownership.xml"
+    },
+    {
+      "id": "undefined-0002070542-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "AIB",
@@ -2853,7 +2872,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000811/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0002073616-0",
+      "id": "undefined-0002073616-1",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2872,7 +2891,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126024117/inj-s1a_110226.htm"
     },
     {
-      "id": "undefined-0002073616-1",
+      "id": "undefined-0002073616-2",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2891,7 +2910,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126023446/inj-s1a_102326.htm"
     },
     {
-      "id": "undefined-0002073616-2",
+      "id": "undefined-0002073616-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2910,7 +2929,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/canary-s1a_092426.htm"
     },
     {
-      "id": "undefined-0002073616-3",
+      "id": "undefined-0002073616-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2929,7 +2948,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126013516/canarystaked-s1a_062526.htm"
     },
     {
-      "id": "undefined-0002073616-4",
+      "id": "undefined-0002073616-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2948,7 +2967,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937125020561/inj-s1a_121725.htm"
     },
     {
-      "id": "undefined-0002073616-5",
+      "id": "undefined-0002073616-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -3645,7 +3664,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000122520826007889/xslF345X06/doc4.xml"
     },
     {
-      "id": "undefined-0001592900-25",
+      "id": "undefined-0001592900-26",
       "cryptocurrency": "Multi-Crypto ( Sentinel Detected )",
       "symbol": "MUL",
       "issuer": "Direxion Shares ETF Trust",
