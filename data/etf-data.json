@@ -1,6 +1,6 @@
 {
   "success": true,
-  "timestamp": "2026-11-05T04:59:23.564Z",
+  "timestamp": "2026-11-05T12:53:31.820Z",
   "count": 305,
   "approvedCount": 76,
   "pendingCount": 227,
@@ -1352,7 +1352,7 @@
       "etfName": "REX-Osprey XRP ETF",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-03",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "2026-11-04",
       "status": "approved",
       "approvalOdds": 100,
@@ -2872,7 +2872,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226000811/xslF345X05/ownership.xml"
     },
     {
-      "id": "undefined-0002073616-2",
+      "id": "undefined-0002073616-3",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2891,7 +2891,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126024117/inj-s1a_110226.htm"
     },
     {
-      "id": "undefined-0002073616-3",
+      "id": "undefined-0002073616-4",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2910,7 +2910,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126023446/inj-s1a_102326.htm"
     },
     {
-      "id": "undefined-0002073616-4",
+      "id": "undefined-0002073616-5",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2929,7 +2929,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126021228/canary-s1a_092426.htm"
     },
     {
-      "id": "undefined-0002073616-5",
+      "id": "undefined-0002073616-6",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2948,7 +2948,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937126013516/canarystaked-s1a_062526.htm"
     },
     {
-      "id": "undefined-0002073616-6",
+      "id": "undefined-0002073616-7",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -2967,7 +2967,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2073616/000199937125020561/inj-s1a_121725.htm"
     },
     {
-      "id": "undefined-0002073616-7",
+      "id": "undefined-0002073616-8",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "Canary",
@@ -3588,7 +3588,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2096385/000199937126000690/cyberhornet-s1_011226.htm"
     },
     {
-      "id": "undefined-0001805526-9",
+      "id": "undefined-0001805526-11",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3607,7 +3607,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000206201726000004/xslF345X06/wk-form4_1792440074.xml"
     },
     {
-      "id": "undefined-0001805526-14",
+      "id": "undefined-0001805526-16",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3626,7 +3626,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000206184826000007/xslF345X06/wk-form4_1791578382.xml"
     },
     {
-      "id": "undefined-0001805526-20",
+      "id": "undefined-0001805526-22",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3645,7 +3645,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000206184826000005/xslF345X06/wk-form4_1790360959.xml"
     },
     {
-      "id": "undefined-0001805526-22",
+      "id": "undefined-0001805526-24",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3664,7 +3664,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1805526/000208792526000006/xslF345X06/wk-form4_1790211527.xml"
     },
     {
-      "id": "undefined-0001805526-26",
+      "id": "undefined-0001805526-28",
       "cryptocurrency": "Multi-Crypto",
       "symbol": "PEND",
       "issuer": "DeFi",
@@ -3690,7 +3690,7 @@
       "etfName": "Direxion Shares ETF Trust",
       "filingType": "Spot ETF",
       "filingDate": "2026-10-28",
-      "initialFilingDate": "2025-10-31",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5422,7 +5422,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5441,7 +5441,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5460,7 +5460,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5479,7 +5479,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5498,7 +5498,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5517,7 +5517,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5536,7 +5536,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5555,7 +5555,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-11-04",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5574,7 +5574,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-10-30",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5593,7 +5593,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-10-30",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5612,7 +5612,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-10-27",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5631,7 +5631,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-10-26",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
@@ -5650,7 +5650,7 @@
       "etfName": "Tidal Trust II",
       "filingType": "Spot ETF",
       "filingDate": "2026-10-26",
-      "initialFilingDate": "2025-11-04",
+      "initialFilingDate": "2025-11-05",
       "decisionDeadline": "待通过",
       "status": "pending",
       "approvalOdds": 70,
