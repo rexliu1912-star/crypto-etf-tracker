@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-11-05T00:01:08.566Z",
+  "timestamp": "2026-11-05T04:59:23.564Z",
   "count": 305,
   "approvedCount": 76,
   "pendingCount": 227,
   "deniedCount": 2,
   "knownIssuersCount": 87,
-  "discoveredCount": 186,
+  "discoveredCount": 191,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -1155,7 +1155,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "BITU-0001174610-0",
@@ -1175,7 +1175,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "BITI-0001174610-0",
@@ -1195,7 +1195,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "SBIT-0001174610-0",
@@ -1215,7 +1215,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "EETH-0001174610-0",
@@ -1235,7 +1235,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "ETHT-0001174610-0",
@@ -1255,7 +1255,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "SETH-0001174610-0",
@@ -1275,7 +1275,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "ETHD-0001174610-0",
@@ -1295,7 +1295,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "BETH-0001174610-0",
@@ -1318,7 +1318,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "BETE-0001174610-0",
@@ -1341,7 +1341,7 @@
       "source": "SEC EDGAR (Verified)",
       "cik": "0001174610",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001174610",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000008/xslSCHEDULE_13G_X02/primary_doc.xml"
+      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1174610/000186968326000009/xslSCHEDULE_13G_X02/primary_doc.xml"
     },
     {
       "id": "XRPR-0001771146-0",
