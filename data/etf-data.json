@@ -1,12 +1,12 @@
 {
   "success": true,
-  "timestamp": "2026-11-10T07:51:10.624Z",
-  "count": 306,
+  "timestamp": "2026-11-10T15:53:29.842Z",
+  "count": 302,
   "approvedCount": 76,
-  "pendingCount": 228,
+  "pendingCount": 224,
   "deniedCount": 2,
   "knownIssuersCount": 87,
-  "discoveredCount": 190,
+  "discoveredCount": 187,
   "issuerProductCounts": {
     "BlackRock/iShares": 3,
     "Grayscale": 17,
@@ -2739,7 +2739,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2082889/000121390025080461/ea0254517-s1_bitwise.htm"
     },
     {
-      "id": "undefined-0001436229-2",
+      "id": "undefined-0001436229-3",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2758,7 +2758,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226046526/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-10",
+      "id": "undefined-0001436229-11",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2777,7 +2777,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226032316/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-12",
+      "id": "undefined-0001436229-13",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2796,7 +2796,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226028908/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-13",
+      "id": "undefined-0001436229-14",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -2815,7 +2815,7 @@
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/1436229/000149315226028497/xslF345X06/ownership.xml"
     },
     {
-      "id": "undefined-0001436229-14",
+      "id": "undefined-0001436229-15",
       "cryptocurrency": "Bitcoin",
       "symbol": "PEND",
       "issuer": "BTCS",
@@ -3308,82 +3308,6 @@
       "cik": "0002087587",
       "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002087587",
       "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2087587/000121390026100126/xslF345X06/ownership.xml"
-    },
-    {
-      "id": "undefined-0002100194-0",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust III",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-07-10",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002100194",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000016/N1AA.htm"
-    },
-    {
-      "id": "undefined-0002100194-1",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust III",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-05-14",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002100194",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000013/N1A.htm"
-    },
-    {
-      "id": "undefined-0002100194-2",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust III",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-04-10",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002100194",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000008/CorgiETFTrustIIIN1AA.htm"
-    },
-    {
-      "id": "undefined-0002100194-3",
-      "cryptocurrency": "Multi-Crypto",
-      "symbol": "PEND",
-      "issuer": "Corgi",
-      "etfName": "Corgi ETF Trust III",
-      "filingType": "Spot ETF",
-      "filingDate": "2026-01-20",
-      "initialFilingDate": "2026-01-20",
-      "decisionDeadline": "待通过",
-      "status": "pending",
-      "approvalOdds": 70,
-      "notes": "审批进行中",
-      "constituents": null,
-      "source": "SEC EDGAR (Verified)",
-      "cik": "0002100194",
-      "secLink": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002100194",
-      "latestFilingLink": "https://www.sec.gov/Archives/edgar/data/2100194/000210019426000004/corgietftrustiii_n1a.htm"
     },
     {
       "id": "undefined-0002115027-0",
